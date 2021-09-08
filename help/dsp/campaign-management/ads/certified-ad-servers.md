@@ -1,0 +1,63 @@
+---
+title: Parceiros de veiculação de anúncios certificados
+description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
+feature: Ads
+exl-id: null
+source-git-commit: e2ee41c7e3e195f062ad1cc67080ed913d6d3d06
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+# Parceiros de veiculação de anúncios certificados
+
+| Servidor de anúncios | Áudio | Exibir | Exibição de alto impacto | Vídeo | Requisitos especiais e notas |
+| --- | --- | --- | --- | --- | --- |
+| [!DNL A Million Ads] | X |  |  |  |  |
+| [!DNL Adacado] |  | X |  |  |  |
+| [!DNL Ad Colony] |  |  |  | X | Somente VAST para dispositivos móveis |
+| [!DNL Adconion] |  |  |  | X |  |
+| [!DNL Adform] | X | X |  | X |  |
+| [!DNL ADITION Technologies] |  | X |  |  |  |
+| [!DNL ADman Media] | X |  |  |  |  |
+| [!DNL ADventori] |  | X |  |  |  |
+| [!DNL Artsai] |  | X |  | X |  |
+| [!DNL Atlas] |  |  |  | X |  |
+| [!DNL Bonzai] |  |  | X |  |  |
+| [!DNL Contobox] |  |  | X |  |  |
+| [!DNL Conversant] |  | X |  |  |  |
+| [!DNL DCM] | X | X | X | X |  |
+| [!DNL Dotdash] |  |  |  | X |  |
+| [!DNL Doubleclick] | X | X |  | X |  |
+| [!DNL Extreme Reach] |  |  |  | X |  |
+| [!DNL Eyereturn] |  | X |  |  |  |
+| [!DNL Flashtalking] | X | X |  | X |  |
+| [!DNL Frequency] | X |  |  |  |  |
+| [!DNL Gum Gum] |  |  | X |  |  |
+| [!DNL HUMAN] (Anteriormente  [!DNL White Ops]) | X | X |  | X |  |
+| [!DNL IAS] | X | X |  | X |  |
+| [!DNL IBM] |  | X |  | X |  |
+| [!DNL Innovid] | X | X |  | X |  |
+| [!DNL InSkin] |  |  | X |  | As capas de alto impacto devem ser servidas de uma ID de negócios de exibição de 180x150 na rede de inventário de capa interna. |
+| [!DNL Jivox] |  | X |  |  |  |
+| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; 300x250 Outstream </br></br>Entre em contato com o gerente de conta do Adobe para obter assistência na configuração de unidades de anúncio. |
+| [!DNL Linkstorm] |  |  | X |  |  |
+| [!DNL mCanvas] |  |  | X |  |  |
+| [!DNL Medialets] |  | X |  |  |  |
+| [!DNL Moat] | X | X |  | X |  |
+| [!DNL PLAYGROUND XYZ] |  |  | X |  |  |
+| [!DNL Pubmatic] |  |  |  | X | Somente VAST |
+| [!DNL RevJet] |  |  |  | X | Somente VAST |
+| [!DNL Seedtag] |  | X |  |  |  |
+| [!DNL Sizmek] |  | X |  |  | Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com tags `<a>` (no início e no fim). Consulte a tag de exemplo abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Spaceback] |  | X |  |  |  |
+| [!DNL Spirable] |  | X |  |  |  |
+| [!DNL SUBLIME] |  |  | X |  |  |
+| [!DNL SundaySky] |  |  |  | X |  |
+| [!DNL Trueffect] |  | X |  |  |  |
+| [!DNL Undertone] |  |  | X |  | Unidade de anúncio de Grabber de página personalizada carregada como 180x150 no Advertising Cloud DSP</br></br>Quando o Index Exchange passa um leilão de 180x150 e DSP ofertas no leilão e fornece uma impressão, o anúncio se expande para um anúncio de exibição de página inteira.</br></br>Originalmente certificado para Capturador de página, Adesão expansível e unidades de anúncio de Desvio de tela. Isso precisa ser recertificado, com etapas marcadas para processos. |
+| [!DNL Vox] |  |  | X |  | [!DNL Athena] unidades de publicidade |
+| [!DNL Wunderkind] |  | X |  |  |  |
+
+{style=&quot;table-layout:auto&quot;}
