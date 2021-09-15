@@ -3,9 +3,9 @@ title: Macros Advertising Cloud DSP
 description: Consulte as macros disponíveis para rastreamento geral e rastrear cliques em anúncios de terceiros.
 feature: Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ Se uma macro de clique estiver ausente durante a criação de um anúncio de exi
 >[!MORELIKETHIS]
 >
 >* [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Configurações do anúncio de TV conectado](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Exibir configurações do anúncio](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Configurações de anúncio móvel](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Configurações de anúncio nativo](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Configurações de anúncio precedente](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 
