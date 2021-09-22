@@ -3,9 +3,9 @@ title: Sobre o gerenciamento de disposição na Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de posicionamento.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 9d35b366122cab460e8d563b36597926ed71b6b0
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ O painel inclui um gráfico de tendências de alto nível e personalizável com 
 
 O painel também mostra as métricas de ritmo e entrega por disposição, por padrão. Opcionalmente, é possível exibir métricas de desempenho para as disposições e criar conjuntos de colunas personalizados. Você pode baixar a tabela de dados inteira para a pasta de download padrão do seu navegador como um relatório no formato XLSM (planilha do Excel habilitada para macro).
 
-Para cada disposição, você pode abrir uma visualização detalhada ([o [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), que inclui métricas de desempenho, métricas de posicionamento e entrega e conjuntos de colunas personalizados por site e por anúncio; e métricas de frequência. Também é possível realizar ações rápidas nos sites e anúncios incluídos, como excluir um site ou pausar um anúncio. Para abrir o Inspetor, mantenha o cursor sobre a linha de posicionamento, clique em **[!UICONTROL More]** e clique em **[!UICONTROL Sites]**, **[!UICONTROL Ads]** ou **[!UICONTROL Frequency]**. Você pode exportar os dados na guia [!UICONTROL Sites], [!UICONTROL Ads] ou [!UICONTROL Frequency] para a pasta de download padrão do navegador como um relatório no formato XLSM.
+Para cada disposição, você pode abrir uma exibição detalhada ([o [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), que inclui métricas de desempenho, posicionamento e entrega e conjuntos de colunas personalizados por site, e &amp; inventory; e métricas de frequência. Também é possível realizar ações rápidas nos sites, anúncios e inventário incluídos, como excluir um site, pausar um anúncio ou editar um negócio. Para abrir o Inspetor, mantenha o cursor sobre a linha de posicionamento, clique em **[!UICONTROL More]** e clique em **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** ou **[!UICONTROL Inventory]**. Você pode exportar os dados na guia [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency] ou [!UICONTROL Inventory] para a pasta de download padrão do navegador como um relatório no formato XLSM.
 
 >[!NOTE]
 >
