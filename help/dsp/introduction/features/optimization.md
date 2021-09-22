@@ -1,11 +1,11 @@
 ---
 title: Otimização
 description: Saiba mais sobre recursos de otimização.
-feature: Introduction, Optimization
+feature: DSP Introduction, DSP Optimization
 exl-id: 75c144d5-2790-415d-ade9-de2803ff9054
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

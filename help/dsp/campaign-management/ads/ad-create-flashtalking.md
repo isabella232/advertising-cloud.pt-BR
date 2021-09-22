@@ -1,11 +1,11 @@
 ---
 title: Criar anúncios com Flashtalk
 description: Saiba mais sobre DSP parceria de veiculação de anúncios paga com o Flashtalk.
-feature: Ads
+feature: DSP Ads
 exl-id: null
-source-git-commit: 56ac178bf10d8c934297521ca3075783e1bc2c36
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '35'
 ht-degree: 0%
 
 ---

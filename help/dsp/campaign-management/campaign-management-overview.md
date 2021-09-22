@@ -1,11 +1,11 @@
 ---
 title: Visão geral do gerenciamento de campanhas no Advertising Cloud DSP
 description: Saiba mais sobre a hierarquia e os componentes do gerenciamento de campanha.
-feature: Packages, Placements, Ads, Creatives
+feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ As campanhas do Advertising Cloud DSP têm a seguinte hierarquia:
          * Anúncio(s)
             * Criativo(s)
 
+<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->

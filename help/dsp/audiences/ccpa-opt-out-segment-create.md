@@ -1,11 +1,11 @@
 ---
 title: Criar e implementar um segmento de recusa de venda da CCPA
 description: Saiba como criar e implementar um segmento para rastrear as IDs de usuários das solicitações de cancelamento da venda do consumidor.
-feature: CCPA, Segments
+feature: CCPA, DSP Segments
 exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---

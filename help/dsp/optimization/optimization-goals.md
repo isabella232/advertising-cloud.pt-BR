@@ -1,11 +1,11 @@
 ---
 title: Metas de otimização e como usá-las
 description: Faça referência às metas de otimização disponíveis e veja quando usá-las.
-feature: Optimization
+feature: DSP Optimization
 exl-id: 9bca09b5-9aa7-4009-a576-9b30cfddfd55
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1797'
 ht-degree: 0%
 
 ---

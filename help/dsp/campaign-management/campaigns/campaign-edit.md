@@ -1,12 +1,12 @@
 ---
 title: Editar uma campanha
 description: Saiba como editar uma campanha.
-feature: Campaigns
+feature: DSP Campaigns
 exl-id: 5647029b-f861-4396-8501-2a06a7f4d910
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '36'
+ht-degree: 2%
 
 ---
 

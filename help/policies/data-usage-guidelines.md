@@ -2,10 +2,10 @@
 title: Diretrizes de uso de dados do Adobe Advertising Cloud DSP
 description: Consulte as diretrizes para uso de dados.
 feature: Policies
-exl-id: c3f68457-92c6-472a-93f4-cce9aeaecc53
-source-git-commit: 58c4861d0ce68b08ef4b87ef86cea76d64a51238
+exl-id: null
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: Editar o agendamento do anúncio para uma disposição
 description: Saiba como alterar as programações de anúncios anexados a uma disposição.
-feature: Placements
+feature: DSP Placements
 exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: Sobre o Gerenciamento de anúncios no Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de anúncios.
-feature: Ads
+feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---

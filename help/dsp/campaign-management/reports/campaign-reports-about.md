@@ -1,11 +1,11 @@
 ---
 title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
-feature: Campaign Data Views
+feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: Sobre o gerenciamento de disposição na Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de posicionamento.
-feature: Placements
+feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---

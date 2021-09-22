@@ -1,11 +1,11 @@
 ---
 title: Configurações de posicionamento
 description: Consulte descrições das configurações de posicionamento disponíveis.
-feature: Placements
+feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: e2ee41c7e3e195f062ad1cc67080ed913d6d3d06
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3281'
 ht-degree: 0%
 
 ---
