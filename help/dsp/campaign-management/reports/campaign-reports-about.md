@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c1441fb6fddf56a0f0346a967da49efa0fb602ff
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,24 @@ Para cada disposição, você pode [abrir uma (visualização detalhada [!UICONT
    * o número exclusivo estimado de dispositivos/navegadores ou pessoas (dependendo do [!UICONTROL Cross Device Level] especificado para a disposição) que receberam impressões no nível de frequência especificado
    * número estimado de impressões no nível de frequência especificado
    * frequência média estimada para o nível de frequência especificado. Esse valor é igual a (Impressões estimadas)/(Únicos estimados).
+
+* **[!UICONTROL Inventory]:** informações para todas as ofertas direcionadas pela disposição em uma única visualização.
+
+A guia Inventário inclui recursos de pesquisa e filtro, as mesmas opções padrão e personalizadas de exibição de coluna que estão disponíveis na página principal e botões de ação rápida em cada linha, como Editar e Exibir Relatório. A guia Inventário ajuda na solução rápida de problemas ao mostrar estatísticas de desempenho, como Leilões, Ofertas, Taxa de Ganho etc.
+
+# Solução de problemas do inventário
+
+| Problema | Causa Possível | Ações a serem tomadas |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | O Publisher não iniciou o envio de pedidos de licitação | Entre em contato com o editor para ativar a negociação |
+|  | Problemas de configuração de negócios como inserir uma ID de negócios externa incorreta, etc. | Confirme os detalhes da negociação e edite a negociação |
+| [!UICONTROL Non-zero Auctions but no Bids] | O direcionamento da disposição não corresponde às solicitações de oferta recebidas do negócio. <br><br> Por exemplo, a disposição pode ser direcionada para uma geografia diferente da necessária por negociação | Edite as configurações de posicionamento adequadas para evitar incompatibilidades de direcionamento com o negócio |
+|  | O posicionamento não tem um anúncio ativo ou o tipo de mídia correto, conforme exigido pelo negócio | Criar/anexar anúncio com o tipo de mídia correto à disposição |
+|  | A disposição não tem orçamento adequado | Edite o orçamento de disposição adequadamente para permitir lances em solicitações recebidas |
+|  | As datas de envio da disposição não se sobrepõem às datas de entrega da impressão como por negócio | Editar as datas de voo para a disposição |
+| [!UICONTROL Low Win Rate] | O lance máximo no posicionamento é definido abaixo do mínimo exigido pelo negócio (limite mínimo ou fixo) | Editar lance máximo no posicionamento adequado |
+|  | A disposição usa filtros pré-lances que limitam | Reduza os limites dos filtros pré-lances para permitir mais lances |
+|  | O direcionamento de público-alvo no posicionamento é muito restritivo | Verifique se os públicos-alvo especificados têm suficientes usuários ativos e expanda o público-alvo, se possível |
 
 ![Inspetor de posicionamento](/help/dsp/assets/placement-inspector-sites.png)
 
