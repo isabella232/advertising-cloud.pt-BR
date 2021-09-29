@@ -3,10 +3,10 @@ title: Filtrar dados da campanha
 description: Saiba como aplicar filtros para limitar os dados da campanha exibidos.
 feature: DSP Campaign Data Views
 exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2b151d7eef19a7ee3a1286b06dbee0a0a6e28d04
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -44,6 +44,13 @@ Os seguintes filtros estão disponíveis para suas exibições [!UICONTROL Campa
    * [!UICONTROL Placement type]
    * [!UICONTROL Placement sub-type]
    * [!UICONTROL Start date]
+   * [!UICONTROL Creation date]
+* [!UICONTROL Ads] exibir filtros:
+   * [!UICONTROL Adobe ad approval status]
+   * [!UICONTROL Ad ID]
+   * [!UICONTROL Ad name]
+   * [!UICONTROL Ad type]
+   * [!UICONTROL Creation date]
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ title: Segurança da marca e qualidade da mídia
 description: Saiba mais sobre a segurança da marca e os recursos de qualidade de mídia.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3cc617092f38d20bd01e487c985bb1d05c167506
 workflow-type: tm+mt
-source-wordcount: '1266'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Além de fornecer gerenciamento de qualidade central, acreditamos em capacitar o
 
 ### Verificação de inventário com suporte a [!DNL Ads.txt]
 
-[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) é uma iniciativa lançada pelo  [!DNL Interactive Advertising Bureau] ([!DNL IAB]) em junho de 2017 para facilitar a representação adequada do inventário no mercado aberto, combatendo assim fontes ilegítimas de tráfego e falsificação de domínios. Os editores e distribuidores participantes declaram publicamente as empresas autorizadas a vender o seu inventário digital e a natureza dessas relações, mantendo uma página `ads.txt` no nível superior do domínio (como `example.com/ads.txt`).
+[[!DNL Ads.txt]], que significa [!DNL Authorized Digital Sellers](https://iabtechlab.com/ads-txt), é uma iniciativa lançada pelo [!DNL Interactive Advertising Bureau] ([!DNL IAB]) em junho de 2017 para facilitar a representação adequada do inventário no mercado aberto, combatendo assim fontes ilegítimas de falsificação de tráfego e de domínio. Os editores e distribuidores participantes declaram publicamente as empresas autorizadas a vender o seu inventário digital e a natureza dessas relações, mantendo uma página `ads.txt` no nível superior do domínio (como `example.com/ads.txt`).
 
 DSP suporta [!DNL ads.txt] lendo o arquivo `ads.txt` de cada editor e dando a você a opção de comprar somente de [!DNL ads.txt] vendedores verificados. Por exemplo, ao combinar os vendedores que vemos acessando `nytimes.com` ao arquivo `ads.txt` do New York Times, podemos identificar quais são legítimos e quais não são, e vamos bloquear os infratores se a disposição estiver configurada para comprar apenas de vendedores verificados. <!-- can we actually mention NY Times? -->
 
