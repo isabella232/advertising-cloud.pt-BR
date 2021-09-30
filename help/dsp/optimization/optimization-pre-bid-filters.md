@@ -3,9 +3,9 @@ title: Filtros de pré-lance em nível de posicionamento e como usá-los
 description: Consulte os filtros pré-lances de nível de disposição disponíveis e veja como usá-los.
 feature: DSP Optimization
 exl-id: c699e970-84ca-429b-8062-81804e6c9f21
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 75ec6f54271542d56e0d16fbb7aa92ebcf00d765
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 | [!UICONTROL 100% Completion Rate] | Define uma taxa mínima de conclusão necessária que deve ser cumprida antes de colocar uma impressão em lance. | Use esse filtro quando o objetivo principal da campanha for as taxas de conclusão. Fator em outros parâmetros de definição de metas, mas 65% é a porcentagem inicial recomendada. |
 | [!UICONTROL Player Size - Adobe] | Define o tamanho mínimo do reprodutor necessário, usando dados do Advertising Cloud DSP. Você fará uma licitação em uma impressão quando o limite [!UICONTROL Player Size] for atingido. | Use para garantir que você esteja distribuindo o inventário do player em episódio completo usando dados do DSP. |
 | [!UICONTROL Player Size 3rdParty (Moat/IAS)] | Define o tamanho mínimo do reprodutor necessário, usando dados de [!DNL Moat] ou [!DNL Integral Ad Science] ([!DNL IAS]). Você fará uma licitação em uma impressão quando o limite [!UICONTROL Player Size] for atingido. | Use para garantir que você esteja distribuindo o inventário do player em episódio completo usando dados de [!DNL Moat] ou [!DNL IAS] toda a plataforma.<br><br><b>Observação:</b> use este filtro somente quando a campanha estiver configurada para usar  [!DNL Moat] ou  [!DNL IAS] dados. |
-| [!UICONTROL Viewability IAS] | Define a porcentagem mínima de visibilidade necessária, usando dados históricos de [!DNL IAS]. Você fará uma licitação em uma impressão quando o limite especificado for atingido. | Esse filtro funciona melhor, pois mais dados são transferidos por meio de uma integração [!DNL IAS] no nível da campanha.<br><br>Quando a campanha é configurada para usar  [!DNL IAS] dados, a prática recomendada é usar esse filtro com a meta de otimização de pacote &quot;[!UICONTROL Lowest vCPM (IAS)].&quot; Se a integração não estiver habilitada, use esse filtro com a meta de otimização &quot;[!UICONTROL Lowest CPM]&quot;. |
-| [!UICONTROL Viewability Moat] | Define a porcentagem mínima de visibilidade necessária, usando dados históricos de [!DNL Moat]. Você fará uma licitação em uma impressão quando o limite especificado for atingido. | Esse filtro funciona melhor, pois mais dados são transferidos por meio de uma integração [!DNL Moat] no nível da campanha.<br><br>Quando a campanha é configurada para usar  [!DNL Moat] dados, a prática recomendada é usar a meta de otimização de pacote &quot;[!UICONTROL Lowest vCPM (Moat)].&quot; Se a integração não estiver habilitada, use esse filtro com a meta de otimização &quot;[!UICONTROL Lowest CPM]&quot;. |
 | [!UICONTROL Viewability Adobe (MRC or [!DNL GroupM])] | Define a porcentagem mínima de visibilidade necessária, usando números e medidas de visibilidade do Advertising Cloud DSP. Você fará uma licitação em uma impressão quando o limite especificado for atingido.<br><br><b>Notas:</b><ul><li>Se a configuração [!UICONTROL Viewability Sensitivity] da campanha for &quot;[!UICONTROL Standard (50% of ad in view for 2 consecutive seconds)]&quot;, o padrão de avaliação da capacidade de visualização [!DNL Media Rating Council] (MRC) será usado para a campanha. Se a configuração [!UICONTROL Viewability Sensitivity] for &quot;[!UICONTROL Strict (100% of ad in view & audio on for 50% duration)]&quot;, o [!DNL GroupM] padrão de avaliação da capacidade de visualização será usado para a campanha.</li><li>As definições de medição de Adobe diferem das definições de terceiros, portanto, pode haver pequenas discrepâncias com dados de terceiros.</li></ul> | A prática recomendada é corresponder a meta de otimização e qualquer configuração de filtro pré-lance com a configuração [!UICONTROL Viewability Sensitivity] da campanha. |
 
 {style=&quot;table-layout:auto&quot;}
