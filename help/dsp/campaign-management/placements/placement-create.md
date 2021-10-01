@@ -3,10 +3,10 @@ title: Criar uma disposição
 description: Saiba como criar uma disposição.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 608774723f865c22bfdd5c911ac818600a495114
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,8 @@ ht-degree: 1%
    1. Especifique as configurações de [!UICONTROL Basics].
 
    1. Na seção [!UICONTROL Goals] , especifique o [!UICONTROL Gross Budget] e, opcionalmente, especifique metas de posicionamento adicionais.
-Alguns campos têm valores padrão que podem ser substituídos.
+
+      Alguns campos têm valores padrão que podem ser substituídos.
 
       Se o pacote ao qual o posicionamento é atribuído tiver ritmo no nível do pacote, suas metas e configurações de posicionamento refletirão as configurações do pacote.
 
