@@ -2,9 +2,9 @@
 title: Disponível [!DNL Advanced Measurement Solutions]
 description: Veja uma lista das soluções disponíveis para medição avançada.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 216d316abe7fcc5bc04ae7cca211e2f11cc1e589
+source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,7 @@ Os seguintes pacotes de solução de medição estão disponíveis para validar 
 * Alcance baseado em pessoas
 Entenda como os públicos-alvo e as táticas se sobrepõem a um nível de pessoa, incluindo exposições em vários ambientes digitais, como desktop, dispositivos móveis, nativos e áudio.
 
-* ・ ・	[!DNL Dynata] Pesquisas Baseadas em Painel
-Realize pesquisas de controle/expostas para determinar o efeito da exposição do anúncio em métricas como consciência, familiaridade e intenção.
+* [!DNL Dynata] Pesquisas baseadas em painel levam a pesquisas sobre o controle/exposição para determinar o efeito da exposição do anúncio em métricas como conhecimento, familiaridade e intenção.
 
 * Tráfego do pé
 
@@ -55,6 +54,7 @@ Compare o comportamento e o sentimento de grupos de amostra aleatórios e mutuam
 ## Encontrar o ajuste de medição perfeito: Soluções por Vertical
 
 ### Qualquer Vertical
+
 * Experience Designer (Placebo e teste A/B)
 * Alcance baseado em pessoas
 Qualquer organização que pretenda avaliar várias táticas digitais; organizações que desejam mostrar o valor do áudio
@@ -66,10 +66,12 @@ Qualquer cliente que deseje entender o alcance/o alcance incremental e as efici�
 Qualquer cliente que pretenda medir a percepção e a percepção da marca em várias telas; mais adequado para públicos-alvo de nicho
 
 ### QSR, Varejo (tijolo e argamassa)
+
 * Medição de transação
 * Medição do tráfego de rodapé
 
 ### QSR, varejo, viagem
+
 * Insights de transação
 Qualquer cliente que deseje atingir um tipo específico de comprador para conduzir vendas na loja e online
 
