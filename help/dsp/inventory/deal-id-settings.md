@@ -3,9 +3,9 @@ title: Configurações de ID de contrato manual
 description: Consulte descrições das configurações para IDs de negócios inseridas manualmente.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c3d0783078adc8afafb55d6b6e7e48cdc875ce7c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 |  | [!UICONTROL External deal ID] | A ID usada pelo editor e pela SSP para identificar essa negociação. | Sim | Não |
 |  | [!UICONTROL Publisher] | O nome do editor que está vendendo este inventário. | Sim | Não |
 |  | [!UICONTROL SSP] | A plataforma do lado do suprimento (SSP) pela qual esse negócio será executado. | Sim | Não |
-|  | [!UICONTROL Media type] | O tipo de mídia que será comprada por meio deste negócio: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] ou [!UICONTROL Audio]. As opções variam de acordo com a SSP. | Sim | Não |
+|  | [!UICONTROL Media type] | O tipo de mídia que será comprada por meio deste negócio: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] ou [!UICONTROL Audio]. As opções variam de acordo com a SSP.<br><br> Se a negociação permitir vários tipos de mídia, selecione o tipo de mídia para a disposição padrão quando você criar a negociação. Posteriormente, você pode selecionar um tipo de mídia diferente para criar uma nova disposição com o tipo de mídia adicional.<!-- It would be ideal if this field was multi-select rather than a radio button, so you don't have to "change" the value later. --> | Sim | Não |
 |  | [!UICONTROL Deal type] | O compromisso de negócios e a estrutura de preços:<br><ul><li>*[!UICONTROL Non guaranteed (floor)]*: Você e o editor não se comprometeram com um número fixo de deliveries de impressão. A operação especifica o preço mínimo do inventário, embora o CPM possa flutuar e aumentar em função das condições de mercado.</li><li>*[!UICONTROL Non guaranteed (fixed)]*: Você e o editor não se comprometeram com um número fixo de deliveries de impressão. O preço é a uma taxa fixa negociada.</li><li>*[!UICONTROL Guaranteed (fixed)]*: Você e o editor concordaram com um número predefinido de impressões, direcionamento, datas de voo e preço fixo.<br><br><b>Observação:</b> ofertas garantidas exigem datas de voo e um número especificado de impressões na  [!UICONTROL Tracking] seção . Você também precisará criar um posicionamento programático garantido (PG) padrão para o negócio e, como opção, poderá usar o negócio para outras disposições.</li></ul> | Sim | Não |
 |  | [!UICONTROL CPM] | O custo negociado por mil impressões (CPM). | Sim | Sim |
 |  | [Moeda] | A moeda do negócio.<br><br>Todos os PUP aceitam acordos em USD. Quando o SSP aceitar a moeda da sua conta DSP, essa moeda também estará disponível. | Sim | Não |
