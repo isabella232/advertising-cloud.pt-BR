@@ -3,9 +3,9 @@ title: Financiamento da Conta
 description: Saiba mais sobre o financiamento de contas para DSP.
 feature: DSP Introduction
 exl-id: c90e88a7-78dd-402c-baba-9bac360093a4
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 4d3020701caae4218aff2ecb7e7c063afebac4d5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,8 @@ O financiamento para contas de clientes é atualizado em tempo quase real em [!D
 ![Fundos utilizáveis para uma conta](/help/dsp/assets/account-usable-funds.png)
 
 O Adobe reserva-se o direito de bloquear sua conta de gastar em DSP por motivos que incluem violação da DSP [política de requisitos de anúncio](/help/policies/ad-requirements-policy.md) ou termos de privacidade. Se o Adobe bloquear sua conta, as configurações da conta incluirão um aviso bloqueado. Trabalhe com seu representante da Advertising Cloud [!DNL Client Services] para determinar o motivo do bloco e como corrigir o erro.
+
+>[!MORELIKETHIS]
+>
+>* [Moedas suportadas](/help/dsp/currency.md)
+
