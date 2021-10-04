@@ -3,9 +3,9 @@ title: Visão geral dos recursos de inventário no Advertising Cloud DSP
 description: Saiba mais sobre os recursos de inventário disponíveis.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 582823095b8d41876676f3f06489030d9950173f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Explore ofertas pré-negociadas e não garantidas que a Adobe preparou com nosso
 
 ### Inventário privado
 
-Configure e gerencie ofertas de mercados privados (PMPs), que são ofertas que você negociou diretamente 1:1 com o editor, para que um ou mais anunciantes em sua conta possam direcioná-las. Execute essas ofertas por meio de IDs de negócios ou tags VAST (Video Ad Serving Template). Você pode configurar PMPs não garantidos ou configurar IDs de ofertas programáticas garantidas (PG) com SSPs selecionados.
+Configure e gerencie ofertas de mercados privados (PMPs), que são ofertas que você negociou diretamente 1:1 com o editor, para que um ou mais anunciantes em sua conta possam direcioná-las. Execute essas negociações por meio de IDs de negócios. Você pode configurar PMPs não garantidos ou configurar IDs de ofertas programáticas garantidas (PG) com SSPs selecionados.
 
 ### Veiculação de anúncios simples
 
-[!DNL Simple Ad Serving] O é uma tecnologia simplificada para entrega e emissão de relatórios de anúncios garantidos e não decididos. Use [!DNL Simple Ad Serving] quando o editor não puder executar sua transação por meio de IDs de negócios. Todo o direcionamento, o posicionamento e o limite de orçamento e o limite de frequência são tratados pelo editor. Execute essas ofertas por meio de tags de anúncio ou pixels de evento.
+[!DNL Simple Ad Serving] O é uma tecnologia simplificada para entrega e emissão de relatórios de anúncios garantidos e não decididos. Use [!DNL Simple Ad Serving] quando o editor não puder executar sua transação por meio de IDs de negócios. Todo o direcionamento, o posicionamento e o limite de orçamento e o limite de frequência são tratados pelo editor. Execute essas transações por meio de pixels de rastreamento de eventos.
 
 >[!MORELIKETHIS]
 >
