@@ -1,11 +1,11 @@
 ---
 title: Aceite um acordo no [!UICONTROL Deal ID Inbox]
-description: Saiba como aceitar uma venda privada que você já negociou com um editor em  [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] usando a Caixa de entrada da ID do contrato.
+description: Saiba como aceitar uma venda privada que você já negociou com um editor em [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) usando a Caixa de entrada da ID do contrato.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Usuários em DSP contas mapeadas somente para contas SSP*
 
-Use o [!UICONTROL Deal ID inbox] para aceitar rapidamente uma venda privada que já tenha negociado com um editor em [!DNL Google Authorized Buyers], [!DNL FreeWheel] ou [!DNL Rubicon].
+Use o [!UICONTROL Deal ID inbox] para aceitar rapidamente uma venda privada que já tenha negociado com um editor em [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]) e [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Use o [!UICONTROL Deal ID inbox] para aceitar rapidamente uma venda privada que 
 
 1. (Opcional) Para atualizar os detalhes da negociação, clique em **[!UICONTROL Refresh]**.
 
-   DSP atualiza automaticamente todos os detalhes do negócio diariamente às 4:30 EST. Ele também atualiza todas as [!DNL FreeWheel] negociações e atualiza as ofertas existentes de [!DNL Google] e [!DNL Rubicon] por hora.
+   DSP atualiza automaticamente todos os detalhes do negócio diariamente às 4:30 EST. Ele também atualiza todas as [!DNL FreeWheel] negociações e atualiza as ofertas existentes de [!DNL Google] e [!DNL Magnite DV+] por hora.
 
 1. (Se você ignorou a negociação anteriormente) Clique na guia **[!UICONTROL Ignored Deals]** .
 
