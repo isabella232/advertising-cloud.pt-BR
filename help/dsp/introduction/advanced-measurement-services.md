@@ -2,7 +2,7 @@
 title: Soluções avançadas de medição
 description: Veja uma lista das soluções disponíveis para medição avançada.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
+source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -59,37 +59,37 @@ Os seguintes pacotes de solução de medição estão disponíveis para validar 
 
 ## Encontrar o ajuste de medição perfeito: Soluções por Vertical
 
-### Qualquer Vertical
+* **Qualquer Vertical:**
 
-* Experience Designer (Placebo e teste A/B)
+   * Experience Designer (Placebo e teste A/B)
 
-* Alcance baseado em pessoas
+   * Alcance baseado em pessoas
 
-   Qualquer organização que pretenda avaliar várias táticas digitais; organizações que desejam mostrar o valor do áudio
+      Qualquer organização que pretenda avaliar várias táticas digitais; organizações que desejam mostrar o valor do áudio
 
-* Medição de alcance, frequência e conversão com base em casa
+   * Medição de alcance, frequência e conversão com base em casa
 
-   Qualquer cliente que deseje entender o alcance/o alcance incremental e as eficiências baseadas em custos e/ou métricas de conversão em várias táticas digitais
+      Qualquer cliente que deseje entender o alcance/o alcance incremental e as eficiências baseadas em custos e/ou métricas de conversão em várias táticas digitais
 
-* Medição de alcance, frequência e conversão entre telas
+   * Medição de alcance, frequência e conversão entre telas
 
-   Qualquer cliente que deseje entender o alcance/o alcance incremental e as eficiências baseadas em custos e/ou métricas de conversão em várias táticas digitais em relação ao investimento na TV linear
+      Qualquer cliente que deseje entender o alcance/o alcance incremental e as eficiências baseadas em custos e/ou métricas de conversão em várias táticas digitais em relação ao investimento na TV linear
 
-* Pesquisas Baseadas em Painel Dynata
+   * Pesquisas Baseadas em Painel Dynata
 
-   Qualquer cliente que pretenda medir a percepção e a percepção da marca em várias telas; mais adequado para públicos-alvo de nicho
+      Qualquer cliente que pretenda medir a percepção e a percepção da marca em várias telas; mais adequado para públicos-alvo de nicho
 
-### QSR, Varejo (tijolo e argamassa)
+* **QSR, Varejo (tijolo e alcatrão):**
 
-* Medição de transação
+   * Medição de transação
 
-* Medição do tráfego de rodapé
+   * Medição do tráfego de rodapé
 
-### QSR, varejo, viagem
+* **QSR, Varejo, Viagem:**
 
-* Insights de transação
+   * Insights de transação
 
-   Qualquer cliente que deseje atingir um tipo específico de comprador para conduzir vendas na loja e online
+      Qualquer cliente que deseje atingir um tipo específico de comprador para conduzir vendas na loja e online
 
 ## Mais Informações
 
