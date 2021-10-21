@@ -3,9 +3,9 @@ title: Sobre o Gerenciamento de público-alvo no Advertising Cloud DSP
 description: Saiba mais sobre os recursos de gerenciamento de público-alvo.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 578651a458ffd505573df0e9a61e26bd2176ad17
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ No Advertising Cloud DSP, é possível criar e gerenciar segmentos de público-a
 
 * Você pode coletar seus próprios dados de público-alvo primários criando e implementando segmentos. Posteriormente, é possível redirecionar os usuários no segmento com anúncios ou impedir que os usuários nele recebam anúncios. Você pode criar os seguintes tipos de segmentos:
 
-   * [Segmentos personalizados para rastrear a) usuários expostos a anúncios de computadores, dispositivos móveis e dispositivos CTV e b) usuários que visitam páginas da Web específicas. ](/help/dsp/audiences/custom-segment-create.md) 
+   * [Segmentos personalizados](/help/dsp/audiences/custom-segment-create.md) para rastrear a) usuários expostos a anúncios de dispositivos de desktop, móveis e CTV e b) usuários que visitam páginas da Web específicas.
 
-   * [Segmentos de cancelamento de venda do CCPA para rastrear as IDs de usuários das solicitações de cancelamento de venda do consumidor no seu site, de acordo com a California Consumer Privacy Act (CCPA). ](/help/dsp/audiences/ccpa-opt-out-segment-create.md) É possível recuperar relatórios mensais das IDs de usuário a partir de solicitações de recusa de venda.
+   * [Segmentos de cancelamento de venda do CCPA](/help/dsp/audiences/ccpa-opt-out-segment-create.md) para rastrear as IDs de usuários das solicitações de cancelamento da venda do consumidor no seu site, de acordo com a California Consumer Privacy Act (CCPA). É possível recuperar relatórios mensais das IDs de usuário a partir de solicitações de recusa de venda.
 
-      Para obter mais informações sobre o suporte do Advertising Cloud para solicitações de cancelamento de venda da CCPA, consulte [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Suporte para cancelamento do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Para obter mais informações sobre o suporte do Advertising Cloud para solicitações de cancelamento de venda da CCPA, consulte [Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
 
 * Você pode criar uma biblioteca de público-alvo de [públicos-alvo reutilizáveis](/help/dsp/audiences/reusable-audience-create.md). Os públicos salvos são compostos de qualquer um dos segmentos de público-alvo disponíveis e de qualquer um dos outros públicos salvos. Todas as alterações feitas em um público-alvo salvo são aplicadas automaticamente a todas as disposições que direcionam ou excluem o público-alvo e a todos os outros públicos-alvo que incluem o público-alvo salvo.
 
@@ -34,7 +34,7 @@ A Advertising Cloud DSP pode importar seus próprios segmentos de dados primári
 
 O Advertising Cloud DSP também pode importar segmentos personalizados de terceiros, incluindo combinações complexas de segmentos de terceiros. Você pode fornecer os segmentos a qualquer conjunto de anunciantes, conforme necessário.
 
-Entre em contato com o Gerente de conta para obter mais informações.
+Entre em contato com seu [!DNL Adobe] gerente de conta para obter mais informações.
 
 ## Públicos-alvo disponíveis como metas de posicionamento
 
@@ -52,7 +52,7 @@ Você pode direcionar suas disposições para todos os tipos de público-alvo a 
 
 * Todos os segmentos de dados personalizados de terceiros importados.
 
-* (Disposições direcionadas somente para os EUA) [Todos os segmentos de dados de terceiros disponíveis para clientes do Advertising Cloud DSP de mais de 30 provedores](/help/dsp/audiences/third-party-data-providers.md), incluindo [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast] e muito mais.
+* (Disposições direcionadas somente para os EUA) [Todos os segmentos de dados de terceiros disponíveis para clientes da Advertising Cloud DSP de mais de 30 provedores](/help/dsp/audiences/third-party-data-providers.md), incluindo [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]e muito mais.
 
    Você pode direcionar segmentos específicos, que direcionam usuários com base em dados de público-alvo (por exemplo, usuários com dados demográficos, interesses ou intenções específicos e/ou perfis comportamentais). Você pode navegar por provedor de dados e categoria, pesquisar segmentos por nome ou ID de segmento, ou filtrar os resultados por provedor de dados, tamanho total do segmento, contagem de navegador da Web ou contagem de dispositivos.
 
@@ -66,7 +66,7 @@ Você pode direcionar suas disposições para todos os tipos de público-alvo a 
 
    >[!NOTE]
    >
-   >Consulte a documentação para [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html) e [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) para obter informações sobre como configurar e coletar dados para segmentos nessas soluções.
+   >Consulte a documentação para [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)e [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) para obter informações sobre como configurar e coletar dados para segmentos nessas soluções.
 
 ## Dados de tamanho de público-alvo
 
@@ -84,15 +84,15 @@ Nas configurações salvas do público-alvo e das configurações de posicioname
 
 ### A exibição Todos os públicos
 
-Na visualização [!UICONTROL All Audiences] ou na Biblioteca de público-alvo, é possível salvar e gerenciar públicos reutilizáveis, que incluem grupos de segmentos de público-alvo e até outros públicos salvos. Você pode usar públicos-alvo como alvos para várias disposições. O número de disposições em que cada público-alvo é usado é indicado ao lado do nome da disposição.
+No [!UICONTROL All Audiences] Para visualizar a Biblioteca de público-alvo, é possível salvar e gerenciar públicos reutilizáveis, que incluem grupos de segmentos de público-alvo e até outros públicos salvos. Você pode usar públicos-alvo como alvos para várias disposições. O número de disposições em que cada público-alvo é usado é indicado ao lado do nome da disposição.
 
 Você pode editar, clonar, excluir, exportar ou compartilhar qualquer público-alvo.
 
 ### A visualização Segmentos
 
-Na visualização [!UICONTROL Segments], todos os usuários podem criar segmentos personalizados adicionais.
+No [!UICONTROL Segments] , todos os usuários podem criar segmentos personalizados adicionais.
 
-A visualização [!UICONTROL Segments] também lista os seguintes tipos de segmento:
+O [!UICONTROL Segments] também lista os seguintes tipos de segmento:
 
 * Todos os segmentos personalizados criados pelo usuário estão disponíveis para o usuário.
 
@@ -102,11 +102,11 @@ A visualização [!UICONTROL Segments] também lista os seguintes tipos de segme
 
 * Todos os segmentos primários importados disponíveis para o usuário.
 
-   Não é possível editar ou compartilhar segmentos primários que foram compartilhados com você. Entre em contato com o Gerente de conta se precisar compartilhar segmentos primários com usuários adicionais.
+   Não é possível editar ou compartilhar segmentos primários que foram compartilhados com você. Entre em contato com seu [!DNL Adobe] gerente de conta, caso precise compartilhar segmentos primários com usuários adicionais.
 
 * Todos os segmentos personalizados de terceiros disponíveis para o usuário.
 
-   Não é possível editar ou compartilhar segmentos de terceiros que foram compartilhados com você. Entre em contato com o Gerente de conta se precisar compartilhar segmentos de terceiros com usuários adicionais.
+   Não é possível editar ou compartilhar segmentos de terceiros que foram compartilhados com você. Entre em contato com seu [!DNL Adobe] gerente de conta, caso precise compartilhar segmentos de terceiros com usuários adicionais.
 
 >[!MORELIKETHIS]
 >
@@ -114,7 +114,7 @@ A visualização [!UICONTROL Segments] também lista os seguintes tipos de segme
 >* [Configurações de público-alvo](audience-settings.md)
 >* [Sintaxe para lógica de segmento do público-alvo](audience-segment-logic-syntax.md)
 >* [Criar e implementar um segmento personalizado](custom-segment-create.md)
->* [Criar e implementar um  [!UICONTROL CCPA Opt-Out-of-Sale] segmento](ccpa-opt-out-segment-create.md)
+>* [Criar e implementar um [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Fornecedores de dados de terceiros disponíveis](third-party-data-providers.md)
 >* [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)
 

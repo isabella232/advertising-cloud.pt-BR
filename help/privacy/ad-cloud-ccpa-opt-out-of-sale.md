@@ -1,11 +1,11 @@
 ---
-title: Suporte da Adobe Advertising Cloud para o Ato de Privacidade do Consumidor da Califórnia &#58; Suporte para cancelamento da venda do consumidor
+title: 'Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumidor da Califórnia : Suporte para cancelamento da venda do consumidor'
 description: Saiba mais sobre o suporte para capturar solicitações de cancelamento da venda do consumidor.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e00f87009fb36a057069caa53f30c7414a2ee444
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '1035'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Como seu provedor de serviços, a Adobe Advertising Cloud fornece suporte para q
 
 Este documento descreve como o Adobe Advertising Cloud Demand Side Platform (DSP), como um provedor de serviços, suporta o direito do consumidor de recusar a &quot;venda&quot; de &quot;informações pessoais&quot;, conforme cada termo é definido pela CCPA. Ele inclui informações sobre como comunicar solicitações de não participação na venda ao Advertising Cloud e como recuperar relatórios das solicitações de não participação na venda de sua organização.
 
-Para obter informações sobre como o Advertising Cloud Search, Advertising Cloud Creative, Advertising Cloud DSP (Demand Side Platform) e o DCO do Media Otimizer oferecem suporte aos direitos de acesso e exclusão de informações pessoais dos consumidores, consulte [Suporte do Adobe Advertising Cloud para a California Consumer Privacy Act: Acesso aos dados do consumidor e exclusão do suporte](/help/privacy/ad-cloud-ccpa-access-delete.md).
+Para obter informações sobre como o Advertising Cloud Search, Advertising Cloud Creative, Advertising Cloud DSP (Demand Side Platform) e o DCO do Media Otimizer oferecem suporte aos direitos de acesso e exclusão de informações pessoais dos consumidores, consulte [Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumidor da Califórnia: Suporte para acesso e exclusão de dados do consumidor](/help/privacy/ad-cloud-ccpa-access-delete.md).
 
 Para obter mais informações sobre os serviços de privacidade do Adobe para CCPA, consulte o [Centro de privacidade do Adobe](https://www.adobe.com/privacy/ccpa.html).
 
@@ -37,14 +37,14 @@ Você pode comunicar solicitações de cancelamento de venda do consumidor usand
 * um segmento de cancelamento de venda do CCPA criado no Advertising Cloud DSP
 * a API do Adobe Experience Platform Privacy Service
 
-### Método 1: Comunicar as solicitações de recusa de venda do CCPA usando um segmento [!UICONTROL CCPA Opt-Out-of-Sale] no Advertising Cloud DSP
+### Método 1: Comunicar as solicitações de recusa de venda do CCPA usando um [!UICONTROL CCPA Opt-Out-of-Sale] Segmento no Advertising Cloud DSP
 
 >[!NOTE]
 >
 >Os usuários permanecem indefinidamente em segmentos de opção de não participação na CCPA.
 
 1. Faça logon na conta do anunciante no Advertising Cloud DSP em [https://advertising.adobe.com/](https://advertising.adobe.com/).
-1. [Crie um segmento de cancelamento de venda do CCPA e implemente o pixel do segmento para capturar as solicitações](/help/dsp/audiences/ccpa-opt-out-segment-create.md) de cancelamento.
+1. [Crie um segmento de cancelamento de venda do CCPA e implemente o pixel do segmento para capturar as solicitações de cancelamento](/help/dsp/audiences/ccpa-opt-out-segment-create.md).
 
 ### Método 2: Comunicar as solicitações de recusa de venda do CCPA usando a API do Adobe Experience Platform Privacy Service
 
@@ -56,7 +56,7 @@ Você pode comunicar solicitações de cancelamento de venda do consumidor usand
    >
    >As solicitações para algumas soluções da Adobe Experience Cloud não exigem a biblioteca do JavaScript, mas as solicitações para a Advertising Cloud exigem.
 
-   Você deve implantar a biblioteca na página da Web da qual seus clientes podem enviar solicitações de recusa de venda, como o portal de privacidade da sua empresa. A biblioteca ajuda a recuperar cookies do Adobe (ID do namespace: `gsurferID`) para que você possa enviar essas identidades como parte das solicitações de não participação na venda por meio da API do Adobe Experience Platform Privacy Service.
+   Você deve implantar a biblioteca na página da Web da qual seus clientes podem enviar solicitações de recusa de venda, como o portal de privacidade da sua empresa. A biblioteca ajuda a recuperar cookies do Adobe (ID do namespace: `gsurferID`) para enviar essas identidades como parte das solicitações de não participação na venda por meio da API do Adobe Experience Platform Privacy Service.
 
 1. Identifique a ID da organização IMS e verifique se ela está vinculada às contas da Advertising Cloud.
 
@@ -64,14 +64,14 @@ Você pode comunicar solicitações de cancelamento de venda do consumidor usand
 
    >[!IMPORTANT]
    >
-   >Entre em contato com o representante da Advertising Cloud de sua empresa para confirmar que todas as contas Advertising Cloud de sua organização, incluindo [!DNL DSP] contas ou anunciantes, [!DNL Search] contas e [!DNL Creative] ou [!DNL DCO], estão vinculadas à ID da organização IMS.
+   >Entre em contato com o representante da Advertising Cloud de sua empresa para confirmar que todas as contas da Advertising Cloud de sua organização, incluindo [!DNL DSP] contas ou anunciantes, [!DNL Search] contas e [!DNL Creative] ou [!DNL DCO] contas — estão vinculadas à ID da organização IMS.
 
-1. Use a API do Adobe Experience Platform Privacy Service para [enviar solicitações de recusa de venda](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) ao Advertising Cloud em nome dos consumidores e verificar o status das solicitações existentes.
+1. Use a API do Adobe Experience Platform Privacy Service para [enviar solicitações de cancelamento de venda](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) à Advertising Cloud em nome dos consumidores e para verificar o estado dos pedidos existentes.
 
    Consulte o Apêndice abaixo para obter um exemplo de uma solicitação de recusa de venda.
 
    >[!NOTE]
-   Se sua empresa tiver várias IDs de organização do serviço da Adobe Experience Cloud Identity Management (IDs de organização IMS), você deverá enviar solicitações de API separadas para cada uma. No entanto, você pode fazer uma solicitação de API para várias subsoluções da Advertising Cloud ([!DNL Search], [!DNL Creative], [!DNL DSP] e [!DNL DCO]), com uma conta por subsolução.
+   Se sua empresa tiver várias IDs de organização do serviço da Adobe Experience Cloud Identity Management (IDs de organização IMS), você deverá enviar solicitações de API separadas para cada uma. No entanto, você pode fazer uma solicitação de API para várias subsoluções da Advertising Cloud ([!DNL Search], [!DNL Creative], [!DNL DSP]e [!DNL DCO]), com uma conta por subsolução.
 
 Todas essas etapas são necessárias para receber suporte da Advertising Cloud. Para obter mais informações sobre essas e outras tarefas relacionadas que você precisa executar usando a Adobe Experience Platform Privacy Service e onde encontrar os itens que você precisará, consulte [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
@@ -79,18 +79,18 @@ Todas essas etapas são necessárias para receber suporte da Advertising Cloud. 
 
 O Advertising Cloud gera relatórios mensais de IDs que os clientes enviaram para solicitações de não participação na venda da conta. Cada relatório está disponível como um arquivo de texto separado por tabulações compactado no formato GZIP. Os dados consolidam solicitações capturadas por meio de segmentos de não participação na venda do CCPA criados no Advertising Cloud DSP e quaisquer envios feitos por meio da API do Privacy Service. As IDs de usuário capturadas nos segmentos de não participação na venda do CCPA são identificadas por segmento e pelo anunciante. Os relatórios são gerados no primeiro de cada mês do mês anterior. Por exemplo, a lista mensal de usuários para junho está disponível em 1 de julho.
 
-Você pode recuperar links para os relatórios mensais criados nos três meses anteriores, dentro do Advertising Cloud DSP ou usando o Advertising Cloud [!DNL Trafficking API]. Cada link é válido por sete dias, mas é atualizado sempre que um cliente tenta recuperar um.
+Você pode recuperar links para os relatórios mensais criados nos três meses anteriores, dentro do Advertising Cloud DSP ou usando a Advertising Cloud [!DNL Trafficking API]. Cada link é válido por sete dias, mas é atualizado sempre que um cliente tenta recuperar um.
 
 ### Método 1: Recuperar relatórios de cancelamento de venda do consumidor no Advertising Cloud DSP
 
 1. Faça logon na conta do anunciante no Advertising Cloud DSP em [https://advertising.adobe.com/](https://advertising.adobe.com/).
-1. [Recupere os relatórios](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md).
+1. [Recuperar os relatórios](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md).
 
-### Método 2: Recuperar relatórios de cancelamento de venda do consumidor usando o Advertising Cloud [!DNL Trafficking API]
+### Método 2: Recuperar relatórios de não participação do consumidor usando a Advertising Cloud [!DNL Trafficking API]
 
-Esse recurso está disponível para organizações que usam o [!DNL Trafficking API]. Consulte a documentação do [!DNL Trafficking API] para obter mais informações.
+Esse recurso está disponível para organizações que usam a variável [!DNL Trafficking API]. Consulte a documentação do [!DNL Trafficking API] para obter mais informações.
 
-Se sua organização não usar o [!DNL Trafficking API], mas estiver interessada em mais informações, entre em contato com o gerente de conta do Adobe.
+Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] gerente de conta.
 
 ## Apêndice: Exemplo [!UICONTROL CCPA Opt-Out-of-Sale] Solicitação para usuários da API do Privacy Service
 
@@ -131,5 +131,5 @@ curl -X POST \
 
 em que:
 
-* `"namespace": "AdCloud"` indica o espaço do  `AdCloud` cookie e o valor correspondente é a ID do cookie do cliente, como recuperada de  `AdobePrivacy.js`
+* `"namespace": "AdCloud"` indica que `AdCloud` espaço do cookie e o valor correspondente é a ID do cookie do cliente, como recuperada de `AdobePrivacy.js`
 * `"include": ["AdCloud"]` indica que a solicitação se aplica ao Advertising Cloud

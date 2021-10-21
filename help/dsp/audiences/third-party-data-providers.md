@@ -3,9 +3,9 @@ title: Fornecedores de dados de terceiros disponíveis no Advertising Cloud DSP
 description: Veja uma lista de todos os provedores de dados de terceiros disponíveis.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ A taxa de uso de cada segmento é mostrada ao lado do nome do segmento nas confi
 * [!DNL TruSignal]
 * [!DNL Weborama]
 
-Para obter mais informações sobre como importar segmentos personalizados de terceiros para sua conta, entre em contato com o gerente de conta do Adobe.
+Para obter mais informações sobre a importação de segmentos personalizados de terceiros para sua conta, entre em contato com seu [!DNL Adobe] gerente de conta.
 
 >[!MORELIKETHIS]
 >

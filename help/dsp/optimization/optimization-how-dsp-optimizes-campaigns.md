@@ -3,16 +3,16 @@ title: Como o DSP otimiza suas campanhas
 description: Saiba como o DSP otimiza os pacotes em suas campanhas.
 feature: DSP Optimization
 exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
 # Como o DSP otimiza suas campanhas
 
-Esta página descreve como o mecanismo de otimização do Advertising Cloud DSP, que é acionado por [!DNL Adobe Sensei], otimiza os pacotes em suas campanhas. Para obter dicas e truques sobre como otimizar manualmente suas campanhas, entre em contato com o gerente de conta do Adobe. <!-- add link to trading playbook if we add it to help -->
+Esta página descreve como o mecanismo de otimização do Advertising Cloud DSP, que é alimentado por [!DNL Adobe Sensei]O otimiza os pacotes em suas campanhas. Para dicas e truques sobre como otimizar manualmente suas campanhas, entre em contato com seu [!DNL Adobe] gerente de conta. <!-- add link to trading playbook if we add it to help -->
 
 As metas de otimização de pacotes operam em dois níveis:
 
@@ -32,17 +32,17 @@ DSP pode otimizar sua entrega de duas maneiras fundamentais, com 20 variações 
 
 * Priorize o equilíbrio entre a eficiência de custos e a taxa de desempenho
 
-Consulte [Metas de otimização e Como usá-las](optimization-goals.md) para determinar qual meta de otimização o ajudará a atingir seus KPIs.
+Consulte [Metas de otimização e como usá-las](optimization-goals.md) para determinar qual meta de otimização o ajudará a atingir seus KPIs.
 
 ### Pacotes que priorizam a taxa de desempenho
 
-Para metas de otimização que priorizam a taxa de desempenho, o DSP prevê o desempenho de cada leilão e sempre lances no Lance máximo. Os exemplos de metas de otimização aplicáveis incluem [!UICONTROL Highest Viewability Rate], [!UICONTROL Highest Clickthrough Rate] e assim por diante.
+Para metas de otimização que priorizam a taxa de desempenho, o DSP prevê o desempenho de cada leilão e sempre lances no Lance máximo. Exemplos de metas de otimização aplicáveis incluem [!UICONTROL Highest Viewability Rate], [!UICONTROL Highest Clickthrough Rate]e assim por diante.
 
 Esse modo de otimização funciona bem se:
 
 * Você já sabe o nível de CPM efetivo/aceitável (por exemplo, um referencial histórico).
 
-* Você está disposto a ajustar manualmente o [!UICONTROL Max Bid] para cada disposição se tiver desafios com o dimensionamento.
+* Você está disposto a ajustar manualmente a variável [!UICONTROL Max Bid] para cada disposição se você enfrentar desafios com o dimensionamento.
 
 * Você está priorizando a escala em relação à eficiência.
 
@@ -58,15 +58,15 @@ Depois de executar a lógica de ritmo, DSP executa a licitação proposta por me
 
 ### Pacotes Que Priorizam A Eficiência Do Equilíbrio De Custos Com A Taxa De Desempenho
 
-Para algumas metas de otimização, o DSP prevê o desempenho de cada leilão e ajusta os preços de licitação automaticamente, nunca excedendo o [!UICONTROL Max Bid] de um posicionamento. Os exemplos de metas de otimização aplicáveis incluem [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click], e assim por diante.
+Para algumas metas de otimização, o DSP prevê o desempenho de cada leilão e ajusta os preços de licitação automaticamente, nunca excedendo o valor de uma colocação [!UICONTROL Max Bid]. Exemplos de metas de otimização aplicáveis incluem [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click]e assim por diante.
 
 #### Lógica de Pacote {#pacing-logic-balanced}
 
 * Se a despesa estiver no ritmo, então DSP torna-se mais sensível aos preços, colocando os montantes mais baixos na licitação da taxa de ganho com o plano de ritmo.
 
-* Se uma métrica de desempenho também estiver sendo balanceada (todas as metas exceto [!UICONTROL Lowest CPM]), o KPI previsto será combinado no valor da licitação. Portanto, você faz licitações mais altas para leilões que se prevê sejam mais eficientes com base no &quot;custo por&quot;.
+* Se uma métrica de desempenho também estiver sendo equilibrada (todas as metas exceto [!UICONTROL Lowest CPM]), o KPI previsto é mesclado na quantia que é licitada. Portanto, você faz licitações mais altas para leilões que se prevê sejam mais eficientes com base no &quot;custo por&quot;.
 
-* Se a despesa estiver atrasada, então DSP se torna menos sensível aos preços e licita montantes mais elevados, até [!UICONTROL Max Bid], para negociar a taxa de ganho com o plano de ritmo.
+* Se a despesa estiver atrasada, então DSP se torna menos sensível aos preços e propõe montantes mais elevados, até [!UICONTROL Max Bid], para compensar a taxa de ganho com o plano de ritmo.
 
 #### Limpando Preço/Sombreamento de Oferta {#clearing-price-balanced}
 
@@ -80,7 +80,7 @@ Os filtros pré-lances de disposição são a maneira mais rígida de garantir u
 >
 >Os filtros de pré-lances disponíveis variam por tipo de anúncio. Por exemplo, para um posicionamento de exibição padrão, você pode filtrar por taxa de click-through e visibilidade, mas não por taxa de conclusão.
 
-Consulte [Filtros pré-lances de nível de disposição e Como usá-los](optimization-pre-bid-filters.md) para determinar qual filtro pré-lance ajudará a atingir seus KPIs.
+Consulte [Filtros de pré-lance em nível de posicionamento e como usá-los](optimization-pre-bid-filters.md) para determinar qual filtro pré-lance ajudará você a atingir seus KPIs.
 
 >[!MORELIKETHIS]
 >

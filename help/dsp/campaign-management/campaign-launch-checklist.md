@@ -3,9 +3,9 @@ title: Lista de verificação do lançamento da campanha
 description: Saiba o que é necessário fazer antes de iniciar uma campanha.
 feature: DSP Placements, DSP Ads
 exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Financiamento da Conta
 
-Certifique-se de que sua conta tenha crédito suficiente para executar a campanha inteira. Você pode verificar e recarregar os fundos da conta em [!UICONTROL Settings] > [!UICONTROL Account] ou entrando em contato com o gerente da conta do Adobe.
+Certifique-se de que sua conta tenha crédito suficiente para executar a campanha inteira. Você pode verificar e recarregar fundos de conta em [!UICONTROL Settings] > [!UICONTROL Account] ou entrando em contato com a [!DNL Adobe] gerente de conta.
 
 ## Status da campanha
 
@@ -22,7 +22,7 @@ Confirme se as datas da campanha e o orçamento estão definidos com precisão.
 
 ## Status da disposição
 
-Verifique se o status da disposição é &quot;[!UICONTROL Active]&quot; ou &quot;[!UICONTROL Scheduled]&quot;. Além disso, verifique se os outros parâmetros de disposição (como a lista do site, orçamento, meta, datas de voo e frequência) estão corretos.
+Verifique se o status da disposição é &quot;[!UICONTROL Active]&quot; ou &quot;[!UICONTROL Scheduled].&quot; Além disso, verifique se os outros parâmetros de disposição (como a lista do site, orçamento, meta, datas de voo e frequência) estão corretos.
 
 ## Status do anúncio
 

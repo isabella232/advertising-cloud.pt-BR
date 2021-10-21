@@ -3,9 +3,9 @@ title: Configurações de anúncio de áudio
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios de áudio.
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -18,47 +18,47 @@ ht-degree: 0%
 
 **[!UICONTROL Upload Audio]:** Para fazer upload de um ativo bruto no DSP. Ao selecionar essa opção, faça o seguinte:
 
-1. Clique em **[!UICONTROL Choose File]** e localize o arquivo no dispositivo ou na rede.
-1. Insira um título para o arquivo, que será usado na exibição [!UICONTROL Ads] e nos relatórios.
+1. Clique em **[!UICONTROL Choose File]** e localize o arquivo em seu dispositivo ou rede.
+1. Insira um título para o arquivo, que será usado no [!UICONTROL Ads] exibir e relatórios.
 1. Clique em **[!UICONTROL Upload]**.
 
-**[!UICONTROL Use Existing Audio]:** para selecionar qualquer criação carregada anteriormente no formato correto na conta.
+**[!UICONTROL Use Existing Audio]:** Para selecionar qualquer criação carregada anteriormente no formato correto na conta.
 
-**[!UICONTROL Advanced: VAST Tag URL]:** para inserir uma tag VAST de terceiros que contenha ativos criativos e pixels de rastreamento:
+**[!UICONTROL Advanced: VAST Tag URL]:** Para inserir uma tag VAST de terceiros que contenha ativos criativos e pixels de rastreamento:
 
 1. Clique em ![seta](/help/dsp/assets/compressed.png) ao lado de **[!UICONTROL Advanced: VAST Tag URL]**.
-1. No campo **[!UICONTROL URL]**, insira o URL da tag VAST.
-1. Insira um **[!UICONTROL Title]** para o arquivo, que será usado na exibição [!UICONTROL Ads] e nos relatórios.
+1. No **[!UICONTROL URL]** , insira o URL da tag VAST.
+1. Insira um **[!UICONTROL Title]** para o arquivo , que será usado no [!UICONTROL Ads] exibir e relatórios.
 
 >[!TIP]
 >
-> Para verificar a validade de uma tag VAST, cole-a em um navegador e pressione a tecla **[!UICONTROL Enter]**. Se a tag for válida, você verá um arquivo XML que inclui `<VAST>` próximo à parte superior.
+> Para verificar a validade de uma tag VAST, cole-a em um navegador e pressione a **[!UICONTROL Enter]** chave. Se a tag for válida, você verá um arquivo XML que inclui `<VAST>` perto do topo.
 
 ## [!UICONTROL Ad Options]
 
 ### [!UICONTROL Basic]
 
-**[!UICONTROL Ad Type]:**  (somente leitura) o tipo de anúncio que você está criando, que corresponde ao tipo de disposição ao qual o anúncio pode ser anexado. O padrão é *[!UICONTROL Audio]*.
+**[!UICONTROL Ad Type]:** (Somente leitura) O tipo de anúncio que você está criando, que corresponde ao tipo de posicionamento ao qual o anúncio pode ser anexado. O padrão é *[!UICONTROL Audio]*.
 
 **[!UICONTROL Ad Name]:** O nome do anúncio. O título do ativo é usado por padrão, mas você pode alterar o nome.
 
 >[!TIP]
 >
-> Use um nome fácil de localizar quando anexar o anúncio a uma disposição, na visualização [!UICONTROL Ads] e nos relatórios. Por exemplo, descreva o tipo de unidade e alguns atributos-chave (como Visualização de produto de feriado: Áudio de 30 seg&quot;).
+> Use um nome que será fácil de localizar quando você anexar o anúncio a uma disposição, no [!UICONTROL Ads] e nos relatórios. Por exemplo, descreva o tipo de unidade e alguns atributos-chave (como Visualização de produto de feriado: Áudio de 30 seg&quot;).
 
-**[!UICONTROL Ad Duration]:** a duração do arquivo de áudio. Ele é automaticamente definido como [!UICONTROL 15] ou [!UICONTROL 30], dependendo da unidade de anúncio selecionada.
+**[!UICONTROL Ad Duration]:** A duração do arquivo de áudio. Ele é automaticamente definido como [!UICONTROL 15] ou [!UICONTROL 30], dependendo da unidade de publicidade selecionada.
 
 Esse campo pode ou não ser exibido, dependendo das permissões da conta.
 
-**[!UICONTROL Click URL]:** (anúncios que usam ativos brutos e somente com banners de exibição; opcional) o URL no qual o visualizador será direcionado ao clicar em um banner de exibição que acompanha seu anúncio.
+**[!UICONTROL Click URL]:** (Anúncios que usam ativos brutos e somente com banners de exibição; opcional) o URL no qual o visualizador será direcionado ao clicar em um banner de exibição que acompanha seu anúncio.
 
-**[!UICONTROL Final Click URL]:** (anúncios que usam ativos brutos e somente com banners de exibição; somente leitura) O  [!UICONTROL Click URL] com o rastreamento  [Advertising Cloud DSP necessário ](/help/dsp/campaign-management/macros.md) classificado, se aplicável.
+**[!UICONTROL Final Click URL]:** (Anúncios que usam ativos brutos e somente com banners de exibição; somente leitura) A variável [!UICONTROL Click URL] com as [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
 
-**[!UICONTROL VAST Tag]:** (anúncios usando somente tags VAST) Um URL para uma fonte de anúncio de terceiros. Certifique-se de que a tag VAST inclua apenas arquivos de mídia de áudio.
+**[!UICONTROL VAST Tag]:** (Anúncios usando somente tags VAST) Um URL para uma fonte de anúncios de terceiros. Certifique-se de que a tag VAST inclua apenas arquivos de mídia de áudio.
 
-**[!UICONTROL Final VAST Tag]:** (anúncios usando somente tags VAST) O URL da fonte de anúncio de terceiros com o rastreamento necessário do  [Advertising Cloud DSP ](/help/dsp/campaign-management/macros.md) classificado, se aplicável.
+**[!UICONTROL Final VAST Tag]:** (Anúncios usando somente tags VAST) O URL da fonte de anúncios de terceiros com o [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
 
-**[!UICONTROL Select Rate]:**  (usuários somente com permissão) Uma taxa pré-negociada cobrada pelo Adobe ou uma das taxas que você negociou e será cobrada pelo fornecedor. Para adicionar uma taxa, entre em contato com o gerente de conta do Adobe.
+**[!UICONTROL Select Rate]:** (Somente usuários com permissão) Uma taxa pré-negociada cobrada por Adobe, ou uma das taxas negociadas e faturadas pelo fornecedor. Para adicionar uma taxa, entre em contato com seu [!DNL Adobe] gerente de conta.
 
 ### [!UICONTROL Companion]
 
@@ -72,26 +72,26 @@ Opcionalmente, é possível anexar até três banners complementares com um anú
 >* Os banners complementares de tags de anúncios de terceiros nem sempre estão disponíveis para visualização.
 
 
-**\[Caixa de seleção\]:** inclui o banner complementar especificado com o anúncio. Quando a caixa de seleção estiver desativada, o banner complementar não será incluído.
+**\[Caixa de seleção\]:** Inclui o banner complementar especificado com o anúncio. Quando a caixa de seleção estiver desativada, o banner complementar não será incluído.
 
-**\[Tamanho do banner\]:** o tamanho do banner complementar:  *[!UICONTROL 300x250]* (usado para  [!DNL iHeartRadio],  [!DNL Spotify],  [!DNL SoundCloud], e  [!DNL TuneIn]),  *[!UICONTROL 640x640]* (usado para  [!DNL Spotify), or *1024x1024]* (usado para  [!DNL SoundCloud]).
+**\[Tamanho do banner\]:** O tamanho do banner complementar: *[!UICONTROL 300x250]* (usado para [!DNL iHeartRadio], [!DNL Spotify], [!DNL SoundCloud]e [!DNL TuneIn]), *[!UICONTROL 640x640]* (usado para [!DNL Spotify), or *1024x1024]* (usado para [!DNL SoundCloud]).
 
 **\[Origem\]:** A origem do ativo de banner complementar:
 
-* *[!UICONTROL Upload My Own Asset]:* para fazer upload de seu próprio ativo.
-* *[!UICONTROL Use a Third Party Tag]:* para inserir um iFrame ou tag de script de um parceiro de veiculação de anúncios de terceiros certificado.
+* *[!UICONTROL Upload My Own Asset]:* Para fazer upload de seu próprio ativo.
+* *[!UICONTROL Use a Third Party Tag]:* Para inserir um iFrame ou uma tag de script de um parceiro de veiculação de anúncios certificado de terceiros.
 
 Use uma tag de terceiros quando quiser rastrear impressões de banner de terceiros.
 
-**[!UICONTROL Asset]:**  (somente ativos brutos) o ativo de banner complementar, no formato GIF, JPG ou PNG. Clique em **[!UICONTROL Browse]**, localize o arquivo no dispositivo ou na rede e clique em **[!UICONTROL Upload]**.
+**[!UICONTROL Asset]:** (Somente ativos brutos) O ativo de banner complementar, no formato GIF, JPG ou PNG. Clique em **[!UICONTROL Browse]** e localize o arquivo em seu dispositivo ou rede e clique em **[!UICONTROL Upload]**.
 
-**[!UICONTROL Click URL]:**  (somente ativos brutos) o URL no qual o visualizador será direcionado ao clicar no banner complementar do anúncio. Ele pode incluir um redirecionamento de clique usando um pixel de rastreamento de cliques de terceiros.
+**[!UICONTROL Click URL]:** (Somente ativos brutos) O URL no qual o visualizador será direcionado ao clicar no banner complementar do anúncio. Ele pode incluir um redirecionamento de clique usando um pixel de rastreamento de cliques de terceiros.
 
-**[!UICONTROL Final Click URL]:**  (somente ativos brutos; somente leitura) O URL de clique com o rastreamento  [Advertising Cloud DSP necessário ](/help/dsp/campaign-management/macros.md) classificado, se aplicável.
+**[!UICONTROL Final Click URL]:** (Somente ativos brutos; somente leitura) O URL de clique com o necessário [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
 
-**[!UICONTROL Ad Tag]:** (anúncios usando somente tags de anúncios de terceiros) Uma tag de banner de iFrame ou script para uma fonte de banner complementar de terceiros. Ele deve ser de um parceiro de veiculação de anúncios de terceiros certificado.
+**[!UICONTROL Ad Tag]:** (Anúncios usando somente tags de publicidade de terceiros) Uma tag de banner de iFrame ou script para uma fonte de banner complementar de terceiros. Ele deve ser de um parceiro de veiculação de anúncios de terceiros certificado.
 
-**[!UICONTROL Final Ad Tag]:** (anúncios usando somente tags de anúncios de terceiros) A tag do anúncio com o rastreamento necessário do  [Advertising Cloud DSP foi ](/help/dsp/campaign-management/macros.md) analisada, se aplicável.
+**[!UICONTROL Final Ad Tag]:** (Anúncios usando somente tags de publicidade de terceiros) A tag de publicidade com as [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
 
 ### Pixel
 
@@ -99,15 +99,15 @@ Todos os pixels de rastreamento de evento existentes para a disposição são an
 
 As configurações a seguir se aplicam a cada pixel criado ou editado.
 
-**[!UICONTROL Integration Event]:** o evento que aciona o pixel para ser disparado. Para esse tipo de anúncio, use pixels que são acionados no *[!UICONTROL Impression]* ou *[!UICONTROL Click-through]*.
+**[!UICONTROL Integration Event]:** O evento que aciona o pixel para ser disparado. Para este tipo de anúncio, use pixels que são acionados no *[!UICONTROL Impression]* ou *[!UICONTROL Click-through]*.
 
-**[!UICONTROL Pixel Type]:** se o pixel é um arquivo de imagem de pixel  *[!UICONTROL IMG UR]L*  (1x1),  *[!UICONTROL HTML]*, ou  *[!UICONTROL JavaScript URL]*.
+**[!UICONTROL Pixel Type]:** Se o pixel é um *[!UICONTROL IMG UR]L* (arquivo de imagem de pixel 1x1), *[!UICONTROL HTML]* ou *[!UICONTROL JavaScript URL]*.
 
-**[!UICONTROL Pixel URL or Code]:** o URL da imagem de pixel, no formato apropriado para o Tipo de pixel especificado.
+**[!UICONTROL Pixel URL or Code]:** O URL da imagem de pixel, no formato apropriado para o Tipo de pixel especificado.
 
 **[!UICONTROL Pixel Name]:** O nome do pixel. Use um nome que o ajudará a identificar o pixel com facilidade.
 
-**[!UICONTROL Pixel Provider]:** O provedor de pixel:  *[!UICONTROL None]*,  *[!UICONTROL Nielsen]*, ou  *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** O provedor de pixel: *[!UICONTROL None]*, *[!UICONTROL Nielsen]* ou *[!UICONTROL Comscore]*.
 
 >[!MORELIKETHIS]
 >

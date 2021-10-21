@@ -3,9 +3,9 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,13 +35,13 @@ ht-degree: 0%
 | [!DNL Flashtalking] | X | X |  | X |  |
 | [!DNL Frequency] | X |  |  |  |  |
 | [!DNL Gum Gum] |  |  | X |  |  |
-| [!DNL HUMAN] (Anteriormente  [!DNL White Ops]) | X | X |  | X |  |
+| [!DNL HUMAN] (Anteriormente chamado de [!DNL White Ops]) | X | X |  | X |  |
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | As capas de alto impacto devem ser servidas de uma ID de negócios de exibição de 180x150 na rede de inventário de capa interna. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; 300x250 Outstream </br></br>Entre em contato com o gerente de conta do Adobe para obter assistência na configuração de unidades de anúncio. |
+| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; Saída de 300x250 </br></br>Entre em contato com seu [!DNL Adobe] gerente de conta para obter assistência na configuração de unidades de publicidade. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
@@ -50,13 +50,13 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Somente VAST |
 | [!DNL RevJet] |  |  |  | X | Somente VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com tags `<a>` (no início e no fim). Consulte a tag de exemplo abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] |  | X |  |  | Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com `<a>` tags (no início e no fim). Consulte o exemplo de tag abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
 | [!DNL Trueffect] |  | X |  |  |  |
-| [!DNL Undertone] |  |  | X |  | Unidade de anúncio de Grabber de página personalizada carregada como 180x150 no Advertising Cloud DSP</br></br>Quando o Index Exchange passa um leilão de 180x150 e DSP ofertas no leilão e fornece uma impressão, o anúncio se expande para um anúncio de exibição de página inteira.</br></br>Originalmente certificado para Capturador de página, Adesão expansível e unidades de anúncio de Desvio de tela. Isso precisa ser recertificado, com etapas marcadas para processos. |
+| [!DNL Undertone] |  |  | X |  | Unidade de anúncio de Grabber de página personalizada carregada como 180x150 no Advertising Cloud DSP</br></br>Quando o Index Exchange passa em um leilão de 180x150 e DSP lances no leilão e dá uma impressão, o anúncio se expande para um anúncio de exibição de página inteira.</br></br>Originalmente certificado para Capturador de página, Adesão expansível e unidades de anúncio de Desvio de tela. Isso precisa ser recertificado, com etapas marcadas para processos. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] unidades de publicidade |
 | [!DNL Wunderkind] |  | X |  |  |  |
 

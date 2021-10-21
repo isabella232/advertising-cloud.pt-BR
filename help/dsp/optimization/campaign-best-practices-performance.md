@@ -3,9 +3,9 @@ title: Práticas recomendadas para configurar campanhas de desempenho
 description: Conheça as práticas recomendadas para configurar campanhas focadas no desempenho, que incluem disposições otimizadas para o CPA mais baixo ou para o ROAS mais alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1232'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Veja as seguintes práticas recomendadas para campanhas de desempenho:
 
 ![meta de otimização](/help/dsp/assets/optimization-goals.png)
 
-Também é necessário determinar os eventos bem-sucedidos que levarão à meta geral e criar metas personalizadas adequadamente. Para cada pacote, você especificará uma meta personalizada a ser usada com a meta de otimização geral para relatórios e otimização algorítmica usando [!DNL Adobe Sensei]. Para obter mais informações sobre como criar metas personalizadas, consulte as [Práticas recomendadas para criar uma meta personalizada](custom-goal-best-practices.md).
+Também é necessário determinar os eventos bem-sucedidos que levarão à meta geral e criar metas personalizadas adequadamente. Para cada pacote, você especificará uma meta personalizada a ser usada com a meta de otimização geral para relatórios e otimização algorítmica usando [!DNL Adobe Sensei]. Para obter mais informações sobre como criar metas personalizadas, consulte o [Práticas recomendadas para criar uma meta personalizada](custom-goal-best-practices.md).
 
 ![metas personalizadas](/help/dsp/assets/objective-goals.png)
 
@@ -47,7 +47,7 @@ Os pacotes de funil superiores incluem disposições com direcionamento muito am
    * Direcionamento contextual.
    * Definição de metas de site/categoria.
 
-* Usar a execução de definição de metas da rede (RON): É importante incluir uma execução de inserção de rede sem direcionamento de público-alvo e com direcionamento de inventário abrangente. Isso permite que o algoritmo [!DNL Adobe Sensei] encontre usuários valiosos que possam ter cookies mais recentes que ainda não foram categorizados em um público-alvo.
+* Usar a execução de definição de metas da rede (RON): É importante incluir uma execução de inserção de rede sem direcionamento de público-alvo e com direcionamento de inventário abrangente. Isso permite que a variável [!DNL Adobe Sensei] para encontrar usuários valiosos que possam ter cookies mais recentes que ainda não foram categorizados em um público-alvo.
 
 ### Estratégias de redefinição de metas
 
@@ -69,29 +69,29 @@ Além disso, use as seguintes configurações.
 
 ### Metas e orçamento
 
-* **Acondicionamento e limitação:** para selecionar uma meta de otimização de CPA ou ROAS, o pacote deve usar o ritmo de nível de pacote. Isso garante que todas as disposições do pacote sejam otimizadas para distribuir gastos com base no desempenho e dimensionar para as metas selecionadas.
+* **Embalagem e limitação:** Para selecionar uma meta de otimização de CPA ou ROAS, o pacote deve usar o ritmo de nível de pacote. Isso garante que todas as disposições do pacote sejam otimizadas para distribuir gastos com base no desempenho e dimensionar para as metas selecionadas.
 
-* **Datas de voo:**  (pacotes de prospecção) quando a campanha for executada por mais de 25 dias, use o  [!UICONTROL Activate Custom Flighting] recurso. Primeiro, defina um voo personalizado para os primeiros 10 dias em aproximadamente 75% do orçamento diário necessário para reduzir os gastos durante a *fase de aprendizagem*. Em seguida, defina um segundo voo personalizado para o restante do orçamento.
+* **Datas de voo:** (Pacotes de prospecção) Quando a campanha for executada por mais de 25 dias, use a variável [!UICONTROL Activate Custom Flighting] recurso. Primeiro, defina um voo personalizado para os primeiros 10 dias em aproximadamente 75% do orçamento diário necessário para reduzir os gastos durante o *fase de aprendizagem*. Em seguida, defina um segundo voo personalizado para o restante do orçamento.
 
    Por exemplo, se você tiver $100.000 para gastar em 30 dias, defina o orçamento para o voo 1 (Dias 1-10) para $25.000 (75% x $100.000/30 dias = $2.500 por dia). Use o orçamento restante de US$ 75.000 para o voo 2 (Dias 11-30).
 
-* **Orçamento:** DSP sempre tentará alocar 100% do orçamento do pacote uniformemente entre todas as colocações em um pacote. Se uma disposição tiver baixo gasto ou nenhum gasto, recomendamos que o orçamento limite a disposição para permitir que mais do orçamento seja alocado em disposições com escala. Aguarde de 24 a 48 horas para que as alterações no orçamento sejam calibradas.
+* **Orçamento:** DSP sempre tentará alocar 100% do orçamento do pacote uniformemente entre todas as disposições em um pacote. Se uma disposição tiver baixo gasto ou nenhum gasto, recomendamos que o orçamento limite a disposição para permitir que mais do orçamento seja alocado em disposições com escala. Aguarde de 24 a 48 horas para que as alterações no orçamento sejam calibradas.
 
-* **Metas de otimização:** use uma das duas metas de otimização de desempenho,  *[!UICONTROL Highest ROAS]* ou  *[!UICONTROL Lowest CPA]*, dependendo da meta do pacote. Essas metas otimizam automaticamente o pacote em direção às posições de ROAS mais alto ou CPA mais baixo, respectivamente.
+* **Metas de otimização:** Use uma das duas metas de otimização de desempenho, *[!UICONTROL Highest ROAS]* ou *[!UICONTROL Lowest CPA]*, dependendo da meta do pacote. Essas metas otimizam automaticamente o pacote em direção às posições de ROAS mais alto ou CPA mais baixo, respectivamente.
 
 * **Metas personalizadas:**
    * Se um novo pacote tiver a mesma meta de um pacote existente, você poderá, opcionalmente, vincular o pacote existente para que o algoritmo possa usar os dados de aprendizado de máquina existentes.
-   * Insira o [!UICONTROL Target CPA] ou [!UICONTROL Target ROAS] apropriado.
+   * Insira o [!UICONTROL Target CPA] ou [!UICONTROL Target ROAS].
 
-* **Estratégia de preenchimento de pacote:** selecione  *[!UICONTROL Even]* para maximizar suas metas de desempenho, seguindo uniformemente em toda a data de voo.
+* **Estratégia de preenchimento da embalagem:** Selecionar *[!UICONTROL Even]* para maximizar os seus objetivos de desempenho, seguindo uniformemente toda a data de voo.
 
-   Use o ritmo *[!UICONTROL FrontLoad]* e *[!UICONTROL Aggressive Front Load]* somente quando estiver priorizando totalmente o delivery e gastando em relação à otimização de desempenho, pois essas estratégias podem afetar negativamente seus KPIs de desempenho desejados.
+   Use *[!UICONTROL FrontLoad]* e *[!UICONTROL Aggressive Front Load]* O ritmo só ocorre quando você prioriza totalmente a entrega e gasta em relação à otimização de desempenho, pois essas estratégias podem afetar negativamente seus KPIs de desempenho desejados.
 
 ## Etapa 4 - Criar estrutura de disposição
 
 Menos é mais. Se você puder configurar menos de seis disposições por pacote, o orçamento disponível poderá mudar dinamicamente para as disposições com melhor desempenho mais facilmente.
 
-Além disso, adicione cada disposição a um pacote com um tipo de meta de pacote *[!UICONTROL Prospecting]* ou *[!UICONTROL Retargeting]*, conforme apropriado.
+Além disso, adicione cada disposição a um pacote com um tipo de meta de pacote de *[!UICONTROL Prospecting]* ou *[!UICONTROL Retargeting]*, conforme adequado.
 
 Veja a seguir as configurações de posicionamento recomendadas para campanhas de desempenho.
 
@@ -103,22 +103,22 @@ Você definirá a otimização de CPA ou ROAS no nível do pacote (consulte Etap
    * Para disposições de prospecção, use um lance máximo baixo ($5).
    * Para disposições de redirecionamento, use um lance máximo alto ($12).
 
-* **Filtros pré-lances:** minimize ou evite idealmente definir filtros pré-lances agressivos, o que impede que a disposição alcance a escala. As práticas recomendadas incluem:
+* **Filtros pré-lances:** Minimize, ou idealmente evite, a configuração de filtros pré-lances agressivos, que impedem que a disposição alcance a escala. As práticas recomendadas incluem:
 
    * Use um (1) filtro de pré-oferta por disposição. Vários filtros pré-lances exigirão que ambos sejam atendidos, o que reduz a escala.
 
    * Considere a configuração de filtros pré-lances menos estritos em casos em que o direcionamento adicional (como público-alvo, geografia e direcionamento de site) é aplicado.
 
-Consulte descrições de quando usar cada filtro pré-lance em [Filtros pré-lances de nível de posicionamento e Como usá-los](/help/dsp/optimization/optimization-pre-bid-filters.md).
+Veja descrições de quando usar cada filtro pré-lance em [Filtros de pré-lance em nível de posicionamento e como usá-los](/help/dsp/optimization/optimization-pre-bid-filters.md).
 
 ### Inventário
 
-Para maximizar a escala, use o inventário [!UICONTROL Public] (Open Exchange) e [!UICONTROL On Demand].
+Para maximizar a escala, use [!UICONTROL Public] (Open Exchange) e [!UICONTROL On Demand] inventário.
 
 ### Direcionamento de site
 
-* **[!UICONTROL Traffic Type]**:  [!UICONTROL Websites] only
-* **[!UICONTROL Site Tier]**:  [!UICONTROL All sites]
+* **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] only
+* **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Direcionamento de público-alvo
 
@@ -139,18 +139,18 @@ Para maximizar a escala, use o inventário [!UICONTROL Public] (Open Exchange) e
    * Para posicionamentos de redirecionamento, defina o limite de posicionamento principal como 6 a 10 impressões por dia e o limite secundário como uma impressão por hora.
 
 * **[!UICONTROL Device Targeting]**:
-   * Inclua [!UICONTROL Computer], [!UICONTROL Mobile] e [!UICONTROL Tablet].
-   * Não direcione [!UICONTROL Firefox] e [!UICONTROL Safari] por causa das limitações de direcionamento e medição. Entre em contato com o gerente de conta do Adobe para obter mais detalhes sobre o suporte [!DNL Adobe] para [!DNL Safari ITP].
-   * Se você direcionar o tráfego da Web móvel, desative todos os navegadores móveis, exceto [!UICONTROL Chrome] e [!UICONTROL Edge].
+   * Incluir [!UICONTROL Computer], [!UICONTROL Mobile]e [!UICONTROL Tablet].
+   * Não direcionar [!UICONTROL Firefox] e [!UICONTROL Safari] devido às limitações de direcionamento e medição. Entre em contato com seu [!DNL Adobe] gerente de conta para obter mais detalhes sobre [!DNL Adobe] suporte para [!DNL Safari ITP].
+   * Se você direcionar o tráfego da Web móvel, desative todos os navegadores móveis exceto [!UICONTROL Chrome] e [!UICONTROL Edge].
 
 ### Segurança da marca e qualidade da mídia
 
-Usar a filtragem contextual, o bloqueio de fraude pré-lance e/ou a filtragem [!UICONTROL Ads.txt] limitará a escala de suas disposições, mas usá-las se necessário.
+Usar filtragem contextual, bloqueio de fraude pré-lance e/ou [!UICONTROL Ads.txt] a filtragem limitará a escala de suas disposições, mas as usará, se necessário.
 
 ## Etapa 5 - Usar os ativos criativos certos
 
 * A prática recomendada é incluir o maior número possível de tamanhos de anúncio exclusivos para maximizar o alcance. O modelo de exibição universal permite carregar qualquer tamanho de anúncio de exibição padrão.
-* Verifique se todas as disposições contêm *no mínimo* todos os tamanhos de anúncio de exibição primários (300x250, 728x90, 160x600, 300x600, 320x50 e 300x50).
+* Verifique se todas as disposições contêm *pelo menos* todos os tamanhos de anúncio de exibição principais (300x250, 728x90, 160x600, 300x600, 320x50 e 300x50).
 * Atualize os criativos frequentemente para evitar a fadiga criativa.
 
 >[!MORELIKETHIS]
