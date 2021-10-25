@@ -3,9 +3,9 @@ title: Parceiros SSP
 description: Veja uma lista de SSPs (Supply side Platform, plataforma do lado do suprimento disponível) e parceiros de intercâmbio abertos.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: 962013a80a968d3c6bf761c1a5145ece0eb7924c
+source-git-commit: 3833f3339adbdd3c41750ff168de93bd2196949b
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -36,14 +36,14 @@ Uma plataforma do lado do suprimento (SSP) é uma plataforma de tecnologia de pu
 | [!DNL MoPub] | [!DNL Twitter] | [!DNL TubeMogul] | Não | Global | USD |  | x |  |  |  |  |  |
 | [!DNL OpenX] | [!DNL OpenX] | [!DNL TubeMogul] ou Adobe Advertising Cloud | Sim | Global | USD | x |  |  | x | x |  |  |
 | [!DNL PubMatic New ortb2.2] | [!DNL Pubmatic] | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Global | USD | x | x | x | x | x |  |  |
-| [!DNL Rubicon] | [!DNL Magnite DV+] | [!DNL TubeMogul] ou Adobe Advertising Cloud | Sim | Global | USD | x | x | x | x | x |  | x |
+| [!DNL Rubicon] | [!DNL Magnite] (anteriormente [!DNL Telaria] e [!DNL Tremor]) | [!DNL TubeMogul] ou Adobe Advertising Cloud | Sim | Global | USD | x | x | x | x | x |  | x |
 | [!DNL ShareThrough] |  | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Global | USD | x | x |  | x | x | x |  |
 | [!DNL Smart Ad Server] |  | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Global | USD, EUR | x | x |  | x | x |  |  |
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | Não | EMEA | Todas as Moedas | x | x | x | x | x |  |  |
 | [!DNL SmartStream] |  | Adobe Advertising Cloud | Não | EMEA | EUR, USD | x | x |  |  |  |  |  |
 | [!DNL Sortable] |  | Adobe Advertising Cloud | Não | CA | USD |  |  |  | x | x |  |  |
 | [!DNL Soundcast Audio] |  |  |  |  |  |  |  |  |  |  |  |  |
-| [!DNL SpotX] | [!DNL Magnite] | [!DNL TubeMogul] ou Adobe Advertising Cloud | Sim | Global | USD | x | x | x |  |  |  |  |
+| [!DNL SpotX] | [!DNL Magnite] (anteriormente [!DNL Telaria] e [!DNL Tremor]) | [!DNL TubeMogul] ou Adobe Advertising Cloud | Sim | Global | USD | x | x | x |  |  |  |  |
 | [!DNL Stroer] |  | Adobe Advertising Cloud | Não | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Não | EUA/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Vídeo externo = Global<br>Exibir = NA + EMEA | USD | x | x |  | x | x |  |  |
