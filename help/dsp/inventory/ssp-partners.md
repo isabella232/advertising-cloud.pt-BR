@@ -3,7 +3,7 @@ title: Parceiros SSP
 description: Veja uma lista de SSPs (Supply side Platform, plataforma do lado do suprimento disponível) e parceiros de intercâmbio abertos.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f,None
-source-git-commit: 3833f3339adbdd3c41750ff168de93bd2196949b
+source-git-commit: fb78f6d590f7a5c407788ce025800cbbe5842eb1
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 0%
@@ -48,10 +48,10 @@ Uma plataforma do lado do suprimento (SSP) é uma plataforma de tecnologia de pu
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Não | EUA/CA | USD | x | x |  |  |  |  |  |
 | [!DNL Teads] |  | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Vídeo externo = Global<br>Exibir = NA + EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Magnite CTV] | [!DNL Magnite] (anteriormente [!DNL Telaria] e [!DNL Tremor]) | [!DNL TubeMogul] ou Adobe Advertising Cloud | Sim | Global | AUD, USD | x | x | x |  |  |  |  |
-| [!DNL Tremor] | [!DNL Rhythm One] | Adobe Advertising Cloud | Não | EUA + EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Global | USD |  |  |  |  |  | x |  |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Global | USD | x | x |  | x | x |  |  |
 | [!DNL Triton] |  | Adobe Advertising Cloud | Não | Global | USD |  |  |  |  |  |  | x |
+| [!DNL Unruly] | [!DNL Tremor] | Adobe Advertising Cloud | Não | EUA + EMEA | USD | x | x |  |  |  |  |  |
 | [!DNL Yahoo] | [!DNL Verizon Media Group] | [!DNL TubeMogul] ou Adobe Advertising Cloud | Não | Global | USD |  |  |  | x | x |  |  |
 
 {style=&quot;table-layout:auto&quot;}
