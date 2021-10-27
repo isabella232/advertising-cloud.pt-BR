@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 202b537dba5af3e8926584ae2d5df04df0763a70
+source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -50,3 +50,5 @@ Os seguintes recursos são novos ou alterados recentemente.
 | 15 de outubro de 2020 | Inventário privado | Todos os usuários agora podem configurar e editar informações da ID de negócios usando um novo formulário, que é uma versão simplificada do antigo [!UICONTROL Smart Ad Serving] formulário. Para configurar os detalhes da ID da nova negociação, acesse [!UICONTROL Inventory] > [!UICONTROL Deals], clique em [!UICONTROL Create]e, em seguida, clique em [!UICONTROL Deal ID Beta]. | Consulte &quot;[Criar manualmente detalhes da ID do contrato](/help/dsp/inventory/deal-id-create.md)&quot; e &quot;[Configurações de ID de contrato manual](/help/dsp/inventory/deal-id-settings.md).&quot; |
 |  | Previsão de posicionamento | Para disposições com ritmo de nível de posicionamento, a variável [!UICONTROL Forecast] A seção das configurações de posicionamento inclui um novo [!UICONTROL Estimated Maximums] , que indica quanta capacidade está disponível com a configuração de direcionamento atual. | — |
 | 2 de setembro de 2020 | Relatórios | Qualquer organização com várias contas DSP pode, opcionalmente, habilitar dados entre contas em relatórios personalizados, de acordo com as necessidades da organização. | Consulte a seção &quot;Relatórios entre contas&quot; em &quot;[Sobre Relatórios Personalizados](/help/dsp/reports/report-about.md#cross-account-reporting).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
