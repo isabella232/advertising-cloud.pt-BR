@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 07687a569ba9f24a944bd899524bb2a6a4070204
+source-git-commit: 99d0e178209af42a2e2c71f57980761baf0bfb36
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 28 de outubro de 2021 | Relatórios personalizados | Agora é possível criar e gerenciar [!DNL Amazon S3] e diferentes tipos de locais de entrega FTP, chamados de *[!DNL report destinations]*, para seus relatórios personalizados. Depois de configurar os destinos do relatório, você pode configurar cada um dos novos relatórios personalizados para serem entregues a um ou mais locais de um único tipo de destino, ou para destinatários de email. Atualizações ao seu [!DNL Amazon S3] As credenciais do e do FTP não interrompem a entrega do relatório.<br><br>Seus relatórios existentes ainda são enviados aos destinatários de email especificados. Para configurar o delivery para um destino de relatório diferente, crie um novo relatório com o novo destino. | Consulte &quot;[Sobre [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot;[Crie um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot;[[!UICONTROL Report Destination] Configurações](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; e &quot;[Configurações personalizadas de relatório](/help/dsp/reports/report-settings.md).&quot; |
 | 7 de outubro de 2021 | Ajuda | Todos [DSP e outra documentação do Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] O agora é traduzido por máquina em todos os idiomas disponíveis. Para alterar o idioma exibido, use o menu &quot;Alterar idioma&quot; na parte inferior esquerda de qualquer página.<br>![Alterar idioma](/help/dsp/assets/change-language.png) |
 | 30 de setembro de 2021 | Segurança da marca | (Versão de 22 de setembro) [!DNL DoubleVerify] os produtos pré-lances de segurança da marca foram atualizados para [!DNL Brand Suitability Tiers], que permitem que os anunciantes escolham entre três níveis de risco (baixo, médio e alto) para segmentos específicos sem evitar todas as instâncias de um determinado tópico. Historicamente, os segmentos não incluíam níveis de tolerância.<br><br>Para alinhar com o novo [!DNL DoubleVerify] estrutura de segmento, DSP migrou os segmentos de segurança da marca existentes para os novos, recomendados *medium* segmento de nível. Como opção, você pode ajustar a camada de segmento para *low* ou *alto*.<br><br>**Observação:** Uma pequena lista de segmentos não tem níveis, mas tem novos nomes, como &quot;Nuisance/Spyware/Malware,Warez&quot; > Incentivized/Malware/Clutter&quot;. | — |
 |  | Otimização | As seguintes metas de otimização e filtros pré-lances foram substituídas:<ul><li>Objetivos de otimização:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Objetivos de filtros pré-lances:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Consulte &quot;[Metas de otimização e como usá-las](/help/dsp/optimization/optimization-goals.md)&quot; e &quot;[Filtros de pré-lance em nível de posicionamento e como usá-los](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot; |
