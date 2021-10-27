@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
+source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Como opção, também é possível sobrepor as três métricas para fácil detec
 
 Você pode [personalizar os gráficos de tendências](campaign-data-visualization-manage.md) por campanha e as mesmas métricas são persistentes em todos os gráficos de tendências da campanha.
 
-### Inspetor de posicionamento
+### Posicionamento [!UICONTROL Inspector] {#placement-inspector}
 
 Para cada disposição, você pode [abrir uma (exibição detalhada) [!UICONTROL Inspector])](placement-details-view.md), que inclui os seguintes dados detalhados:
 
@@ -63,7 +63,25 @@ Para cada disposição, você pode [abrir uma (exibição detalhada) [!UICONTROL
    * número estimado de impressões no nível de frequência especificado
    * frequência média estimada para o nível de frequência especificado. Esse valor é igual a (Impressões estimadas)/(Únicos estimados).
 
-![Inspetor de posicionamento](/help/dsp/assets/placement-inspector-sites.png)
+* **[!UICONTROL Inventory]:** Informações sobre todas as ofertas direcionadas pela disposição.
+
+   O [!UICONTROL Inventory] A guia inclui recursos de pesquisa e filtro, as mesmas opções padrão e personalizadas de exibição de coluna que estão disponíveis na página principal e botões de ação rápida em cada linha, como [!UICONTROL Edit] e [!UICONTROL View Report]. O [!UICONTROL Inventory] A guia permite a solução rápida de problemas mostrando estatísticas de desempenho, como [!UICONTROL Auctions], [!UICONTROL Bids]e [!UICONTROL Win Rate].
+
+#### Solução de problemas do inventário
+
+| Problema | Causa Possível | Ações a serem tomadas |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | O editor não iniciou o envio de solicitações de licitação. | Entre em contato com o editor para ativar a negociação. |
+|  | O negócio foi configurado incorretamente, como ao inserir uma ID de negócios externa incorreta. | Confirme os detalhes da negociação e edite a negociação. |
+| [!UICONTROL Auctions but no Bids] | O direcionamento de disposição não corresponde às solicitações de oferta recebidas para o negócio. <br><br> Por exemplo, uma disposição pode estar direcionando uma região geográfica que não está qualificada para a negociação. | Edite as metas de posicionamento conforme necessário para evitar incompatibilidades de direcionamento. |
+|  | A disposição não tem um anúncio ativo com o tipo de mídia necessário para o negócio. | Crie e anexe um anúncio com o tipo de mídia correto à disposição. |
+|  | O posicionamento não tem orçamento adequado. | Aumente o orçamento de disposição para permitir lances em solicitações recebidas. |
+|  | As datas de envio da colocação não se sobrepõem às datas de entrega da impressão do contrato. | Edite as datas de voo da disposição conforme necessário. |
+| [!UICONTROL Low Win Rate] | A proposta máxima da disposição (limite mínimo ou fixo) é inferior ao mínimo exigido pela negociação. | Aumente o [!UICONTROL Max Bid] conforme necessário. |
+|  | A disposição usa filtros pré-lances que limitam a licitação. | Reduza os limites dos filtros pré-lances para permitir mais lances. |
+|  | O direcionamento de público-alvo para a disposição é muito restritivo. | Verifique se os públicos-alvo especificados têm usuários ativos suficientes e expanda o público-alvo, se possível. |
+
+![Inspetor de posicionamento](/help/dsp/assets/placement-inspector.png)
 
 É possível exportar os dados no [!UICONTROL Sites], [!UICONTROL Ads]ou [!UICONTROL Frequency] para a pasta de download padrão do seu navegador como um relatório no formato XLSM.
 
