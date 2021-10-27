@@ -3,9 +3,9 @@ title: Pré-requisitos e informações-chave para implementação [!DNL Analytic
 description: Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 688aece01640647a61df730cbe464597b476b033
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,15 @@ Analise as informações a seguir antes de integrar o Advertising Cloud com o Ad
 
 ## Requisitos para a criação de relatórios de dados do Advertising Cloud em [!DNL Analytics]
 
-* Serviço de identidade do Experience Cloud: `visitorAPI.js` versão 2.0 ou superior
+* Uma das seguintes opções:
+   * Adobe Experience Platform Web SDK: `alloy.js`
+   * Serviço de identidade do Experience Cloud: `visitorAPI.js` versão 2.0 ou superior
 * Qualquer versão do Adobe Analytics (incluindo [!DNL Prime], [!DNL Premium]ou [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` versão 2.1 ou superior
 
 >[!TIP]
 >
->Para melhorar a fidelidade dos dados, use a versão mais recente do Experience Cloud Identity Service com suporte a CNAME, bem como a versão mais recente do Analytics AppMeasurement para JavaScript.
+>Para melhorar a fidelidade dos dados, use a versão mais recente de cada biblioteca.
 
 ## Requisitos para compartilhar segmentos do Analytics com a Advertising Cloud
 
