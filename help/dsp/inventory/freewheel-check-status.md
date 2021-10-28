@@ -3,9 +3,9 @@ title: Verifique o status dos anúncios em busca de um [!DNL [!DNL FreeWheel]] C
 description: Saiba como encontrar o status dos anúncios para [!DNL Freewheel] acordos programáticos garantidos.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Para dúvidas ou problemas adicionais com a reapresentação, entre em contato c
 
 >[!MORELIKETHIS]
 >
->* [Visão Geral da Configuração de Contratos Programáticos Garantidos em FreeWheel](freewheel-overview.md)
->* [Envie um anúncio para um acordo programático garantido para FreeWheel](freewheel-submit.md)
->* [Códigos de erro para envios de anúncios de FreeWheel](freewheel-error-codes.md)
+>* [Visão geral da configuração de contratos programáticos garantidos no [!DNL Freewheel]](freewheel-overview.md)
+>* [Envie um anúncio para um acordo programático garantido para [!DNL Freewheel]](freewheel-submit.md)
+>* [Códigos de erro para [!DNL Freewheel] Envio de anúncios](freewheel-error-codes.md)
 >* [Aceitar um contrato na Caixa de entrada da ID do contrato](deal-id-inbox-accept.md)
 
