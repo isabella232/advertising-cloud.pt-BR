@@ -2,7 +2,7 @@
 title: Soluções avançadas de medição
 description: Veja uma lista das soluções disponíveis para medição avançada.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
+source-git-commit: 927fd18c39ff93fae6222c0376cbe41810c06ca2
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -93,4 +93,4 @@ Os seguintes pacotes de solução de medição estão disponíveis para validar 
 
 ## Mais Informações
 
-Para obter informações sobre todas as ofertas de medição de [!DNL Strategic Advertising Consulting], descrevendo as informações de preços, bem como os formatos e regiões disponíveis para cada solução, entre em contato com o gerente de sucesso do cliente. Também estão disponíveis, mediante pedido, estudos de caso específicos da solução.
+Para obter informações sobre todas as soluções de medição avançadas, descrevendo informações sobre preços, bem como formatos e regiões disponíveis para cada solução, entre em contato com seu [!DNL Adobe] gerente de sucesso do cliente. Também estão disponíveis, mediante pedido, estudos de caso específicos da solução.
