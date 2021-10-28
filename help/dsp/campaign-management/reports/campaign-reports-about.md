@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
+source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Em uma campanha, você pode filtrar dados com base na entidade da campanha: [!UI
 
 Em cada guia de entidade, cada linha inclui as métricas de ritmo e delivery, por padrão, mas é possível [alterar a exibição de coluna](column-view-change.md) ou mesmo [criar uma exibição de coluna personalizada](column-view-create.md) para aplicar em todas as sub-guias da campanha. Você pode [personalizar as tabelas de dados](campaign-data-views-about.md) de outras maneiras. Cada tabela de dados inclui uma [!UICONTROL Subtotals] linha , que mostra a soma ou o valor médio de cada métrica em todas as linhas visíveis.
 
-Para cada campanha, você também pode personalizar gráficos de tendências de séries de tempo com três métricas, que estão disponíveis em cada exibição de entidade. Por padrão, os dados de [!UICONTROL Net Spend], [!UICONTROL Impressions]e [!UICONTROL Net CPM] são incluídos em gráficos separados (gráficos de lista). Como opção, você pode alterar as métricas.
+Para cada campanha, você também pode personalizar gráficos de tendências de séries de tempo com três métricas, que estão disponíveis em cada exibição de entidade. Por padrão, os dados de [!UICONTROL Net Spend], [!UICONTROL Impressions]e [!UICONTROL Net CPM] são incluídos em gráficos separados (gráficos de lista). Como opção, você pode alterar as métricas. Para ativar dados por hora nos gráficos de tendências da série de tempo, altere sua seleção de data para um único dia ([!UICONTROL Today], [!UICONTROL Yesterday]ou um dia específico).
 
 ![gráficos de tendências separados para três métricas](/help/dsp/assets/trend-chart-separate.png)
 
