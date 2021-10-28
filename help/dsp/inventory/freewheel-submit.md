@@ -3,7 +3,7 @@ title: Enviar um anúncio para um contrato PG [!DNL FreeWheel]
 description: Saiba como solicitar aprovação para um anúncio para um contrato programático garantido com um editor no FreeWheel.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 99f1a9060aa90bb4110b4017573adb8e0effb989
+source-git-commit: a124f9cce3be5e68843c2d8df56640962644d5f4
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
