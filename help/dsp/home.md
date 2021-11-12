@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: ab6005d01e74c66cb1c95503d454f45e72fbc85b
+source-git-commit: 8721411c1cd9905d362dff6ea5da39767dcb2c9b
 workflow-type: tm+mt
-source-wordcount: '1376'
+source-wordcount: '1411'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 12 de novembro de 2021 | [!UICONTROL Deal IDs] | No [!UICONTROL Deal ID] configurações, &quot;[!DNL Rubicon]&quot; foi alterado para &quot;[!DNL Magnite DV+],&quot; onde [!DNL DV+] significa exibição, vídeo e outros formatos, como áudio. Isso reflete a nova marca de [!DNL Magnite] SSP. **Observação:** [!DNL Magnite DV+] ainda está listado como &quot;[!DNL Rubicon]&quot; na [!UICONTROL Deal ID Inbox]. | Consulte &quot;[Parceiros SSP](/help/dsp/inventory/ssp-partners.md).&quot; |
 | 27 de outubro de 2021 | Relatórios personalizados | Agora é possível criar e gerenciar [!DNL Amazon S3] e diferentes tipos de locais de entrega FTP, chamados de *[!DNL report destinations]*, para seus relatórios personalizados. Depois de configurar os destinos do relatório, você pode configurar cada um dos novos relatórios personalizados para serem entregues a um ou mais locais de um único tipo de destino, ou para destinatários de email. Atualizações ao seu [!DNL Amazon S3] As credenciais do e do FTP não interrompem a entrega do relatório.<br><br>Seus relatórios existentes ainda são enviados aos destinatários de email especificados. Para configurar o delivery para um destino de relatório diferente, crie um novo relatório com o novo destino. | Consulte &quot;[Sobre [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot;[Crie um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot;[[!UICONTROL Report Destination] Configurações](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; e &quot;[Configurações personalizadas de relatório](/help/dsp/reports/report-settings.md).&quot; |
 |  | [!UICONTROL Packages], [!UICONTROL Placements]e [!UICONTROL Ads] exibições | Ao visualizar dados de um único dia, os gráficos de tendências agora incluem dados por hora. Mantenha o cursor sobre qualquer ponto para ver os dados daquela hora. | Consulte &quot;[Relatório de campanha única](/help/dsp/campaign-management/reports/campaign-reports-about.md#single-campaign-reporting).&quot; |
 |  | [!UICONTROL Placements] | A disposição [!UICONTROL Inspector] agora inclui um [!UICONTROL Inventory] , que mostra todas as ofertas e suas métricas associadas para a disposição. Use as informações para fazer ajustes rápidos ou solucionar problemas sem gerar um relatório personalizado. | Consulte &quot;[Posicionamento [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md#placement-inspector).&quot; |
