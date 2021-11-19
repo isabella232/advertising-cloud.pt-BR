@@ -3,9 +3,9 @@ title: Advertising Cloud IDs usadas por [!DNL Analytics]
 description: Advertising Cloud IDs usadas por [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
+source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
 workflow-type: tm+mt
-source-wordcount: '1156'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,13 @@ Exemplo `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
 
 Em [!DNL Analytics] você pode encontrar dados EF ID pesquisando [!UICONTROL EF ID] e usando a [!UICONTROL EF ID Instance] métrica.
 
-`EF IDs` estão sujeitas ao limite de identificador exclusivo de 500k no Analysis Workspace. Quando o valor de 500k for atingido, todos os novos códigos de rastreamento serão reportados sob o título de item de uma linha &quot;[!UICONTROL Low Traffic].&quot; Devido à possibilidade de falta de fidelidade ao relatório, a variável `EF IDs` não são classificadas, e você não deve usá-las em segmentos ou relatórios no [!DNL Analytics].
+EF IDs estão sujeitas ao limite de identificador único de 500k no Analysis Workspace. Quando o valor de 500k for atingido, todos os novos códigos de rastreamento serão reportados sob o título de item de uma linha &quot;[!UICONTROL Low Traffic].&quot; Devido à possibilidade de falta de fidelidade à comunicação de informações, os IDs das EF não são classificados e não os deve utilizar para segmentos ou para a apresentação de relatórios no [!DNL Analytics].
 
 ## Advertising Cloud AMO IDs
 
 A ID do AMO rastreia cada combinação de anúncios exclusiva em um nível menos granular e é usada para [!DNL Analytics] classificação de dados e assimilação de métricas de publicidade (como impressões, cliques e custo) do Advertising Cloud. A ID do AMO é armazenada em um [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) ou dimensão rVar (ID do AMO) e é usada exclusivamente para relatórios em [!DNL Analytics].
 
-A ID do AMO também é chamada de `s_kwcid`, que por vezes é chamada de &quot;lula&quot;.
+A ID do AMO também é chamada de `s_kwcid`, que por vezes é pronunciado como &quot;[!DNL the squid].&quot;
 
 ### Formato de ID do AMO para [!DNL DSP]
 
