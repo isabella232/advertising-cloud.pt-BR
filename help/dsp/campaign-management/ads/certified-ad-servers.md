@@ -2,8 +2,7 @@
 title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
-exl-id: null
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

@@ -2,8 +2,7 @@
 title: Excluir um relatório personalizado
 description: Saiba como excluir um relatório personalizado.
 feature: DSP Custom Reports
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -14,7 +13,7 @@ ht-degree: 0%
 # Excluir um relatório personalizado
 
 1. No menu principal, clique em **[!UICONTROL Reports]**.
-1. Na coluna [!UICONTROL Options] da linha de relatório, clique em **[!UICONTROL options]>[!UICONTROL Delete]**.
+1. No [!UICONTROL Options] para a linha do relatório, clique em **[!UICONTROL options]>[!UICONTROL Delete]**.
 1. Na mensagem de confirmação, clique em **[!UICONTROL OK]**.
 
 >[!MORELIKETHIS]

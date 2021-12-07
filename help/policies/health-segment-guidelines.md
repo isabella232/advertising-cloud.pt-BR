@@ -2,8 +2,7 @@
 title: Segmentos de integridade aceitáveis do Adobe Advertising Cloud
 description: Consulte as diretrizes para segmentos de público-alvo e táticas aceitáveis relacionadas à integridade para usar como alternativas para direcionar segmentos de público-alvo relacionados à integridade.
 feature: Policies
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,15 +15,15 @@ ht-degree: 0%
 
 As diretrizes a seguir destacam segmentos de público-alvo inaceitáveis e aceitáveis relacionados à saúde. Eles também recomendam táticas para usar como alternativas para direcionar segmentos de público-alvo relacionados à saúde.
 
-Essas diretrizes são resumidas no [!DNL Network Advertising Alliance (NAI)].
+Estas orientações são resumidas da [!DNL Network Advertising Alliance (NAI)].
 
-Consulte também [Política de requisitos do Advertising Cloud Ads](/help/policies/ad-requirements-policy.md) para determinar se um segmento de público-alvo relacionado ao estado de funcionamento pode ser usado de acordo com a política de direcionamento do Adobe Advertising Cloud.
+Consulte também [Política de requisitos do Advertising Cloud Ads](/help/policies/ad-requirements-policy.md) para determinar se um segmento de público-alvo relacionado ao estado de funcionamento pode ser usado de acordo com a política de direcionamento da Adobe Advertising Cloud.
 
 ## Segmentos De Integridade Que Não Devem Ser Usados
 
 * Segmentos que dependem de informações de saúde protegidas (PHI)\*, registros médicos a nível do usuário, prescrições farmacêuticas ou fontes médicas ou similares que fornecem conhecimento real da condição ou do tratamento desse usuário.
 
-   \* O Adobe Advertising Cloud não é uma solução pronta para [!DNL HIPAA].
+   \* Adobe Advertising Cloud não é um [!DNL HIPAA]solução pronta para uso.
 
 * Segmentos que visam as condições de saúde (ou tratamentos conexos), tais como qualquer forma de câncer, saúde mental, toxicodependência, doenças sexualmente transmissíveis, doenças que afetam predominantemente crianças ou outras condições de saúde sensíveis que não podem ser tratadas com medicamentos de contador (por exemplo, diabetes, psoríase, artrite reumatoide ou fibromialgia de doenças).
 

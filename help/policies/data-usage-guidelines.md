@@ -2,8 +2,7 @@
 title: Diretrizes de uso de dados do Adobe Advertising Cloud DSP
 description: Consulte as diretrizes para uso de dados.
 feature: Policies
-exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -20,8 +19,8 @@ Essas Diretrizes de uso de dados (&quot;Diretrizes de dados&quot;) estabelecem o
 
 A Adobe reserva-se o direito de determinar, a seu exclusivo critério, se a utilização de dados pelo Cliente viola as presentes Diretrizes.
 
-## Uso de [!DNL TruSignal] Dados
+## Utilização de [!DNL TruSignal] Dados
 
-[!DNL TruSignal] Os dados não podem ser usados para o seguinte: (1) qualquer objetivo ou ação adversa admissível, tal como definido pelo  [!DNL Fair Credit Reporting Act] (que pode ser alterado periodicamente); (2) renegociação ou reestruturação da dívida; ou (3) facilitar qualquer publicidade a entretenimentos de adultos, pornografia, brinquedos sexuais, danças exóticas, armas de fogo, jogos ilegais ou qualquer outro produto ou serviço que seja ilegal, incluindo sem limitação para discriminar com base na raça, sexo, religião, orientação sexual ou de qualquer forma que possa ser considerado injusto nos termos da legislação aplicável; e (4) para efeitos de (a) elegibilidade para o emprego, (b) elegibilidade para o crédito, elegibilidade para os cuidados de  `(c)` saúde, ou (d) tomada firme e fixação de preços para a elegibilidade dos seguros.<!-- I used backticks in the previous sentence to prevent ( c ) from displaying as a copyright symbol. I think the OS does that. Using HTML code for the parentheses doesn't prevent it. -->
+[!DNL TruSignal] Os dados não podem ser usados para o seguinte: (1) qualquer objetivo ou ação adversa admissível, tal como definido pelo [!DNL Fair Credit Reporting Act] (conforme eventualmente alterado); (2) renegociação ou reestruturação da dívida; ou (3) facilitar qualquer publicidade a entretenimentos de adultos, pornografia, brinquedos sexuais, danças exóticas, armas de fogo, jogos ilegais ou qualquer outro produto ou serviço que seja ilegal, incluindo sem limitação para discriminar com base na raça, sexo, religião, orientação sexual ou de qualquer forma que possa ser considerado injusto nos termos da legislação aplicável; e (4) para efeitos de (a) elegibilidade para efeitos de emprego, (b) elegibilidade para efeitos de crédito, `(c)` elegibilidade para cuidados de saúde, ou d) subscrição e fixação de preços da elegibilidade para seguro.<!-- I used backticks in the previous sentence to prevent ( c ) from displaying as a copyright symbol. I think the OS does that. Using HTML code for the parentheses doesn't prevent it. -->
 
-Além disso, [!DNL TruSignal] os dados não podem ser: (1) descompiladas, desmontadas, utilizadas para criar trabalhos derivados ou engenharia reversa; ou (2) sublicenciado, revendido, reutilizado ou concedido quaisquer direitos a terceiros, incluindo qualquer uso do escritório de serviços.
+Além disso, [!DNL TruSignal] Os dados não podem ser: (1) descompiladas, desmontadas, utilizadas para criar trabalhos derivados ou engenharia reversa; ou (2) sublicenciado, revendido, reutilizado ou concedido quaisquer direitos a terceiros, incluindo qualquer uso do escritório de serviços.
