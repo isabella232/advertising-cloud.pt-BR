@@ -3,9 +3,9 @@ title: Visão geral do gerenciamento de campanhas no Advertising Cloud DSP
 description: Saiba mais sobre a hierarquia e os componentes do gerenciamento de campanha.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ In Advertising Cloud DSP, an insertion order is represented as a campaign, and l
 
 ## [!UICONTROL Campaigns]
 
-[](/help/dsp/campaign-management/campaigns/campaign-about.md) As campanhas são a estrutura abrangente das configurações de voo. Cada campanha é configurada com um anunciante, datas de início e término, um orçamento geral, uma opção de direcionamento entre dispositivos e limite de frequência padrão e opções de relatórios para visualização, fraude, segurança da marca e verificação de público-alvo. Todas as configurações de nível de campanha se aplicam automaticamente a cada pacote e disposição dentro da campanha.
+[Campanhas](/help/dsp/campaign-management/campaigns/campaign-about.md) são o quadro geral das definições de voo. Cada campanha é configurada com um anunciante, datas de início e término, um orçamento geral, uma opção de direcionamento entre dispositivos e limite de frequência padrão e opções de relatórios para visualização, fraude, segurança da marca e verificação de público-alvo. Todas as configurações de nível de campanha se aplicam automaticamente a cada pacote e disposição dentro da campanha.
 
 ## [!UICONTROL Packages]
 
-Cada campanha pode conter um ou mais [pacotes](/help/dsp/campaign-management/packages/package-about.md), cada um incluindo um conjunto de disposições.
+Cada campanha pode conter um ou mais [pacotes](/help/dsp/campaign-management/packages/package-about.md), cada qual inclui um conjunto de disposições.
 
 Use pacotes para agrupar disposições para entrega em um orçamento definido, objetivo de desempenho e estratégia de ritmo personalizado. DSP otimiza pacotes ao transferir orçamentos para as disposições com melhor desempenho no pacote. Você pode organizar os pacotes por formato de disposição, tipo de inventário, provedor de dados, persona ou outras características distinguíveis.
 
@@ -39,11 +39,11 @@ Os pacotes são opcionais, mas recomendados.
 
 ## [!UICONTROL Placements]
 
-Um [placement](/help/dsp/campaign-management/placements/placement-about.md) armazena parâmetros de definição de metas para um ou mais anúncios do mesmo tipo de anúncio. Você pode criar uma disposição para uma única campanha ou pacote e, em seguida, atribuir anúncios a ele.
+A [placement](/help/dsp/campaign-management/placements/placement-about.md) armazena parâmetros de definição de metas para um ou mais anúncios do mesmo tipo de anúncio. Você pode criar uma disposição para uma única campanha ou pacote e, em seguida, atribuir anúncios a ele.
 
 ## [!UICONTROL Ads]
 
-[](/help/dsp/campaign-management/ads/ad-about.md) Inclua ativos criativos e URLs de rastreamento. Você pode fazer upload de seus ativos criativos e DSP os anúncios que os usam gratuitamente, ou você pode fazer upload de tags de veiculação de anúncios de terceiros.
+[Anúncios](/help/dsp/campaign-management/ads/ad-about.md) inclua ativos criativos e URLs de rastreamento. Você pode fazer upload de seus ativos criativos e DSP os anúncios que os usam gratuitamente, ou você pode fazer upload de tags de veiculação de anúncios de terceiros.
 
 Depois que seus anúncios forem configurados, será necessário anexar cada anúncio a uma disposição. Você pode anexar um único anúncio a uma ou mais disposições.
 
@@ -66,4 +66,5 @@ Você pode criar um anúncio imediatamente com o anúncio carregado, ou pode cri
 >* [Práticas recomendadas para configurar campanhas de desempenho](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [Sobre relatórios na plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Sobre as exibições de dados da campanha](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
+>* [Vídeo: Estrutura da conta DSP e interface do usuário](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 
