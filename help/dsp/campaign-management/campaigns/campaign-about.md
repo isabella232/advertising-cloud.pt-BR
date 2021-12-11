@@ -3,9 +3,9 @@ title: Sobre o gerenciamento de campanhas no Advertising Cloud DSP
 description: Saiba mais sobre gestão de campanha.
 feature: DSP Campaigns
 exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ As campanhas são a estrutura abrangente das configurações de voo. Todas as co
 
 Você pode criar campanhas manualmente ou duplicando campanhas existentes. Também é possível editar campanhas existentes.
 
-## O painel [!UICONTROL Campaigns]
+## O [!UICONTROL Campaigns] Painel
 
 <!-- standardize on "dashboard" or "view" -->
-O painel [!UICONTROL Campaigns] centraliza o desempenho e os relatórios econômicos em todas as campanhas, fornecendo um instantâneo rápido de como as campanhas foram executadas durante um intervalo de datas especificado.
+O [!UICONTROL Campaigns] O painel centraliza o desempenho e os relatórios econômicos em todas as campanhas, fornecendo um instantâneo rápido de como as campanhas foram executadas durante um intervalo de datas especificado.
 
 ![Painel de campanhas](/help/dsp/assets/campaign-dashboard.png)
 
@@ -27,7 +27,7 @@ Por padrão, o painel mostra as métricas de ritmo e delivery por campanha. Opci
 
 >[!NOTE]
 >
->Você pode personalizar ainda mais o conteúdo e o delivery dos relatórios de campanha por meio de [relatórios personalizados](/help/dsp/reports/report-about.md).
+>Você pode personalizar ainda mais o conteúdo e a entrega de relatórios de campanha por meio de [relatórios personalizados](/help/dsp/reports/report-about.md).
 
 Para visualizar todos os pacotes, disposições e anúncios em uma campanha, clique no nome da campanha.
 
@@ -35,4 +35,5 @@ Para visualizar todos os pacotes, disposições e anúncios em uma campanha, cli
 >
 >* [Criar uma campanha](campaign-create.md)
 >* [Configurações da campanha](campaign-settings.md)
+>* [Vídeo: Estrutura da conta DSP e interface do usuário](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 
