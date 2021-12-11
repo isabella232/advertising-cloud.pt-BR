@@ -3,10 +3,10 @@ title: Editar uma disposição
 description: Saiba como editar uma disposição.
 feature: DSP Placements
 exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 1%
 
 >[!TIP]
 >
-> Para editar apenas o nome da disposição, o status, o lance máximo e o orçamento, consulte &quot;[Editar rapidamente as configurações de disposição de chave](/help/dsp/campaign-management/placements/placement-quick-edit.md)&quot;.
+> Para editar apenas o nome da disposição, o status, o lance máximo e o orçamento, consulte &quot;[Editar rapidamente as configurações de posicionamento de chaves](/help/dsp/campaign-management/placements/placement-quick-edit.md).&quot;
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
 1. Clique no nome da campanha.
 1. No submenu, clique em **[!UICONTROL Placements]**.
-1. Ao lado do nome do posicionamento, clique em **[!UICONTROL ...]>[!UICONTROL Edit]**.
-1. Edite as [configurações de posicionamento](placement-settings.md).
+1. Ao lado do nome da disposição, clique em  **[!UICONTROL ...]>[!UICONTROL Edit]**.
+1. Edite o [configurações de posicionamento](placement-settings.md).
 1. Clique em **[!UICONTROL Update placement]**.
 
 >[!MORELIKETHIS]
@@ -36,4 +36,5 @@ ht-degree: 1%
 >* [Atalhos de teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Configurações de posicionamento](placement-settings.md)
 >* [Sobre a correção das configurações de disposição de uma campanha usando planilhas](/help/dsp/campaign-management/qa/qa-about.md)
+>* [Vídeo: Como editar disposições usando ferramentas de edição em massa](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 
