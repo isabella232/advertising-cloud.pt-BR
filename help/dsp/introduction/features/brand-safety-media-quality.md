@@ -3,9 +3,9 @@ title: Segurança da marca e qualidade da mídia
 description: Saiba mais sobre a segurança da marca e os recursos de qualidade de mídia.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1308'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Além de fornecer gerenciamento de qualidade central, acreditamos em capacitar o
 
 ### Verificação de inventário com [!DNL Ads.txt] Suporte
 
-[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) é uma iniciativa lançada pela [!DNL Interactive Advertising Bureau] ([!DNL IAB]) em junho de 2017, para facilitar a representação adequada do inventário no mercado aberto, combatendo assim fontes ilegítimas de tráfego e falsificação de domínios. Os editores e distribuidores participantes declaram publicamente as empresas autorizadas a vender o seu inventário digital, bem como a natureza dessas relações, mantendo `ads.txt` no nível superior do domínio (como `example.com/ads.txt`).
+[[!DNL Ads.txt], que significa [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) é uma iniciativa lançada pela [!DNL Interactive Advertising Bureau] ([!DNL IAB]) em junho de 2017, para facilitar a representação adequada do inventário no mercado aberto, combatendo assim fontes ilegítimas de tráfego e falsificação de domínios. Os editores e distribuidores participantes declaram publicamente as empresas autorizadas a vender o seu inventário digital, bem como a natureza dessas relações, mantendo `ads.txt` no nível superior do domínio (como `example.com/ads.txt`).
 
 DSP compatível [!DNL ads.txt] lendo cada editor `ads.txt` e dando a você a opção de comprar somente de verificado [!DNL ads.txt] vendedores. Por exemplo, ao combinar os vendedores, vemos acessando `nytimes.com` ao New York Times&quot; `ads.txt` , podemos identificar quais são legítimas e quais não são, e bloquearemos os infratores se a disposição estiver configurada para comprar somente de vendedores verificados. <!-- can we actually mention NY Times? -->
 
@@ -118,9 +118,11 @@ O direcionamento de tópico DSP permite direcionar ou bloquear listas de palavra
 
 A definição de metas por tópico ajuda você a garantir que seus anúncios sejam sempre veiculados em um ambiente alinhado à sua marca, seja isso o que inclui o bloqueio de conteúdo prejudicial ou a garantia de gastos em um contexto que garanta um resultado maior.
 
-O direcionamento de tópico requer a criação de segmentos de tópico diretamente com o [!DNL Comscore] ou [!DNL Grapeshot] (usando [!DNL Oracle Data Cloud]). Depois que eles forem criados na plataforma do parceiro, você poderá [direcionar ou excluir uma ID de segmento na[!UICONTROL  Audience Targeting] seção para cada posicionamento](/help/dsp/campaign-management/placements/placement-settings.md). Taxas adicionais podem ser aplicadas para este recurso.
+O direcionamento de tópico requer a criação de segmentos de tópicos personalizados diretamente com o [!DNL Comscore] ou [!DNL Grapeshot] (usando [!DNL Oracle Data Cloud]). Depois que eles forem criados na plataforma do parceiro, você poderá [direcionar ou excluir uma ID de segmento na [!UICONTROL Audience Targeting] seção para cada posicionamento](/help/dsp/campaign-management/placements/placement-settings.md). Taxas adicionais podem ser aplicadas para este recurso.
 
-Para começar, entre em contato com seu fornecedor preferencial ou com seu [!DNL Adobe] gerente de conta.
+* Para criar um [!DNL Comscore] e criar segmentos personalizados, você pode solicitar um logon para [!DNL Activation Segment Manager] em http://agents.comscore.com/. Consulte a [[!DNL Comscore] centro de ajuda](https://comscoreactivation.zendesk.com/hc/) para obter instruções completas para configurar segmentos personalizados. As tarifas para segmentos personalizados estão visíveis em [!DNL Segment Manager] conforme você os cria.
+
+* Para começar a [!DNL Oracle Data Cloud], contato [!DNL Oracle Data Cloud] ou seu [!DNL Adobe] gerente de conta.
 
 ![Logotipo da Comscore](/help/dsp/assets/comscore-logo.png) ![Logotipo do Graphics](/help/dsp/assets/oracle-grapeshot-logo.png)
 
