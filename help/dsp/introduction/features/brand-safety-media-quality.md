@@ -3,9 +3,9 @@ title: Segurança da marca e qualidade da mídia
 description: Saiba mais sobre a segurança da marca e os recursos de qualidade de mídia.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 75227ae12d1095c8a537444b1924023bc2b54be3
+source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
 workflow-type: tm+mt
-source-wordcount: '1310'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -114,13 +114,13 @@ Você pode definir filtros de visualização padrão para cada anunciante<!-- [d
 
 ### Direcionamento de tópico
 
-O direcionamento de tópico DSP permite direcionar ou bloquear listas de palavras-chave aproveitando nossos parceiros contextuais líderes do setor [!DNL Comscore] e [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
-
-A definição de metas por tópico ajuda você a garantir que seus anúncios sejam sempre veiculados em um ambiente alinhado à sua marca, seja isso o que inclui o bloqueio de conteúdo prejudicial ou a garantia de gastos em um contexto que garanta um resultado maior.
+O direcionamento de tópico DSP permite direcionar ou bloquear listas de palavras-chave aproveitando nossos parceiros contextuais líderes do setor [!DNL Comscore] e [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). A definição de metas por tópico ajuda você a garantir que seus anúncios sejam sempre veiculados em um ambiente alinhado à sua marca, seja isso o que inclui o bloqueio de conteúdo prejudicial ou a garantia de gastos em um contexto que garanta um resultado maior.
 
 O direcionamento de tópico requer a criação de segmentos de tópicos personalizados diretamente com o [!DNL Comscore] ou [!DNL Grapeshot] (usando [!DNL Oracle Data Cloud]). Depois que eles forem criados na plataforma do parceiro, você poderá [direcionar ou excluir uma ID de segmento na [!UICONTROL Audience Targeting] seção para cada posicionamento](/help/dsp/campaign-management/placements/placement-settings.md). Taxas adicionais podem ser aplicadas para este recurso.
 
-* Para criar um [!DNL Comscore] e criar segmentos personalizados, você pode solicitar um logon para [!DNL Activation Segment Manager] em ]http://agents.comscore.com](http://agents.comscore.com). Consulte a [[!DNL Comscore] centro de ajuda](https://comscoreactivation.zendesk.com/hc/) para obter instruções completas para configurar segmentos personalizados. As tarifas para segmentos personalizados estão visíveis em [!DNL Segment Manager] conforme você os cria.
+Para criar segmentos de tópicos personalizados:
+
+* Para criar um [!DNL Comscore] e criar segmentos personalizados, você pode solicitar um logon para [!DNL Activation Segment Manager] at [http://agents.comscore.com](http://agents.comscore.com). Consulte a [[!DNL Comscore] centro de ajuda](https://comscoreactivation.zendesk.com/hc/) para obter instruções completas para configurar segmentos personalizados. As tarifas para segmentos personalizados estão visíveis em [!DNL Segment Manager] conforme você os cria.
 
 * Para começar a [!DNL Oracle Data Cloud], contato [!DNL Oracle Data Cloud] ou seu [!DNL Adobe] gerente de conta.
 
