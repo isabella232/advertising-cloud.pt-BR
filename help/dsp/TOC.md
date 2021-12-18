@@ -8,9 +8,9 @@ user-guide-title: Manual de Advertising Cloud DSP
 user-guide-description: Saiba mais sobre os principais recursos, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncios gráficos usando o Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: b113d8337e5108ccc1a2ba99d23900bb1cb72cee
+source-git-commit: aba948d8840aa986bc7fe3e8a167da2316bdbdd0
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '768'
 ht-degree: 3%
 
 ---
@@ -182,6 +182,9 @@ ht-degree: 3%
       + [Edite um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
       + [Excluir um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Configurações](/help/dsp/reports/report-destinations/report-destination-settings.md)
++ Administração {#admin}
+   + [Sobre as listas de sites bloqueados no nível da conta e no nível do anunciante](/help/dsp/admin/blocked-sites-list-about.md)
+   + [Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integrações com o Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Suporte ao cliente](https://helpx.adobe.com/br/contact/enterprise-support.ec.html)
 + [Notas de versão da Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

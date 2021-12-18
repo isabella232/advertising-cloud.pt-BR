@@ -1,17 +1,12 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante
-description: Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante
-source-git-commit: 27367fdee872cea9016cccd12aa082aa7455dbce
+description: Saiba como gerenciar a lista de sites bloqueados de uma conta ou anunciante.
+source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante
 
@@ -43,6 +38,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-> [Segurança da marca e qualidade da mídia](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [Sobre as listas de sites bloqueados no nível da conta e no nível do anunciante](/help/dsp/admin/blocked-sites-list-about.md)
+   > [Segurança da marca e qualidade da mídia](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)
 
