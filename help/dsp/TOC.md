@@ -8,7 +8,7 @@ user-guide-title: Manual de Advertising Cloud DSP
 user-guide-description: Saiba mais sobre os principais recursos, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncios gráficos usando o Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: aba948d8840aa986bc7fe3e8a167da2316bdbdd0
+source-git-commit: af7027962a1b565ceef649f1abff2ff7f740d9cc
 workflow-type: tm+mt
 source-wordcount: '768'
 ht-degree: 3%

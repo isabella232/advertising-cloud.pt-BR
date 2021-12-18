@@ -1,7 +1,7 @@
 ---
 title: Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante
 description: Saiba como gerenciar a lista de sites bloqueados de uma conta ou anunciante.
-source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
+source-git-commit: 4a5c4a2f180eba26818137bf9c31f212b342543a
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
