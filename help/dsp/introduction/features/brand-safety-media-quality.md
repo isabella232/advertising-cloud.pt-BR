@@ -3,7 +3,7 @@ title: Segurança da marca e qualidade da mídia
 description: Saiba mais sobre a segurança da marca e os recursos de qualidade de mídia.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: fac152a5e3d040bcfacda97f05f3990fd17f677d
+source-git-commit: 3bca3d5b4a1ec0bf9bb23946248de350b8bbf2a6
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -120,7 +120,7 @@ O direcionamento de tópico requer a criação de segmentos de tópicos personal
 
 Para criar segmentos de tópicos personalizados:
 
-* Para criar um [!DNL Comscore] e criar segmentos personalizados, você pode solicitar um logon para [!DNL Activation Segment Manager] at [http://agents.comscore.com](http://agents.comscore.com). Consulte a [[!DNL Comscore] centro de ajuda](https://comscoreactivation.zendesk.com/hc/) para obter instruções completas para configurar segmentos personalizados. As tarifas para segmentos personalizados estão visíveis em [!DNL Segment Manager] conforme você os cria.
+* Para criar um [!DNL Comscore] e criar segmentos personalizados, você pode solicitar um logon para [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). Consulte a [[!DNL Comscore] centro de ajuda](https://comscoreactivation.zendesk.com/hc/) para obter instruções completas para configurar segmentos personalizados. As tarifas para segmentos personalizados estão visíveis em [!DNL Segment Manager] conforme você os cria.
 
 * Para começar a [!DNL Oracle Data Cloud], contato [!DNL Oracle Data Cloud] ou seu [!DNL Adobe] gerente de conta.
 
