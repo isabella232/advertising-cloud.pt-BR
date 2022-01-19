@@ -2,9 +2,10 @@
 title: Por que os dados de canal podem variar entre a Advertising Cloud e a [!DNL Marketing Channels]
 description: Saiba por que os dados de canal rastreados pela ID do AMO podem variar em relação aos dados de canal rastreados por [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4605dc7d-43d7-414f-a509-6096c6cf5fd2
+source-git-commit: b99d0ce78dc2adc16e555ef618393ef2fc11067d
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Os dois conjuntos de dados têm casos de uso principal diferentes:
 
 * Advertising Cloud AMO ID: O principal caso de uso dos dados da Advertising Cloud AMO ID é o feed do [!DNL Adobe Sensei]algoritmos de lance alimentados por. Os algoritmos tomam automaticamente milhares de decisões de lances de nível micro feitas diariamente para maximizar os gastos com publicidade e alcançar os objetivos da [!DNL DSP] campanha ou [!DNL Search] carteira. Quanto mais dados de conversão os algoritmos conseguirem conectar campanhas, melhor será o algoritmo poder tomar essas decisões de licitação.
 
-   Para coletar esses dados, a variável [!DNL Analytics for Advertising Cloud] A integração transmite IDs AMO brutas que podem ser traduzidas como códigos de rastreamento de click-through e view-through na dimensão ID do AMO do Adobe Analytics — que é armazenada como uma variável personalizada (eVar) ou reservada (rVar). Os click-throughs para outros canais não são definidos na dimensão da ID do AMO, portanto, a dimensão da ID do AMO não consegue rastrear a entrada desses outros canais. O resultado é que a ID do AMO persiste [!DNL Marketing Channes]l pontos de entrada.
+   Para coletar esses dados, a variável [!DNL Analytics for Advertising Cloud] A integração transmite IDs AMO brutas que podem ser traduzidas como códigos de rastreamento de click-through e view-through na dimensão ID do AMO do Adobe Analytics — que é armazenada como uma variável personalizada (eVar) ou reservada (rVar). Os click-throughs para outros canais não são definidos na dimensão da ID do AMO, portanto, a dimensão da ID do AMO não consegue rastrear a entrada desses outros canais. O resultado é que a ID do AMO persiste [!DNL Marketing Channels] pontos de entrada.
 
 Para obter mais informações sobre possíveis variações de dados entre dados rastreados pela Advertising Cloud e [!DNL Analytics]-dados rastreados, consulte &quot;[Variações de dados esperadas entre [!DNL Analytics] e Advertising Cloud](../data-variances.md).&quot;
 
