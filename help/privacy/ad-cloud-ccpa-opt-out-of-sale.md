@@ -3,9 +3,9 @@ title: 'Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumid
 description: Saiba mais sobre o suporte para capturar solicitações de cancelamento da venda do consumidor.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: e00f87009fb36a057069caa53f30c7414a2ee444
+source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Você pode comunicar solicitações de cancelamento de venda do consumidor usand
 
 ### Método 2: Comunicar as solicitações de recusa de venda do CCPA usando a API do Adobe Experience Platform Privacy Service
 
-*Os anunciantes atribuem somente uma ID de organização do Experience Cloud (ID de organização IMS)*
+*Os anunciantes atribuíram uma Adobe Experience Cloud [!DNL Organization ID] ([!DNL IMS Org ID]somente )*
 
 1. Implante uma biblioteca JavaScript para recuperar os cookies do cliente. A mesma biblioteca, `AdobePrivacy.js`, é usada para todas as soluções da Adobe Experience Cloud.
 
