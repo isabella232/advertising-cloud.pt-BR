@@ -2,7 +2,7 @@
 title: Sobre inventário privado
 description: Sobre inventário privado
 feature: DSP Private Inventory
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Os anunciantes que procuram além do RTB podem usar o inventário privado para f
 
 ### IDs de contrato
 
-Se você tiver relações diretas com editores, é possível simplificar seu processo de compra de mídia e fluxo de trabalho usando suas próprias ofertas privadas, com inventário negociado e preços, em suas disposições do Advertising Cloud DSP. DSP fará a integração com todos os seus editores ao configurar uma conta. Se quiser acessar editores adicionais posteriormente, entre em contato com seu [!DNL Adobe] gerente de conta para configurar o acesso. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Se você tiver relações diretas com editores, é possível simplificar seu processo de compra de mídia e fluxo de trabalho usando suas próprias ofertas privadas, com inventário negociado e preços, em suas disposições do Advertising Cloud DSP. DSP fará a integração com todos os seus editores ao configurar uma conta. Se quiser acessar editores adicionais posteriormente, entre em contato com seu [!DNL Adobe] equipe de conta para configurar o acesso. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Todas as suas ofertas privadas com uma ID de negócios são financiadas e faturadas por [!DNL Adobe].
 

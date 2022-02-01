@@ -3,7 +3,7 @@ title: Visão geral da [!DNL Analytics for Advertising Cloud]
 description: Visão geral da [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1086'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Prestações primárias:
 
 Para usar [!DNL Analytics] como ferramenta de relatórios de mídia paga, sua organização precisa de um login do Experience Cloud com acesso ao Analysis Workspace. Sua equipe do Advertising Cloud ajudará você a mapear os dados do Advertising Cloud para conjuntos de relatórios individuais no Analysis Workspace. É possível enviar dados do Advertising Cloud para qualquer conjunto de relatórios, mas você deve estar ciente dos conjuntos de relatórios que foram mapeados para o Advertising Cloud e aqueles que não foram mapeados. Dependendo do conjunto de relatórios, isso pode alterar os dados relatados.
 
-[Advertising Cloud IDs no [!DNL Analytics]](ids.md) funciona como outras eVars, com uma expiração persistente e personalizada. Por padrão, a janela de lookback de atribuição é definida como 60 dias durante a implementação do Advertising Cloud. Para alterar essa configuração, trabalhe com seu [!DNL Adobe] gerente de conta.
+[Advertising Cloud IDs no [!DNL Analytics]](ids.md) funciona como outras eVars, com uma expiração persistente e personalizada. Por padrão, a janela de lookback de atribuição é definida como 60 dias durante a implementação do Advertising Cloud. Para alterar essa configuração, trabalhe com seu [!DNL Adobe] equipe da conta.
 
 As dimensões do Advertising Cloud são anexadas com o sufixo &quot;(ID do AMO)&quot; (como &quot;Tipo de anúncio (ID do AMO)&quot;). Consulte &quot;[Métricas do Advertising Cloud no Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; para obter uma lista das dimensões disponíveis.
 

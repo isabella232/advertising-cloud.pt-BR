@@ -3,7 +3,7 @@ title: Práticas recomendadas para configurar campanhas de desempenho
 description: Conheça as práticas recomendadas para configurar campanhas focadas no desempenho, que incluem disposições otimizadas para o CPA mais baixo ou para o ROAS mais alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 0%
@@ -140,7 +140,7 @@ Para maximizar a escala, use [!UICONTROL Public] (Open Exchange) e [!UICONTROL O
 
 * **[!UICONTROL Device Targeting]**:
    * Incluir [!UICONTROL Computer], [!UICONTROL Mobile]e [!UICONTROL Tablet].
-   * Não direcionar [!UICONTROL Firefox] e [!UICONTROL Safari] devido às limitações de direcionamento e medição. Entre em contato com seu [!DNL Adobe] gerente de conta para obter mais detalhes sobre [!DNL Adobe] suporte para [!DNL Safari ITP].
+   * Não direcionar [!UICONTROL Firefox] e [!UICONTROL Safari] devido às limitações de direcionamento e medição. Entre em contato com seu [!DNL Adobe] equipe da conta para obter mais detalhes sobre [!DNL Adobe] suporte para [!DNL Safari ITP].
    * Se você direcionar o tráfego da Web móvel, desative todos os navegadores móveis exceto [!UICONTROL Chrome] e [!UICONTROL Edge].
 
 ### Segurança da marca e qualidade da mídia

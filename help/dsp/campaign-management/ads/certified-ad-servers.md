@@ -2,7 +2,8 @@
 title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -40,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | As capas de alto impacto devem ser servidas de uma ID de negócios de exibição de 180x150 na rede de inventário de capa interna. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; Saída de 300x250 </br></br>Entre em contato com seu [!DNL Adobe] gerente de conta para obter assistência na configuração de unidades de publicidade. |
+| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; Saída de 300x250 </br></br>Entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência na configuração de unidades de publicidade. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |

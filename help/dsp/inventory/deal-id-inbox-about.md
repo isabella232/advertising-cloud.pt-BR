@@ -1,11 +1,11 @@
 ---
 title: Sobre o [!UICONTROL Deal ID Inbox]
-description: Saiba mais sobre o [!UICONTROL Deal ID inbox] , que permite aceitar ofertas privadas que você já negociou com editores no [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
+description: Saiba mais sobre o [!UICONTROL Deal ID inbox] , que permite aceitar ofertas privadas que você já negociou com editores no [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 2539d9b8ec7de7202dd6c3400dda85aa133853e3
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ DSP atualiza automaticamente todos os detalhes do negócio diariamente às 4:30 
 
 ## Implementar o [!UICONTROL Deal ID Inbox]
 
-Para receber suas ofertas na [!UICONTROL Deal ID inbox], suas contas do SSP devem mapear a conta de DSP da organização para a conta do SSP. DSP compartilhará os nomes de conta da organização com os PUPs relevantes. Entre em contato com seu [!DNL Adobe] gerente de conta para obter instruções.
+Para receber suas ofertas na [!UICONTROL Deal ID inbox], suas contas do SSP devem mapear a conta de DSP da organização para a conta do SSP. DSP compartilhará os nomes de conta da organização com os PUPs relevantes. Entre em contato com seu [!DNL Adobe] para obter instruções.
 
 Durante as negociações de negócios, diga ao editor para enviar o contrato para seu comprador em vez de para a conta de DSP principal. O identificador da transação pode ser um nome ou uma ID, dependendo da PUP.
 

@@ -3,7 +3,7 @@ title: Sobre o Gerenciamento de público-alvo no Advertising Cloud DSP
 description: Saiba mais sobre os recursos de gerenciamento de público-alvo.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 0%
@@ -34,7 +34,7 @@ A Advertising Cloud DSP pode importar seus próprios segmentos de dados primári
 
 O Advertising Cloud DSP também pode importar segmentos personalizados de terceiros, incluindo combinações complexas de segmentos de terceiros. Você pode fornecer os segmentos a qualquer conjunto de anunciantes, conforme necessário.
 
-Entre em contato com seu [!DNL Adobe] gerente de conta para obter mais informações.
+Entre em contato com seu [!DNL Adobe] para obter mais informações.
 
 ## Públicos-alvo disponíveis como metas de posicionamento
 
@@ -102,11 +102,11 @@ O [!UICONTROL Segments] também lista os seguintes tipos de segmento:
 
 * Todos os segmentos primários importados disponíveis para o usuário.
 
-   Não é possível editar ou compartilhar segmentos primários que foram compartilhados com você. Entre em contato com seu [!DNL Adobe] gerente de conta, caso precise compartilhar segmentos primários com usuários adicionais.
+   Não é possível editar ou compartilhar segmentos primários que foram compartilhados com você. Entre em contato com seu [!DNL Adobe] equipe de contas caso precise compartilhar segmentos primários com usuários adicionais.
 
 * Todos os segmentos personalizados de terceiros disponíveis para o usuário.
 
-   Não é possível editar ou compartilhar segmentos de terceiros que foram compartilhados com você. Entre em contato com seu [!DNL Adobe] gerente de conta, caso precise compartilhar segmentos de terceiros com usuários adicionais.
+   Não é possível editar ou compartilhar segmentos de terceiros que foram compartilhados com você. Entre em contato com seu [!DNL Adobe] equipe de contas caso precise compartilhar segmentos de terceiros com usuários adicionais.
 
 >[!MORELIKETHIS]
 >

@@ -3,7 +3,7 @@ title: Variações de dados esperadas entre [!DNL Analytics] e Advertising Cloud
 description: Variações de dados esperadas entre [!DNL Analytics] e Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3282'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Se uma janela de lookback de relatório ou um modelo de atribuição for modific
 
 >[!IMPORTANT]
 >
->A prática recomendada é usar as mesmas janelas de retrospectiva e modelo de atribuição no Advertising Cloud e no [!DNL Analytics]. Trabalhe com seu [!DNL Adobe] gerente de conta conforme necessário para identificar as configurações atuais e manter as configurações sincronizadas.
+>A prática recomendada é usar as mesmas janelas de retrospectiva e modelo de atribuição no Advertising Cloud e no [!DNL Analytics]. Trabalhe com seu [!DNL Adobe] a equipe de conta conforme necessário para identificar as configurações atuais e manter as configurações sincronizadas.
 
 Esses mesmos conceitos se aplicam a qualquer outro canal semelhante que usa janelas de retrospectiva ou modelos de atribuição diferentes.
 
@@ -161,7 +161,7 @@ Nos relatórios do Advertising Cloud, é possível comparar cliques com instânc
 
 ```Clicks to [!UICONTROL EF ID Instances] = (ef_id_instances / Clicks)```
 
-Embora você deva esperar uma alta taxa de correspondência entre a ID do AMO e a ID do EF, não espere 100% de paridade porque a ID do AMO e a ID do EF rastreiam dados diferentes fundamentalmente, e essa diferença pode levar a pequenas diferenças no total [!UICONTROL AMO ID Instances] e [!UICONTROL EF ID Instances]. Se o total [!UICONTROL AMO ID Instances] em [!DNL Analytics] diferem de [!UICONTROL EF ID Instances] no Advertising Cloud em mais de 1%, no entanto, entre em contato com seu [!DNL Adobe] gerente de conta para obter assistência.
+Embora você deva esperar uma alta taxa de correspondência entre a ID do AMO e a ID do EF, não espere 100% de paridade porque a ID do AMO e a ID do EF rastreiam dados diferentes fundamentalmente, e essa diferença pode levar a pequenas diferenças no total [!UICONTROL AMO ID Instances] e [!UICONTROL EF ID Instances]. Se o total [!UICONTROL AMO ID Instances] em [!DNL Analytics] diferem de [!UICONTROL EF ID Instances] no Advertising Cloud em mais de 1%, no entanto, entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência.
 
 Para obter mais informações sobre a ID do AMO e a ID do EF, consulte [Advertising Cloud IDs usadas pelo Analytics](ids.md).
 
@@ -173,7 +173,7 @@ A seguir, um exemplo de um espaço de trabalho para rastrear cliques em instânc
 
 O [ID do AMO](ids.md) (parâmetro da string de consulta s_kwcid) é usado para relatórios em [!DNL Analytics]e o [EF ID](ids.md) é usada para relatórios no Advertising Cloud. Como são valores distintos, é possível que um valor seja corrompido ou não adicionado à página inicial.
 
-Por exemplo, suponha que tenhamos a seguinte landing page:
+Por exemplo, suponha que tenhamos a seguinte página de aterrissagem:
 
 `www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id`
 
@@ -187,7 +187,7 @@ em que EF ID é &quot;`test_ef_id`&quot; e a ID do AMO é &quot;`test_amo_id#red
 
 Neste exemplo, a adição da tag de âncora adiciona caracteres inesperados à ID do AMO, resultando em um valor que o Analytics não reconhece. Essa ID do AMO não seria classificada, e as conversões associadas a ela se encaixariam em &quot;[!UICONTROL unspecified]&quot; ou &quot;[!UICONTROL none]&quot; in [!DNL Analytics] relatórios.
 
-Felizmente, embora problemas como esse sejam comuns, eles normalmente não resultam em uma alta porcentagem de discrepância. No entanto, se você observar uma grande discrepância entre as IDs do AMO em [!DNL Analytics] e EF IDs no Advertising Cloud, entre em contato com seu [!DNL Adobe] gerente de conta para obter assistência.
+Felizmente, embora problemas como esse sejam comuns, eles normalmente não resultam em uma alta porcentagem de discrepância. No entanto, se você observar uma grande discrepância entre as IDs do AMO em [!DNL Analytics] e EF IDs no Advertising Cloud, entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência.
 
 ## Outras considerações de métrica
 
@@ -217,7 +217,7 @@ Cliques e click-throughs são duas métricas diferentes:
 
 Cliques e click-throughs podem ser muito diferentes devido a cliques acidentais de anúncios. Observamos que a maioria dos cliques em anúncios de exibição são cliques acidentais e esses visitantes acidentais acessam o botão Voltar antes que a página de aterrissagem seja carregada, portanto [!DNL Analytics] não é possível gravar um click-through. Isso é especialmente verdadeiro para anúncios nos quais um clique acidental é mais provável, como anúncios móveis, anúncios de vídeo e anúncios que preenchem a tela e devem ser fechados antes que o usuário possa exibir a página.
 
-Os sites carregados em dispositivos móveis também têm menos probabilidade de resultar em click-throughs devido a larguras de banda mais baixas ou poder de processamento disponível, fazendo com que as páginas de aterrissagem demorem mais tempo para serem carregadas. Não é incomum que 50-70% dos cliques não resultem em click-throughs. Em ambientes móveis, a diferença pode chegar a 90% devido à combinação de um navegador mais lento e à maior probabilidade do usuário clicar no anúncio acidentalmente ao rolar pela página ou tentar fechar o anúncio.
+Os sites carregados em dispositivos móveis também têm menos probabilidade de resultar em click-throughs devido a larguras de banda mais baixas ou poder de processamento disponível, fazendo com que as landing pages demorem mais tempo para carregar. Não é incomum que 50-70% dos cliques não resultem em click-throughs. Em ambientes móveis, a diferença pode chegar a 90% devido à combinação de um navegador mais lento e à maior probabilidade do usuário clicar no anúncio acidentalmente ao rolar pela página ou tentar fechar o anúncio.
 
 Os dados de clique também podem ser registrados em ambientes que não podem registrar click-throughs com os mecanismos de rastreamento atuais (como cliques que entram ou saem de um aplicativo móvel) ou para os quais o anunciante implantou apenas uma abordagem de rastreamento (por exemplo, com a abordagem de view-through JavaScript, navegadores que bloqueiam cookies de terceiros rastrearão cliques, mas não click-throughs). Um motivo principal para o Adobe recomendar a implantação das abordagens de rastreamento de URL de clique e de view-through do JavaScript é maximizar a cobertura de click-throughs rastreáveis.
 

@@ -2,13 +2,13 @@
 title: Criar um destino de relatório
 description: Saiba como criar um destino para o delivery de relatórios personalizados.
 feature: DSP Custom Reports
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
 
 ---
-
 
 # Criar um destino de relatório
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> Se o relatório estiver configurado para entrega em qualquer tipo de FTP ou [!DNL Amazon S3] , você não receberá notificações se o relatório for cancelado por causa de erros. Se você não receber os relatórios esperados, entre em contato com seu [!DNL Adobe] gerente de conta para descobrir o porquê.
+> Se o relatório estiver configurado para entrega em qualquer tipo de FTP ou [!DNL Amazon S3] , você não receberá notificações se o relatório for cancelado por causa de erros. Se você não receber os relatórios esperados, entre em contato com seu [!DNL Adobe] equipe de conta para descobrir o motivo.
 
 >[!MORELIKETHIS]
 >

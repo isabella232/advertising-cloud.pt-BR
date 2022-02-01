@@ -3,7 +3,7 @@ title: Sobre as metas personalizadas
 description: Saiba mais sobre as metas personalizadas para definir seus eventos de sucesso em pacotes otimizados para o CPA mais baixo ou o ROAS mais alto.
 feature: DSP Optimization
 exl-id: 623cb1ef-85ab-4535-aa3a-8e6ec8ae15ee
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Cada meta personalizada consiste em uma ou mais métricas, ou *propriedades da t
 >[!NOTE]
 >
 >* [!DNL Analytics] dimensões e segmentos não estão disponíveis para otimização do Advertising Cloud.
->* Para usar os eventos do Analytics no DSP, trabalhe com sua [!DNL Adobe] gerente de conta para configurar uma integração no nível do anunciante.
+>* Para usar os eventos do Analytics no DSP, trabalhe com sua [!DNL Adobe] equipe de conta para configurar uma integração no nível do anunciante.
 >* [!DNL Analytics] os eventos personalizados seguem essa convenção de nomenclatura: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Exemplo: `custom_event_16_examplersid`
 
 

@@ -3,7 +3,7 @@ title: Resolicitação [!DNL On Demand] Contratos de inventário premium
 description: Saiba como solicitar novamente [!DNL On Demand] negócios que foram negados anteriormente.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Você pode solicitar novamente [!DNL On Demand] ofertas de inventário para as quais você foi negado, incluindo ofertas de um editor para o qual você está inscrito. Siga estas etapas para garantir que todas as configurações da conta aplicáveis estejam corretas antes de enviar uma nova solicitação.
 
-Se um negócio não for aprovado depois que você o solicitar novamente, entre em contato com seu [!DNL Adobe] gerente de conta para ver se o editor tem restrições adicionais que proíbem sua conta de acessar a negociação.
+Se um negócio não for aprovado depois que você o solicitar novamente, entre em contato com seu [!DNL Adobe] equipe de conta para ver se o editor tem restrições adicionais que proíbem sua conta de acessar a negociação.
 
 Uma vez que um acordo é [aprovado](/help/dsp/inventory/on-demand-inventory-view-status.md), é incluído por padrão como um target para novas disposições que direcionam tudo [!DNL On Demand] inventário. A nova negociação também está disponível como um destino para disposições existentes, mas você precisa editar manualmente as configurações de posicionamento para adicionar a negociação como um destino.
 
-1. Confirme com seu [!DNL Adobe] o gerente de conta que [!UICONTROL Account Type] a conta de DSP da sua organização está correta.
+1. Confirme com seu [!DNL Adobe] a equipe de conta que [!UICONTROL Account Type] a conta de DSP da sua organização está correta.
 
 1. Confirme se a categoria do anunciante da conta do anunciante aplicável está correta:
 

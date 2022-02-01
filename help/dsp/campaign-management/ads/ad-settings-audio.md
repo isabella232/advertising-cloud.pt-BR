@@ -3,7 +3,7 @@ title: Configurações de anúncio de áudio
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios de áudio.
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Esse campo pode ou não ser exibido, dependendo das permissões da conta.
 
 **[!UICONTROL Final VAST Tag]:** (Anúncios usando somente tags VAST) O URL da fonte de anúncios de terceiros com o [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
 
-**[!UICONTROL Select Rate]:** (Somente usuários com permissão) Uma taxa pré-negociada cobrada por Adobe, ou uma das taxas negociadas e faturadas pelo fornecedor. Para adicionar uma taxa, entre em contato com seu [!DNL Adobe] gerente de conta.
+**[!UICONTROL Select Rate]:** (Usuários com permissão somente) Uma taxa pré-negociada cobrada por Adobe, ou uma das taxas negociadas e faturadas pelo fornecedor. Para adicionar uma taxa, entre em contato com seu [!DNL Adobe] equipe da conta.
 
 ### [!UICONTROL Companion]
 
@@ -95,7 +95,7 @@ Use uma tag de terceiros quando quiser rastrear impressões de banner de terceir
 
 ### Pixel
 
-Todos os pixels de rastreamento de evento existentes para a disposição são anexados automaticamente. Você pode desanexar os pixels existentes e criar novos pixels, conforme necessário, com base nas suas necessidades de rastreamento.
+Todos os pixels de rastreamento de evento existentes para a disposição são anexados automaticamente. Você pode desanexar pixels existentes e criar novos pixels, conforme necessário, com base nas suas necessidades de rastreamento.
 
 As configurações a seguir se aplicam a cada pixel criado ou editado.
 

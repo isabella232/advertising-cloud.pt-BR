@@ -3,7 +3,7 @@ title: Recuperar relatórios de cancelamento da venda do consumidor
 description: Saiba como recuperar relatórios de IDs enviadas para solicitações de recusa de venda.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Você pode recuperar relatórios mensais de IDs que os clientes enviaram para so
 
 >[!NOTE]
 >
->Como opção, você pode recuperar relatórios de cancelamento da venda do consumidor usando o Advertising Cloud [!DNL Trafficking API]. Para obter instruções, consulte a documentação do [!DNL Trafficking API]. Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] gerente de conta.
+>Como opção, você pode recuperar relatórios de cancelamento da venda do consumidor usando o Advertising Cloud [!DNL Trafficking API]. Para obter instruções, consulte a documentação do [!DNL Trafficking API]. Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] equipe da conta.
 
 1. No menu principal, clique em **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. Acima da lista de segmentos, clique em **[!UICONTROL Access CCPA Reports]**.

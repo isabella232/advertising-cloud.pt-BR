@@ -2,9 +2,10 @@
 title: Códigos de erro para [!DNL FreeWheel] Envio de anúncios
 description: Referencie os códigos de erro que são retornados para envios de anúncios para [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '679'
 ht-degree: 2%
 
 ---
@@ -17,7 +18,7 @@ As mensagens de erro para envios de anúncios com falha podem vir do Advertising
 
 | Mensagem de erro | Descrição | Próximas etapas |
 |--- |--- |--- |
-| [!DNL Aguardando resposta de status de [!DNL FreeWheel]] | [!DNL FreeWheel] ainda não respondeu que o envio foi bem-sucedido ou falhou. | Verifique o status novamente em 10 minutos. |
+| [!DNL Awaiting status response from [!DNL FreeWheel]] | [!DNL FreeWheel] ainda não respondeu que o envio foi bem-sucedido ou falhou. | Verifique o status novamente em 10 minutos. |
 | [!DNL The submitted ad does not have a clock number assigned.] | [!DNL FreeWheel] não aceita anúncios do Reino Unido sem números de relógio atribuídos. | Atribua um número de relógio ao anúncio e, em seguida, envie-o novamente. |
 | [!DNL The ad you are attempting to submit has not yet finished transcoding. Please wait ten minutes then try again.] | O transcodificador não tinha terminado de transcodificar o anúncio quando você tentou enviar o anúncio. | Aguarde dez minutos e envie o anúncio novamente. |
 | [!DNL The deal id you input is not setup as a guaranteed feed. Please submit guaranteed deals only.] | O acordo apresentado não é estabelecido como um acordo programático garantido. [!DNL FreeWheel] aceita apenas acordos garantidos. | Configure a ID de negócio como um acordo programático garantido. O anúncio é enviado automaticamente para [!DNL FreeWheel] ao salvar a disposição padrão garantida programática no final do fluxo de trabalho da ID de negócios. |
@@ -32,13 +33,13 @@ As mensagens de erro para envios de anúncios com falha podem vir do Advertising
 
 | Código | Significado | Descrição | Próximas etapas |
 |--- |--- |--- |--- |
-| 401° | Não autorizado | Credenciais de acesso incorretas, ausentes ou inválidas. | Entre em contato com seu [!DNL Adobe] gerente de conta. |
-| 403 | Proibido | O servidor entendeu a solicitação, mas recusa autorizá-la. | Entre em contato com seu [!DNL Adobe] gerente de conta. |
-| 404 | Não encontrado | O recurso solicitado não está disponível. Se a ID de criação não for encontrada na operação PUT, um 404 será retornado. | Entre em contato com seu [!DNL Adobe] gerente de conta. |
-| 405 | Método Não Permitido | Uma solicitação foi feita de um recurso usando um método de solicitação não suportado por esse recurso (por exemplo, usando o GET em um método que requer que os dados sejam enviados pelo POST ou usando o PUT em um recurso somente leitura). | Entre em contato com seu [!DNL Adobe] gerente de conta. |
-| 408 | Tempo limite da solicitação | Ocorreu um tempo limite durante o processamento desta solicitação. Normalmente, os tempos limite são causados por solicitações simultâneas de acesso exclusivo a determinados recursos. | Envie novamente a solicitação ao receber esse status. Se o problema persistir, entre em contato com seu [!DNL Adobe] gerente de conta. |
-| 422 | Entidade não processável | Recurso inválido. Esse erro ocorre quando o corpo da solicitação é inválido ou o recurso criado/atualizado é inválido (por exemplo, se a ID do contrato não foi encontrada). Consulte [Erros da API FreeWheel 422](#freewheel-422-errors) para obter mais informações. | Entre em contato com seu [!DNL Adobe] gerente de conta. |
-| 500 | Erro interno do servidor | Erro de sistema de API. | Entre em contato com seu [!DNL Adobe] gerente de conta. |
+| 401° | Não autorizado | Credenciais de acesso incorretas, ausentes ou inválidas. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 403 | Proibido | O servidor entendeu a solicitação, mas recusa autorizá-la. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 404 | Não encontrado | O recurso solicitado não está disponível. Se a ID de criação não for encontrada na operação PUT, um 404 será retornado. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 405 | Método Não Permitido | Uma solicitação foi feita de um recurso usando um método de solicitação não suportado por esse recurso (por exemplo, usando o GET em um método que requer que os dados sejam enviados pelo POST ou usando o PUT em um recurso somente leitura). | Entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 408 | Tempo limite da solicitação | Ocorreu um tempo limite durante o processamento desta solicitação. Normalmente, os tempos limite são causados por solicitações simultâneas de acesso exclusivo a determinados recursos. | Envie novamente a solicitação ao receber esse status. Se o problema persistir, entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 422 | Entidade não processável | Recurso inválido. Esse erro ocorre quando o corpo da solicitação é inválido ou o recurso criado/atualizado é inválido (por exemplo, se a ID do contrato não foi encontrada). Consulte [Erros da API FreeWheel 422](#freewheel-422-errors) para obter mais informações. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 500 | Erro interno do servidor | Erro de sistema de API. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
 
 {style=&quot;table-layout:auto&quot;}
 

@@ -3,7 +3,7 @@ title: Ver o status de seu [!DNL On Demand] Solicitações e assinaturas de cont
 description: Saiba como visualizar o status de seu [!DNL On Demand] lidar com solicitações e assinaturas.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
@@ -37,7 +37,7 @@ A aprovação ou negação do editor pode ser baseada no tipo de conta e na cate
 
    Para ver por que uma solicitação foi negada para cada anunciante, clique em ![negado](/help/dsp/assets/denied.png). Se o motivo da negação for algo que pode ser resolvido, você poderá [solicitar novamente o negócio](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-Em caso de dúvidas sobre o processo de aprovação, entre em contato com seu [!DNL Adobe] gerente de conta.
+Em caso de dúvidas sobre o processo de aprovação, entre em contato com seu [!DNL Adobe] equipe da conta.
 
 >[!MORELIKETHIS]
 >

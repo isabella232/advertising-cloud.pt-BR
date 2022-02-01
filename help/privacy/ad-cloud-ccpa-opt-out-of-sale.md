@@ -3,7 +3,7 @@ title: 'Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumid
 description: Saiba mais sobre o suporte para capturar solicitações de cancelamento da venda do consumidor.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Você pode recuperar links para os relatórios mensais criados nos três meses a
 
 Esse recurso está disponível para organizações que usam a variável [!DNL Trafficking API]. Consulte a documentação do [!DNL Trafficking API] para obter mais informações.
 
-Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] gerente de conta.
+Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] equipe da conta.
 
 ## Apêndice: Exemplo [!UICONTROL CCPA Opt-Out-of-Sale] Solicitação para usuários da API do Privacy Service
 

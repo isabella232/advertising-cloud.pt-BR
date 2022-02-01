@@ -3,7 +3,7 @@ title: Configurações de posicionamento
 description: Consulte descrições das configurações de posicionamento disponíveis.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3280'
 ht-degree: 0%
@@ -96,7 +96,7 @@ Veja descrições de cada filtro pré-lance em &quot;[Filtros de pré-lance em n
 
 **[!UICONTROL Max Bid]:** O máximo a pagar por 1000 impressões.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com ritmo no nível do pacote somente) Como carregar a entrega de anúncios:
+**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com pacing no nível do pacote somente) Como carregar a entrega de anúncios:
 
 * *[!UICONTROL Even]:* (O padrão) Os pacotes são distribuídos uniformemente em cada voo, com um objetivo de 50% da entrega na primeira metade do voo.
 
@@ -304,7 +304,7 @@ Como opção, você pode exportar a lista de sites direcionados e bloqueados com
    * Para selecionar manualmente um intervalo, clique dentro de uma célula e, como opção, arraste para selecionar o intervalo.
 1. Clique em **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Opcional; disponível para anunciantes configurados com [!DNL Comscore] e [!DNL Grapeshot] segmentos) Nomes ou IDs de segmentos específicos da [!DNL Comscore] e [!DNL Grapeshot] para incluir como alvos. Taxas adicionais podem ser aplicadas para este recurso. Para ativar esse recurso e configurar segmentos de tópicos, entre em contato com seu [!DNL Adobe] gerente de conta.
+**[!UICONTROL Topic Targeting]:** (Opcional; disponível para anunciantes configurados com [!DNL Comscore] e [!DNL Grapeshot] segmentos) Nomes ou IDs de segmentos específicos da [!DNL Comscore] e [!DNL Grapeshot] para incluir como alvos. Taxas adicionais podem ser aplicadas para este recurso. Para ativar esse recurso e configurar segmentos de tópicos, entre em contato com seu [!DNL Adobe] equipe da conta.
 
 Para especificar o direcionamento do tópico:
 
