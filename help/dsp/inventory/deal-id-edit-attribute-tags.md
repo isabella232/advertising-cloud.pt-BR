@@ -2,7 +2,8 @@
 title: Editar as Tags de atributo para uma ID de contrato
 description: Saiba como criar e editar as tags de atributo para uma ID de negócio.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
