@@ -3,9 +3,9 @@ title: Visão geral dos recursos de inventário no Advertising Cloud DSP
 description: Saiba mais sobre os recursos de inventário disponíveis.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 1e2700e99afd05757b8cfb7a8a0fce3d1824507e
+source-git-commit: 877771cbd3a8e0668add8da15bc2abe02ab4380b
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,13 @@ A Advertising Cloud DSP pode atender às suas necessidades de inventário, seja 
 
 Depois de acessar ou identificar as ofertas de inventário no DSP, você pode usá-las como metas de posicionamento para suas campanhas.
 
-## Tipos de inventário disponíveis
+Os tipos de inventário disponíveis incluem:
 
-### Inventário por demanda
+* **[!DNL On Demand]Inventário:** Explore ofertas pré-negociadas e não garantidas que a Adobe preparou com nossos parceiros editores premium.
 
-Explore ofertas pré-negociadas e não garantidas que a Adobe preparou com nossos parceiros editores premium. Você pode acessar o inventário dos principais editores na região sem precisar de negociações ou contratos 1:1.
+* **Inventário privado:** Configure e gerencie ofertas de mercados privados (PMPs) que você negociou diretamente 1:1 com o editor.
 
-### Inventário privado
-
-#### IDs de contrato
-
-Configure e gerencie ofertas de mercados privados (PMPs), que são ofertas que você negociou diretamente 1:1 com o editor, para que um ou mais anunciantes em sua conta possam direcioná-las. Execute essas negociações por meio de IDs de negócios. Você pode configurar PMPs não garantidos ou configurar IDs de ofertas programáticas garantidas (PG) com SSPs selecionados.
-
-#### Veiculação de anúncios simples
-
-[!DNL Simple Ad Serving] O é uma tecnologia simplificada para entrega e emissão de relatórios de anúncios garantidos e não decididos. Use [!DNL Simple Ad Serving] quando o editor não consegue executar o contrato por meio das IDs de negócios. Todo o direcionamento, o posicionamento e o limite de orçamento e o limite de frequência são tratados pelo editor. Execute essas transações por meio de pixels de rastreamento de eventos.
+* **[!DNL Simple Ad Serving]:** Use a tecnologia simplificada para fornecer anúncios e relatórios garantidos e não decididos quando o editor não puder executar seu negócio por meio de IDs de negócios.
 
 >[!MORELIKETHIS]
 >
@@ -38,5 +30,5 @@ Configure e gerencie ofertas de mercados privados (PMPs), que são ofertas que v
 >* [Sobre a Caixa de entrada da ID do contrato](deal-id-inbox-about.md)
 >* [Sobre contratos programáticos garantidos](programmatic-guaranteed-about.md)
 >* [Parceiros SSP](ssp-partners.md)
+>* [Sobre inventário privado](private-inventory-about.md)
 
-<!-- >* [About Private Inventory](private-inventory-about.md) -->
