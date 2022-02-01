@@ -3,9 +3,9 @@ title: Visão geral dos recursos de inventário no Advertising Cloud DSP
 description: Saiba mais sobre os recursos de inventário disponíveis.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 877771cbd3a8e0668add8da15bc2abe02ab4380b
+source-git-commit: 3039557f4929b716d86840cd3cb4a5aa54125145
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Os tipos de inventário disponíveis incluem:
 
 * **[!DNL On Demand]Inventário:** Explore ofertas pré-negociadas e não garantidas que a Adobe preparou com nossos parceiros editores premium.
 
-* **Inventário privado:** Configure e gerencie ofertas de mercados privados (PMPs) que você negociou diretamente 1:1 com o editor.
+* **Inventário privado [!DNL Deal IDs]:** Configure e gerencie ofertas de mercados privados (PMPs) que você negociou diretamente 1:1 com o editor.
 
 * **[!DNL Simple Ad Serving]:** Use a tecnologia simplificada para fornecer anúncios e relatórios garantidos e não decididos quando o editor não puder executar seu negócio por meio de IDs de negócios.
 
