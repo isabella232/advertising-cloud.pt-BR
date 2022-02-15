@@ -3,9 +3,9 @@ title: Código JavaScript para [!DNL Analytics for Advertising Cloud]
 description: Código JavaScript para [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: 7bf8f3524954b17d9da336a2210a098bf571399e
+source-git-commit: ac7f6110a523d63482f6c2e1a7d0bd5a12a0bab1
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ Na primeira exibição de página de uma visita ao site, o código JavaScript do
 
 ## Implantação do código JavaScript
 
-A biblioteca JavaScript consiste em duas linhas que permitem [!DNL Analytics] e Advertising Cloud para se comunicar entre si. Se a variável [!DNL Analytics for Advertising Cloud] A integração foi concluída durante a implementação do Advertising Cloud e você deve ter recebido esse código com instruções sobre como implantá-la.
+A biblioteca JavaScript consiste em duas linhas que permitem [!DNL Analytics] e Advertising Cloud para se comunicar entre si. Se a variável [!DNL Analytics for Advertising Cloud] A integração foi concluída durante a implementação do Advertising Cloud e você já deve ter recebido esse código com instruções sobre como implantá-la.
 
-**(Implementações que usam o serviço de identidade do Experience Cloud) `visitorAPI.js` code)**
+### O código
+
+#### Implementações que usam o serviço de identidade do Experience Cloud `visitorAPI.js` código
 
 ```
 <script>
@@ -41,7 +43,7 @@ A biblioteca JavaScript consiste em duas linhas que permitem [!DNL Analytics] e 
 </script>
 ```
 
-**(Implementações que usam o Experience Platform [!DNL Web SDK] `alloy.js`code)**
+#### Implementações que usam o Experience Platform [!DNL Web SDK] `alloy.js`código
 
 ```
 <script>
