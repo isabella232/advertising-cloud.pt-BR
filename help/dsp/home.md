@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: b4d8b30ca4563b3b0d2ea1b03b8ef5f2810964a2
+source-git-commit: 3a4f9bf2d2889acde67a10ab0b5895a2c1024b56
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
-| 17 de fevereiro de 2022 | Tutoriais em vídeo | Um novo vídeo sobre &quot;Como criar uma disposição de exibição padrão&quot; está disponível. | Consulte [Advertising Cloud Tutorials](https://video.tv.adobe.com/v/340454). |
+| 17 de fevereiro de 2022 | Tutoriais em vídeo | Um novo vídeo sobre &quot;Como criar uma disposição de exibição padrão&quot; está disponível. | Consulte [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 de janeiro de 2022 | Ajuda | Informações adicionais sobre [!DNL Deal IDs] e [!DNL Simple Ad Serving] agora está disponível. | Consulte o subcapítulo em Inventário > Inventário privado. |
 | 10 de dezembro de 2021 | Tutoriais em vídeo | Novos tutoriais em vídeo estão disponíveis: &quot;Introdução ao Advertising Cloud DSP&quot;, &quot;Estrutura da conta e interface do usuário&quot;, &quot;Como criar um pacote&quot;, &quot;Como fazer upload em massa de tags de anúncios de terceiros&quot; e &quot;Como editar disposições usando ferramentas de edição em massa&quot;. | Consulte &quot;[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 12 de novembro de 2021 | [!UICONTROL Deal IDs] | No [!UICONTROL Deal ID] configurações, &quot;[!DNL Rubicon]&quot; foi alterado para &quot;[!DNL Magnite DV+],&quot; onde [!DNL DV+] significa exibição, vídeo e outros formatos, como áudio. Isso reflete a nova marca de [!DNL Magnite] SSP. **Observação:** [!DNL Magnite DV+] ainda está listado como &quot;[!DNL Rubicon]&quot; na [!UICONTROL Deal ID Inbox]. | Consulte &quot;[Parceiros SSP](/help/dsp/inventory/ssp-partners.md).&quot; |
