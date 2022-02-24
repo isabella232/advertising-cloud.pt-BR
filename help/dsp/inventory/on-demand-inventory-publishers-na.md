@@ -1,9 +1,9 @@
 ---
-title: '[!DNL On Demand] Publicadores Premium de inventário na América do Norte'
-description: Consulte os editores de inventário disponíveis [!DNL On Demand] premium na América do Norte.
+title: '"[!DNL On Demand] Publicadores Premium de Inventário na América do Norte"'
+description: Veja os [!DNL On Demand] editores de inventário premium na América do Norte.
 feature: DSP On Demand Inventory
 exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 | [!DNL Cue Digital Media] | Canadá |
 | [!DNL DAX] | Canadá |
 | [!DNL DAZN] ([!DNL Perform Media]) | Canadá |
-| [!DNL Dotdash] (antigo  [!DNL About.com]) | Canadá |
+| [!DNL Dotdash] (anteriormente [!DNL About.com]) | Canadá |
 | [!DNL EA] | Canadá |
 | [!DNL evite] | Canadá |
 | [!DNL Expedia] | Canadá |
@@ -76,7 +76,7 @@ ht-degree: 0%
 | [!DNL BBC] | U.S. |
 | [!DNL Billboard] | U.S. |
 | [!DNL Bloomberg] | U.S. |
-| [!DNL Broadcasters on Hulu] ([!DNL Discovery],  [!DNL NBC Universal],  [!DNL FOX]) | U.S. |
+| [!DNL Broadcasters on Hulu] ([!DNL Discovery], [!DNL NBC Universal], [!DNL FOX]) | U.S. |
 | [!DNL Business Insider] | U.S. |
 | [!DNL Buzzfeed] | U.S. |
 | [!DNL CBS Interactive] | U.S. |
@@ -90,7 +90,7 @@ ht-degree: 0%
 | [!DNL DAZN] ([!DNL Perform Media]) | U.S. |
 | [!DNL Discovery] | U.S. |
 | [!DNL Disney Digital Network] | U.S. |
-| [!DNL Dotdash] (antigo  [!DNL About.com]) | U.S. |
+| [!DNL Dotdash] (anteriormente [!DNL About.com]) | U.S. |
 | [!DNL EA] | U.S. |
 | [!DNL ebay] | U.S. |
 | [!DNL ESI Media] | U.S. |
@@ -177,8 +177,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] Sobre o Inventário Premium](on-demand-inventory-about.md)
->* [Assinar e solicitar acesso  [!DNL On Demand] ao inventário Premium](on-demand-inventory-subscribe.md)
+>* [Sobre [!DNL On Demand] Inventário Premium](on-demand-inventory-about.md)
+>* [Assinar e solicitar acesso a [!DNL On Demand] Inventário Premium](on-demand-inventory-subscribe.md)
 >* [[!DNL On Demand] Publicadores de inventário premium no Pacífico Asiático](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand] Publicadores Premium de Inventário na Austrália e Nova Zelândia](on-demand-inventory-publishers-anz.md)
 >* [[!DNL On Demand] Publicadores de inventário premium na Europa, Oriente Médio e África](on-demand-inventory-publishers-emea.md)
