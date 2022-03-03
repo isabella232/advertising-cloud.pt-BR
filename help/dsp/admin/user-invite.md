@@ -1,7 +1,7 @@
 ---
 title: Convidar um novo usuário para sua conta da organização
 description: Saiba como convidar um novo usuário para entrar na conta.
-source-git-commit: b61b0102ff34524598776df23b44e560ddfe1baf
+source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -19,6 +19,7 @@ Se necessário, é possível desconvidar um usuário com um convite pendente.
 1. Siga um destes procedimentos:
 
    * No menu principal, clique em **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * No menu principal, clique em **[!UICONTROL Settings]>[!UICONTROL Account]** e, em seguida, clique em **[!UICONTROL Edit users]**.
 
 1. No **[!UICONTROL Invitations]** seção , clique em **[!UICONTROL Send Invite]**.
