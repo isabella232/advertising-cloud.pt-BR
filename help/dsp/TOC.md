@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Manual de Advertising Cloud DSP
-user-guide-description: Saiba mais sobre os principais recursos, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncios gráficos usando o Advertising Cloud DSP.
+user-guide-title: Manual da Advertising Cloud DSP
+user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
+source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 2%
+source-wordcount: '864'
+ht-degree: 6%
 
 ---
 
 
-# Manual de Advertising Cloud DSP {#dsp}
+# Manual da Advertising Cloud DSP {#dsp}
 
 + [Novidades](/help/dsp/home.md)
 + Introdução {#introduction}
@@ -32,7 +32,7 @@ ht-degree: 2%
       + Suporte para CCPA {#ccpa}
          + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
          + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
-   + Políticas e orientações {#policies}
+   + Políticas e diretrizes {#policies}
       + [Política de requisitos de anúncios](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Diretrizes aceitáveis do segmento de integridade](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Diretrizes de uso de dados](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
@@ -197,8 +197,14 @@ ht-degree: 2%
       + [Excluir um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Configurações](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Administração {#admin}
-   + [Sobre as listas de sites bloqueados no nível da conta e no nível do anunciante](/help/dsp/admin/blocked-sites-list-about.md)
-   + [Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
-+ [Integrações com o Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
+   + [Editar seu perfil](/help/dsp/admin/user-own-profile-edit.md)
+   + Usuários {#users}
+      + [Convidar um novo usuário](/help/dsp/admin/user-invite.md)
+      + [Reenviar um Convite de Usuário Pendente](/help/dsp/admin/user-resend-invite.md)
+      + [Desconvidar um usuário pendente](/help/dsp/admin/user-uninvite.md)
+   + Sites Bloqueados {#sites}
+      + [Sobre as listas de sites bloqueados no nível da conta e no nível do anunciante](/help/dsp/admin/blocked-sites-list-about.md)
+      + [Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
++ [Integrações com a Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Suporte ao cliente](https://helpx.adobe.com/br/contact/enterprise-support.ec.html)
 + [Notas de versão da Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
