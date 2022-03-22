@@ -8,9 +8,9 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
+source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '871'
 ht-degree: 6%
 
 ---
@@ -37,8 +37,8 @@ ht-degree: 6%
       + [Diretrizes aceitáveis do segmento de integridade](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Diretrizes de uso de dados](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Soluções avançadas de medição](/help/dsp/introduction/advanced-measurement-services.md)
-+ Gerenciamento de campanhas {#campaign-management}
-   + [Visão geral da estrutura de gerenciamento de campanha](/help/dsp/campaign-management/campaign-management-overview.md)
++ Campaign Management {#campaign-management}
+   + [Visão geral da estrutura do Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campanhas {#campaigns}
       + [Sobre o Gerenciamento de campanhas](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Criar uma campanha](/help/dsp/campaign-management/campaigns/campaign-create.md)
@@ -77,7 +77,7 @@ ht-degree: 6%
             + [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
             + [Configurações da TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
             + [Exibir configurações do anúncio](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [Configurações de anúncio móvel](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+            + [Configurações de anúncio do Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
             + [Configurações de anúncio nativo](/help/dsp/campaign-management/ads/ad-settings-native.md)
             + [Configurações de anúncio precedente](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Práticas recomendadas para projetar sobreposições](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
@@ -112,7 +112,7 @@ ht-degree: 6%
       + [Colunas em planilhas baixadas/carregadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
    + [Atalhos de teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Perguntas frequentes sobre o gerenciamento de campanhas](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Perguntas frequentes sobre o Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Otimização {#optimization}
    + [How [!DNL DSP] Otimiza suas campanhas](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Metas de otimização e como usá-las](/help/dsp/optimization/optimization-goals.md)
@@ -205,6 +205,9 @@ ht-degree: 6%
    + Sites Bloqueados {#sites}
       + [Sobre as listas de sites bloqueados no nível da conta e no nível do anunciante](/help/dsp/admin/blocked-sites-list-about.md)
       + [Editar uma lista de sites bloqueados no nível da conta ou no nível do anunciante](/help/dsp/admin/blocked-sites-list-edit.md)
+   + Notificações {#notifications}
+      + [Sobre assinaturas de alerta](/help/dsp/admin/alerts-about.md)
+      + [Gerenciar assinaturas de alerta](/help/dsp/admin/alerts-manage.md)
 + [Integrações com a Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Suporte ao cliente](https://helpx.adobe.com/br/contact/enterprise-support.ec.html)
 + [Notas de versão da Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

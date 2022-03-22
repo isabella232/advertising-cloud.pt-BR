@@ -1,9 +1,9 @@
 ---
 title: Gerenciar assinaturas de alerta
 description: Saiba como gerenciar alertas de email automáticos.
-source-git-commit: 86987ec2c5d572b5328cb04fc7120609c6c79d26
+source-git-commit: 1cce72f4cd898034c7bf7bfeee8c5b37f43c0a59
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,9 @@ ht-degree: 0%
 
       As configurações variam por tipo de alerta.
 
-   1. (Opcional) Para executar o alerta imediatamente, selecione **[!UICONTROL Alert immediately]**. Por padrão, o alerta é executado <!-- at what time? -->.
+   1. (Opcional) Para executar o alerta imediatamente, selecione **[!UICONTROL Alert immediately]**. Por padrão, o alerta é executado às 08:00 no fuso horário da conta.
 
    1. (Opcional) Para adicionar um alerta adicional à assinatura, clique em **[!UICONTROL Add Alert]** e criar o alerta.
-
-      <!-- You can add up to NN alerts per subscription. -->
-      <!-- You can add quite a few, many unlimited -->
 
 1. No **[!UICONTROL Add Subscriber Email Addresses]** , insira cada endereço de email que receberá os alertas e pressione a tecla **[!UICONTROL Enter]** chave.
 

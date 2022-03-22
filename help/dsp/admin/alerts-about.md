@@ -1,7 +1,7 @@
 ---
 title: Sobre assinaturas de alerta
 description: Saiba mais sobre alertas de email automático.
-source-git-commit: 4bc23fb0028af4d0bfff0686ab97964873ce6a54
+source-git-commit: de1ad6e1cfeefc4ac1e8264c3063b550b6548446
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Você pode criar grupos de alertas de email automáticos, chamados de assinaturas, que enviam notificações por email quando parâmetros específicos de conta, campanha, anúncio e negociação de inventário privado forem atendidos.
 
-Por exemplo, você pode receber um alerta quando uma campanha gastou uma quantia específica de seu orçamento. Você também pode receber um alerta quando um negócio de inventário privado tiver menos de uma taxa de ganho especificada nos últimos N dias.
+Por exemplo, você pode receber um alerta quando uma campanha gastou uma quantia específica de seu orçamento. Você também pode receber um alerta quando um negócio de inventário privado tiver recebido menos de uma taxa de ganho especificada nos últimos N dias.
 
 Você pode adicionar ou remover alertas de uma assinatura, editar os usuários que recebem notificações por email de uma assinatura, desativar e reativar assinaturas de alertas e excluir assinaturas de alertas.
 
