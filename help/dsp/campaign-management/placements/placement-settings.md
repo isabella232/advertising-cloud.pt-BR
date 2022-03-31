@@ -3,9 +3,9 @@ title: Configurações de posicionamento
 description: Consulte descrições das configurações de posicionamento disponíveis.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
 workflow-type: tm+mt
-source-wordcount: '3280'
+source-wordcount: '3278'
 ht-degree: 0%
 
 ---
@@ -411,7 +411,7 @@ Qual nível de [Ads.txt](https://iabtechlab.com/ads-txt-about/) filtragem pré-l
    * Para criar um novo pixel:
       1. Clique em **[!UICONTROL Create]**.
       1. Insira as seguintes informações:
-         * **[!UICONTROL Pixel name]:** O nome do pixel; o comprimento máximo é de 500 caracteres. Use um nome que o ajudará a identificar o pixel com facilidade.
+         * **[!UICONTROL Pixel name]:** O nome do pixel; o comprimento máximo é de 500 caracteres. Use um nome que o ajude a identificar o pixel com facilidade.
          * **[!UICONTROL Pixel event fires on]:** O evento que aciona o pixel para ser disparado. Os eventos disponíveis variam por tipo de anúncio.
          * **[!UICONTROL Pixel type]:** Se o pixel é um *[!UICONTROL IMG URL]* (arquivo de imagem de pixel 1x1), *[!UICONTROL HTML]* ou *[!UICONTROL JavaScript URL]*.
          * **[!UICONTROL Pixel URL]:** O URL da imagem de pixel.
@@ -426,7 +426,7 @@ Qual nível de [Ads.txt](https://iabtechlab.com/ads-txt-about/) filtragem pré-l
    * Para criar um novo pixel:
       1. Clique em **[!UICONTROL Create]**.
       1. Insira as seguintes informações:
-         * **[!UICONTROL Conversion pixel name]:** O nome do pixel; o comprimento máximo é de 500 caracteres. Use um nome que o ajudará a identificar o pixel com facilidade.
+         * **[!UICONTROL Conversion pixel name]:** O nome do pixel; o comprimento máximo é de 500 caracteres. Use um nome que o ajude a identificar o pixel com facilidade.
          * **[!UICONTROL Conversion category]:** O tipo de conversão.
          * **[!UICONTROL Impression conversion window]:** O número de dias após uma impressão de anúncio em que a impressão pode ser atribuída a uma conversão. O padrão é 30 dias.
          * **[!UICONTROL Click conversion window]:** O número de dias após um clique em um anúncio em que o clique pode ser atribuído a uma conversão. O padrão é 30 dias.
@@ -452,5 +452,5 @@ Qual nível de [Ads.txt](https://iabtechlab.com/ads-txt-about/) filtragem pré-l
 >* [Criar uma disposição](placement-create.md)
 >* [Editar uma disposição](placement-edit.md)
 >* [Atalhos de teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Perguntas frequentes sobre o gerenciamento de campanhas](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Perguntas frequentes sobre o Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 
