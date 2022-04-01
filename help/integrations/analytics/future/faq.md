@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8094e8ae6cf76594ac705a8a6d76b98620220250
+source-git-commit: 0ad7f3e37c189b3b0e5f07cf421dcc29cf61c3ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,19 @@ Você pode usar o filtro para remover eventos não especificados dos relatórios
 
 ## título
 
-https://adobeadcloud.zendesk.com/agent/tickets/21757 Coloque as tags de evento do Analytics nos mesmos pontos que os pixels do Ad Cloud para garantir a correspondência de XXX.
+https://adobeadcloud.zendesk.com/agent/tickets/24323 Coloque as tags de evento do Analytics nos mesmos pontos que os pixels do Ad Cloud para garantir a correspondência de XXX.
+
+## título
+
+https://adobeadcloud.zendesk.com/agent/tickets/24323
+
+P: Durante nossa auditoria de segurança interna, alguns recursos foram sinalizados como preocupações de segurança que ativamos quando integramos o Ad Cloud em nossa instalação existente do Adobe Analytics.
+
+A integração em questão é entre a AdCloud e a Adobe Audience Manager. Esse recurso aumenta a taxa de correspondência da ID de visitante entre a AdCloud e a Adobe Audience Manager. Ele faz isso enviando solicitações de rede para pagead.l.doubleclick.net, star-mini.c10r.facebook.com e pug88000nf.pubmatic.com para determinar se esses serviços têm uma ID existente para o visitante que pode ser aproveitada. Essas são as solicitações de rede que foram sinalizadas como um risco de segurança e estão ocorrendo para todos os visitantes do site.
+
+Nosso auditor está nos pedindo para desativar esse recurso. O que acontece se bloquearmos essas solicitações de rede?
+
+A: Verificamos com nosso produto e eles mencionaram que os pixels em questão são para a finalidade de aumentar as taxas de correspondência de cookies entre o Ad Cloud, inventário específico/parceiros SSP (em relação ao DSP) e AAM.  Se forem removidos, o cliente poderá ver algum nível de taxa de correspondência diminuída entre o AAC/AAM e os parceiros de inventário para os respectivos pixels, mas eles não esperarão que seja substancial.
+
+Para o Ad Cloud Search, vemos que a IMS Org está configurada para Mathworks, mas nossa equipe de produtos não vê a configuração do Mathworks para ativar públicos no Ad Cloud. Você está usando o Adobe Audience Manager para enviar públicos para o Ad Cloud Search? Caso contrário, removê-los não terá impacto no fluxo de trabalho atual. AAM Atendimento ao cliente pode ajudar na remoção desses pixels se você não quiser que eles sejam acionados.
+
