@@ -3,9 +3,9 @@ title: Editar uma publicidade
 description: Saiba como editar uma publicidade.
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8d6bb45d90f56331ff52e6514e4732f1ac32d022
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,16 @@ ht-degree: 0%
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
 1. Clique no nome da campanha.
 1. No submenu, clique em **[!UICONTROL Ads]**.
-1. Ao lado do nome da publicidade, clique em **.. >[!UICONTROL Edit]**.
-1. Edite as configurações de anúncio para [anúncios de áudio](ad-settings-audio.md), [TV conectada](ad-settings-connected-tv.md), [anúncios de exibição](ad-settings-display.md), [anúncios móveis](ad-settings-mobile.md), [anúncios nativos](ad-settings-native.md) ou [anúncios precedentes](ad-settings-pre-roll.md).
+1. Ao lado do nome da publicidade, clique em  **... >[!UICONTROL Edit]**.
+1. Edite as configurações de publicidade para [anúncios de áudio](ad-settings-audio.md), [TV conectada](ad-settings-connected-tv.md), [anúncios de exibição](ad-settings-display.md), [anúncios móveis](ad-settings-mobile.md), [anúncios nativos](ad-settings-native.md)ou [anúncios precedentes](ad-settings-pre-roll.md).
+
+   >[!NOTE]
+   >
+   >Para alterar um URL de publicidade, primeiro reenvie o anúncio para o servidor de publicidade.
+
 1. Clique em **[!UICONTROL Save and Close]**.
 
-   O anúncio editado passa por um novo [ad review](ad-about.md), que leva de 24 a 48 horas e inclui verificações de categorias confidenciais, clique na funcionalidade de URL e pré-visualização da renderização. A coluna [!UICONTROL Status] indica se o DSP aprovou o anúncio. Anúncios quebrados podem ter um status pendente por mais de 24 a 48 horas, portanto, você tem tempo para corrigir erros antes de serem rejeitados.
+   O anúncio editado passa por um novo [revisão de publicidade](ad-about.md), que leva de 24 a 48 horas e inclui verificações de categorias confidenciais, clique na funcionalidade do URL e na renderização da visualização. O [!UICONTROL Status] indica se a DSP aprovou o anúncio. Anúncios quebrados podem ter um status pendente por mais de 24 a 48 horas, portanto, você tem tempo para corrigir erros antes de serem rejeitados.
 
    >[!NOTE]
    >
@@ -28,8 +33,8 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [Sobre o Gerenciamento de anúncios](ad-about.md)
->* [Criar uma publicidade](ad-create.md)
->* [Criar vários anúncios de terceiros](ad-create-third-party.md)
+>* [Criar um único anúncio](ad-create.md)
+>* [Criar vários anúncios de terceiros](ad-create-multiple.md)
 >* [Duplicação de um anúncio](ad-duplicate.md)
 >* [Listar as disposições associadas a um anúncio](ad-list-placements.md)
 >* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)

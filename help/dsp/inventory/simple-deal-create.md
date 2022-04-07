@@ -3,9 +3,9 @@ title: '"Criar um [!UICONTROL Simple Ad Serving] Acordo"'
 description: '"Saiba como criar um pixel de rastreamento para um [!UICONTROL Simple Ad Serving] acordo."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * Para anúncios existentes, selecione os anúncios a serem usados.
 
-         * Para novos anúncios, crie um proxy [anúncio próprio](/help/dsp/campaign-management/ads/ad-create.md) ou [anúncio de terceiros](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * Para novos anúncios, crie um proxy [anúncio de terceiros](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
       > DSP não exibirá os anúncios que você especificar. O editor enviará o anúncio.
 

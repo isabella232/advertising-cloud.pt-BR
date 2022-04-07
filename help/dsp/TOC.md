@@ -8,9 +8,9 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
+source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '859'
 ht-degree: 6%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 6%
       + [Diretrizes aceitáveis do segmento de integridade](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Diretrizes de uso de dados](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Soluções avançadas de medição](/help/dsp/introduction/advanced-measurement-services.md)
-+ Campaign Management {#campaign-management}
++ Gerenciamento de campanhas {#campaign-management}
    + [Visão geral da estrutura do Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campanhas {#campaigns}
       + [Sobre o Gerenciamento de campanhas](/help/dsp/campaign-management/campaigns/campaign-about.md)
@@ -70,31 +70,27 @@ ht-degree: 6%
       + [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)
    + Anúncios {#ads}
       + [Sobre o Gerenciamento de anúncios](/help/dsp/campaign-management/ads/ad-about.md)
-      + [Tipos de anúncio disponíveis](/help/dsp/campaign-management/ads/ad-types.md)
-      + Anúncios veiculados pela Advertising Cloud {#advertising-cloud-served}
-         + [Criar uma publicidade](/help/dsp/campaign-management/ads/ad-create.md)
-         + Configurações de publicidade {#ad-settings}
-            + [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
-            + [Configurações da TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
-            + [Exibir configurações do anúncio](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [Configurações de anúncio do Mobile](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
-            + [Configurações de anúncio nativo](/help/dsp/campaign-management/ads/ad-settings-native.md)
-            + [Configurações de anúncio precedente](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-         + [Práticas recomendadas para projetar sobreposições](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-      + Anúncios de terceiros em massa {#bulk-third-party}
-         + [Criar vários anúncios de terceiros](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-         + [Crie anúncios com [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-         + [Parceiros de veiculação de anúncios certificados](/help/dsp/campaign-management/ads/certified-ad-servers.md)
-      + [Anexar uma publicidade a uma disposição](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [Parceiros de veiculação de anúncios certificados](/help/dsp/campaign-management/ads/certified-ad-servers.md)
+      + [Criar um único anúncio](/help/dsp/campaign-management/ads/ad-create.md)
+      + [Criar vários anúncios de terceiros](/help/dsp/campaign-management/ads/ad-create-multiple.md)
+      + [Crie anúncios com [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
       + [Editar uma publicidade](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Duplicação de um anúncio](/help/dsp/campaign-management/ads/ad-duplicate.md)
+      + [Anexar uma publicidade a uma disposição](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [Listar as disposições associadas a um anúncio](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Exibir um relatório detalhado de um anúncio](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Arquivar ou desarquivar um anúncio](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
+      + Configurações de publicidade {#ad-settings}
+         + [Configurações de anúncio de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+         + [Configurações da TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+         + [Exibir configurações do anúncio](/help/dsp/campaign-management/ads/ad-settings-display.md)
+         + [Configurações de anúncio móvel](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Configurações nativas de anúncio de exibição](/help/dsp/campaign-management/ads/ad-settings-native.md)
+         + [Configurações de anúncio precedente](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Especificações para tipos de anúncios suportados](/help/dsp/assets/ad-specs.pdf)
    + Relatórios de campanha {#campaign-reports}
       + [Sobre relatórios na plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Exportar dados de uma visualização de gerenciamento de campanha](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Exportar dados de uma exibição do Campaign Management](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [Exibir os sites, anúncios e detalhes de frequência de uma disposição](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Exibir os relatórios de diagnóstico de posicionamento](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Gerenciar visualizações de dados {#data-views}

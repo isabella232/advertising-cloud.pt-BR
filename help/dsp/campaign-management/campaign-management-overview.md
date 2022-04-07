@@ -1,16 +1,16 @@
 ---
-title: Visão geral do gerenciamento de campanhas no Advertising Cloud DSP
+title: Visão geral do Campaign Management no Advertising Cloud DSP
 description: Saiba mais sobre a hierarquia e os componentes do gerenciamento de campanha.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-# Visão geral do gerenciamento de campanhas no Advertising Cloud DSP
+# Visão geral do Campaign Management no Advertising Cloud DSP
 
 As campanhas do Advertising Cloud DSP têm a seguinte hierarquia:
 
@@ -18,9 +18,7 @@ As campanhas do Advertising Cloud DSP têm a seguinte hierarquia:
    * Pacote(s)
       * Disposição(ões)
          * Anúncio(s)
-            * Criativo(s)
 
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -43,18 +41,11 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) armaz
 
 ## [!UICONTROL Ads]
 
-[Anúncios](/help/dsp/campaign-management/ads/ad-about.md) inclua ativos criativos e URLs de rastreamento. Você pode fazer upload de seus ativos criativos e DSP os anúncios que os usam gratuitamente, ou você pode fazer upload de tags de veiculação de anúncios de terceiros.
+[Anúncios](/help/dsp/campaign-management/ads/ad-about.md) inclua ativos criativos e URLs de rastreamento. Você pode fazer upload de publicidade de terceiros veiculando tags individualmente ou em massa usando folhas de tags de parceiros ou o modelo de tag em massa. Você também pode criar manualmente anúncios de exibição nativos para DSP a serem exibidos.
 
 Depois que seus anúncios forem configurados, será necessário anexar cada anúncio a uma disposição. Você pode anexar um único anúncio a uma ou mais disposições.
 
 Todos os anúncios ativos e aprovados em um posicionamento ativo em uma campanha ativa são elegíveis para execução com base nos parâmetros de definição de meta de posicionamento.
-
-## [!UICONTROL Creatives]
-
-Você pode fazer upload de arquivos de áudio e vídeo para uso em anúncios para campanhas especificadas.
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-Você pode criar um anúncio imediatamente com o anúncio carregado, ou pode criar um anúncio posteriormente na exibição Creative ou Ads.
 
 >[!MORELIKETHIS]
 >
