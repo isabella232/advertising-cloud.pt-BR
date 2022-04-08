@@ -3,7 +3,7 @@ title: Código JavaScript para [!DNL Analytics for Advertising Cloud]
 description: Código JavaScript para [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: ac7f6110a523d63482f6c2e1a7d0bd5a12a0bab1
+source-git-commit: 0079f4bb37d213a994fefaa709b40c6b96184f7b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -102,7 +102,7 @@ Você pode executar a validação usando qualquer tipo de ferramenta de sniffer 
 
 #### Como confirmar o código com [!DNL Adobe Experience Cloud Debugger]
 
-1. Abra o [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html) na sua página inicial.
+1. Abra o [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) na sua página inicial.
 1. Vá para o [!UICONTROL Network] guia .
 1. No [!UICONTROL Solutions Filter] barra de ferramentas, clique em [!UICONTROL Advertising Cloud] e [!UICONTROL Analytics].
 1. No [!UICONTROL Request URL – Hostname] linha de parâmetro, localizar `lasteventf-tm.everesttech.net`.
