@@ -2,14 +2,14 @@
 title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
-source-git-commit: 212409be98cb6f48d5aaf13e3ba44e37d2c5342b
+source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
 
-# Especificações do anúncio
+# Especificações para tipos de anúncios suportados
 
 ## Anúncios de vídeo (pré-rolagem e CTV)
 
@@ -108,7 +108,9 @@ O Universal Display é compatível.
 
 Desktop, celular, tablet, alto-falantes inteligentes e TV conectada
 
-### [Servidores de anúncios de terceiros suportados](certified-ad-servers.md)
+### Servidores de anúncios de terceiros suportados
+
+Para obter uma lista completa dos fornecedores suportados, consulte &quot;[Parceiros de veiculação de anúncios certificados](certified-ad-servers.md).&quot;
 
 ### Requisitos para ativos de áudio (obrigatório)
 
