@@ -2,9 +2,10 @@
 title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
-source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
+exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
+source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -110,7 +111,7 @@ Desktop, celular, tablet, alto-falantes inteligentes e TV conectada
 
 ### Servidores de anúncios de terceiros suportados
 
-Para obter uma lista completa dos fornecedores suportados, consulte &quot;[Parceiros de veiculação de anúncios certificados](certified-ad-servers.md).&quot;
+Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid]e [!DNL Sizmek]. Para obter uma lista completa dos fornecedores suportados, consulte &quot;[Parceiros de veiculação de anúncios certificados](certified-ad-servers.md).&quot;
 
 ### Requisitos para ativos de áudio (obrigatório)
 
