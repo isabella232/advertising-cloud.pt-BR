@@ -3,7 +3,7 @@ title: Criar vários anúncios de terceiros
 description: Saiba como criar vários anúncios de terceiros de uma só vez.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Você pode fazer upload de [!DNL DoubleClick] e [!DNL Flashtalking] folhas de ta
 >[!MORELIKETHIS]
 >
 >* [Sobre o Gerenciamento de anúncios](ad-about.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 >* [Criar um único anúncio](ad-create.md)
 >* [Vídeo: Como fazer upload em massa de tags de anúncios de terceiros](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
 

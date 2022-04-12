@@ -3,7 +3,7 @@ title: Criar um único anúncio
 description: Saiba como criar um único anúncio de terceiros.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: 63c8b750c9d5e6816da29fe15416d43d6b3e3726
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Para criar vários anúncios de terceiros de cada vez, consulte [Criar vários a
 >* [Sobre o Gerenciamento de anúncios](ad-about.md)
 >* [Criar vários anúncios de terceiros](ad-create-multiple.md)
 >* [Editar uma publicidade](ad-edit.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 

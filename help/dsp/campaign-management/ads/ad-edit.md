@@ -3,7 +3,7 @@ title: Editar uma publicidade
 description: Saiba como editar uma publicidade.
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: 8d6bb45d90f56331ff52e6514e4732f1ac32d022
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -37,5 +37,5 @@ ht-degree: 0%
 >* [Criar vários anúncios de terceiros](ad-create-multiple.md)
 >* [Duplicação de um anúncio](ad-duplicate.md)
 >* [Listar as disposições associadas a um anúncio](ad-list-placements.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 

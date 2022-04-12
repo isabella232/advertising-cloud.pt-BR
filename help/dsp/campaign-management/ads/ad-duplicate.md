@@ -3,7 +3,7 @@ title: Duplicação de um anúncio
 description: Saiba como duplicar um anúncio.
 feature: DSP Ads
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
-source-git-commit: 322823a1df355b687827544f5464d01093b94213
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Você pode duplicar uma publicidade na mesma campanha.
 >* [Criar um único anúncio](ad-create.md)
 >* [Criar vários anúncios de terceiros](ad-create-multiple.md)
 >* [Editar uma publicidade](ad-edit.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 

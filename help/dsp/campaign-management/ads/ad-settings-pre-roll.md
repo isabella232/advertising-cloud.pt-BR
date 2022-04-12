@@ -3,7 +3,7 @@ title: Configurações de anúncio precedente
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios precedentes.
 feature: DSP Ads
 exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
@@ -87,6 +87,6 @@ As configurações a seguir se aplicam a cada pixel criado ou editado.
 >* [Sobre o Gerenciamento de anúncios](ad-about.md)
 >* [Criar um único anúncio](ad-create.md)
 >* [Listar as disposições associadas a um anúncio](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 >* [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
 

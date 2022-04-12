@@ -8,7 +8,7 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
+source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 6%
@@ -40,7 +40,7 @@ ht-degree: 6%
 + Gerenciamento de campanhas {#campaign-management}
    + [Visão geral da estrutura do Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campanhas {#campaigns}
-      + [Sobre o Gerenciamento de campanhas](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Sobre o Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Criar uma campanha](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Editar uma campanha](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Duplicação de uma campanha](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -87,7 +87,7 @@ ht-degree: 6%
          + [Configurações de anúncio móvel](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Configurações nativas de anúncio de exibição](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Configurações de anúncio precedente](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Especificações para tipos de anúncios suportados](/help/dsp/assets/ad-specs.pdf)
+      + [Especificações para tipos de anúncios suportados](/help/dsp/campaign-management/ads/ad-specs.md)
    + Relatórios de campanha {#campaign-reports}
       + [Sobre relatórios na plataforma](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Exportar dados de uma exibição do Campaign Management](/help/dsp/campaign-management/reports/campaign-export-data.md)

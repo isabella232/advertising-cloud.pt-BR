@@ -3,7 +3,7 @@ title: Sobre o Gerenciamento de anúncios no Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de anúncios.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: ff0e153344f8245ff217cc8b2b276184dd7422b5
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Depois que seus anúncios forem configurados, será necessário anexar cada anú
 
 ## Tipos de anúncio disponíveis {#ad-types}
 
-Todos os tipos de anúncios a seguir estão disponíveis no Advertising Cloud DSP. Para obter as especificações completas para cada tipo de anúncio, consulte o [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf).
+Todos os tipos de anúncios a seguir estão disponíveis no Advertising Cloud DSP. Para obter as especificações completas para cada tipo de anúncio, consulte o [Especificações do anúncio](ad-specs.md).
 
 * **Anúncios de áudio (somente de terceiros)**: Os anúncios de áudio são reproduzidos entre conteúdo em sites de editores digitais e podem ser executados de forma independente como arquivos de áudio ou junto a banners associados. O áudio é o melhor uso para conscientizar a marca e se envolver com públicos móveis. Os principais indicadores de desempenho para áudio incluem [!UICONTROL Completion Rate] e [!UICONTROL Cost per Completion].
 
 * **Exibir anúncios (somente de terceiros)**: Anúncios de exibição são imagens animadas ou estáticas exibidas em navegadores da Web ou em aplicativos. Clicar na unidade de anúncio leva o usuário para um site ou microsite com marca. A exibição é mais bem usada para impulsionar CPMs eficientes, aumentar a associação de mensagens, adicionar pontos de contato adicionais de marca ou produto e empurrar os usuários para baixo no funil de compra. Inclusão dos principais indicadores de desempenho para exibição [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions]e [!UICONTROL Cost per Conversion]. DSP suporta uma grande variedade de tamanhos de anúncio de banner de exibição.
 
-* **Anúncios do Mobile (somente de terceiros)**: Os anúncios Mobile podem estar em vídeo precedente (VAST, MRAID) ou em formato de exibição padrão. O vídeo antes da exibição do Mobile pode ser de reprodução automática ou de clique para reprodução e é melhor usado para alcançar os visualizadores em todas as telas. O monitor padrão Mobile é uma imagem estática exibida em navegadores da Web móveis ou em aplicativos e é melhor usado para complementar as compras de vídeo digital, a associação de mensagens de unidade e adicionar outras marcas ou pontos de contato do produto. Os anúncios da Mobile também podem funcionar como aquisições em tela inteira ou como intersticiais móveis, que são anúncios móveis de tela inteira e de alto impacto que são mais usados para desenvolver o conhecimento da marca para públicos móveis e gerar conversões.
+* **Anúncios do Mobile (somente de terceiros)**: Os anúncios móveis podem estar em vídeo precedente (VAST, MRAID) ou em formato de exibição padrão. O vídeo antes da exibição do Mobile pode ser de reprodução automática ou de clique para reprodução e é melhor usado para alcançar os visualizadores em todas as telas. O monitor padrão Mobile é uma imagem estática exibida em navegadores da Web móveis ou em aplicativos e é melhor usado para complementar as compras de vídeo digital, a associação de mensagens de unidade e adicionar outras marcas ou pontos de contato do produto. Os anúncios móveis também podem funcionar como aquisições em tela inteira ou como intersticiais móveis, que são anúncios móveis de tela inteira e de alto impacto que são mais usados para desenvolver o conhecimento da marca para públicos móveis e gerar conversões.
 
 * **Anúncios de exibição nativos (somente primários)**: Anúncios nativos são suportados no formato de exibição padrão. Os anúncios nativos incluem um título e/ou título, descrição, logotipo e imagem. Os elementos do anúncio são combinados e renderizados para corresponder ao estilo de página do editor, de modo que o anúncio seja combinado com o conteúdo orgânico do editor e gere maior engajamento. O nativo é melhor usado para conscientização da marca e para aumentar a visualização do público-alvo e as taxas de engajamento com a publicidade amigável para o visualizador. Os principais indicadores de desempenho incluem [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions]e [!UICONTROL Cost Per Conversion].
 
@@ -55,5 +55,5 @@ Quando DSP aprovar um anúncio, você verá um ponto verde na coluna Status .
 >
 >* [Criar um único anúncio](ad-create.md)
 >* [Criar vários anúncios de terceiros](ad-create-multiple.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 

@@ -3,7 +3,7 @@ title: Configurações de anúncio móvel
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios móveis.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 0%
@@ -105,6 +105,6 @@ Obsoleto
 >* [Sobre o Gerenciamento de anúncios](ad-about.md)
 >* [Criar um único anúncio](ad-create.md)
 >* [Listar as disposições associadas a um anúncio](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Especificações do anúncio](/help/dsp/assets/ad-specs.pdf)
+>* [Especificações do anúncio](ad-specs.md)
 >* [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
 
