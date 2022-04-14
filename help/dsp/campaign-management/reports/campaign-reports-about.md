@@ -3,7 +3,7 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
+source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Para cada disposição, você pode [abrir uma (exibição detalhada) [!UICONTROL
 
 ### Outros tipos de relatórios no nível da campanha
 
-Para outras quebras de dados, exibir [as páginas herdadas de relatórios no nível da campanha](/help/dsp/campaign-management/campaigns/campaign-view-report.md) from [!UICONTROL Campaigns Classic]. O relatório herdado inclui seções em [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]e [!UICONTROL Audience Performance] dados.
+Para outras quebras de dados, exibir [as páginas herdadas de relatórios no nível da campanha](/help/dsp/campaign-management/campaigns/campaign-view-report.md). O relatório herdado inclui seções em [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]e [!UICONTROL Audience Performance] dados.
 
 >[!MORELIKETHIS]
 >
@@ -96,6 +96,6 @@ Para outras quebras de dados, exibir [as páginas herdadas de relatórios no ní
 >* [Criar uma exibição de coluna personalizada](column-view-create.md)
 >* [Alterar a exibição de coluna](column-view-change.md)
 >* [Gerenciar visualizações de dados](campaign-data-visualization-manage.md)
->* [Exportar dados de uma visualização de gerenciamento de campanha](campaign-export-data.md)
+>* [Exportar dados de uma exibição do Campaign Management](campaign-export-data.md)
 >* [Exibir um relatório detalhado de uma campanha](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
