@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
+source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '960'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,21 @@ ht-degree: 0%
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 As exibições de gerenciamento de campanha incluem dados abrangentes do relatório. Os relatórios disponíveis ajudam a identificar os pacotes e disposições que estão funcionando bem e aqueles que precisam de sua atenção. Os botões de ação rápida também tornam você mais produtivo.
 
-## Lista de todas as campanhas
+## Exibição de todas as campanhas
 
-O [!UICONTROL Campaigns] a visualização é aberta para uma lista de todas as campanhas dentro da sua conta. O [!UICONTROL Subtotals] mostra a soma ou o valor médio de cada métrica em todas as linhas visíveis.
+O [!UICONTROL Campaigns] a visualização é aberta para uma lista de todas as campanhas dentro da sua conta. &lt;!— O [!UICONTROL Subtotals] mostra a soma ou o valor médio de cada métrica em todas as linhas visíveis. — Ainda há uma linha Subtotais? Não vejo nenhum. —>
+
+### Exibição do gráfico {#chart-view}
+
+Você pode [personalizar gráficos de tendências da série de tempo](campaign-data-visualization-manage.md) em todas as campanhas usando três métricas. Por padrão, os dados de [!UICONTROL Net Spend], [!UICONTROL Impressions]e [!UICONTROL Net CPM] são incluídos em gráficos separados (gráficos de lista). Como opção, você pode alterar as métricas. Para ativar dados por hora nos gráficos de tendências da série de tempo, altere sua seleção de data para um único dia ([!UICONTROL Today], [!UICONTROL Yesterday]ou um dia específico).
+
+![gráficos de tendências separados para três métricas](/help/dsp/assets/trend-chart-separate.png)
+
+Como opção, também é possível sobrepor as três métricas para fácil detecção de anomalias e áreas nas quais você pode melhorar a escala ou o desempenho.
+
+![gráfico de tendências com sobreposição](/help/dsp/assets/trend-chart.png)
+
+### Exibição em tabela
 
 ![Lista de campanhas](/help/dsp/assets/campaigns-list.png)
 
@@ -33,17 +45,15 @@ Em uma campanha, você pode filtrar dados com base na entidade da campanha: [!UI
 
 ![Guias da entidade da campanha](/help/dsp/assets/campaign-subtabs.png)
 
+### Exibição do gráfico
+
+Para cada campanha, você pode [personalizar gráficos de tendências da série de tempo](campaign-data-visualization-manage.md) com três métricas, que estão disponíveis em cada visualização de entidade. As mesmas métricas são persistentes em todos os gráficos de tendências da campanha.
+
+Consulte a [Seção &quot;Exibição de gráfico&quot; nas métricas de campanha cruzada](#chart-view) para obter mais informações.
+
+### Exibição em tabela
+
 Em cada guia de entidade, cada linha inclui as métricas de ritmo e delivery, por padrão, mas é possível [alterar a exibição de coluna](column-view-change.md) ou mesmo [criar uma exibição de coluna personalizada](column-view-create.md) para aplicar em todas as sub-guias da campanha. Você pode [personalizar as tabelas de dados](campaign-data-views-about.md) de outras maneiras. Cada tabela de dados inclui uma [!UICONTROL Subtotals] linha , que mostra a soma ou o valor médio de cada métrica em todas as linhas visíveis.
-
-Para cada campanha, você também pode personalizar gráficos de tendências de séries de tempo com três métricas, que estão disponíveis em cada exibição de entidade. Por padrão, os dados de [!UICONTROL Net Spend], [!UICONTROL Impressions]e [!UICONTROL Net CPM] são incluídos em gráficos separados (gráficos de lista). Como opção, você pode alterar as métricas. Para ativar dados por hora nos gráficos de tendências da série de tempo, altere sua seleção de data para um único dia ([!UICONTROL Today], [!UICONTROL Yesterday]ou um dia específico).
-
-![gráficos de tendências separados para três métricas](/help/dsp/assets/trend-chart-separate.png)
-
-Como opção, também é possível sobrepor as três métricas para fácil detecção de anomalias e áreas nas quais você pode melhorar a escala ou o desempenho.
-
-![gráfico de tendências com sobreposição](/help/dsp/assets/trend-chart.png)
-
-Você pode [personalizar os gráficos de tendências](campaign-data-visualization-manage.md) por campanha e as mesmas métricas são persistentes em todos os gráficos de tendências da campanha.
 
 ### Posicionamento [!UICONTROL Inspector] {#placement-inspector}
 
