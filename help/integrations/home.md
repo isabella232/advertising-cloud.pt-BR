@@ -1,13 +1,13 @@
 ---
 title: Novidades
-description: Esta página lista atualizações sobre integrações entre o Advertising Cloud e outros produtos e serviços no Adobe Experience Cloud.
+description: Saiba mais sobre atualizações nas integrações entre o Advertising Cloud e outros produtos e serviços no Adobe Experience Cloud.
 cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: f464c282817e07a357be1e1b1bf11e9a96f7571c
+source-git-commit: 1a6b9146ac38297eb4b48efeaf478390663e6018
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
