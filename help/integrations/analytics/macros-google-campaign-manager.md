@@ -2,9 +2,9 @@
 title: Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
 description: Saiba por que e como adicionar [!DNL Analytics for Advertising Cloud] macros para seu [!DNL Google Campaign Manager 360] tags de publicidade
 feature: Integration with Adobe Analytics
-source-git-commit: 3c2dc9337794ca1a6d57ca76642f5a5e05ecbe9a
+source-git-commit: fe61dcd97d5509784a20bf8f68bea0ab2699dcfd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 *Aplicável somente ao Advertising Cloud DSP*
 
-Se você usar tags de publicidade do [!DNL Google Campaign Manager 360] para seus anúncios do Advertising Cloud DSP, anexe parâmetros do Analytics para Advertising Cloud aos URLs da sua página inicial usando o [`%p` macro](https://support.google.com/campaignmanager/table/6096962). Os parâmetros permitem que o Advertising Cloud envie dados de clique para os anúncios para o Adobe Analytics.
+Se você usar tags de publicidade do [!DNL Google Campaign Manager 360] para seus anúncios do Advertising Cloud DSP, anexe parâmetros do Analytics para Advertising Cloud aos URLs da sua página inicial usando o [`%p` macro](https://support.google.com/campaignmanager/table/6096962). O registro de parâmetros `s_kwcid` e `ef_id` parâmetros da string de consulta no URL da página inicial, permitindo que o Advertising Cloud envie dados de clique para os anúncios para o Adobe Analytics.
 
 Usar macros para [!DNL Campaign Manager 360] anúncios de exibição e vídeo para os seguintes tipos de [!DNL Analytics for Advertising Cloud] implementações:
 
-* **Os anunciantes com o [!DNL Adobe] [!DNL Analytics for Advertising Cloud] Código JavaScript implementado em seus sites**: Você deve ver alguns dados de click-through no Adobe Analytics de anúncios que você compra pelo Advertising Cloud, sem macros extras. Para capturar dados de click-through em navegadores que não aceitam cookies de terceiros e, portanto, não são capturados por meio do código JavaScript, no entanto, adicione as macros nas seções a seguir ao [!DNL Campaign Manager 360] tags de anúncio.
+* **Os anunciantes com o [!DNL Adobe] [!DNL Analytics for Advertising Cloud] Código JavaScript implementado em seus sites**: O código JavaScript já registra a variável `s_kwcid` e `ef_id` parâmetros da string de consulta. No entanto, usar macros estende o rastreamento para incluir conversões baseadas em cliques quando cookies de terceiros não são compatíveis. A prática recomendada é adicionar as macros nas seções a seguir às tags de publicidade para capturar dados de click-through adicionais que não são capturados pelo código JavaScript.
 
 >[!NOTE]
 >
->O código JavaScript é uma solução para rastreamento de cliques somente enquanto os cookies ainda estão disponíveis. Quando o Advertising Cloud descontinuar os cookies, a implementação das seguintes macros será necessária.
+>O código JavaScript é uma solução para rastreamento de cliques somente enquanto os cookies ainda estão disponíveis. Quando os cookies forem descontinuados, será necessário implementar as seguintes macros.
 
 * **Os anunciantes cujos sites não usam a variável [!DNL Analytics for Advertising Cloud] O código JavaScript e, em vez disso, depende do [!DNL Analytics] encaminhamento pelo lado do servidor somente para dados de click-through** (sem dados de view-through): As macros a seguir são necessárias para relatar a atividade de cliques no site orientada de anúncios que você comprar pelo Advertising Cloud.
 
@@ -91,5 +91,6 @@ Quando um usuário clica no anúncio, [!DNL Google Campaign Manager 360] see `%p
 >[!MORELIKETHIS]
 >
 >* [Visão geral da [!DNL Analytics for Advertising Cloud]](overview.md)
+>* [Advertising Cloud IDs usadas por [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Flashtalking] Tags de anúncio](macros-flashtalking.md)
 
