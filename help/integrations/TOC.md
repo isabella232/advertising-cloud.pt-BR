@@ -1,11 +1,11 @@
 ---
-user-guide-title: Integrações com o Adobe Experience Cloud
-user-guide-description: Saiba mais sobre as integrações do Advertising Cloud DSP e Advertising Cloud Search com outros produtos e serviços da Adobe Experience Cloud.
-breadcrumb-title: Integrações com o Experience Cloud
+user-guide-title: Integrações com a Adobe Experience Cloud
+user-guide-description: Saiba mais sobre as integrações da Advertising Cloud DSP e da Advertising Cloud Search com outros produtos e serviços da Adobe Experience Cloud.
+breadcrumb-title: Integrações com a Experience Cloud
 index: true
-source-git-commit: 1d960a0bf052d347b3f55d522c7276806492fa03
+source-git-commit: e5f96bc9f34e568ff51b0b884114d3ebadf704d9
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,7 @@ ht-degree: 0%
 
 # Integrações do Advertising Cloud com o Adobe Experience Cloud {#integrations}
 <!--  and Adobe Experience Platform -->
+<!--          + [Append [!DNL Analytics for Advertising Cloud] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md) -->
 
 + [Novidades](/help/integrations/home.md)
 + [!DNL Analytics for Advertising Cloud] {#analytics}
@@ -22,6 +23,8 @@ ht-degree: 0%
       + [Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/prerequisites.md)
       + [Código JavaScript para [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/javascript.md)
       + [Usar o [!DNL Last Event Service] Biblioteca JavaScript com Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
+      + [Macros para Tags de anúncio]{#macros}
+         + [Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Flashtalking] Tags de anúncio](/help/integrations/analytics/macros-flashtalking.md)
    + Dados trocados {#data}
       + [Métricas do Advertising Cloud no Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
       + [[!DNL Analytics] Dados no Advertising Cloud](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
