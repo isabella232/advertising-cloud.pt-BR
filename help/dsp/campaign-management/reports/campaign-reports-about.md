@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
+source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -97,7 +97,7 @@ Para cada disposição, você pode [abrir uma (exibição detalhada) [!UICONTROL
 
 ### Outros tipos de relatórios no nível da campanha
 
-Para outras quebras de dados, exibir [as páginas herdadas de relatórios no nível da campanha](/help/dsp/campaign-management/campaigns/campaign-view-report.md). O relatório herdado inclui seções em [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]e [!UICONTROL Audience Performance] dados.
+Para outras quebras de dados, exibir [as páginas de relatórios no nível da campanha](/help/dsp/campaign-management/campaigns/campaign-view-report.md). O <!--legacy --> relatório inclui seções sobre [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability]e [!UICONTROL Audience Performance] dados.
 
 >[!MORELIKETHIS]
 >

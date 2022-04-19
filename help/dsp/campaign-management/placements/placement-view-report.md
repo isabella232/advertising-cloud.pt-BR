@@ -1,23 +1,23 @@
 ---
 title: Exibir um relatório detalhado de uma disposição
-description: Saiba como abrir um relatório de nível de posicionamento com seções nos dados [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications] e [!UICONTROL Ads].
+description: Saiba como abrir um relatório de nível de posicionamento com seções em [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications]e [!UICONTROL Ads] dados.
 feature: DSP Placements, DSP Campaign Data Views
 exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 99db7ed5a7455907204d1387f6ddfe0a644db753
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
 # Exibir um relatório detalhado de uma disposição
 
-O relatório de nível de disposição herdado inclui uma visão geral e seções nos dados [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications] e [!UICONTROL Ads].
+O <!--legacy --> o relatório de nível de inserção inclui uma visão geral e seções sobre [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications]e [!UICONTROL Ads] dados.
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
 1. Clique no nome da campanha.
 1. No submenu, clique em **[!UICONTROL Placements]**.
-1. Ao lado do nome do posicionamento, clique em **[!UICONTROL ...]>[!UICONTROL View report]**.
+1. Ao lado do nome da disposição, clique em  **[!UICONTROL ...]>[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >
