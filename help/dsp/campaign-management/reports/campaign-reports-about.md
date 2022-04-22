@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
+source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '938'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ As exibições de gerenciamento de campanha incluem dados abrangentes do relató
 
 ## Exibição de todas as campanhas
 
-O [!UICONTROL Campaigns] a visualização é aberta para uma lista de todas as campanhas dentro da sua conta. &lt;!— O [!UICONTROL Subtotals] mostra a soma ou o valor médio de cada métrica em todas as linhas visíveis. — Ainda há uma linha Subtotais? Não vejo nenhum. —>
+O [!UICONTROL Campaigns] a visualização é aberta para um conjunto de gráficos de dados de desempenho e uma lista de todas as campanhas em sua conta.
 
 ### Exibição do gráfico {#chart-view}
 
