@@ -2,9 +2,9 @@
 title: Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
 description: Saiba por que e como adicionar [!DNL Analytics for Advertising Cloud] macros para seu [!DNL Google Campaign Manager 360] tags de publicidade
 feature: Integration with Adobe Analytics
-source-git-commit: fe61dcd97d5509784a20bf8f68bea0ab2699dcfd
+source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Usar macros para [!DNL Campaign Manager 360] anúncios de exibição e vídeo pa
 
 ## Anexe as macros ao seu [!DNL Google Campaign Manager 360] Anúncios
 
-Within [!DNL Google Campaign Manager 360], anexe ao seguinte parâmetro ao URL da página inicial: `%pamo=!;`
+Within [!DNL Google Campaign Manager 360], anexe ao seguinte parâmetro ao URL da página de aterrissagem para cada anúncio de exibição e vídeo: `%pamo=!;`
 
 Você pode especificar o URL da página de aterrissagem de várias maneiras. As instruções para cada opção estão incluídas nas subseções a seguir.
 
@@ -46,20 +46,20 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >* Se nenhum outro parâmetro for incluído após a `amo` , em seguida, adicione um parâmetro (por exemplo, &amp;a=b) depois. Exemplo:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 
-## Configurar o sufixo do URL da página inicial no nível do anunciante
+### Configurar o sufixo do URL da página inicial no nível do anunciante
 
 1. No menu principal, clique no botão [!UICONTROL Advertisers] guia .
 1. Clique no nome do anunciante.
 1. No [!UICONTROL Landing page URL suffix] configurações, incluir `%pamo!;` no [!UICONTROL URL suffix] campo.
 
-## Configurar o sufixo do URL da página inicial no nível da campanha
+### Configurar o sufixo do URL da página inicial no nível da campanha
 
 1. No menu principal, clique no botão [!UICONTROL Campaigns] guia .
 1. Clique no nome da campanha.
 1. Clique em [!UICONTROL Properties].
 1. No [!UICONTROL Landing page URL suffix] configurações, incluir `%pamo!;` no [!UICONTROL URL suffix] campo.
 
-## Configurar o sufixo do URL da página inicial no nível de criação
+### Configurar o sufixo do URL da página inicial no nível de criação
 
 1. No menu principal, clique no botão [!UICONTROL Campaigns] guia .
 1. Clique no nome da campanha.
