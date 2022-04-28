@@ -1,9 +1,9 @@
 ---
 title: Perguntas frequentes
 description: xxx
-source-git-commit: 5dfc4e8f2e6d2532e40eb4da8748fec0ed096e71
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Nosso auditor está nos pedindo para desativar esse recurso. O que acontece se b
 
 A: Verificamos com nosso produto e eles mencionaram que os pixels em questão são para a finalidade de aumentar as taxas de correspondência de cookies entre o Ad Cloud, inventário específico/parceiros SSP (em relação ao DSP) e AAM.  Se forem removidos, o cliente poderá ver algum nível de taxa de correspondência diminuída entre o AAC/AAM e os parceiros de inventário para os respectivos pixels, mas eles não esperarão que seja substancial.
 
-Para o Ad Cloud Search, vemos que a IMS Org está configurada para Mathworks, mas nossa equipe de produtos não vê a configuração do Mathworks para ativar públicos no Ad Cloud. Você está usando o Adobe Audience Manager para enviar públicos para o Ad Cloud Search? Caso contrário, removê-los não terá impacto no fluxo de trabalho atual. AAM Atendimento ao cliente pode ajudar na remoção desses pixels se você não quiser que eles sejam acionados.
+Para o Ad Cloud Search, vemos que a ID do Experience Cloud da organização está configurada para Mathworks, mas nossa equipe de produtos não vê a configuração do Mathworks para ativar públicos no Ad Cloud. Você está usando o Adobe Audience Manager para enviar públicos para o Ad Cloud Search? Caso contrário, removê-los não terá impacto no fluxo de trabalho atual. AAM Atendimento ao cliente pode ajudar na remoção desses pixels se você não quiser que eles sejam acionados.
 
