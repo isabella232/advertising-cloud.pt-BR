@@ -1,9 +1,9 @@
 ---
 title: Criar uma conta de anunciante
 description: Saiba como criar uma conta de anunciante.
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Os anunciantes estão disponíveis para todos os usuários na conta da organiza�
 
       1. Especifique a [!UICONTROL General] configurações.
 
-      1. (Opcional) Para configurar as integrações entre o DSP e outros produtos da Adobe Experience Cloud, insira a ID de Experience Cloud do anunciante para sua organização na [!UICONTROL Adobe IMS IDs] e configure as integrações de produto no [!UICONTROL Integrations] seção.
+      1. (Opcional) Para configurar as integrações entre o DSP e outros produtos da Adobe Experience Cloud, insira a ID da organização do Experience Cloud do anunciante na variável [!UICONTROL Adobe IMS IDs] e configure as integrações de produto no [!UICONTROL Integrations] seção.
    1. (Opcional) Na seção [!UICONTROL Targeting] , especifique as metas padrão para cada nova disposição.
 
       Você pode substituir as metas padrão de qualquer disposição criada.

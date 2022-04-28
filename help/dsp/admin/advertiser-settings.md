@@ -1,9 +1,9 @@
 ---
 title: Configurações da conta do anunciante
 description: Consulte as descrições das configurações disponíveis do anunciante.
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '975'
 ht-degree: 0%
 
 ---
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 Os anunciantes com produtos adicionais da Adobe Experience Cloud podem compartilhar dados em alguns produtos usando a ID exclusiva da organização para o Experience Cloud. Você pode configurar integrações específicas de produtos no [!UICONTROL Integrations] seção.
 
-**[!UICONTROL Account IMS org and ID]:** (Anunciantes com produtos Experience Cloud adicionais licenciados por meio de uma conta Experience Cloud com vários anunciantes; opcional) a ID de Experience Cloud da organização.
+**[!UICONTROL Account IMS org and ID]:** (Anunciantes com produtos Experience Cloud adicionais licenciados por meio de uma conta Experience Cloud com vários anunciantes; opcional) a ID de organização do Experience Cloud do anunciante.
 
-**[!UICONTROL Advertiser IMS org and ID]:** [Anunciantes com licenças diretas para produtos Experience Cloud adicionais; opcional) a ID de Experience Cloud da organização.
+**[!UICONTROL Advertiser IMS org and ID]:** [Anunciantes com licenças diretas para produtos Experience Cloud adicionais; opcional) a ID de organização do Experience Cloud do anunciante.
 
 ### [!UICONTROL Integrations]
 
-(Opcional) Produtos de Experience Cloud adicionais vinculados à conta de DSP. Os produtos devem ser associados à mesma ID de Experience Cloud fornecida no [!UICONTROL Adobe IMS IDs] seção.
+(Opcional) Produtos de Experience Cloud adicionais vinculados à conta de DSP. Os produtos devem ser associados à mesma ID de organização do Experience Cloud fornecida no [!UICONTROL Adobe IMS IDs] seção.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Anunciantes com Advertising Cloud Search ou que usam pixels de conversão Advertising Cloud) A [!DNL Search] conta com a qual DSP irá trocar dados de atribuição.
 

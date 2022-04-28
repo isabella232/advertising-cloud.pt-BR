@@ -3,9 +3,9 @@ title: 'Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumid
 description: Saiba mais sobre o suporte para capturar solicitações de cancelamento da venda do consumidor.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Você pode comunicar solicitações de cancelamento de venda do consumidor usand
 
 ### Método 2: Comunicar as solicitações de recusa de venda do CCPA usando a API do Adobe Experience Platform Privacy Service
 
-*Somente anunciantes com uma Adobe Experience Cloud ID*
+*Os anunciantes atribuíram uma ID de organização da Adobe Experience Cloud somente*
 
 1. Implante uma biblioteca JavaScript para recuperar os cookies do cliente. A mesma biblioteca, `AdobePrivacy.js`, é usada para todas as soluções da Adobe Experience Cloud.
 
@@ -58,20 +58,20 @@ Você pode comunicar solicitações de cancelamento de venda do consumidor usand
 
    Você deve implantar a biblioteca na página da Web da qual seus clientes podem enviar solicitações de recusa de venda, como o portal de privacidade da sua empresa. A biblioteca ajuda a recuperar cookies do Adobe (ID do namespace: `gsurferID`) para enviar essas identidades como parte das solicitações de não participação na venda por meio da API do Adobe Experience Platform Privacy Service.
 
-1. Identifique a ID do Experience Cloud e verifique se está vinculada às contas da Advertising Cloud.
+1. Identifique a ID da organização do Experience Cloud e verifique se ela está vinculada às contas da Advertising Cloud.
 
-   Uma ID de Experience Cloud é uma sequência de 24 caracteres alfanuméricos anexada com &quot;@AdobeOrg&quot;. A maioria dos clientes do Experience Cloud recebeu uma ID. Se a equipe de marketing ou o administrador interno do sistema do Adobe não souber a ID da organização ou não tiver certeza se ela foi fornecida, entre em contato com o Atendimento ao cliente do Adobe em gdprsupport@adobe.com. Você precisará da ID para enviar solicitações à API de Privacidade usando o `imsOrgID` namespace.
+   Uma ID de Experience Cloud da organização é uma sequência de 24 caracteres alfanuméricos anexada com &quot;@AdobeOrg&quot;. A maioria dos clientes do Experience Cloud recebeu uma ID da organização. Se a sua equipe de marketing ou o administrador interno do sistema do Adobe não souber a ID da organização ou não tiver certeza se ela foi fornecida, entre em contato com o Atendimento ao cliente do Adobe em gdprsupport@adobe.com. Você precisará da ID da organização para enviar solicitações à API de Privacidade usando o `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
-   >Entre em contato com o representante da Advertising Cloud de sua empresa para confirmar que todas as contas da Advertising Cloud de sua organização, incluindo [!DNL DSP] contas ou anunciantes, [!DNL Search] contas e [!DNL Creative] ou [!DNL DCO] contas — são vinculadas à ID do Experience Cloud.
+   >Entre em contato com o representante da Advertising Cloud de sua empresa para confirmar que todas as contas da Advertising Cloud de sua organização, incluindo [!DNL DSP] contas ou anunciantes, [!DNL Search] contas e [!DNL Creative] ou [!DNL DCO] contas — são vinculadas à ID da organização do Experience Cloud.
 
 1. Use a API do Adobe Experience Platform Privacy Service para [enviar solicitações de cancelamento de venda](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) à Advertising Cloud em nome dos consumidores e para verificar o estado dos pedidos existentes.
 
    Consulte o Apêndice abaixo para obter um exemplo de uma solicitação de recusa de venda.
 
    >[!NOTE]
-   Se sua empresa tiver várias IDs de Experience Cloud, você deverá enviar solicitações de API separadas para cada uma. No entanto, você pode fazer uma solicitação de API para várias subsoluções da Advertising Cloud ([!DNL Search], [!DNL Creative], [!DNL DSP]e [!DNL DCO]), com uma conta por subsolução.
+   Se sua empresa tiver várias IDs de organização do Experience Cloud, você deverá enviar solicitações de API separadas para cada uma. No entanto, você pode fazer uma solicitação de API para várias subsoluções da Advertising Cloud ([!DNL Search], [!DNL Creative], [!DNL DSP]e [!DNL DCO]), com uma conta por subsolução.
 
 Todas essas etapas são necessárias para receber suporte da Advertising Cloud. Para obter mais informações sobre essas e outras tarefas relacionadas que você precisa executar usando a Adobe Experience Platform Privacy Service e onde encontrar os itens que você precisará, consulte [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
