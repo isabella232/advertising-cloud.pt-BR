@@ -3,9 +3,9 @@ title: Configurar um acordo programático garantido
 description: Saiba como configurar um negócio programático garantido (PG) que você negociou com um editor.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 *[Somente plataformas compatíveis do lado do suprimento](programmatic-guaranteed-about.md)*
 
-Depois de negociar um negócio programático garantido (PG) com um editor suportado, você pode configurar o negócio no DSP usando o [!DNL Deal ID inbox] ou inserindo manualmente os detalhes do negócio.
+Depois de negociar um negócio programático garantido (PG) com um editor suportado, você pode configurar a negociação no DSP usando o [!DNL Deal ID inbox] ou inserindo manualmente os detalhes da negociação.
 
 >[!NOTE]
 >
 > Para ofertas PG, o editor lida com todo o ritmo do orçamento, limite de orçamento e definição de metas. Todos os SSPs que permitem o PG por DSP confirmam que o editor pode configurar o limite de orçamento.
 >
-> Configurar ofertas programáticas garantidas com editores em [!DNL FreeWheel] requer permissões e etapas adicionais. Consulte &quot;[Visão geral da configuração de contratos programáticos garantidos em [!DNL FreeWheel]](freewheel-overview.md)&quot; para obter mais informações.
+> Configuração de acordos programáticos garantidos com editores em [!DNL FreeWheel] O requer permissões e etapas adicionais. Consulte &quot;[Visão geral da configuração de contratos programáticos garantidos no [!DNL FreeWheel]](freewheel-overview.md)&quot; para obter mais informações.
 
 ## Configure um acordo programático garantido usando o [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Este é o método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyers] e [!DNL Magnite DV+].
+Esse é o método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyers]e [!DNL Magnite DV+].
 
 1. [Aceite o negócio](deal-id-inbox-accept.md).
 
@@ -34,23 +34,32 @@ Este é o método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyer
 
    * Se estiver aceitando uma única venda, você será automaticamente redirecionado para o fluxo de trabalho de criação de disposição padrão do PG.
 
-      Todas as [!DNL FreeWheel] negociações são propostas como um único acordo.
+      Todos [!DNL FreeWheel] os acordos são propostos como um acordo único.
 
    * Se estiver aceitando uma proposta com várias IDs de negócios PG, identifique cada disposição padrão PG que precisa criar. Depois de criar todas as disposições necessárias, o botão continuar é ativado.
 
-1. (Opcional) Direcione a negociação PG em disposições adicionais que não são PG.
+1. (Opcional) Direcione a negociação PG em disposições adicionais, PG ou não-PG ao clicar em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>É possível anexar várias disposições que suportam diferentes tipos (CTV, Desktop, Áudio etc.) para o mesmo negócio.
 
 ## Configurar manualmente um acordo programático garantido
 
 Use este método para todos os outros SSPs.
 
-1. [Configure manualmente os detalhes](deal-id-create.md) da ID de negócios.
+1. [Configurar manualmente os detalhes da ID de negócios](deal-id-create.md).
 
 1. Depois de salvar o negócio, selecione os anúncios que serão usados para o negócio e crie uma disposição padrão PG, conforme solicitado.
 
    Criar uma disposição padrão PG para a venda é obrigatório para fornecer 100% de sua compra. Esse tipo de disposição não tem direcionamento, portanto, DSP pode retornar um lance para cada solicitação de lance do editor.
 
-1. (Opcional) Direcione a negociação PG em disposições adicionais que não são PG.
+1. (Opcional) Direcione a negociação PG em disposições adicionais, PG ou não-PG ao clicar em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+
+>[!NOTE]
+>
+>É possível anexar várias disposições que suportam diferentes tipos (CTV, Desktop, Áudio etc.) para o mesmo negócio.
+
 
 >[!MORELIKETHIS]
 >
