@@ -3,9 +3,9 @@ title: Configurar um acordo programático garantido
 description: Saiba como configurar um negócio programático garantido (PG) que você negociou com um editor.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
+source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,9 @@ Esse é o método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyer
 
    * Se estiver aceitando uma proposta com várias IDs de negócios PG, identifique cada disposição padrão PG que precisa criar. Depois de criar todas as disposições necessárias, o botão continuar é ativado.
 
-1. (Opcional) Direcione a negociação PG em disposições adicionais, PG ou não-PG ao clicar em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Opcional) Direcione a negociação PG em disposições adicionais PG ou não-PG clicando em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->É possível anexar várias disposições que suportam diferentes tipos (CTV, Desktop, Áudio etc.) para o mesmo negócio.
+   Um negócio pode direcionar várias disposições que suportam qualquer combinação de tipos de mídia (como TV conectada, desktop e áudio).
 
 ## Configurar manualmente um acordo programático garantido
 
@@ -54,12 +52,9 @@ Use este método para todos os outros SSPs.
 
    Criar uma disposição padrão PG para a venda é obrigatório para fornecer 100% de sua compra. Esse tipo de disposição não tem direcionamento, portanto, DSP pode retornar um lance para cada solicitação de lance do editor.
 
-1. (Opcional) Direcione a negociação PG em disposições adicionais, PG ou não-PG ao clicar em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Opcional) Direcione a negociação PG em disposições adicionais PG ou não-PG clicando em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->É possível anexar várias disposições que suportam diferentes tipos (CTV, Desktop, Áudio etc.) para o mesmo negócio.
-
+   Um negócio pode direcionar várias disposições que suportam qualquer combinação de tipos de mídia (como TV conectada, desktop e áudio).
 
 >[!MORELIKETHIS]
 >
