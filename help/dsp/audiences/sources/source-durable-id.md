@@ -2,7 +2,7 @@
 title: 'Ativar segmentos autenticados de parceiros de ID duráveis '
 description: Saiba mais sobre como ativar públicos autenticados por meio de uma solução de ID durável.
 feature: DSP Audiences
-source-git-commit: 8550b539676588c3a6bc07abe088b38bd4251725
+source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Para saber mais sobre a integração do DSP com o [!DNL LiveRamp], contato `adcl
 
 >[!MORELIKETHIS]
 >
->*[Sobre a ativação de segmentos autenticados de fontes de público-alvo](source-about.md)
+>* [Sobre a ativação de segmentos autenticados de fontes de público-alvo](source-about.md)
 >* [Criar uma fonte de público-alvo para ativar públicos-alvo primários](source-create.md)
 >* [Configurações de origem do público-alvo](source-settings.md)
 >* [Conexão Adobe Advertising Cloud DSP](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
