@@ -8,9 +8,9 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
+source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '886'
 ht-degree: 6%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 6%
       + [Diretrizes aceitáveis do segmento de integridade](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Diretrizes de uso de dados](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Soluções avançadas de medição](/help/dsp/introduction/advanced-measurement-services.md)
-+ Gerenciamento de campanhas {#campaign-management}
++ Campaign Management {#campaign-management}
    + [Visão geral da estrutura do Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campanhas {#campaigns}
       + [Sobre o Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
@@ -131,6 +131,11 @@ ht-degree: 6%
       + [Criar um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-create.md)
       + [Configurações de público-alvo](/help/dsp/audiences/audience-settings.md)
       + [Sintaxe para lógica de segmento do público-alvo](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + Gerenciar fontes {#sources}
+      + [Sobre a ativação de segmentos autenticados de fontes de público-alvo](/help/dsp/audiences/sources/source-about.md)
+      + [Ativar segmentos autenticados de parceiros de ID duráveis](/help/dsp/audiences/sources/source-durable-id.md)
+      + [Criar uma fonte de público-alvo para ativar públicos-alvo primários](/help/dsp/audiences/sources/source-create.md)
+      + [Configurações de origem do público-alvo](/help/dsp/audiences/sources/source-settings.md)
    + [Fornecedores de dados de terceiros disponíveis](/help/dsp/audiences/third-party-data-providers.md)
 + Inventário {#inventory}
    + [Visão geral dos recursos de inventário](/help/dsp/inventory/inventory-overview.md)

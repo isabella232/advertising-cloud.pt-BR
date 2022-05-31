@@ -3,9 +3,9 @@ title: Sobre o Gerenciamento de público-alvo no Advertising Cloud DSP
 description: Saiba mais sobre os recursos de gerenciamento de público-alvo.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ Tipos adicionais de público-alvo também estão disponíveis para direcionament
 
 ## Importação de segmentos de dados primários e de terceiros
 
-A Advertising Cloud DSP pode importar seus próprios segmentos de dados primários da sua plataforma de gerenciamento de dados (DMP) e fornecê-los a qualquer conjunto de anunciantes, conforme necessário.
+DSP pode importar seus próprios segmentos de dados primários da sua plataforma de gerenciamento de dados (DMP) e fornecê-los a qualquer conjunto de anunciantes, conforme necessário.
 
-O Advertising Cloud DSP também pode importar segmentos personalizados de terceiros, incluindo combinações complexas de segmentos de terceiros. Você pode fornecer os segmentos a qualquer conjunto de anunciantes, conforme necessário.
+DSP é um destino integrado para [o [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), permitindo compartilhar segmentos originais autenticados com anunciantes e usuários aprovados para ativação da campanha. Para saber mais sobre a integração do Real-Time CDP, consulte o [Seção Fontes](/help/dsp/audiences/sources/source-about.md).
+
+DSP também pode importar segmentos personalizados de terceiros, incluindo combinações complexas de segmentos de terceiros. Você pode fornecer os segmentos a qualquer conjunto de anunciantes, conforme necessário.
 
 Entre em contato com seu [!DNL Adobe] para obter mais informações.
 
@@ -40,9 +42,9 @@ Entre em contato com seu [!DNL Adobe] para obter mais informações.
 
 Você pode direcionar suas disposições para todos os tipos de público-alvo a seguir.
 
-* Todos os conjuntos de públicos-alvo criados pelo usuário que foram salvos no Advertising Cloud DSP.
+* Todos os conjuntos de públicos-alvo criados pelo usuário que foram salvos em DSP.
 
-* Todos os segmentos de público-alvo criados pelo usuário que foram criados no Advertising Cloud DSP:
+* Todos os segmentos de público-alvo criados pelo usuário que foram criados no DSP:
 
    * Segmentos personalizados para usuários que visitaram páginas da Web específicas e usuários expostos a impressões de anúncios específicos.
 
@@ -52,21 +54,21 @@ Você pode direcionar suas disposições para todos os tipos de público-alvo a 
 
 * Todos os segmentos de dados personalizados de terceiros importados.
 
-* (Disposições direcionadas somente para os EUA) [Todos os segmentos de dados de terceiros disponíveis para clientes da Advertising Cloud DSP de mais de 30 provedores](/help/dsp/audiences/third-party-data-providers.md), incluindo [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]e muito mais.
+* (Disposições direcionadas somente para os EUA) [Todos os segmentos de dados de terceiros disponíveis para DSP clientes de mais de 30 provedores](/help/dsp/audiences/third-party-data-providers.md), incluindo [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]e muito mais.
 
    Você pode direcionar segmentos específicos, que direcionam usuários com base em dados de público-alvo (por exemplo, usuários com dados demográficos, interesses ou intenções específicos e/ou perfis comportamentais). Você pode navegar por provedor de dados e categoria, pesquisar segmentos por nome ou ID de segmento, ou filtrar os resultados por provedor de dados, tamanho total do segmento, contagem de navegador da Web ou contagem de dispositivos.
 
    Segmentos de terceiros incorrem em tarifas adicionais, que são indicadas ao lado de cada nome de segmento.
 
-* (Anunciantes com Adobe Experience Cloud, Adobe Audience Manager ou Adobe Analytics que usam somente tags de conversão JavaScript do Advertising Cloud) Todos os seus segmentos de público-alvo disponíveis, primários, secundários ou de terceiros, criados no Adobe Experience Cloud, criados no Audience Manager ou publicados no Adobe Experience Cloud a partir do Audience Manager ou [!DNL Analytics].
+* (Anunciantes com a Adobe Experience Platform e [!DNL Real-Time CDP], Adobe Audience Manager ou Adobe Analytics que usam somente as tags de conversão do JavaScript da Advertising Cloud) Todos os segmentos de público-alvo de primeiro, segundo ou terceiro disponíveis criados no [!DNL Real-Time CDP], criado no Audience Manager ou publicado no Adobe Experience Cloud a partir do Audience Manager ou [!DNL Analytics].
 
-   A precificação para o uso dos segmentos é pré-negociada e não é visível no Advertising Cloud.  <!-- Verify -->
+   A precificação para o uso dos segmentos é pré-negociada e não é visível no DSP.
 
-   Os segmentos do Adobe Experience Cloud estão disponíveis cerca de uma hora depois que você os cria ou publica no Adobe Experience Cloud. Os segmentos provenientes diretamente do Audience Manager estão disponíveis cerca de 24 horas após sua criação. <!-- Verify all -->
+   Segmentos de [!DNL Analytics] estão disponíveis cerca de uma hora depois de criá-los ou publicá-los como Experience Cloud audiences. Segmentos provenientes diretamente do Audience Manager ou [!DNL Real-Time CDP] estão disponíveis dentro de 24 horas após compartilhá-los.
 
    >[!NOTE]
    >
-   >Consulte a documentação para [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)e [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) para obter informações sobre como configurar e coletar dados para segmentos nessas soluções.
+   >Consulte a documentação para [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html)e [o [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) para obter informações sobre como configurar e coletar dados para segmentos nessas soluções.
 
 ## Dados de tamanho de público-alvo
 
