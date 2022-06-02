@@ -2,9 +2,10 @@
 title: Configurações de origem do público-alvo
 description: Saiba mais sobre as configurações para fontes de público-alvo.
 feature: DSP Audiences
-source-git-commit: 285ececc74373be4dee9d0a4bce2c82605082630
+exl-id: 8b17d5cc-488b-4bd2-bada-ef51b35faf92
+source-git-commit: 932b1ff979cb9b617502f9797af29e88ef77adf0
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 **[!UICONTROL Enter IMS Org Id]:** A ID de organização do Experience Cloud para a [!DNL Adobe Experience Platform] conta.
 
-**[!UICONTROL AAC Source Key]:** (Somente leitura; gerado quando um valor é inserido na variável [!UICONTROL Enter IMS Org Id] campo ) A chave de origem que pode ser usada para [crie uma conexão de destino em [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-destination.html) para enviar públicos para o Advertising Cloud DSP. Você pode copiar o valor para a área de transferência para colar no [!DNL Adobe Real-Time CDP] configurações de conexão de destino ou em um arquivo.
+**[!UICONTROL AAC Source Key]:** (Somente leitura; gerado quando um valor é inserido na variável [!UICONTROL Enter IMS Org Id] campo ) A chave de origem que pode ser usada para [crie uma conexão de destino em [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html) para enviar públicos para o Advertising Cloud DSP. Você pode copiar o valor para a área de transferência para colar no [!DNL Adobe Real-Time CDP] configurações de conexão de destino ou em um arquivo.
 
 >[!MORELIKETHIS]
 >
