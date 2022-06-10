@@ -3,9 +3,9 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: ed8e81a87a03d604a002937c5071873fc530f100
+source-git-commit: 97085be7b8c1e7ab741c76801fb258295eb4714c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | As capas de alto impacto devem ser servidas de uma ID de negócios de exibição de 180x150 na rede de inventário de capa interna. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; 300x250 Saída; Anúncios padrão de exibição de desktop certificados (as IDs específicas do plug-in não são necessárias).</br></br>Entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência na configuração de unidades de publicidade. |
+| [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; 300x250 Saída; Exibição de desktop padrão (não são necessárias IDs de plug-in de anúncio específicas).</br></br>Entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência na configuração de unidades de publicidade. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |
@@ -50,12 +50,12 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Somente VAST |
 | [!DNL RevJet] |  |  |  | X | Somente VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | Certificado para OLV e CTV.</br></br>Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com `<a>` tags (no início e no fim). Consulte o exemplo de tag abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] |  | X |  |  | OLV e CTV</br></br>Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com `<a>` tags (no início e no fim). Consulte o exemplo de tag abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Teads] |  | X |  |  |  | A Advertising Cloud DSP não é compatível com VPAID no inventário externo. |
+| [!DNL Teads] |  | X |  |  | A Advertising Cloud DSP não é compatível com VPAID no inventário externo. |
 | [!DNL Trueffect] |  | X |  |  |  |
 | [!DNL Undertone] |  |  | X |  | Unidade de anúncio de Grabber de página personalizada carregada como 180x150 em DSP</br></br>Quando o Index Exchange passa em um leilão de 180x150 e DSP lances no leilão e dá uma impressão, o anúncio se expande para um anúncio de exibição de página inteira.</br></br>Originalmente certificado para Capturador de página, Adesão expansível e unidades de anúncio de Desvio de tela. Isso precisa ser recertificado, com etapas marcadas para processos. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] unidades de publicidade |
