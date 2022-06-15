@@ -3,9 +3,9 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 97085be7b8c1e7ab741c76801fb258295eb4714c
+source-git-commit: eeb7b84e8090f0831aea75a731d022cc099709a3
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 0%
 | [!DNL Pubmatic] |  |  |  | X | Somente VAST |
 | [!DNL RevJet] |  |  |  | X | Somente VAST |
 | [!DNL Seedtag] |  | X |  |  |  |
-| [!DNL Sizmek] |  | X |  |  | OLV e CTV</br></br>Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com `<a>` tags (no início e no fim). Consulte o exemplo de tag abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
+| [!DNL Sizmek] |  | X |  | X | OLV e CTV</br></br>Para fazer com que as tags sejam renderizadas na interface do usuário, vincule a tag com `<a>` tags (no início e no fim). Consulte o exemplo de tag abaixo:</br></br>```<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>``` |
 | [!DNL Spaceback] |  | X |  |  |  |
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
