@@ -3,9 +3,9 @@ title: Colunas de Relatório Disponíveis
 description: Consulte descrições de colunas disponíveis em relatórios personalizados.
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3daf6a25f883a7eef42dff1c95a98a4f5e65f67e
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1658'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Browser] | O navegador no qual o anúncio foi exibido (como [!UICONTROL Chrome] ou [!UICONTROL Firefox]). |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Environment] | Se o anúncio foi exibido em *[!UICONTROL sites]* ou *[!UICONTROL Apps]*. |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Hardware] | O tipo de dispositivo no qual o anúncio foi exibido (como [!UICONTROL Set Top Box] ou [!UICONTROL Mobile Phone]). |
-| [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Manufacturer] | O fabricante do dispositivo no qual o anúncio foi exibido (como [!UICONTROL Samsung], [!UICONTROL Lenovo] ou [!UICONTROL Apple]). |
+| [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Manufacturer] | O fabricante do dispositivo no qual o anúncio foi exibido (como [!UICONTROL Samsung], [!UICONTROL Lenovo]ou [!UICONTROL Apple]). |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Model] | O modelo do dispositivo no qual o anúncio foi exibido (como [!UICONTROL iPhone XS] ou [!UICONTROL Galaxy Note 7]). |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Operating System Vendor] | O fornecedor do sistema operacional no qual o anúncio foi exibido (como [!UICONTROL Microsoft] ou [!UICONTROL Apple]). |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Operating System Version] | A versão do sistema operacional em que o anúncio foi exibido (como [!UICONTROL Windows 10] ou [!UICONTROL iOS Mojave]) |
@@ -57,8 +57,8 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package Name] | O nome do pacote |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Package Start Date] | A data de início do pacote. |
 | [!UICONTROL Dimension] | [!UICONTROL Packages] | [!UICONTROL Placement End Date] | A data de término da disposição. |
-| [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion ID] | (Obsoleto) A ID de conversão atribuída pelo DSP aos eventos de conversão [!DNL TubeMogul] herdados. |
-| [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion Name] | (Obsoleto) O nome da conversão atribuído aos eventos de conversão herdados [!DNL TubeMogul]. |
+| [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion ID] | (Obsoleto) A ID de conversão atribuída pelo DSP ao herdado [!DNL TubeMogul] eventos de conversão. |
+| [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion Name] | (Obsoleto) O nome da conversão atribuído ao herdado [!DNL TubeMogul] eventos de conversão. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement ID] | O identificador exclusivo para a disposição no Advertising Cloud. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Name] | O nome da disposição, conforme atribuído pelo usuário. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement End Date] | A data de término da disposição. |
@@ -81,43 +81,45 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Cost per Distinct Unique] | O [!UICONTROL Total Spend] dividido por [!UICONTROL App/Site Distinct Uniques]. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Cost per Unique] | O [!UICONTROL Total Spend] dividido por [!UICONTROL App/Site Uniques]. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated % Reached] | A porcentagem estimada do universo doméstico direcionado que recebeu uma exposição. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Average Frequency] | O número médio de impressões exibidas para únicos. Para alguns inventários, os editores não transmitem um identificador de dispositivo e essas impressões não são incluídas nesse valor. Há uma métrica semelhante no relatório [!UICONTROL Frequency (by App/Site)], mas essa métrica não é estimada. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | (Incluído no relatório [!UICONTROL Frequency (by Impression)]) As impressões estimadas para um determinado detalhamento de frequência. As estimativas do Advertising Cloud são baseadas em uma amostra de impressões. Para alguns inventários, os editores não transmitem um identificador de dispositivo e essas impressões não são incluídas nesse valor. Há uma métrica semelhante no relatório [!UICONTROL Frequency (by App/Site)], mas essa métrica não é estimada. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | (Incluído no relatório [!UICONTROL Frequency (by Impression)]) O número de navegadores ou dispositivos únicos registrados para uma determinada frequência. As estimativas do Advertising Cloud são baseadas em uma amostra de impressões. Para um inventário, não transmita um identificador de dispositivo e essas impressões não serão incluídas nesse valor. Há uma métrica semelhante no relatório [!UICONTROL Frequency (by App/Site)], mas essa métrica não é estimada. |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Average Frequency] | O número médio de impressões exibidas para únicos. Para alguns inventários, os editores não transmitem um identificador de dispositivo e essas impressões não são incluídas nesse valor. Há uma métrica semelhante no [!UICONTROL Frequency (by App/Site)] , mas essa métrica não é estimada. |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | (Incluído na variável [!UICONTROL Frequency (by Impression)] relatório) As impressões estimadas para um determinado detalhamento de frequência. As estimativas do Advertising Cloud são baseadas em uma amostra de impressões. Para alguns inventários, os editores não transmitem um identificador de dispositivo e essas impressões não são incluídas nesse valor. Há uma métrica semelhante no [!UICONTROL Frequency (by App/Site)] , mas essa métrica não é estimada. |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | (Incluído na variável [!UICONTROL Frequency (by Impression)] relatório) O número de navegadores ou dispositivos únicos registrados para uma determinada frequência. As estimativas do Advertising Cloud são baseadas em uma amostra de impressões. Para um inventário, não transmita um identificador de dispositivo e essas impressões não serão incluídas nesse valor. Há uma métrica semelhante no [!UICONTROL Frequency (by App/Site)] , mas essa métrica não é estimada. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Universe] | A soma das famílias únicas que DSP (leilões) tem visto dentro do intervalo de datas. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Extended Impressions] | O número total de impressões servidas como resultado do uso de um gráfico de dispositivos para direcionamento entre dispositivos e baseado em pessoas. |
-| [!UICONTROL Metric] |  | [!UICONTROL Performance] | [!UICONTROL Gross CPA] | O custo bruto médio por aquisição, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPA] | O custo bruto médio por aquisição, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPC] | O custo bruto médio por clique de anúncio, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPCV] | O custo médio por visualização de vídeo concluída, calculado por [!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPM] | O custo médio por 1000 impressões, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPM] | O custo médio por mil impressões, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPV] | O custo médio por visualização de vídeo, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Views]. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross vCPM] | O custo médio por 1000 impressões visualizáveis, calculado por [!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPC] | O custo líquido médio por clique do anúncio, calculado por [!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks]. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPCV] | O custo líquido médio por visualização de vídeo concluída, calculado por [!UICONTROL Net Spend] / [!UICONTROL 100% Completions] |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPM] | O custo líquido médio por 1000 impressões, calculado por [!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPV] | O custo líquido médio por visualização de vídeo, calculado por [!UICONTROL Net Spend] / [!UICONTROL Views]. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPV] | O custo líquido médio por exibição de vídeo, calculado por [!UICONTROL Net Spend] / [!UICONTROL Views]. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Data eCPM] | O custo médio líquido dos dados por 1000 impressões, calculado por [!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Media CPM] | O custo médio de mídia líquido por 1.000 impressões, calculado por [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1.000. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | O custo líquido médio por 1000 impressões para outras tarifas, calculado por [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Media CPM] | O custo médio líquido de mídia por 1.000 impressões, calculado por [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | O custo líquido médio por 1000 impressões para outras comissões, calculado por [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | A porcentagem do total de ofertas que foram lances no CPM máximo. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | O número de usuários distintos para os quais a disposição foi licitada. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | O custo líquido total das tarifas de dados do segmento de público-alvo cobradas pelo Advertising Cloud. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | O custo líquido total da mídia faturável, incluindo a taxa de tecnologia, faturada pela Advertising Cloud. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | O custo total de outras tarifas de serviço (parceiros de verificação de terceiros, veiculação de anúncios e assim por diante) faturadas pela Advertising Cloud |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Data] | O imposto estimado sobre segmentos de público-alvo de terceiros e serviços de dados. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | O imposto estimado sobre os meios de comunicação social, incluindo o imposto aplicado à faturação dos custos dos meios de comunicação e aos serviços de taxas técnicas na Advertising Cloud. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | O imposto estimado sobre outras tarifas de serviço (inclusive parceiros de verificação de terceiros, direcionamento de tópico e assim por diante) cobrado pela Advertising Cloud. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Margin %] | (Quando o gerenciamento de margem é ativado) A porcentagem de margem, que é calculada por ([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Margin %] | (Quando o gerenciamento de margem é ativado) A porcentagem da margem, que é calculada por ([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Media Cost] | A soma de custos de mídia não faturáveis e faturáveis sem taxas de tecnologia. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Net vCPM] | O custo líquido médio por 1000 impressões visualizáveis, calculado por [!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Net Spend] | O custo líquido total das tarifas de dados do segmento de público-alvo não faturadas por meio do Advertising Cloud. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Media Fees] | O custo líquido total da mídia não faturável, incluindo a taxa de tecnologia, não faturada através do Advertising Cloud |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | O custo total de outras tarifas de serviço (parceiros de verificação de terceiros, veiculação de anúncios e assim por diante) não é faturado pela Advertising Cloud. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] -  [!UICONTROL Net Spend] |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] - [!UICONTROL Net Spend] |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data Net Spend] | O custo líquido total das tarifas de dados do segmento do público-alvo. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Media Net Spend] | O custo líquido total dos meios de comunicação, incluindo as taxas técnicas. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Net Spend] | A soma de [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)] e [!UICONTROL Net Spend (Other)]. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Non-Billable Net Spend] | A soma de [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)] e [!UICONTROL Non-billable Spend (Other)]. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Net Spend] | A soma de [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)]e [!UICONTROL Net Spend (Other)]. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Non-Billable Net Spend] | A soma de [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)]e [!UICONTROL Non-billable Spend (Other)]. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Other Net Spend] | O custo líquido total de outras taxas de serviço (parceiros de verificação de terceiros, veiculação de anúncios e assim por diante). |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Billable Net Spend] | A soma de [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)] e [!UICONTROL Billable Spend (Other)]. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Billable Net Spend] | A soma de [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)]e [!UICONTROL Billable Spend (Other)]. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completion Rate] | O percentual de visualizações que assistiu ao anúncio em sua totalidade. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completions] | O número de visualizações que assistiram ao anúncio em sua totalidade. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | 100% de Conclusão Visualizável (%)] | A porcentagem de impressões visualizáveis[!UICONTROL que assistiu ao anúncio em sua totalidade. |
@@ -145,7 +147,7 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Views] | O número total de visualizações de anúncios de vídeo. |
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Avg. Player Width x Height] | A largura e a altura médias do reprodutor. |
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Measurable Impressions] | O número total de impressões veiculadas que puderam ser medidas para a visualização. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Measurable Rate (%)] | A porcentagem de impressões veiculadas que pôde ser medida para visualizar, calculada como [!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]. |
+| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Measurable Rate (%)] | A porcentagem de impressões veiculadas que puderam ser medidas para visualizar, calculadas como [!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]. |
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - iFrame (%)] | A porcentagem de impressões que não podem ser mensuradas para visualização devido a iFrames incompatíveis. |
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - Not Supported (%)] | O número de impressões que não podem ser mensuradas para a visualização devido ao rastreamento da visualização não suportado na unidade de anúncio. |
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - Other (%)] | A porcentagem de impressões que não podem ser mensuradas para visualização devido a outros motivos. |
@@ -155,7 +157,7 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Viewability Rate (%)] | A porcentagem de impressões visualizáveis de todas as impressões mensuráveis, calculadas como [!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions]. |
 | [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Viewable Impressions] | O número de impressões de anúncio consideradas visualizáveis. |
 | [!UICONTROL Conversion Metrics] | [Agrupado pelo anunciante nas configurações do relatório] | [Conversão específica do anunciante] | O total de uma métrica de conversão específica do anunciante ou evento do Adobe Analytics especificado. |
-| [!UICONTROL Custom Goals] | [Agrupado pelo anunciante nas configurações do relatório] | [Meta personalizada específica para o anunciante] | A soma ponderada de todas as conversões incluídas no [objetivo personalizado](/help/dsp/optimization/custom-goal-about.md) especificado. |
+| [!UICONTROL Custom Goals] | [Agrupado pelo anunciante nas configurações do relatório] | [Meta personalizada específica para o anunciante] | A soma ponderada de todas as conversões incluídas no [meta personalizada](/help/dsp/optimization/custom-goal-about.md). |
 
 {style=&quot;table-layout:auto&quot;}
 
