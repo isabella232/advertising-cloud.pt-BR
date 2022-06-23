@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
+source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
 | 31 de maio de 2022 | Fontes de público-alvo | (Recurso Beta) A Advertising Cloud DSP agora pode assimilar segmentos primários compostos de sinais autenticados criados em uma CDP (Customer Data Platform). | Consulte &quot;[Sobre a ativação de segmentos autenticados de fontes de público-alvo](/help/dsp/audiences/sources/source-about.md).&quot; |
+| 25 de maio de 2022 | Metas de otimização | Agora, as disposições nativas e de vídeo podem ser incluídas em pacotes com as metas personalizadas Maior ROAS e Menor CPA. | Consulte &quot;[Metas de otimização e como usá-las](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 de abril de 2022 | Campaign Management | As especificações de anúncios foram atualizadas para refletir o suporte atual. | Consulte &quot;[Especificações para tipos de anúncios suportados](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 17 de fevereiro de 2022 | Tutoriais em vídeo | Um novo vídeo sobre &quot;Como criar uma disposição de exibição padrão&quot; está disponível. | Consulte [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 de janeiro de 2022 | Ajuda | Informações adicionais sobre [!DNL Deal IDs] e [!DNL Simple Ad Serving] agora está disponível. | Consulte o subcapítulo em Inventário > Inventário privado. |
