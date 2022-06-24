@@ -3,7 +3,7 @@ title: Criar um público-alvo reutilizável
 description: Saiba como criar públicos-alvo reutilizáveis que consistem em segmentos de público-alvo e outros públicos-alvo salvos.
 feature: DSP Audiences
 exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 37e5a4fbb7e2ccda77ab0afd49054ec4d1dabf76
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Você pode salvar e gerenciar públicos reutilizáveis, que são grupos de segme
 
 1. Acima da tabela de dados, clique em **[!UICONTROL Create]**.
 
-1. Insira um [!UICONTROL Audience Name] exclusivo.
+1. Insira um [!UICONTROL Audience Name].
 
 1. (Opcional) Desmarque a opção para **[!UICONTROL Share with all advertisers in my account]**.
 
-   Quando você compartilha um público, o público-alvo fica disponível como um destino ou exclusão para todos os anunciantes dentro da conta. No entanto, os segmentos individuais no público-alvo estão disponíveis apenas para usuários aos quais os segmentos são compartilhados. Por exemplo, se você compartilhar um público-alvo contendo segmentos do Adobe Analytics com um anunciante que não está mapeado para a mesma conta [!DNL Analytics], o segmento não será visualizado nesse público-alvo para esse anunciante. Somente os segmentos disponíveis para esse anunciante serão visualizados no público-alvo.
+   Quando você compartilha um público, o público-alvo fica disponível como um destino ou exclusão para todos os anunciantes dentro da conta. No entanto, os segmentos individuais no público-alvo estão disponíveis apenas para usuários aos quais os segmentos são compartilhados. Por exemplo, se você compartilhar um público-alvo contendo segmentos do Adobe Analytics com um anunciante que não está mapeado para o mesmo [!DNL Analytics] , o segmento não visualizará esse público para aquele anunciante. Somente os segmentos disponíveis para esse anunciante serão visualizados no público-alvo.
 
 1. Clique em **[!UICONTROL Save]**.
 
@@ -32,9 +32,9 @@ Você pode salvar e gerenciar públicos reutilizáveis, que são grupos de segme
 
    >[!NOTE]
    >
-   >À medida que você constrói o público-alvo, os [dados do tamanho do público-alvo](audience-about.md) detalhados são atualizados no painel direito.
+   >Conforme você cria o público-alvo, detalhe [dados de tamanho do público](audience-about.md) é atualizado no painel direito
 
-   * Para criar manualmente a lógica do segmento, usando segmentos disponíveis nas guias [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments] e [!UICONTROL Saved Audiences]](audience-settings.md), faça o seguinte:
+   * Para criar manualmente a lógica do segmento, usando segmentos disponíveis no [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments]e [!UICONTROL Saved Audiences] guias](audience-settings.md), faça o seguinte.
 
       * Para adicionar o primeiro segmento, localize o segmento no painel esquerdo e marque a caixa de seleção ao lado do nome do segmento.
 
@@ -44,7 +44,7 @@ Você pode salvar e gerenciar públicos reutilizáveis, que são grupos de segme
 
          1. (Opcional) Altere a lógica do grupo para *[!UICONTROL Include Any]*, *[!UICONTROL Include All]* ou *[!UICONTROL Exclude All]*, conforme necessário.
 
-            *[!UICONTROL Exclude All]* não está disponível para o primeiro grupo de segmentos. Para um público-alvo que inclua apenas exclusões, crie esse público-alvo como *[!UICONTROL Include Any]* e, em uma disposição, selecione-o no menu Públicos excluídos .
+            *[!UICONTROL Exclude All]* não está disponível para o primeiro grupo de segmentos. Para um público-alvo que inclui apenas exclusões, crie este público-alvo como *[!UICONTROL Include Any]* e, em uma disposição, selecione esse público-alvo no menu Públicos excluídos .
 
          1. Localize o novo segmento no painel esquerdo e marque a caixa de seleção ao lado do nome do segmento.
 
@@ -53,7 +53,7 @@ Você pode salvar e gerenciar públicos reutilizáveis, que são grupos de segme
 
          1. Clique em **[!UICONTROL + New Group]** no painel direito.
 
-         1. (Opcional) Altere a lógica entre o grupo anterior e o novo para *[!UICONTROL And]* ou *[!UICONTROL Or]*, conforme necessário.
+         1. (Opcional) Altere a lógica entre o grupo anterior e o novo grupo para *[!UICONTROL And]* ou *[!UICONTROL Or]*, conforme necessário.
 
          1. Localize os segmentos do novo grupo no painel esquerdo e marque as caixas de seleção ao lado dos nomes dos segmentos.
 
@@ -66,7 +66,7 @@ Você pode salvar e gerenciar públicos reutilizáveis, que são grupos de segme
 
          * Nas configurações do público-alvo existente, na parte superior do painel lógico do segmento, clique em **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
 
-         * Em um editor de texto, crie manualmente a lógica do segmento usando IDs de segmento alfanumérico e [Sintaxe booleana](audience-segment-logic-syntax.md), e copie-a na área de transferência.
+         * Em um editor de texto, crie manualmente a lógica do segmento usando IDs de segmento alfanumérico e [Sintaxe booleana](audience-segment-logic-syntax.md)e copie-o para a área de transferência.
       1. Clique em **[!UICONTROL paste in an audience rule to begin building]**, cole a lógica de segmento existente no campo de entrada e clique em **[!UICONTROL Apply]**.
 
          >[!NOTE]
@@ -85,6 +85,6 @@ Você pode salvar e gerenciar públicos reutilizáveis, que são grupos de segme
 >* [Sintaxe para lógica de segmento do público-alvo](audience-segment-logic-syntax.md)
 >* [Fornecedores de dados de terceiros disponíveis](third-party-data-providers.md)
 >* [Criar e implementar um segmento personalizado](custom-segment-create.md)
->* [Criar e implementar um  [!UICONTROL CCPA Opt-Out-of-Sale] segmento](ccpa-opt-out-segment-create.md)
+>* [Criar e implementar um [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)
 
