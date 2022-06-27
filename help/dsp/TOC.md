@@ -8,7 +8,7 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
+source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 6%
@@ -165,10 +165,10 @@ ht-degree: 6%
             + [Dicas para negociar um acordo programático garantido](/help/dsp/inventory/programmatic-guaranteed-tips.md)
             + [Configurar um acordo programático garantido](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
             + [!DNL FreeWheel] Contratos programáticos garantidos {#freewheel}
-            + [Visão geral da configuração de contratos programáticos garantidos no [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
-            + [Envie um anúncio para um acordo programático garantido para [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
-            + [Verifique o status dos anúncios em busca de [!DNL FreeWheel] Contratos programáticos garantidos](/help/dsp/inventory/freewheel-check-status.md)
-            + [Códigos de erro para envios de anúncios de FreeWheel](/help/dsp/inventory/freewheel-error-codes.md)
+               + [Visão geral da configuração de contratos programáticos garantidos no [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+               + [Envie um anúncio para um acordo programático garantido para [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+               + [Verifique o status dos anúncios em busca de [!DNL FreeWheel] Contratos programáticos garantidos](/help/dsp/inventory/freewheel-check-status.md)
+               + [Códigos de erro para envios de anúncios de FreeWheel](/help/dsp/inventory/freewheel-error-codes.md)
          + [Editar configurações de ID de negócios](/help/dsp/inventory/deal-id-edit.md)
          + [Especificar disposições e anúncios para uma ID de contrato](/help/dsp/inventory/deal-id-attach-placements.md)
          + [Editar as contas com acesso a uma ID de contrato](/help/dsp/inventory/deal-id-share.md)
