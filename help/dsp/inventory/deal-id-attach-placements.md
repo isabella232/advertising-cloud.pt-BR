@@ -1,20 +1,20 @@
 ---
-title: Especificar disposições e anúncios para uma ID de contrato
+title: Especificar disposições e anúncios para um contrato privado
 description: Saiba como usar uma venda privada com inserções e anúncios adicionais.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 669cadcf-021b-4129-95d5-3d24af4a4b88
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
 
-# Especificar disposições e anúncios para uma ID de contrato
+# Especificar disposições e anúncios para um contrato privado
 
 Para ofertas não garantidas, você pode especificar a negociação como um destino de inventário para novas disposições do [!UICONTROL Placements] exibir.
 
-Para ofertas programáticas garantidas (PG), você pode criar novas disposições com anúncios especificados na [!UICONTROL Deals] exibir.
+Para ofertas programáticas garantidas (PG), você pode criar disposições com anúncios especificados na variável [!UICONTROL Deals] exibir.
 
 Você também pode [anexar novos anúncios a disposições existentes](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) associados à PG e às ofertas não garantidas a qualquer momento.
 
@@ -26,9 +26,9 @@ Você também pode [anexar novos anúncios a disposições existentes](/help/dsp
 
 1. No menu principal, clique em **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. Na linha de negociação, clique em  ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL attach a placement]**.
+1. Na linha de negociação, clique em  **[!UICONTROL ...]>[!UICONTROL Attach New Placement]**.
 
-1. No [!UICONTROL Ad & Campaign Selection] selecione as publicidades que serão usadas para a disposição:
+1. No [!UICONTROL Ad & Campaign Selection] , selecione os anúncios a serem usados para a disposição:
 
        1. Selecione o anunciante, a campanha e o tipo de anúncio. Opcionalmente, selecione um status de publicidade para filtrá-los.
        

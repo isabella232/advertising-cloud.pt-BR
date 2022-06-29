@@ -1,16 +1,15 @@
 ---
-title: Exibir um relatório detalhado de um contrato privado
+title: Exibir um Relatório detalhado para um particular, [!UICONTROL On Demand]ou [!UICONTROL Simple Ad Serving] Acordo
 description: Saiba como abrir um relatório de nível de negócios.
-feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
-source-git-commit: 83a4f400959846381b5a339edd2f4901e04b9826
+feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
+source-git-commit: 08b58c1d5c46761c7ab3ebf88ca87dddaadaaa47
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# Exibir um relatório detalhado de um contrato privado
+# Exibir um relatório detalhado de um contrato
 
 O relatório de nível de negócios inclui o número de leilões, a taxa de licitação, a taxa de ganho, o número de impressões, o total de gastos líquidos, a CMP efetiva (eCPM) e a taxa de conclusão. Você pode visualizar métricas de desempenho adicionais por anunciante, campanha, disposição, tipo de anúncio e site.
 
@@ -22,6 +21,7 @@ O relatório de nível de negócios inclui o número de leilões, a taxa de lici
 
 >[!MORELIKETHIS]
 >
+>* [Sobre [!DNL On Demand] Inventário Premium](on-demand-inventory-about.md)
 >* [Sobre inventário privado](private-inventory-about.md)
->* [Listar as disposições e anúncios de um contrato privado](private-deal-view-placements.md)
+>* [Sobre [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 

@@ -1,20 +1,20 @@
 ---
-title: Editar as contas com acesso a uma ID de contrato
-description: Saiba como compartilhar e parar de compartilhar uma ID de negócios com contas diferentes.
+title: Editar as contas com acesso a um contrato privado
+description: Saiba como compartilhar e parar de compartilhar um negócio privado com contas diferentes.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# Editar as contas com acesso a uma ID de contrato
+# Editar as contas com acesso a um contrato privado
 
 Você pode compartilhar uma ID de negócios com várias contas. A negociação é compartilhada com todos os anunciantes nas contas especificadas para que todos os usuários nessas contas possam editar a negociação ou usá-la como destino para suas disposições.
 
-Você pode interromper o compartilhamento de uma transação com contas para remover os recursos de edição e direcionamento, mas o feed permanecerá visível para essas contas nas exibições de relatórios.
+Você pode interromper o compartilhamento de uma transação com contas para remover os recursos de edição e direcionamento, mas o feed permanece visível para essas contas nas exibições de relatórios.
 
 >[!NOTE]
 >
@@ -24,21 +24,19 @@ Você pode interromper o compartilhamento de uma transação com contas para rem
 
 1. No menu principal, clique em **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
 
-1. Na linha de negociação, clique em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL share]**.
+1. Na linha de negociação, clique em **[!UICONTROL ...]>[!UICONTROL Share]**.
 
 1. Para cada conta a compartilhar:
 
-1. Insira o **[!UICONTROL Email Address]** para a conta que terá acesso ao acordo.
+1. Insira o **[!UICONTROL Email Address]** para a conta com acesso ao negócio.
 
 1. Clique em **[!UICONTROL Share]**.
-
-1. Clique em **[!UICONTROL Cancel]** para fechar a janela.
 
 ## Parar de compartilhar uma ID de contrato com contas
 
 1. No menu principal, clique em **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
 
-1. Na linha de negociação, clique em ![Menu Opções](/help/dsp/assets/options-menu.png) **>[!UICONTROL share]**.
+1. Na linha de negociação, clique em **[!UICONTROL ...]>[!UICONTROL Share]**.
 
 1. Ao lado do [!UICONTROL Account Email] , clique em **[!UICONTROL Unshare].**
 

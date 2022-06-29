@@ -3,9 +3,9 @@ title: Editar as Tags de atributo para uma ID de contrato
 description: Saiba como criar e editar as tags de atributo para uma ID de negócio.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Você pode criar e atribuir tags para negociar IDs para agrupar ofertas semelhan
 
    * Para atribuir uma tag existente à negociação, marque a caixa de seleção ao lado da negociação no [!UICONTROL Custom Tags] lista.
 
-   * Para criar uma nova tag e associá-la à negociação, insira o nome da tag no **[!UICONTROL Create new tag(s)]** e clique em **[!UICONTROL Create and Associate Tag]**.
+   * Para criar uma tag e associá-la à negociação, insira o nome da tag no **[!UICONTROL Create new tag(s)]** e clique em **[!UICONTROL Create and Associate Tag]**.
 
    * Para remover uma tag existente do negócio, desmarque a caixa de seleção ao lado do negócio no [!UICONTROL Custom Tags] lista.
 

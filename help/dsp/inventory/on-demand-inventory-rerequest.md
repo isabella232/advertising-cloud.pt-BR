@@ -3,7 +3,7 @@ title: Resolicitação [!DNL On Demand] Contratos de inventário premium
 description: Saiba como solicitar novamente [!DNL On Demand] negócios que foram negados anteriormente.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Você pode solicitar novamente [!DNL On Demand] ofertas de inventário para as q
 
 Se um negócio não for aprovado depois que você o solicitar novamente, entre em contato com seu [!DNL Adobe] equipe de conta para ver se o editor tem restrições adicionais que proíbem sua conta de acessar a negociação.
 
-Uma vez que um acordo é [aprovado](/help/dsp/inventory/on-demand-inventory-view-status.md), é incluído por padrão como um target para novas disposições que direcionam tudo [!DNL On Demand] inventário. A nova negociação também está disponível como um destino para disposições existentes, mas você precisa editar manualmente as configurações de posicionamento para adicionar a negociação como um destino.
+Uma vez que um acordo é [aprovado](/help/dsp/inventory/on-demand-inventory-view-status.md), é incluído por padrão como um target para novas disposições que direcionam tudo [!DNL On Demand] inventário. A nova negociação também está disponível como um destino para disposições existentes, mas você deve editar manualmente as configurações de posicionamento para adicionar a negociação como um destino.
 
 1. Confirme com seu [!DNL Adobe] a equipe de conta que [!UICONTROL Account Type] a conta de DSP da sua organização está correta.
 
@@ -36,9 +36,9 @@ Uma vez que um acordo é [aprovado](/help/dsp/inventory/on-demand-inventory-view
 
    1. No menu principal, clique em **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
 
-   1. Filtre as ofertas disponíveis para incluir as ofertas que você solicitou (**[!UICONTROL Currently subscribed to]**)**.
+   1. Filtre as ofertas disponíveis para incluir ofertas que você solicitou (**[!UICONTROL Currently subscribed to]**)**.
 
-   1. (Opcional) Alternar entre as [!UICONTROL Subscriptio] , que mostra os logotipos de todos os editores com base em seus filtros, e a [!UICONTROL Deal] , que lista todas as ofertas de cada editor com base em seus filtros, clicando em **[!UICONTROL Subscription view]** e **[!UICONTROL Deal view]**, conforme necessário.
+   1. (Opcional) Alternar entre as [!UICONTROL Subscription] , que mostra os logotipos de todos os editores com base em seus filtros, e a [!UICONTROL Deal] , que lista todas as ofertas de cada editor com base em seus filtros, clicando em **[!UICONTROL Subscription view]** e **[!UICONTROL Deal view]**, conforme necessário.
 
    1. Solicite novamente as ofertas individuais:
    * No [!UICONTROL Deal] exibir, clique em **[!UICONTROL Rerequest]** no [!UICONTROL Action] para a linha relevante.

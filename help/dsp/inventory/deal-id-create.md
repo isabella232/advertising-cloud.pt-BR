@@ -3,9 +3,9 @@ title: Criar manualmente detalhes da ID do contrato
 description: Saiba como inserir detalhes manualmente para uma ID de contrato.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: 593bfc03d2dd182b817be9eac4792dfd690132a2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. Insira o [configurações de negócios](deal-id-settings.md):
 
-   1. No [!UICONTROL Deal ID basics] especifique os detalhes do negócio e os anunciantes que podem acessá-lo. Para ofertas garantidas, você também deve especificar as datas de voo planejadas e a estimativa de impressões, somente para fins de rastreamento.
+   1. No [!UICONTROL Deal ID basics] especifique os detalhes do negócio e os anunciantes que podem acessá-lo. Para ofertas garantidas, você também deve especificar as datas de voo planejadas e o número estimado de impressões, somente para fins de rastreamento.
 
    1. (Somente usuários administradores; opcional) na [!UICONTROL Technical] edite as configurações padrão conforme necessário.
 
    1. Clique em **[!UICONTROL Save]**.
 
-1. (Somente ofertas garantidas) Selecione os anúncios que serão usados para a negociação e crie um posicionamento programático padrão garantido (PG).
+1. (Somente ofertas garantidas) Selecione os anúncios que serão usados para a negociação e crie uma disposição programática garantida (PG) padrão.
 
-   As disposições PPG padrão garantem que seu negócio sempre retorne uma licitação para cada solicitação de licitação. Se você não criar uma disposição PPG padrão, quaisquer disposições que direcionem o negócio não colocarão ofertas, a menos que estejam configuradas corretamente. Você sempre deve criar uma disposição PPG padrão. No [!UICONTROL Placements] exibição, as disposições padrão do PG têm uma [!UICONTROL Sub-type] valor da coluna de &quot;[!UICONTROL PG Default].&quot;
+   As disposições PPG padrão garantem que seu negócio sempre retorne uma licitação para cada solicitação de licitação. Se você não criar uma disposição PPG padrão, as disposições que direcionam a negociação não colocarão ofertas, a menos que estejam configuradas corretamente. Você sempre deve criar uma disposição PPG padrão. No [!UICONTROL Placements] exibição, as disposições padrão do PG têm uma [!UICONTROL Sub-type] valor da coluna de &quot;[!UICONTROL PG Default].&quot;
 
    Opcionalmente, você pode usar a negociação como um destino de inventário em disposições adicionais, mas deve configurá-las corretamente para colocar ofertas.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
       1. Selecione o anunciante, a campanha e o tipo de anúncio. Opcionalmente, selecione um status de publicidade para filtrá-los.
 
-      1. Na lista de anúncios disponíveis, marque a caixa de seleção ao lado de cada anúncio que será usado para o negócio.
+      1. Na lista de anúncios disponíveis, marque a caixa de seleção ao lado de cada anúncio a ser usado para o negócio.
 
       1. Clique em **[!UICONTROL Apply]**.
    1. Na tela de configurações de posicionamento:

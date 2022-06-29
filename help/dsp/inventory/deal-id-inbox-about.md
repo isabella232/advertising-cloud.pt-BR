@@ -3,9 +3,9 @@ title: Sobre o [!UICONTROL Deal ID Inbox]
 description: Saiba mais sobre o [!UICONTROL Deal ID inbox] , que permite aceitar ofertas privadas que você já negociou com editores no [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Durante as negociações de negócios, diga ao editor para enviar o contrato par
 
 * **Aceitar ofertas** depois de revisar, e elas não serão mais exibidas na variável [!UICONTROL Deal ID inbox]. Os negócios aceitos são listados em [!UICONTROL Inventory] > [!UICONTROL Deals] e estão prontas para direcionar nas disposições dos anunciantes.
 
-* **Ignorar ofertas** que não são necessárias ou não são solicitadas. Os negócios ignorados são movidos para a variável [!UICONTROL Ignored Deals] na guia [!UICONTROL Deal ID inbox], que serve como um arquivo. DSP não alerta SSPs e editores quando você ignora ofertas.
+* **Ignorar ofertas** que não são necessárias ou não são solicitadas. Os negócios ignorados são movidos para a variável [!UICONTROL Ignored Deals] na guia [!UICONTROL Deal ID inbox], que serve como um arquivo. DSP não alerta SSPs e editores quando você ignora um negócio.
 
 * **Modificar detalhes de ofertas já aceitas** from [!UICONTROL Inventory] > [!UICONTROL Deals] (não no [!UICONTROL Deal ID inbox]). Da mesma forma, quando os editores enviam alterações a ofertas, os anunciantes são responsáveis pela implementação dessas alterações no [!UICONTROL Inventory] > [!UICONTROL Deals] porque a variável [!UICONTROL Deal ID inbox] não sincroniza alterações dos SSPs após a configuração das ofertas.
 

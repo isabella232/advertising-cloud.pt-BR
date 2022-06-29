@@ -1,10 +1,11 @@
 ---
 title: Visão geral da configuração de contratos PG em [!DNL Freewheel]
-description: 'Saiba mais sobre os pré-requisitos e as etapas adicionais necessárias para executar anúncios para ofertas programáticas garantidas com editores no [!DNL Freewheel]. '
+description: Saiba mais sobre os pré-requisitos e as etapas adicionais necessárias para executar anúncios para ofertas programáticas garantidas com editores no [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Configuração de acordos programáticos garantidos com editores em [!DNL Freewh
 
    Para alguns editores do Reino Unido, você deve incluir um [!DNL Clearcast] número do relógio com seu anúncio.
 
-1. [Aceitar a ID de negócio](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) você já negociou com um editor em [!DNL Freewheel] usando a Caixa de entrada da ID do contrato.
+1. [Aceitar a ID de negócio](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) que você já negociou com um editor em [!DNL Freewheel] usando a Caixa de entrada da ID do contrato.
 
    Depois de aceitar o negócio, siga os prompts para 1) selecione o anúncio a ser usado para o negócio e 2) crie uma disposição padrão programática garantida para veicular o anúncio.
 

@@ -3,9 +3,9 @@ title: '"Criar um [!UICONTROL Simple Ad Serving] Acordo"'
 description: '"Saiba como criar um pixel de rastreamento para um [!UICONTROL Simple Ad Serving] acordo."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
          * Para novos anúncios, crie um proxy [anúncio de terceiros](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
-      > DSP não exibirá os anúncios que você especificar. O editor enviará o anúncio.
+      > DSP não exibe os anúncios especificados. O editor serve o anúncio.
 
       1. Clique em **[!UICONTROL Next]**.
    1. Em Detalhes do feed, edite os detalhes do feed e clique em **[!UICONTROL Next]**.
@@ -63,5 +63,9 @@ ht-degree: 0%
 >
 >* [Sobre [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [[!UICONTROL Simple Ad Serving] Configurações](simple-deal-settings.md)
->* [Exibir pixels de rastreamento de eventos para um [!UICONTROL Simple Ad Serving] Acordo](simple-deal-show-pixels.md)
+>* [Exibir um relatório detalhado de um contrato](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

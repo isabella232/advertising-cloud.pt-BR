@@ -3,9 +3,9 @@ title: Configurar um acordo programático garantido
 description: Saiba como configurar um negócio programático garantido (PG) que você negociou com um editor.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Depois de negociar um negócio programático garantido (PG) com um editor suport
 
 ## Configure um acordo programático garantido usando o [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Esse é o método preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyers]e [!DNL Magnite DV+].
+O método a seguir é o procedimento preferido para [!DNL FreeWheel], [!DNL Google Authorized Buyers]e [!DNL Magnite DV+].
 
 1. [Aceite o negócio](deal-id-inbox-accept.md).
 
