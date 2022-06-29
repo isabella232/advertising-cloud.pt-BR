@@ -8,15 +8,23 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: f4719ee56f340c5969795dfc482e2b409244757b
+source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '874'
 ht-degree: 6%
 
 ---
 
 
 # Manual da Advertising Cloud DSP {#dsp}
+
+<!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
+      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+-->
+
+<!-- add back to Inventory > SAS section when reimplemented:
+      +  [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+-->
 
 + [Novidades](/help/dsp/home.md)
 + Introdução {#introduction}
@@ -169,19 +177,18 @@ ht-degree: 6%
                + [Envie um anúncio para um acordo programático garantido para [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
                + [Verifique o status dos anúncios em busca de [!DNL FreeWheel] Contratos programáticos garantidos](/help/dsp/inventory/freewheel-check-status.md)
                + [Códigos de erro para envios de anúncios de FreeWheel](/help/dsp/inventory/freewheel-error-codes.md)
-         + [Editar configurações de ID de negócios](/help/dsp/inventory/deal-id-edit.md)
-         + [Especificar disposições e anúncios para uma ID de contrato](/help/dsp/inventory/deal-id-attach-placements.md)
-         + [Editar as contas com acesso a uma ID de contrato](/help/dsp/inventory/deal-id-share.md)
-         + [Editar os anunciantes com acesso a uma ID de contrato](/help/dsp/inventory/deal-id-edit-advertisers.md)
-         + [Editar as Tags de atributo para uma ID de contrato](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [!UICONTROL Simple Ad Serving] Contratos {#sas}
-         + [Sobre [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
-         + [Crie um [!UICONTROL Simple Ad Serving] Acordo](/help/dsp/inventory/simple-deal-create.md)
-         + [[!UICONTROL Simple Ad Serving] Configurações do acordo](/help/dsp/inventory/simple-deal-settings.md)
-         + [Exibir pixels de rastreamento de eventos para um [!UICONTROL Simple Ad Serving] Acordo](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [Editar Configurações de Negociação Privada](/help/dsp/inventory/deal-id-edit.md)
+      + [Especificar disposições e anúncios para um contrato privado](/help/dsp/inventory/deal-id-attach-placements.md)
+      + [Editar as contas com acesso a um contrato privado](/help/dsp/inventory/deal-id-share.md)
+      + [Editar os anunciantes com acesso a um contrato privado](/help/dsp/inventory/deal-id-edit-advertisers.md)
       + [Listar as disposições e anúncios de um contrato privado](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Exibir um relatório detalhado de um contrato privado](/help/dsp/inventory/private-deal-view-report.md)
       + [Arquivar ou desarquivar um contrato privado](/help/dsp/inventory/private-deal-archive-unarchive.md)
+   + [!UICONTROL Simple Ad Serving] Contratos {#sas}
+      + [Sobre [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
+      + [Crie um [!UICONTROL Simple Ad Serving] Acordo](/help/dsp/inventory/simple-deal-create.md)
+      + [Editar [!UICONTROL Simple Ad Serving] Configurações do acordo](/help/dsp/inventory/simple-deal-edit.md)
+      + [[!UICONTROL Simple Ad Serving] Configurações do acordo](/help/dsp/inventory/simple-deal-settings.md)
+   + [Exibir um relatório detalhado de um contrato](/help/dsp/inventory/deal-view-report.md)
 + Relatórios personalizados {#custom-reports}
    + [Sobre Relatórios Personalizados](/help/dsp/reports/report-about.md)
    + [Criar um relatório personalizado](/help/dsp/reports/report-create.md)
