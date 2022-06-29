@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
+source-git-commit: 6d9c4db1b16a68217c6bc110cf3e0b9a93c2caa6
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 29 de junho de 2022 | Inventário | O novo [!UICONTROL Inventory] > [!UICONTROL Deals] a exibição inclui os mesmos recursos da [!UICONTROL Campaigns] exibições, incluindo filtragem, a opção para usar exibições padrão e personalizadas, classificação de colunas e exibições de tabela e gráfico. Você pode abrir um menu de comando em cada linha clicando em [!UICONTROL ...] depois do nome da negociação. | — |
 | 31 de maio de 2022 | Fontes de público-alvo | (Recurso Beta) A Advertising Cloud DSP agora pode assimilar segmentos primários compostos de sinais autenticados criados em uma CDP (Customer Data Platform). | Consulte &quot;[Sobre a ativação de segmentos autenticados de fontes de público-alvo](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 25 de maio de 2022 | Metas de otimização | Agora, as disposições nativas e de vídeo podem ser incluídas em pacotes com as metas personalizadas Maior ROAS e Menor CPA. | Consulte &quot;[Metas de otimização e como usá-las](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 de abril de 2022 | Campaign Management | As especificações de anúncios foram atualizadas para refletir o suporte atual. | Consulte &quot;[Especificações para tipos de anúncios suportados](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
