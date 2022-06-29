@@ -3,7 +3,7 @@ title: Criar e implementar um segmento personalizado
 description: Saiba como criar e implementar um segmento personalizado para rastrear usuários expostos a anúncios ou usuários que visitam suas páginas da Web.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: b6e77b91ad5626bb9ece45ec3f01126715dbe37b
+source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Você pode coletar seus próprios dados de público-alvo primários criando e im
 
          1. Copie a tag de rastreamento de impressão, que é rotulada como &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Adicione a tag ao [!UICONTROL Pixel] para cada anúncio relevante ou para o [!UICONTROL Event Pixels] da seção [[!UICONTROL Tracking] configurações para cada posicionamento relevante](/help/dsp/campaign-management/placements/placement-settings.html#placement-tracking).
+         1. Adicione a tag ao [!UICONTROL Pixel] para cada anúncio relevante ou para o [!UICONTROL Event Pixels] da seção [[!UICONTROL Tracking] configurações para cada posicionamento relevante](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 
 Depois que uma tag de rastreamento é implementada, você pode usar o segmento nos públicos-alvo ou exclusões para qualquer disposição.
