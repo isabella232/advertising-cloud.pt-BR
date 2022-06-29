@@ -3,9 +3,9 @@ title: Configurações de posicionamento
 description: Consulte descrições das configurações de posicionamento disponíveis.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
+source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '3277'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Veja descrições de cada filtro pré-lance em &quot;[Filtros de pré-lance em n
 
 **[!UICONTROL Max Bid]:** O máximo a pagar por 1000 impressões.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com pacing no nível do pacote somente) Como carregar a entrega de anúncios:
+**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com ritmo no nível do pacote somente) Como carregar a entrega de anúncios:
 
 * *[!UICONTROL Even]:* (O padrão) Os pacotes são distribuídos uniformemente em cada voo, com um objetivo de 50% da entrega na primeira metade do voo.
 
@@ -397,7 +397,7 @@ Qual nível de [Ads.txt](https://iabtechlab.com/ads-txt-about/) filtragem pré-l
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Os anunciantes configurados com o [!UICONTROL DoubleVerify Authentic Brand Safety] opção) Habilita [!DNL DoubleVerify Authentic Brand Safety], que bloqueia impressões pós-licitação usando as regras de segurança de marca personalizadas configuradas para a ID de segmento especificada. DSP fatura sua conta pelo uso da ID de segmento especificada nas configurações do anunciante.
 
-## [!UICONTROL Tracking]
+## [!UICONTROL Tracking] {#placement-tracking}
 
 >[!NOTE]
 >
@@ -440,7 +440,7 @@ Qual nível de [Ads.txt](https://iabtechlab.com/ads-txt-about/) filtragem pré-l
             O departamento de TI do anunciante ou outro grupo pode precisar agendar ou ser informado sobre a implantação da tag.
    1. Clique em **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** (Opcional) Uma taxa de taxa estática de terceiros a ser rastreada como um custo não faturável por mil impressões. O padrão de nível de pacote é aplicado automaticamente para novas disposições, quando aplicável, a menos que você insira um valor diferente.
+**[!UICONTROL 3rd-party Fees]:** (Opcional) Uma taxa de taxa estática de terceiros a ser rastreada como um custo não faturável por 1000 impressões. O padrão de nível de pacote é aplicado automaticamente para novas disposições, quando aplicável, a menos que você insira um valor diferente.
 
 >[!NOTE]
 >
