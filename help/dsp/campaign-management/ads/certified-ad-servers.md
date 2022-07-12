@@ -3,9 +3,9 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 84a3cbce1993fbb7b1a3d526f3bf8a1266635ce9
+source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  |  | Cubo (Desktop), Cubo (Móvel), Cartões (Desktop), Grande Revenda (Desktop). Observe que todos os 4 anúncios são configurados na interface do usuário do Adobe como 300x250. Apenas certificado via Magnite DV+ |
+| [!DNL Big Ads] |  |  | X |  | Cubo (Desktop), Cubo (Móvel), Cartões (Desktop), Grande Revenda (Desktop). Configure todos esses tipos de anúncios no DSP como 300x250. Certificado somente via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
