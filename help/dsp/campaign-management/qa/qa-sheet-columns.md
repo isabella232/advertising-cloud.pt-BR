@@ -3,9 +3,9 @@ title: Colunas em planilhas baixadas/carregadas
 description: Faça referência às colunas em planilhas de controle de qualidade do Excel baixadas e carregadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | O número de categorias de site excluídas, se houver, ou *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | Os sites excluídos, se houver, ou *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | Os idiomas do site de destino. | — |
-| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | Autorizar ou não a entrega de anúncios em sites não auditados: *[!UICONTROL ON]* ou *[!UICONTROL OFF]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | (Somente disposições de exibição padrão) Permitir ou não a entrega de anúncios em sites não auditados: *[!UICONTROL ON]* ou *[!UICONTROL OFF]*. Quando a disposição é direcionada ao inventário privado, essa opção pode fornecer anúncios em sites bloqueados. | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | O número de sites direcionados, se houver, ou *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | Os públicos-alvo direcionados, se houver, ou *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | Os públicos-alvo excluídos, se houver, ou *[!UICONTROL None]*. | — |

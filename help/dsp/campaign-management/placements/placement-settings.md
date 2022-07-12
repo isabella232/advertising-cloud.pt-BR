@@ -3,9 +3,9 @@ title: Configurações de posicionamento
 description: Consulte descrições das configurações de posicionamento disponíveis.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
+source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
 workflow-type: tm+mt
-source-wordcount: '3277'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -253,7 +253,7 @@ Anúncios de fora normalmente aparecem sobre o conteúdo como um pop-up ou empil
 
 Como opção, você pode exportar a lista de sites direcionados e bloqueados como um arquivo CSV (valores separados por vírgula). Para exportar a lista, clique em **[!UICONTROL Export full site list]** e, em seguida, abra ou salve o arquivo de acordo com o procedimento normal do navegador.
 
-<!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
+**[!UICONTROL Allow unscreened sites]:** (Somente disposições de exibição padrão) Permite a entrega de anúncios em sites não auditados. Quando a disposição é direcionada ao inventário privado, essa opção pode fornecer anúncios em sites bloqueados.
 
 **[!UICONTROL Paste list of targeted sites]:** Permite direcionar somente sites específicos. Quando você habilita essa opção, as outras opções de direcionamento de site são desabilitadas.
 
