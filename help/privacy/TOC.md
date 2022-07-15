@@ -5,7 +5,7 @@ cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
 user-guide-title: Suporte da Adobe Advertising Cloud para privacidade do consumidor
-user-guide-description: Saiba mais sobre os controles de segurança e privacidade fornecidos pela Advertising Cloud para ajudar os clientes anunciantes a cumprir as leis de privacidade do consumidor.
+user-guide-description: Saiba mais sobre os controles de segurança e privacidade fornecidos pela Advertising Cloud para ajudar os clientes anunciantes a cumprir com as leis de privacidade do consumidor.
 breadcrumb-title: Suporte para a privacidade do consumidor
 index: true
 source-git-commit: 2866eb13b5ddcd485e6817fb2ebe6ea3cbb43b5c
