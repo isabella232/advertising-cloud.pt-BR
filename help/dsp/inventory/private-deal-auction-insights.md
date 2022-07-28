@@ -1,22 +1,18 @@
 ---
-title: Insights do leilão
-description: Saiba como usar a página de insights do leilão para um negócio privado.
+title: Exibir insights de leilão para um contrato privado
+description: Saiba como usar insights de leilão para analisar a composição de negócios de negócios privados.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: null
-source-git-commit: bea7de3fd5e6c5048b83e0eec2a88c0c9b422fc2
+source-git-commit: c2fe96c28004dee03ab94b4e5ed43bfbf3ee6e83
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# Insights de leilão para um contrato privado
+# Exibir insights de leilão para um contrato privado
 
-O Insights de Leilão é uma ferramenta de solução de problemas para o inventário privado que permite aos usuários analisar a composição de negócios para ofertas privadas Garantidas e Não Garantidas.
-Ele evita as etapas demoradas de solução de problemas, ao fornecer transparência aos dados de solicitação de lance de editores.
-Usando visualizações de dados, essa ferramenta ajuda a observar a tendência e as proporções relativas dos valores recebidos para os atributos de leilão acima (descritos abaixo) em um período de tempo específico.
-
-Para acessar a página Insights do Leilão de uma transação privada, siga as seguintes etapas:
+O Insights do leilão é uma ferramenta de solução de problemas que permite analisar a composição de negócios de ofertas privadas garantidas e não garantidas. Usando visualizações de dados, essa ferramenta mostra a tendência e as proporções relativas dos valores recebidos para [principais atributos de leilão](#auction-attributes) dentro de um período de tempo específico.
 
 1. No menu principal, clique em **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
@@ -24,29 +20,31 @@ Para acessar a página Insights do Leilão de uma transação privada, siga as s
 
 >[!NOTE]
 >
->A página Insights do leilão também está disponível por meio da ferramenta Inspetor de posicionamento. Para acessar, os usuários podem clicar na guia Inventário do inspetor de posicionamento e, em seguida, clicar em **[!UICONTROL ...]>[!UICONTROL Auction Insights]** na linha de negócios
+>Os Insights de leilão também estão disponíveis por meio da inserção [!UICONTROL Inspector] ferramenta. Para abri-las, [abrir a disposição [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) para [!UICONTROL Inventory tab]e, em seguida, clique em **[!UICONTROL ...]>[!UICONTROL Auction Insights]** na linha de negócios.
 
-Na página Insights do leilão, os usuários podem visualizar as Visualizações de dados do gráfico de área dos seguintes atributos do leilão:
+## Atributos de Leilão {#auction-attributes}
 
-* **Tipo de anúncio:**	O tipo de anúncio solicitado em leilão. Por exemplo, Exibição, Áudio etc.
+Os gráficos de área estão disponíveis para os seguintes atributos de leilão:
 
-* **Navegador:**	O navegador do qual o leilão se originou. Por exemplo, Chrome, Firefox etc.
+* **Tipo de anúncio:** O tipo de anúncio solicitado no leilão (como Exibir ou Áudio).
 
-* **SO:**	O sistema operacional de onde o leilão teve origem. Por exemplo, Android, iOS etc.
+* **Navegador:** O navegador do qual o leilão se originou (como Chrome ou Firefox).
 
-* **Dispositivo:** Tipo O dispositivo de origem do leilão. Por exemplo, telefone celular, desktop etc.
+* **SO:** O sistema operacional do qual o leilão se originou (como Android ou iOS).
 
-* **Duração do anúncio:**	A duração máxima do anúncio solicitada em leilão. Por exemplo, 15 s, 30 s, etc.
+* **Tipo de dispositivo:** O dispositivo de origem do leilão (como celular ou desktop).
 
-* **Seguro:**	Indica se o leilão requer um ativo criativo de URL HTTPS seguro. Por exemplo, seguro e não seguro
+* **Duração do anúncio:** A duração máxima do anúncio solicitada no leilão (como 15 ou 30).
 
-* **Tipo Mime:**	O tipo de anúncio mime solicitado no leilão. Por exemplo, mp4, mov, etc.
+* **Seguro:** Indica se o leilão requer um ativo criativo de URL HTTPS seguro. Valores: <i>Seguro</i> ou <i>Não seguro</i>.
 
-!![auction insights](/help/dsp/assets/Auction Insights.png)
+* **Tipo Mime:** O tipo MIME criativo de anúncio solicitado no leilão (como mp4 ou mov).
+
+![insights do leilão](/help/dsp/assets/auction-insights.png)
 
 >[!NOTE]
 >
->Os usuários também podem aplicar filtros na página de insights do leilão para limitar sua análise, isolando valores de atributos específicos.
+>Você pode aplicar filtros para valores de atributos específicos para limitar seus resultados.
 
 >[!MORELIKETHIS]
 >

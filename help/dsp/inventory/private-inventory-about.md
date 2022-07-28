@@ -3,9 +3,9 @@ title: Sobre inventário privado
 description: Sobre inventário privado
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 0fb8417ed6ed261077affd4db071e207731058f9
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Você pode usar cada negócio privado como meta de posicionamento para várias c
 
 ## A exibição de contratos
 
-No [!UICONTROL Inventory] > [!UICONTROL Deals] você pode criar configurações de negócios privados. Você também pode editar algumas configurações de negócios; listar as disposições e os anúncios e anexar disposições e anúncios adicionais a um negócio; editar os anunciantes e as contas que podem acessar um negócio; exibir um relatório para um negócio privado; ou arquivar ou desarquivar um negócio.<!-- ; or edit the attribute tags for a deal -->
+No [!UICONTROL Inventory] > [!UICONTROL Deals] você pode criar configurações de negócios privados. Você também pode editar algumas configurações de negócios; listar os posicionamentos e anúncios e anexar outros posicionamentos e anúncios a um negócio privado; editar os anunciantes e as contas que podem acessar um negócio privado; visualizar um relatório de desempenho para um negócio; exibir insights de leilão de uma transação privada ou arquivar ou desarquivar uma transação.<!-- ; or edit the attribute tags for a deal -->
 
 Você pode personalizar ainda mais como os dados de negócios existentes são apresentados aplicando filtros, personalizando as colunas visíveis e salvando, opcionalmente, visualizações personalizadas, classificando as colunas e exibindo os dados como gráficos.
 

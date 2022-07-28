@@ -8,10 +8,10 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '881'
+ht-degree: 6%
 
 ---
 
@@ -181,6 +181,7 @@ ht-degree: 0%
       + [Especificar disposições e anúncios para um contrato privado](/help/dsp/inventory/deal-id-attach-placements.md)
       + [Editar as contas com acesso a um contrato privado](/help/dsp/inventory/deal-id-share.md)
       + [Editar os anunciantes com acesso a um contrato privado](/help/dsp/inventory/deal-id-edit-advertisers.md)
+      + [Exibir insights de leilão para um contrato privado](/help/dsp/inventory/private-deal-auction-insights.md)
       + [Listar as disposições e anúncios de um contrato privado](/help/dsp/inventory/private-deal-view-placements.md)
       + [Arquivar ou desarquivar um contrato privado](/help/dsp/inventory/private-deal-archive-unarchive.md)
    + [!UICONTROL Simple Ad Serving] Contratos {#sas}

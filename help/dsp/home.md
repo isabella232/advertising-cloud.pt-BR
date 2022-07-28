@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 99c808d63e1d17d91832fdd38a2bce3fdf90aa44
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '1023'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 27 de julho de 2022 | Inventário | O Insights de leilão é uma nova ferramenta de solução de problemas que permite analisar a composição de negócios de ofertas privadas garantidas e não garantidas. Usando visualizações de dados, essa ferramenta mostra a tendência e as proporções relativas dos valores recebidos para os principais atributos de leilão em um período específico.<br><br>Com transparência nos dados de solicitação de lance de editores, você pode evitar etapas demoradas de solução de problemas. | Consulte &quot;[Exibir insights de leilão para um contrato privado](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29 de junho de 2022 | Inventário | O novo [!UICONTROL Inventory] > [!UICONTROL Deals] A visualização inclui os mesmos recursos de personalização de dados da [!UICONTROL Campaigns] exibições, incluindo filtros adicionais, personalização de colunas e a opção para salvar exibições personalizadas, classificação de colunas e uma visualização de dados (gráfico). Você pode abrir um menu de comando em cada linha clicando em [!UICONTROL ...] depois do nome da negociação. | Consulte &quot;[Visão geral dos recursos de inventário](/help/dsp/inventory/inventory-overview.md).&quot; |
 |  | Inventário [!UICONTROL Inspector] | O [!UICONTROL Inventory] guia da disposição [!UICONTROL Inspector] O agora inclui gráficos de visualização de dados personalizáveis e métricas de desempenho expandidas, como [!UICONTROL Viewability Rate], [!UICONTROL Clicks]e [!UICONTROL Yesterday's CPM]. | Consulte &quot;[Visualizar os sites, anúncios, frequência e inventário de uma disposição](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 31 de maio de 2022 | Fontes de público-alvo | (Recurso Beta) A Advertising Cloud DSP agora pode assimilar segmentos primários compostos de sinais autenticados criados em uma CDP (Customer Data Platform). | Consulte &quot;[Sobre a ativação de segmentos autenticados de fontes de público-alvo](/help/dsp/audiences/sources/source-about.md).&quot; |

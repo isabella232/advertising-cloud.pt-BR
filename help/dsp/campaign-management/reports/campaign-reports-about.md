@@ -3,9 +3,9 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Para cada disposição, você pode [abrir uma (exibição detalhada) [!UICONTROL
 
 * **[!UICONTROL Inventory]:** Informações sobre todas as ofertas direcionadas pela disposição.
 
-   O [!UICONTROL Inventory] A guia inclui recursos de pesquisa e filtro, as mesmas opções padrão e personalizadas de exibição de coluna que estão disponíveis na página principal e botões de ação rápida em cada linha, como [!UICONTROL Edit] e [!UICONTROL View Report]. O [!UICONTROL Inventory] A guia permite a solução rápida de problemas mostrando estatísticas de desempenho, como [!UICONTROL Auctions], [!UICONTROL Bids]e [!UICONTROL Win Rate].
+   O [!UICONTROL Inventory] A guia permite a solução rápida de problemas mostrando estatísticas de desempenho, como [!UICONTROL Auctions], [!UICONTROL Bids]e [!UICONTROL Win Rate]. A guia inclui recursos de pesquisa e filtro, as mesmas opções padrão e personalizadas de exibição de coluna que estão disponíveis na página principal e botões de ação rápida em cada linha, incluindo [!UICONTROL Edit], [!UICONTROL View Report]e [[!UICONTROL Auction Insights] para mais solução de problemas](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### Solução de problemas do inventário
 
