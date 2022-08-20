@@ -3,9 +3,9 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
+source-git-commit: d04672f1daddb7b57a7ab2ab9a0ad25a7ad40812
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  | Cubo (Desktop), Cubo (Móvel), Cartões (Desktop), Grande Revenda (Desktop). Configure todos esses tipos de anúncios no DSP como 300x250. Certificado somente via [!DNL Magnite DV+]. |
+| [!DNL Big Ads] |  |  | X |  | Cubo (Desktop), Cubo (Móvel), Cartões (Desktop), Grande Revenda (Desktop), Cine-Cube (Desktop), Cinemática (Desktop). Configure todos esses tipos de anúncios no DSP como 300x250. Certificado somente via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | As capas de alto impacto devem ser servidas de uma ID de negócios de exibição de 180x150 na rede de inventário de capa interna. |
+| [!DNL InSkin] |  |  | X |  | Capas de alto impacto (incluindo anúncio de Conversação Cavai) devem ser servidas a partir de uma ID de negócios de exibição de 180x150 na rede de inventário Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; 300x250 Saída; Exibição de desktop padrão (não são necessárias IDs de plug-in de anúncio específicas).</br></br>Entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência na configuração de unidades de publicidade. |
 | [!DNL Linkstorm] |  |  | X |  |  |
