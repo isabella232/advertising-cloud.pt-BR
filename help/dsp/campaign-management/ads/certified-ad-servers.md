@@ -3,7 +3,7 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d04672f1daddb7b57a7ab2ab9a0ad25a7ad40812
+source-git-commit: 2ef6a194f02748de3f8fee072a5c7eb65ecb80f8
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | Capas de alto impacto (incluindo anúncio de Conversação Cavai) devem ser servidas a partir de uma ID de negócios de exibição de 180x150 na rede de inventário Inskin. |
+| [!DNL Inskin] |  |  | X |  | Capas de alto impacto (incluindo anúncios de conversação em Cavai) devem ser servidas de uma ID de negócios de exibição de 180x150 na rede de inventário de Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | Âncora 320x50, BYOC, Foco, Saída e Sidekick; 300x250 Saída; Exibição de desktop padrão (não são necessárias IDs de plug-in de anúncio específicas).</br></br>Entre em contato com seu [!DNL Adobe] equipe de conta para obter assistência na configuração de unidades de publicidade. |
 | [!DNL Linkstorm] |  |  | X |  |  |
