@@ -3,9 +3,9 @@ title: Advertising Cloud IDs usadas por [!DNL Analytics]
 description: Advertising Cloud IDs usadas por [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,30 @@ A EF ID é um token exclusivo que a Advertising Cloud usa para associar a ativid
 
 ### Formato EF ID
 
+>[!NOTE]
+>
+>EF IDs fazem distinção entre maiúsculas e minúsculas. Se uma [!DNL Analytics] A implementação força o rastreamento de URL para letras minúsculas, então o Advertising Cloud não reconhece a EF ID. Isso afetará os lances e os relatórios do Advertising Cloud, mas não terá impacto nos relatórios do Advertising Cloud no [!DNL Analytics].
+
+#### [!DNL Google Ads] pesquisar anúncios
+
+```{gclid}:G:s```
+
+em que:
+
+* `gclid` é [!DNL Google Click ID] (GCLID).
+* `s` é o tipo de rede (&quot;s&quot; para pesquisa).
+
+#### Anúncios de pesquisa de publicidade do Microsoft
+
+```{msclkid}:G:s```
+
+em que:
+
+* `msclkid` é [!DNL Microsoft Click ID] (MSCLKID).
+* `s` é o tipo de rede (&quot;s&quot; para pesquisa).
+
+#### Exibir publicidades e publicidades de pesquisa em outros mecanismos de pesquisa
+
 ```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
 
 <!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
@@ -60,10 +84,6 @@ em que:
    * `s` para um clique em uma publicidade de pesquisa (click-through de pesquisa).
 
 Exemplo `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
-
->[!NOTE]
->
->EF IDs fazem distinção entre maiúsculas e minúsculas. Se uma [!DNL Analytics] A implementação força o rastreamento de URL para letras minúsculas, então o Advertising Cloud não reconhece a EF ID. Isso afetará os lances e os relatórios do Advertising Cloud, mas não terá impacto nos relatórios do Advertising Cloud no [!DNL Analytics].
 
 ### Dimension EF ID [!DNL Analytics]
 
