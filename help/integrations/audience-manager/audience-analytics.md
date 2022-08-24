@@ -1,17 +1,18 @@
 ---
-title: '"[!DNL Adobe][!DNL Audience Analytics] para clientes da Advertising Cloud"'
-description: Saiba como usar [!DNL Adobe][!DNL Audience Analytics] para casos de uso de publicidade
+title: '''[!DNL Adobe] [!DNL Audience Analytics] para clientes da Advertising Cloud'
+description: Saiba como usar [!DNL Adobe] [!DNL Audience Analytics] para casos de uso de publicidade
 feature: Integration with Adobe Audience Manager
-source-git-commit: d83e36847d0e14bc7e83106c0a221680060c2e58
+exl-id: e05ba560-d3d5-4024-b1ba-956e878a2578
+source-git-commit: 4a7766e92ffaa8f32f0fe8941f6c85405bd2df3e
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
-# [!DNL Adobe][!DNL Adobe] para clientes da Advertising Cloud
+# [!DNL Adobe] [!DNL Audience Analytics] para clientes da Advertising Cloud
 
-[[!DNL Adobe][!DNL Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) é uma integração entre o Adobe Audience Manager e a Adobe Analytics que permite que os clientes do Audience Manager enviem segmentos para o [!DNL Analytics] para obter insights enriquecidos sobre a atividade do site.
+[[!DNL Adobe] [!DNL Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) é uma integração entre o Adobe Audience Manager e a Adobe Analytics que permite que os clientes do Audience Manager enviem segmentos para o [!DNL Analytics] para obter insights enriquecidos sobre a atividade do site.
 
 Os clientes da Advertising Cloud podem se beneficiar usando [!DNL Audience Analytics]. A integração permite:
 
