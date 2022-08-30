@@ -1,9 +1,9 @@
 ---
 title: Configurações da conta do anunciante
 description: Consulte as descrições das configurações disponíveis do anunciante.
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -38,25 +38,19 @@ Os anunciantes com produtos adicionais da Adobe Experience Cloud podem compartil
 
 (Opcional) Produtos de Experience Cloud adicionais vinculados à conta de DSP. Os produtos devem ser associados à mesma ID de organização do Experience Cloud fornecida no [!UICONTROL Adobe IMS IDs] seção.
 
-**[!UICONTROL Adobe Media Optimizer]:** (Anunciantes com Advertising Cloud Search ou que usam pixels de conversão Advertising Cloud) A [!DNL Search] conta com a qual DSP irá trocar dados de atribuição.
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Anunciantes com Advertising Cloud Search ou que usam pixels de conversão Advertising Cloud) A [!DNL Search] conta com a qual DSP irá trocar dados de atribuição.
 
-**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Anunciantes que usam pixels de conversão do Advertising Cloud; (opcional) Você pode usar um gráfico de dispositivos para medição de atribuição baseada em pessoa das configurações de conta do anunciante no Advertising Cloud Search.
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Anunciantes com a Adobe Analytics; facultativo; aplicável somente aos dados coletados usando tags de rastreamento de conversão do Advertising Cloud que incluem um [!DNL EF Redirect] e somente token) um ou mais [!DNL Analytics] conjuntos de relatórios para os quais o DSP enviará dados coletados de editores e parceiros do lado do suprimento. O Analytics também enviará os dados coletados do site do cliente para o DSP.
 
->[!NOTE]
->
-> * A atribuição de dispositivo está disponível somente para conversões rastreadas usando o serviço de rastreamento de conversão do Advertising Cloud, não para conversões rastreadas pelo Adobe Analytics.
-> * Você também pode selecionar um gráfico de dispositivos com base em pessoas para o direcionamento entre dispositivos e o gerenciamento de frequência no [nível de campanha](/help/dsp/campaign-management/campaigns/campaign-settings.md). Em seguida, você pode configurar o direcionamento entre dispositivos na [nível de inserção](/help/dsp/campaign-management/placements/placement-settings.md) e limites de frequência adicionais na [nível de pacote](/help/dsp/campaign-management/packages/package-settings.md) e [nível de inserção](/help/dsp/campaign-management/placements/placement-settings.md). O direcionamento entre dispositivos e o gerenciamento de frequência não exigem medição de atribuição no nível do anunciante; em vez disso, eles trabalham com o gráfico de dispositivos especificado nas configurações da campanha.
-
-
-**[!UICONTROL Adobe Analytics]:** (Anunciantes com a Adobe Analytics; facultativo; aplicável somente aos dados coletados usando tags de rastreamento de conversão do Advertising Cloud que incluem um [!DNL EF Redirect] e somente token) um ou mais [!DNL Analytics] conjuntos de relatórios para os quais o DSP enviará dados coletados de editores e parceiros do lado do suprimento. O Analytics também enviará os dados coletados do site do cliente para o DSP.
-
-Para que os dados apareçam nos conjuntos de relatórios, a variável [!DNL Search] configuração no nível do anunciante como &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; deve estar ativado. Além disso, o [!DNL Analytics] deve ser configurada para receber dados do Advertising Cloud. <!-- from Advertising Cloud or DSP in particular? Add cross-reference to file in Integrations section. -->
+Para que os dados apareçam nos conjuntos de relatórios, a variável [!DNL Search] configuração no nível do anunciante como &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; deve estar ativado. Além disso, o [!DNL Analytics] deve ser configurada para receber dados do Advertising Cloud.
 
 >[!WARNING]
 >
->Se você remover um conjunto de relatórios vinculado anteriormente, o DSP não trocará mais dados com esse conjunto. Espera-se ver as flutuações de dados. <!-- Fluctuations where? Clarify -->
+>Se você remover um conjunto de relatórios vinculado anteriormente, o DSP não trocará mais dados com esse conjunto. Espera-se ver as flutuações de dados.
 
-**[!UICONTROL Adobe Analytics Cloud]:** (Anunciantes com Adobe Audience Manager ou Adobe Analytics; opcional) um Audience Manager ou [!DNL Analytics] conta da qual DSP obterá metadados de segmento, dados de hierarquia e dados de público-alvo exclusivos para todos os públicos-alvo do Adobe do anunciante. Isso inclui dados para:
+Para obter mais informações sobre a integração com o [!DNL Analytics], consulte &quot;[Visão geral da [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+
+**[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Anunciantes com Adobe Audience Manager ou Adobe Analytics; opcional) um Audience Manager ou [!DNL Analytics] conta da qual DSP obterá metadados de segmento, dados de hierarquia e dados de público-alvo exclusivos para todos os públicos-alvo do Adobe do anunciante. Isso inclui dados para:
 
 * Segmentos Audience Manager
 * [!DNL Analytics] segmentos publicados na Adobe Experience Cloud
