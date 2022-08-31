@@ -3,9 +3,9 @@ title: Configurações personalizadas de relatório
 description: Consulte descrições das configurações personalizadas do relatório.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -88,18 +88,6 @@ Para aplicar um ou mais filtros, faça o seguinte:
 * *[!UICONTROL With Clicks (CT)]:* Inclui apenas conversões atribuídas a cliques.
 
 * *[!UICONTROL Impressions Only (VT)]:* Inclui apenas conversões que foram atribuídas a impressões porque nenhum clique foi rastreado no caminho de conversão.
-
-**[!UICONTROL Cross Device Level]:**  (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]e [!UICONTROL Site] relatórios com [!UICONTROL Conversion Metrics] ou [!UICONTROL Custom Goals] colunas; aplicável somente para anunciantes com atribuição entre dispositivos) O nível no qual rastrear conversões: *[!UICONTROL People]* ou *[!UICONTROL Household]*.
-
-Saiba mais sobre [soluções entre dispositivos](/help/dsp/introduction/features/cross-device-solutions.md).
-
-**[!UICONTROL Cross-Device Breakout]:** (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]e [!UICONTROL Site] relatórios com [!UICONTROL Conversion Metrics] ou [!UICONTROL Custom Goals] colunas; aplicável somente para anunciantes com atribuição entre dispositivos) O nível de detalhes sobre conversões entre dispositivos para incluir no relatório. Você pode escolher até três níveis, cada um dos quais será incluído em uma coluna separada, se desejar um detalhamento.
-
-* *[!UICONTROL Total People (TP)]:* Inclui o total de conversões, que inclui as conversões do mesmo dispositivo e as conversões entre dispositivos (se aplicável). No relatório, &quot;[!UICONTROL (tp)]&quot; é anexado ao nome da métrica de conversão e ao tipo de regra.
-
-* *[!UICONTROL Same Device (SD)]:* Inclui apenas conversões para as quais apenas um único dispositivo foi rastreado no caminho de conversão. No relatório, &quot;[!UICONTROL (sd)]&quot; é anexado ao nome da métrica de conversão e ao tipo de regra.
-
-* *[!UICONTROL Cross Device (XD)]:* Inclui apenas conversões para as quais mais de um dispositivo foi rastreado no caminho de conversão. No relatório, &quot;[!UICONTROL (xd)]&quot; é anexado ao nome da métrica de conversão e ao tipo de regra.
 
 **[!UICONTROL Conversion Reporting Based On]:**  Como relatar dados de conversão:
 
