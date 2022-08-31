@@ -3,9 +3,9 @@ title: Configurações do pacote
 description: Consulte descrições das configurações de pacote disponíveis.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
+source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Você pode substituir a configuração no nível do pacote na [nível de inserç
 
 ## [!UICONTROL Goals & Budget]
 
-**[!UICONTROL Pacing & Capping]:** (Só de leitura para as embalagens existentes) Em que nível colocar e fixar disposições na embalagem:
+**[!UICONTROL Pacing & Capping]:** (Somente leitura para embalagens existentes) Em que nível colocar e fixar disposições na embalagem:
 
 * **[!UICONTROL Package level pacing]:** Esta estratégia de ritmo funciona colocando e limitando todas as disposições incluídas como uma *grupo*. Essa estratégia garante que todas as disposições de um determinado pacote sejam otimizadas de forma holística, distribuindo os gastos com base no desempenho e dimensionando para KPIs (indicadores-chave de desempenho) selecionados.
 
@@ -73,7 +73,7 @@ Para pacotes com voo personalizado, o intervalo de orçamento é sempre *[!UICON
 >
 >Este campo é apenas um referencial e não é usado para a tomada de decisão.
 
-**[!UICONTROL Frequency Cap]:** (Pacotes com ritmo no nível do pacote somente) O número de vezes que um dispositivo ou pessoa exclusiva (dependendo do [!UICONTROL Cross Device Level]) pode ser exibido nos anúncios do pacote. As opções incluem *[!UICONTROL Unlimited]* ou um valor específico por dia, semana ou mês.
+**[!UICONTROL Frequency Cap]:** (Pacotes com ritmo no nível do pacote somente) O número de vezes que um dispositivo ou pessoa exclusiva (dependendo do [!UICONTROL Cross Device Level] para a campanha) pode ser veiculada como anúncio do pacote. As opções incluem *[!UICONTROL Unlimited]* ou um valor específico por dia, semana ou mês.
 
 >[!NOTE]
 >
@@ -88,7 +88,7 @@ Para pacotes com voo personalizado, o intervalo de orçamento é sempre *[!UICON
 
 * *[!UICONTROL Impressions]:* Essa opção fornece impressões até que uma quantidade especificada seja alcançada em um intervalo especificado. Ao selecionar essa opção, especifique o número de impressões e o intervalo: *O tempo todo,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* ou *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com pacing no nível do pacote somente) Como carregar a entrega de anúncios:
+**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com ritmo no nível do pacote somente) Como carregar a entrega de anúncios:
 
 * *[!UICONTROL Even]:* Os pacotes são fornecidos uniformemente ao longo de cada voo, com um objetivo de 50% da entrega na primeira metade do voo.
 
@@ -111,5 +111,5 @@ Para cada voo, insira a data de início, a data de término e o número alvo de 
 >* [Criar um pacote](package-create.md)
 >* [Editar um pacote](package-edit.md)
 >* [Anexar uma disposição a um pacote](package-attach-placement.md)
->* [Perguntas frequentes sobre o gerenciamento de campanhas](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Perguntas frequentes sobre o Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

@@ -3,7 +3,7 @@ title: Sobre relatórios na plataforma
 description: Saiba mais sobre os dados do relatório incluídos nas visualizações de gerenciamento de campanha.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 093902d577cc4af3bb18bbeddc640fe284d3a179
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Para cada disposição, você pode [abrir uma (exibição detalhada) [!UICONTROL
 
 * **[!UICONTROL Frequency]:** Dados para cada nível de frequência de anúncio para o posicionamento, incluindo:
    * o nível de frequência do anúncio (como &quot;1&quot; para todas as instâncias em que os usuários visualizaram um anúncio uma vez)
-   * o número exclusivo estimado de dispositivos/navegadores ou pessoas (dependendo do [!UICONTROL Cross Device Level] para o posicionamento) que receberam impressões no nível de frequência especificado
+   * o número exclusivo estimado de dispositivos/navegadores ou pessoas (dependendo do [!UICONTROL Cross Device Level] para a campanha) que recebeu impressões no nível de frequência especificado
    * número estimado de impressões no nível de frequência especificado
    * frequência média estimada para o nível de frequência especificado. Esse valor é igual a (Impressões estimadas)/(Únicos estimados).
 
