@@ -3,9 +3,9 @@ title: Configurações de posicionamento
 description: Consulte descrições das configurações de posicionamento disponíveis.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
+source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
 workflow-type: tm+mt
-source-wordcount: '3304'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -96,13 +96,25 @@ Veja descrições de cada filtro pré-lance em &quot;[Filtros de pré-lance em n
 
 **[!UICONTROL Max Bid]:** O máximo a pagar por 1000 impressões.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com ritmo no nível do pacote somente) Como carregar a entrega de anúncios:
+**[!UICONTROL Flight pacing]:** (Disposições com ritmo de nível de inserção somente) Como carregar a entrega de anúncios:
 
 * *[!UICONTROL Even]:* (O padrão) Os pacotes são distribuídos uniformemente em cada voo, com um objetivo de 50% da entrega na primeira metade do voo.
+
+* *[!UICONTROL Slightly Ahead]:* (O padrão) Acelera a entrega para que esteja 55 a 65% completo na metade da duração do voo.
 
 * *[!UICONTROL Frontload]:* Acelera a entrega para que esteja completa de 65 a 75% até a metade do voo.
 
 * *[!UICONTROL Aggressive Frontload]:* Acelera a entrega para que esteja 75 a 85% completo na metade do voo.
+
+**[!UICONTROL Intraday pacing]:** (Disposições com ritmo de nível de posicionamento somente) Como colocar a entrega de anúncios em cada dia no voo:
+
+* *[!UICONTROL Even]:* (O padrão) Dimensiona o delivery com base na disponibilidade do inventário. Geralmente, mais anúncios são entregues por hora no dia, quando o volume do leilão é maior e menos anúncios são entregues de manhã e à noite.
+
+* *[!UICONTROL ASAP]:* (O padrão) Acelera a entrega para o dobro da velocidade de *Mesmo*.
+
+   >[!CAUTION]
+   >
+   >Essa opção pode afetar negativamente o desempenho. Use-o somente quando estiver priorizando totalmente o delivery e gastando em relação à otimização de desempenho.
 
 **[!UICONTROL Placement Pre-bid Filters]:** (Opcional) Até cinco filtros que devem ser atendidos para que a licitação ocorra. Você pode usar filtros pré-lances como táticas de otimização, mas lembre-se de que cada regra pode limitar as oportunidades nas quais essa disposição pode lance. Para adicionar ou editar filtros:
 

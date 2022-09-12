@@ -3,9 +3,9 @@ title: Práticas recomendadas para configurar campanhas de desempenho
 description: Conheça as práticas recomendadas para configurar campanhas focadas no desempenho, que incluem disposições otimizadas para o CPA mais baixo ou para o ROAS mais alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,11 @@ Além disso, use as seguintes configurações.
    * Se um novo pacote tiver a mesma meta de um pacote existente, você poderá, opcionalmente, vincular o pacote existente para que o algoritmo possa usar os dados de aprendizado de máquina existentes.
    * Insira o [!UICONTROL Target CPA] ou [!UICONTROL Target ROAS].
 
-* **Estratégia de preenchimento da embalagem:** Selecionar *[!UICONTROL Even]* para maximizar os seus objetivos de desempenho, seguindo uniformemente toda a data de voo.
+* **Embalagem de voo e embalagem intradiária:** Para ambos os tipos de ritmo, selecione *[!UICONTROL Even]* para maximizar seus objetivos de desempenho, seguindo uniformemente todos os dias e durante todo o voo.
 
-   Use *[!UICONTROL FrontLoad]* e *[!UICONTROL Aggressive Front Load]* O ritmo só ocorre quando você prioriza totalmente a entrega e gasta em relação à otimização de desempenho, pois essas estratégias podem afetar negativamente seus KPIs de desempenho desejados.
+   >[!CAUTION]
+   >
+   >Use *[!UICONTROL FrontLoad]* e *[!UICONTROL Aggressive Front Load]* para a navegação de voo e *[!UICONTROL ASAP]* ritmo para o ritmo intradiário somente quando você prioriza totalmente a entrega e gasta em relação à otimização de desempenho, pois essas estratégias podem afetar negativamente seus KPIs de desempenho desejados.
 
 ## Etapa 4 - Criar estrutura de disposição
 

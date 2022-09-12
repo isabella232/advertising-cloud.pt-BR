@@ -3,9 +3,9 @@ title: Configurações do pacote
 description: Consulte descrições das configurações de pacote disponíveis.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
+source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Você pode substituir a configuração no nível do pacote na [nível de inserç
 
 ## [!UICONTROL Goals & Budget]
 
-**[!UICONTROL Pacing & Capping]:** (Somente leitura para embalagens existentes) Em que nível colocar e fixar disposições na embalagem:
+**[!UICONTROL Pacing & Capping]:** (Só de leitura para as embalagens existentes) Em que nível colocar e fixar disposições na embalagem:
 
 * **[!UICONTROL Package level pacing]:** Esta estratégia de ritmo funciona colocando e limitando todas as disposições incluídas como uma *grupo*. Essa estratégia garante que todas as disposições de um determinado pacote sejam otimizadas de forma holística, distribuindo os gastos com base no desempenho e dimensionando para KPIs (indicadores-chave de desempenho) selecionados.
 
@@ -88,16 +88,25 @@ Para pacotes com voo personalizado, o intervalo de orçamento é sempre *[!UICON
 
 * *[!UICONTROL Impressions]:* Essa opção fornece impressões até que uma quantidade especificada seja alcançada em um intervalo especificado. Ao selecionar essa opção, especifique o número de impressões e o intervalo: *O tempo todo,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* ou *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pacotes com ritmo no nível do pacote somente) Como carregar a entrega de anúncios:
+**[!UICONTROL Flight pacing]:** (Pacotes com pacing no nível do pacote somente) Como acompanhar e entregar em todo o voo:
 
 * *[!UICONTROL Even]:* Os pacotes são fornecidos uniformemente ao longo de cada voo, com um objetivo de 50% da entrega na primeira metade do voo.
 
 * *[!UICONTROL Slightly Ahead]:* (O padrão) Acelera a entrega para que esteja 55 a 65% completo na metade da duração do voo.
 
-<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* Acelera a entrega para que esteja 65 a 75% completo na metade do voo.
 
 * *[!UICONTROL Aggressive Frontload]:* Acelera a entrega para que esteja 75 a 85% completo na metade do voo.
+
+**[!UICONTROL Intraday pacing]:** (Pacotes com pacing no nível do pacote somente) Como acompanhar e entregar em cada dia no voo:
+
+* *[!UICONTROL Even]:* (O padrão) Dimensiona o delivery com base na disponibilidade do inventário. Geralmente, mais anúncios são entregues por hora no dia, quando o volume do leilão é maior e menos anúncios são entregues de manhã e à noite.
+
+* *[!UICONTROL ASAP]:* Acelera a entrega para o dobro da velocidade de *Mesmo*.
+
+   >[!CAUTION]
+   >
+   >Essa opção pode afetar negativamente o desempenho. Use-o somente quando estiver priorizando totalmente o delivery e gastando em relação à otimização de desempenho.
 
 ## [!UICONTROL Flighting]
 
