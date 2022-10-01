@@ -3,9 +3,9 @@ title: Criar e implementar um segmento personalizado
 description: Saiba como criar e implementar um segmento personalizado para rastrear usuários expostos a anúncios ou usuários que visitam suas páginas da Web.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Você pode coletar seus próprios dados de público-alvo primários criando e im
 
    1. Insira um **[!UICONTROL Segment Name]**.
 
-   1. Para o [!UICONTROL Segment Type], selecione **[!UICONTROL Custom]**.
+   1. Para o **[!UICONTROL Segment Type]**, selecione *[!UICONTROL Custom]*.
 
-   1. Insira a Janela do segmento, que é o número de dias em que o cookie de um usuário permanece no segmento.
+   1. Insira o **[!UICONTROL Segment Window]**, que é o número de dias em que o cookie de um usuário permanece no segmento.
 
       A janela padrão é de 45 dias. Insira um valor de 1 (1) a 365.
 
@@ -38,7 +38,7 @@ Você pode coletar seus próprios dados de público-alvo primários criando e im
 
    1. Retornar para **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
-   2. Segure o cursor sobre a linha de segmento e clique em **[!UICONTROL Get pixel]**.
+   2. Segure o cursor sobre a linha de segmento e clique em **[!UICONTROL Get Pixel]**.
 
       * Para rastrear visitantes de desktop e de dispositivos móveis em uma página da Web:
 
@@ -51,8 +51,8 @@ Você pode coletar seus próprios dados de público-alvo primários criando e im
 
          1. Copie a tag de rastreamento de impressão, que é rotulada como &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Adicione a tag ao [!UICONTROL Pixel] para cada anúncio relevante ou para o [!UICONTROL Event Pixels] da seção [[!UICONTROL Tracking] configurações para cada posicionamento relevante](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
+1. Adicione a tag ao [!UICONTROL Pixel] para cada anúncio relevante ou para o [!UICONTROL Event Pixels] da seção [[!UICONTROL Tracking] configurações para cada posicionamento relevante](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 Depois que uma tag de rastreamento é implementada, você pode usar o segmento nos públicos-alvo ou exclusões para qualquer disposição.
 
@@ -63,10 +63,12 @@ Depois que uma tag de rastreamento é implementada, você pode usar o segmento n
 >[!MORELIKETHIS]
 >
 >* [Sobre o Gerenciamento de público-alvo](audience-about.md)
+>* [Editar informações de segmento](segment-edit.md)
+>* [Excluir um segmento](segment-delete.md)
+>* [Exibir pixels de rastreamento para um segmento](segment-view-pixels.md)
+>* [Compartilhar ou parar de compartilhar um segmento](segment-share.md)
 >* [Criar e implementar um [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Criar um público-alvo reutilizável](reusable-audience-create.md)
->* [Configurações de público-alvo](audience-settings.md)
 >* [Fornecedores de dados de terceiros disponíveis](third-party-data-providers.md)
 >* [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)
 
-<!-- I'll add x-ref to ad settings later.-->

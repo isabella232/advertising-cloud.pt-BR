@@ -8,9 +8,9 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '936'
 ht-degree: 6%
 
 ---
@@ -135,8 +135,19 @@ ht-degree: 6%
          + [Sobre [!UICONTROL CCPA Opt-out-of-Sale] Segmentos](/help/dsp/audiences/ccpa-opt-out-about.md)
          + [Criar e implementar um [!UICONTROL CCPA Opt-out-of-Sale] Segmento](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [Recuperar [!UICONTROL Consumer Opt-Out-of-Sale] Relatórios](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Editar informações de segmento](/help/dsp/audiences/segment-edit.md)
+      + [Compartilhar ou parar de compartilhar um segmento](/help/dsp/audiences/segment-share.md)
+      + [Exibir pixels de rastreamento para um segmento](/help/dsp/audiences/segment-view-pixels.md)
+      + [Excluir um segmento](/help/dsp/audiences/segment-delete.md)
    + Gerenciar públicos-alvo {#reusable-audiences}
       + [Criar um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-create.md)
+      + [Duplicar um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-duplicate.md)
+      + [Editar um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-edit.md)
+      + [Exibir detalhes sobre um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-view-details.md)
+      + [Compartilhar um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-share.md)
+      + [Exportar um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-export.md)
+      + [Copiar a chave do segmento para um público-alvo reutilizável para a área de transferência](/help/dsp/audiences/reusable-audience-clipboard.md)
+      + [Excluir um público-alvo reutilizável](/help/dsp/audiences/reusable-audience-delete.md)
       + [Configurações de público-alvo](/help/dsp/audiences/audience-settings.md)
       + [Sintaxe para lógica de segmento do público-alvo](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Gerenciar fontes {#sources}

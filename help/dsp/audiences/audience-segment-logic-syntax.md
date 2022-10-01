@@ -3,25 +3,26 @@ title: Sintaxe para lógica de segmento do público-alvo
 description: Referencie a sintaxe que pode ser usada para definir a lógica dos segmentos de público-alvo.
 feature: DSP Audiences
 exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: efd04189de975f8f075dec7851a3a06d2d647ded
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Sintaxe para lógica de segmento do público-alvo
 
-Ao criar públicos reutilizáveis, é possível definir manualmente a lógica do segmento usando IDs de segmento alfanumérico e a sintaxe a seguir:
+Ao criar públicos reutilizáveis, é possível definir manualmente a lógica do segmento usando IDs de segmento alfanumérico (chaves) e a seguinte sintaxe:
 
 * (b) para indicar um grupo
-* `||` para  [!DNL OR] <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
+* `||` para [!DNL OR] <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
 * &amp;&amp; para [!DNL AND]
 * ! para [!DNL NOT] (excluir)
 
 >[!NOTE]
 >
 >* Todos os grupos de segmentos especificados são incluídos, a menos que sejam precedidos por ! (o que os exclui).
+>* Você pode [encontrar a ID de segmento para um público-alvo](reusable-audience-clipboard.md) from [!UICONTROL Audiences] > [!UICONTROL All audiences].
 
 
 Por exemplo, a seguinte lógica:
@@ -42,6 +43,7 @@ significa (em inglês simples)
 
 >[!MORELIKETHIS]
 >
+>* [Copiar a chave do segmento para um público-alvo reutilizável para a área de transferência](reusable-audience-clipboard.md)
 >* [Sobre o Gerenciamento de público-alvo](audience-about.md)
 >* [Criar um público-alvo reutilizável](reusable-audience-create.md)
 >* [Configurações de público-alvo](audience-settings.md)
