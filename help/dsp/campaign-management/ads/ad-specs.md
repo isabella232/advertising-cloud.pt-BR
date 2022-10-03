@@ -3,7 +3,7 @@ title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 6f3522d41cf74dfd41d0b4d1adb08b2bd47d8e82
+source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -54,15 +54,13 @@ Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Requisitos adicionais do editor para anúncios de TV conectados
 
-* **Disney (incl. Hulu):** Consulte Disney&#39;s [especificações de anúncios](https://hulu.disneyadsales.com/ad-products/video-commercial/).
-
-* **Valor:** Consulte Paramount&#39;s [especificações de anúncios](https://www.paramount.com/digital-ads).
+* **Rede A+E:** Consulte Rede A+E [especificações de anúncios](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **Descoberta:** Consulte o relatório da Discovery [especificações de anúncios](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **HBO máx.:** Consulte HBO Max&#39;s [especificações de anúncios](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Disney (incl. Hulu):** Consulte Disney&#39;s [especificações de anúncios](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
-* **Rede A+E:** Consulte Rede A+E [especificações de anúncios](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **HBO máx.:** Consulte HBO Max&#39;s [especificações de anúncios](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
@@ -71,6 +69,8 @@ Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
    * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
    * [Pavão](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
+
+* **Valor:** Consulte Paramount&#39;s [especificações de anúncios](https://www.paramount.com/digital-ads).
 
 ## Exibir anúncios
 
