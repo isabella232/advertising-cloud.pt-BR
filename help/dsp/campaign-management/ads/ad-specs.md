@@ -3,9 +3,9 @@ title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
+source-git-commit: 6f3522d41cf74dfd41d0b4d1adb08b2bd47d8e82
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Requisitos adicionais do editor para anúncios de TV conectados
 
-* **Hulu:** Veja Hulu&#39;s [especificações de anúncios](https://advertising.hulu.com/ad-products/video-commercial/).
+* **Disney (incl. Hulu):** Consulte Disney&#39;s [especificações de anúncios](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
 * **Valor:** Consulte Paramount&#39;s [especificações de anúncios](https://www.paramount.com/digital-ads).
 
@@ -71,33 +71,6 @@ Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
    * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
    * [Pavão](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
-
-* **Disney:**
-
-   * Transmissão em Livestreaming ESPN:
-
-      **Taxa de bits:** > 14000kbps
-      **Formato:** .mp4
-      **Tipo de tag:** VAST 2.0
-      **Tamanho criativo:** 1280x720 ou 1920x1080
-
-   * Programação de episódio completo (FEP): ESPN, ABC, Forma livre, Nat Geo e FX
-
-      * **Taxa de bits:** > 14000 kbps:
-
-         **Formato:** .mp4
-
-         **Tipo de tag:** VAST 2.0
-
-         **Tamanho criativo:** 1280x720 ou 1920x1080
-
-      * **Taxa de bits:** > 1000 kbps (baixa resolução) ou 15000 kbps (alta resolução):
-
-         **Formato:** .mp4
-
-         **Tipo de tag:** VAST 2.0 (VPAID 1.0 somente no desktop)
-
-         **Tamanho criativo:** 1280x720 ou 1920x1080
 
 ## Exibir anúncios
 
