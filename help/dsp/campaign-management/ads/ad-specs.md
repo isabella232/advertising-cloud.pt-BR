@@ -3,7 +3,7 @@ title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
+source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -116,36 +116,36 @@ Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Requisitos adicionais do editor
 
-* **[!DNL Spotify]**
-   * Comprimento: Até 30 segundos
-   * Tipo de arquivo: OGG
-   * Tamanho máximo do arquivo: 500 MB
-   * Volume: RMS normalizado para -14; Pico dBFS normalizado para -0,2 dBFS
-
-* **[!DNL SoundCloud]**
-   * Comprimento: 6, 15 ou 30 segundos
-   * Tipo de arquivo: MP3
-   * Tamanho máximo do arquivo: 5 MB
-
-* **[!DNL Pandora]**
-   * Comprimento: 15 ou 30 segundos
-   * Tipo de arquivo: MP4 (no aplicativo), MP3 (desktop)
-   * Tamanho máximo do arquivo: 2,2 MB
-
-* **[!DNL TuneIn]**
-   * Comprimento: 10, 15 ou 30 segundos
-   * Tipo de arquivo: MP3, OGG
-   * Volume: 44,1 kHz
-
 * **[!DNL iHeartRadio]**
    * Comprimento: 5, 15, 30 ou 60 segundos
    * Tipo de arquivo: MP3
    * Tamanho máximo do arquivo: 320 kbps
    * Volume: 44,1 kHz
 
+* **[!DNL Pandora]**
+   * Comprimento: 15 ou 30 segundos
+   * Tipo de arquivo: MP4 (no aplicativo), MP3 (desktop)
+   * Tamanho máximo do arquivo: 2,2 MB
+
+* **[!DNL SoundCloud]**
+   * Comprimento: 6, 15 ou 30 segundos
+   * Tipo de arquivo: MP3
+   * Tamanho máximo do arquivo: 5 MB
+
+* **[!DNL Spotify]**
+   * Comprimento: Até 30 segundos
+   * Tipo de arquivo: OGG
+   * Tamanho máximo do arquivo: 500 MB
+   * Volume: RMS normalizado para -14; Pico dBFS normalizado para -0,2 dBFS
+
 * **[!DNL TargetSpot]**
    * Comprimento: 15, 30 ou 60 segundos
    * Tipo de arquivo: MP3
+
+* **[!DNL TuneIn]**
+   * Comprimento: 10, 15 ou 30 segundos
+   * Tipo de arquivo: MP3, OGG
+   * Volume: 44,1 kHz
 
 ### Requisitos para anúncios de banner complementares (opcional)
 
@@ -153,29 +153,29 @@ Você pode usar folhas de tags de [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Requisitos adicionais do editor
 
-* **[!DNL Spotify]:**
-   * Tipo de arquivo: JPG estático, PNG
-   * Tamanho máximo do arquivo: 200 KB
+* **[!DNL iHeartRadio]:**
+   * Tipo de arquivo: JPEG, JPG, PNG, GIF, SWF, HTML
+   * Tamanho máximo do arquivo: 2,2 MB
    * Dimension: 300x250
-
-* **[!DNL SoundCloud]:**
-   * Tipo de arquivo: JPG estático, PNG
-   * Tamanho máximo do arquivo: Menos de 400 KB
-   * Dimension: 1024x1024
 
 * **[!DNL Pandora]:**
    * Tipo de arquivo: JPEG, GIF
    * Tamanho máximo do arquivo: Tamanho: 100 KB
    * Dimension: 300x250 (móvel ou desktop) ou 500x500 (desktop)
 
+* **[!DNL SoundCloud]:**
+   * Tipo de arquivo: JPG estático, PNG
+   * Tamanho máximo do arquivo: Menos de 400 KB
+   * Dimension: 1024x1024
+
+* **[!DNL Spotify]:**
+   * Tipo de arquivo: JPG estático, PNG
+   * Tamanho máximo do arquivo: 200 KB
+   * Dimension: 300x250
+
 * **[!DNL TuneIn]:**
    * Tipo de arquivo: JPEG, JPG, PNG, GIF, HTML
    * Tamanho máximo do arquivo: 2 MB
-   * Dimension: 300x250
-
-* **[!DNL iHeartRadio]:**
-   * Tipo de arquivo: JPEG, JPG, PNG, GIF, SWF, HTML
-   * Tamanho máximo do arquivo: 2,2 MB
    * Dimension: 300x250
  
 
