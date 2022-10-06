@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: a3f676bd085571392a4add32f69fe0da4d4ae912
+source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 6 de outubro de 2022 | Campanhas | Novas colunas de métricas relacionadas ao posicionamento estão disponíveis para as exibições de Campanhas: &quot;OTS de ontem&quot; (sobre o gasto do alvo), &quot;Entrega de ontem&quot;, &quot;Objetivo de ontem&quot;, &quot;OTS de hoje&quot; (sobre o gasto do alvo), &quot;Entrega de hoje&quot; e &quot;Objetivo de hoje&quot;. | Consulte &quot;[Criar uma exibição de coluna personalizada](/help/dsp/campaign-management/reports/column-view-create.md)&quot; e &quot;[Editar uma exibição de coluna personalizada](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 12 de setembro de 2022 | Embalagem e posicionamento | Controles de posicionamento separados agora estão disponíveis para o ritmo de voo e o ritmo intradiário. Anteriormente, uma estratégia única controlava ambos. As configurações dos pacotes e disposições existentes foram mapeadas da seguinte maneira:<ul><li>Legado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* — Agora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* e **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Legado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* — Agora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* e **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Legado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* — Agora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* e **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Legado **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* — Agora configurado como **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* e **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | Consulte &quot;[Configurações do pacote](/help/dsp/campaign-management/packages/package-settings.md)&quot; e &quot;[Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 27 de julho de 2022 | Inventário | O Insights de leilão é uma nova ferramenta de solução de problemas que permite analisar a composição de negócios de ofertas privadas garantidas e não garantidas. Usando visualizações de dados, essa ferramenta mostra a tendência e as proporções relativas dos valores recebidos para os principais atributos de leilão em um período específico.<br><br>Com transparência nos dados de solicitação de lance de editores, você pode evitar etapas demoradas de solução de problemas. | Consulte &quot;[Exibir insights de leilão para um contrato privado](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29 de junho de 2022 | Inventário | O novo [!UICONTROL Inventory] > [!UICONTROL Deals] A visualização inclui os mesmos recursos de personalização de dados da [!UICONTROL Campaigns] exibições, incluindo filtros adicionais, personalização de colunas e a opção para salvar exibições personalizadas, classificação de colunas e uma visualização de dados (gráfico). Você pode abrir um menu de comando em cada linha clicando em [!UICONTROL ...] depois do nome da negociação. | Consulte &quot;[Visão geral dos recursos de inventário](/help/dsp/inventory/inventory-overview.md).&quot; |
