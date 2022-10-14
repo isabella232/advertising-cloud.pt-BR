@@ -3,9 +3,9 @@ title: Práticas recomendadas para configurar campanhas de desempenho
 description: Conheça as práticas recomendadas para configurar campanhas focadas no desempenho, que incluem disposições otimizadas para o CPA mais baixo ou para o ROAS mais alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
+source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -123,6 +123,8 @@ Para maximizar a escala, use [!UICONTROL Public] (Open Exchange) e [!UICONTROL O
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Direcionamento de público-alvo
+
+<!-- Say something about limiting unnecessary constraints/limitations, including dayparting, which limit your chances for ad exposure. Use only when it's required for your audience. -->
 
 * **[!UICONTROL Included Audiences]:**
    * Para disposições de prospecção, agrupe categorias de público-alvo semelhantes e tamanhos de público-alvo semelhantes em uma única disposição. Em seguida, com base no desempenho, execute um dos seguintes procedimentos:
