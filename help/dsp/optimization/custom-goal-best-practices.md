@@ -3,7 +3,7 @@ title: Práticas recomendadas para criar uma meta personalizada
 description: Conheça as práticas recomendadas para criar metas personalizadas para definir seus eventos de sucesso.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 Os exemplos a seguir mostram como configurar metas que direcionam uma única propriedade (métrica).
 
-### Exemplo de uma campanha com a meta de otimização &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;
+### Exemplo de uma campanha com o &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; Objetivo de otimização
 
-Se a meta da campanha for receita ([!UICONTROL Highest ROAS - Custom Goal]), a meta personalizada (objetivo) incluirá a propriedade &quot;[!UICONTROL Revenue]&quot; com um peso de um (1).
+Se a meta da campanha for receita ([!UICONTROL Highest ROAS - Custom Goal]), sua meta personalizada (objetivo) incluirá o &quot;[!UICONTROL Revenue]&quot;propriedade com um peso de 1 (1).
 
 ![exemplo de uma meta personalizada do ROAS com uma única propriedade](/help/dsp/assets/custom-goal-roas.png)
 
 >[!NOTE]
 >
-> Um [!UICONTROL Property Weight] de um equivale a um valor para cada $1 de receita rastreada.
+> A [!UICONTROL Property Weight] de um equivale a um valor de um para cada $1 da receita rastreada.
 >
-> Por exemplo, uma conversão de $250 com um peso de um é relatada como $250. Se a métrica de conversão receber um peso de 0,5, a conversão de $250 será relatada como $125 no Advertising Cloud ($250 Conversion * 0,5 [!UICONTROL Property Weight] = $125).
+> Por exemplo, uma conversão de $250 com um peso de um é relatada como $250. Se a métrica de conversão receber um peso de 0,5, a conversão de $250 será relatada como $125 no Advertising Cloud ($250 Conversion * 0,5) [!UICONTROL Property Weight] = US$125).
 
-### Exemplo de uma campanha com a meta de otimização &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot;
+### Exemplo de uma campanha com o &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot; Objetivo de otimização
 
 Se a meta da campanha for o menor custo por aquisição (CPA) e exigir apenas um evento bem-sucedido, você incluirá essa métrica (no exemplo a seguir, &quot;Envio de aplicativo&quot;). A prática recomendada é definir o peso como um (1).
 
@@ -36,7 +36,7 @@ Se a meta da campanha for o menor custo por aquisição (CPA) e exigir apenas um
 
 >[!NOTE]
 >
-> Um [!UICONTROL Property Weight] de um equivale a um valor de um para cada conversão rastreada.
+> A [!UICONTROL Property Weight] de um equivale a um valor de um para cada conversão rastreada.
 >
 > Por exemplo, se 10 conversões de Envio de aplicativo forem rastreadas, 10 conversões de Envio de aplicativo serão relatadas.  Se a métrica de conversão receber um peso de 0,5, então as 10 conversões serão relatadas como cinco (5) no Advertising Cloud (10 Conversões * 0,5 [!UICONTROL Property Weight] = 5).
 
@@ -44,7 +44,7 @@ Se a meta da campanha for o menor custo por aquisição (CPA) e exigir apenas um
 
 Há dois cenários nos quais você usaria várias propriedades em uma meta personalizada:
 
-* Sua meta da campanha tem vários eventos bem-sucedidos. Por exemplo, talvez você esteja anunciando mais de uma ação no site e todos estão sendo atribuídos à meta do CPA. O objetivo de exemplo a seguir inclui três propriedades separadas (Download de PDF, Entrar em contato conosco e Inscrever-se por email), cada uma com um peso de um (1), o que informa ao algoritmo [!DNL Adobe Sensei] que cada uma das propriedades tem igual importância. Se você incluir propriedades com custos ou importância variáveis, será possível ajustar os pesos relativos de acordo.
+* Sua meta da campanha tem vários eventos bem-sucedidos. Por exemplo, talvez você esteja anunciando mais de uma ação no site e todos estão sendo atribuídos à meta do CPA. O objetivo de exemplo a seguir inclui três propriedades separadas (Download de PDF, Entre em contato conosco e Cadastre-se de email), cada uma com um peso de uma (1), que informa ao [!DNL Adobe Sensei] algoritmo que cada uma das propriedades tem importância igual. Se você incluir propriedades com custos ou importância variáveis, será possível ajustar os pesos relativos de acordo.
 
    ![exemplo de uma meta personalizada com várias propriedades](/help/dsp/assets/custom-goal-multiple-properties.png)
 
@@ -56,7 +56,7 @@ Há dois cenários nos quais você usaria várias propriedades em uma meta perso
 
    ![exemplo de uma meta personalizada com várias propriedades](/help/dsp/assets/custom-goal-multiple-properties2.png)
 
-   Se, em vez disso, você tiver ponderado as visitas da Página Inicial igualmente aos Envio do Aplicativo, a quantidade naturalmente maior de visitas da página inicial poderá sobrecarregar sua meta e inclinar-se para as visitas da página inicial.<!--reword-->
+   Se, em vez disso, você tiver ponderado as visitas da página inicial igualmente nos envios de aplicativo, a quantidade naturalmente maior de visitas da página inicial poderá sobrecarregar sua meta e inclinar-se para as visitas da página inicial.<!--reword-->
 
 >[!MORELIKETHIS]
 >

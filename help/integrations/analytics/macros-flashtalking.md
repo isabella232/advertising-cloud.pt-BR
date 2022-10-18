@@ -2,7 +2,8 @@
 title: Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Flashtalking] Tags de anúncio
 description: Saiba por que e como adicionar [!DNL Analytics for Advertising Cloud] macros para seu [!DNL Flashtalking] tags de publicidade
 feature: Integration with Adobe Analytics
-source-git-commit: c95dc72fa42b47ecea0c27bd59a2df4cd9c20233
+exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%

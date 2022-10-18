@@ -3,7 +3,7 @@ title: Advertising Cloud IDs usadas por [!DNL Analytics]
 description: Advertising Cloud IDs usadas por [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -171,7 +171,7 @@ Para qualquer relatório ou auditoria dentro de [!DNL Analytics], a prática rec
 
 ## Sobre as classificações do Analytics
 
-Em [!DNL Analytics], a [classificação](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) é uma parte dos metadados para um determinado código de rastreamento, como Conta, Campanha ou Anúncio. O Advertising Cloud categoriza os dados brutos do Advertising Cloud usando classificações para que você possa exibir os dados de maneiras diferentes (por Tipo de anúncio ou Campanha) ao gerar relatórios. As classificações formam a base dos relatórios do Advertising Cloud em [!DNL Analytics] e podem ser usadas com as métricas do AMO, como [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions]e [!UICONTROL AMO Clicks], bem como com eventos personalizados e padrão no site como [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders]e [!UICONTROL Revenue].
+Em [!DNL Analytics], a [classificação](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) é uma parte dos metadados para um determinado código de rastreamento, como Conta, Campanha ou Anúncio. O Advertising Cloud categoriza os dados brutos do Advertising Cloud usando classificações para que você possa exibir os dados de maneiras diferentes (por Tipo de anúncio ou Campanha) ao gerar relatórios. As classificações formam a base dos relatórios do Advertising Cloud em [!DNL Analytics] e podem ser usadas com as métricas do AMO, como [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions]e [!UICONTROL AMO Clicks], bem como com eventos personalizados e padrão no site, como [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders]e [!UICONTROL Revenue].
 
 >[!MORELIKETHIS]
 >
