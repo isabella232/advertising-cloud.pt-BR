@@ -8,9 +8,9 @@ user-guide-title: Manual da Advertising Cloud DSP
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '950'
 ht-degree: 6%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 6%
       + [Duplicar um pacote](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [Anexar uma disposição a um pacote](/help/dsp/campaign-management/packages/package-attach-placement.md)
       + [Arquivar ou desarquivar um pacote](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
+      + [Exibir o log de alterações de um pacote](/help/dsp/campaign-management/packages/package-change-log.md)
       + [Configurações do pacote](/help/dsp/campaign-management/packages/package-settings.md)
    + Posicionamentos {#placements}
       + [Sobre o gerenciamento de disposição](/help/dsp/campaign-management/placements/placement-about.md)
@@ -73,6 +74,7 @@ ht-degree: 6%
       + [Anexar uma publicidade a uma disposição](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [Editar o agendamento do anúncio para uma disposição](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Exibir um relatório detalhado de uma disposição](/help/dsp/campaign-management/placements/placement-view-report.md)
+      + [Exibir o log de alterações para uma disposição](/help/dsp/campaign-management/placements/placement-change-log.md)
       + [Pausar ou ativar uma disposição](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Arquivar ou desarquivar uma disposição](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)

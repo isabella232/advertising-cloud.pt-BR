@@ -3,9 +3,9 @@ title: Colunas em planilhas baixadas/carregadas
 description: Faça referência às colunas em planilhas de controle de qualidade do Excel baixadas e carregadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 1f7b76cec0c9d9af0fcfbad1bafb30505ffb2036
+source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,8 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | O valor da meta da meta. | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | Se a disposição está avançando na direção da variável *[!UICONTROL Budget]* ou *[!UICONTROL Impressions]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Max Bid] | O lance máximo da disposição. | Sim |
-| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | A estratégia de ritmo de voo para a colocação: *[!UICONTROL evenly]*, *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]* ou *[!UICONTROL aggressive frontload]*. | Sim |
+| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | A estratégia de ritmo de voo para a colocação: *[!UICONTROL Even]*, *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]* ou *[!UICONTROL aggressive frontload]*. | Sim |
+| [!UICONTROL Goals] | [!UICONTROL Intraday Pacing] | A estratégia de ritmo intradiário para o posicionamento: *[!UICONTROL Even]* ou *[!UICONTROL ASAP]*. | Sim |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | Qualquer critério de filtro pré-lance a ser aplicado. | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | Se as regras de licitação (obsoleto) são *[!UICONTROL ON]* ou *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | O limite de frequência principal para a colocação durante o período especificado [!UICONTROL Frequency Cap Interval]. | Sim |

@@ -3,9 +3,9 @@ title: Arquivar ou desarquivar um pacote
 description: Saiba como arquivar ou desarquivar um pacote.
 feature: DSP Packages
 exl-id: a8840f9e-e0ee-481d-80c2-66b56fc1882f
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,22 +19,23 @@ Você pode desarquivar um pacote para restaurar seu status anterior a qualquer m
 ## Arquivar um pacote
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
-1. Clique no nome da campanha para abrir a visualização [!UICONTROL Packages].
-1. Ao lado do nome do pacote, clique em **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. Clique no nome da campanha para abrir o [!UICONTROL Packages] exibir.
+1. Ao lado do nome do pacote, clique em  **[!UICONTROL ...]>[!UICONTROL Archive]**.
 1. Na mensagem de confirmação, clique em **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Para exibir pacotes arquivados, filtre a visualização [!UICONTROL Packages]: clique em ![Botão Filtrar](/help/dsp/assets/filter.png), clique em **[!UICONTROL Package status]** e selecione **[!UICONTROL Archived]** e clique em **[!UICONTROL Apply].**
+>Para exibir pacotes arquivados, filtre o [!UICONTROL Packages] exibir: click ![Botão Filtrar](/help/dsp/assets/filter.png), clique em **[!UICONTROL Package status]** e selecione **[!UICONTROL Archived]** e, em seguida, clique em **[!UICONTROL Apply].**
 
 ## Desarquivar um pacote
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
-1. Clique no nome da campanha para abrir a visualização [!UICONTROL Packages].
-1. Ao lado do nome do pacote, clique em **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. Clique no nome da campanha para abrir o [!UICONTROL Packages] exibir.
+1. Ao lado do nome do pacote, clique em  **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
 1. Na mensagem de confirmação, clique em **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >
 >* [Editar um pacote](package-edit.md)
+>* [Exibir o log de alterações de um pacote](package-change-log.md)
 

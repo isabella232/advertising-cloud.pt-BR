@@ -3,10 +3,10 @@ title: Criar um pacote
 description: Saiba como criar um pacote.
 feature: DSP Packages
 exl-id: 009b65b4-0686-46ca-9f47-01ad4c6a4683
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 1%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 
@@ -29,6 +29,7 @@ Depois de criar um pacote, você pode atribuir disposições a ele.
 >* [Sobre o Gerenciamento de pacotes](package-about.md)
 >* [Editar um pacote](package-edit.md)
 >* [Anexar uma disposição a um pacote](package-attach-placement.md)
+>* [Exibir o log de alterações de um pacote](package-change-log.md)
 >* [Configurações do pacote](package-settings.md)
 >* [Vídeo: Como criar um pacote](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/package-create.html)
 

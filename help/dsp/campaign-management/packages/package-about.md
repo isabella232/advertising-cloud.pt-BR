@@ -3,9 +3,9 @@ title: Sobre o gerenciamento de pacotes no Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de pacotes.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Use pacotes para agrupar disposições para entrega em um orçamento definido, o
 
 Você pode criar pacotes manualmente ou duplicando pacotes existentes. Você também pode editar e anexar disposições a qualquer pacote.
 
-## O painel [!UICONTROL Packages]
+## O [!UICONTROL Packages] Painel
 
-O painel [!UICONTROL Packages] centraliza o desempenho e os relatórios econômicos em todas as estratégias de pacotes, fornecendo instantâneos rápidos de como seus pacotes foram executados durante um intervalo de datas especificado.
+O [!UICONTROL Packages] O painel centraliza o desempenho e os relatórios econômicos em todas as estratégias de pacotes, fornecendo instantâneos rápidos de como seus pacotes foram executados durante um intervalo de datas especificado.
 
 ![Painel de pacotes](/help/dsp/assets/package-dashboard.png)
 
@@ -28,7 +28,7 @@ Também mostra métricas de ritmo e delivery por pacote, por padrão. Opcionalme
 
 >[!NOTE]
 >
->Você pode personalizar ainda mais o conteúdo e a entrega de relatórios de pacote por meio de [relatórios personalizados](/help/dsp/reports/report-about.md).
+>Você pode personalizar ainda mais o conteúdo e a entrega de relatórios de pacotes por meio de [relatórios personalizados](/help/dsp/reports/report-about.md).
 
 Para ver todas as disposições em um pacote, clique no nome do pacote.
 
@@ -37,5 +37,6 @@ Para ver todas as disposições em um pacote, clique no nome do pacote.
 >* [Criar um pacote](package-create.md)
 >* [Editar um pacote](package-edit.md)
 >* [Anexar uma disposição a um pacote](package-attach-placement.md)
+>* [Exibir o log de alterações de um pacote](package-change-log.md)
 >* [Configurações do pacote](package-settings.md)
 

@@ -3,9 +3,9 @@ title: Sobre o gerenciamento de disposição na Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de posicionamento.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,9 @@ Para cada disposição, você pode abrir uma exibição detalhada ([o [!UICONTRO
 
 >[!MORELIKETHIS]
 >
->* [Criar uma disposição](/help/dsp/campaign-management/placements/placement-create.md)
->* [Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Criar uma disposição](placement-create.md)
+>* [Exibir o log de alterações para uma disposição](placement-change-log.md)
+>* [Configurações de posicionamento](placement-settings.md)
 
    >*[Solução de problemas de desempenho](/help/dsp/optimization/troubleshooting-performance.md)
 

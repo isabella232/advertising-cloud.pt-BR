@@ -3,9 +3,9 @@ title: Duplicar um pacote
 description: Saiba como duplicar um pacote.
 feature: DSP Packages
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Duplique um pacote para criar um pacote com configurações semelhantes. É poss
 * (Para pacotes duplicados nas campanhas originais) Duplique opcionalmente os anúncios originais e os pixels de evento de nível de posicionamento
 * Modificar as datas de voo do novo pacote
 
-Consulte &quot;[O que não é duplicado](#package-not-duplicated)&quot; para obter uma lista de configurações de posicionamento que não são duplicadas.
+Consulte &quot;[O que não é duplicado](#package-not-duplicated)&quot; para obter uma lista de configurações de posicionamento que não estão duplicadas.
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
-1. Clique no nome da campanha para abrir a visualização [!UICONTROL Packages].
-1. Ao lado do nome do pacote, clique em **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
+1. Clique no nome da campanha para abrir o [!UICONTROL Packages] exibir.
+1. Ao lado do nome do pacote, clique em  **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
 1. Especifique as novas configurações de pacote:
    1. Insira o novo nome do pacote.
    1. (Opcional) Altere as configurações padrão.
@@ -43,17 +43,18 @@ Todas as configurações das disposições originais são duplicadas, exceto:
 * Configurações do experimento
 * (Se você alterar as datas de voo) Programação de anúncio personalizada
 * (Se você não anexar anúncios) Peso de anúncio personalizado e agendamento
-* Disposições padrão para ofertas programáticas garantidas (PG) e disposições para [!UICONTROL Simple Ad Serving] ofertas
+* Disposições por defeito para ofertas programáticas garantidas (PG) e disposições para [!UICONTROL Simple Ad Serving] negociações
 * (Se você copiar disposições para uma campanha diferente):
    * Meta geográfica
    * pixels do evento
    * Anúncios
-   * Segmentos [!DNL DoubleVerify Authentic Brand Safety] no nível da disposição (que substituem os segmentos no nível do anunciante)
+   * Nível de posicionamento [!DNL DoubleVerify Authentic Brand Safety] segmentos (que substituem os segmentos no nível do anunciante)
 
 >[!MORELIKETHIS]
 >
 >* [Sobre o Gerenciamento de pacotes](package-about.md)
 >* [Criar um pacote](package-create.md)
 >* [Editar um pacote](package-edit.md)
+>* [Exibir o log de alterações de um pacote](package-change-log.md)
 >* [Configurações do pacote](package-settings.md)
 

@@ -3,9 +3,9 @@ title: Editar rapidamente as configurações de posicionamento de chaves
 description: Saiba como alterar rapidamente as configurações de posicionamento das chaves.
 feature: DSP Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Você pode editar o nome da disposição, o status, o lance máximo e o orçamen
 >* [Duplicar uma disposição](placement-duplicate.md)
 >* [Editar o agendamento do anúncio para uma disposição](placement-edit-ad-schedule.md)
 >* [Pausar ou ativar uma disposição](placement-pause-activate.md)
+>* [Exibir o log de alterações para uma disposição](placement-change-log.md)
 >* [Configurações de posicionamento](placement-settings.md)
 >* [Vídeo: Como editar disposições usando ferramentas de edição em massa](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 
