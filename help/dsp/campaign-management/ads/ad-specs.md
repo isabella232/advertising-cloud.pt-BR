@@ -3,7 +3,7 @@ title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
+source-git-commit: b867ace878a0c1e6391476e267c9161e5ecea921
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -225,7 +225,7 @@ Os anúncios são fornecidos por padrão em dispositivos móveis e de desktop. O
 
 #### URL da página de aterrissagem
 
-O URL de clickthrough com rastreadores de cliques opcionais.
+O URL de click-through com rastreadores de cliques opcionais.
 
 Requisitos para rastreadores de cliques:
 

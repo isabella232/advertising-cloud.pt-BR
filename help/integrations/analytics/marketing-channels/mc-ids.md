@@ -2,9 +2,10 @@
 title: Uso de Advertising Cloud IDs para criar [!DNL Marketing Channels] Regras
 description: Saiba como usar as Advertising Cloud IDs para criar regras de processamento para [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -83,7 +84,7 @@ Crie um canal de marketing Display click-through capturando apenas click-through
 
 #### Exibir regra de view-through
 
-Para criar um canal de view-through de exibição, crie uma regra na qual a ID EF termine com &quot;:i&quot;. Como o visitante não clicou no anúncio, o rastreamento de view-through não inclui a variável `ef_id` ou `s_kwcid` no URL. Portanto, apenas uma condição é necessária.
+Para criar um canal de view-through de exibição, crie uma regra na qual a ID EF termine com &quot;:i&quot;. Como o visitante não clicou no anúncio, o rastreamento de view-through não inclui a variável `ef_id` ou `s_kwcid` no URL, portanto, a regra requer apenas uma condição.
 
 ![Exemplo de uma regra de view-through de exibição](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 

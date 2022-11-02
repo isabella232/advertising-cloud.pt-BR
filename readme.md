@@ -1,30 +1,30 @@
 ---
-source-git-commit: d3e36cef27fce533e9435717d428d54b982fd427
+source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 # Documentação colaborativa do Advertising Cloud
 
-Este é o repositório de documentação do Adobe Advertising Cloud, incluindo documentos entre produtos, DSP e TV. (Posteriormente, incluirá documentos para Creative e Pesquisa.)
+Este é o repositório de documentação do Adobe Advertising Cloud, incluindo documentos entre produtos e DSP. (Posteriormente, ela incluirá documentos para Pesquisa e possivelmente (?) para Creative.)
 
 **Observação: Esta página não é publicada na documentação voltada para o cliente.**
 
 ## Índice
 
 + `TOC.md` na raiz de qualquer guia do usuário fornece a organização dos tópicos contidos no guia.
-+ Cada guia do usuário tem um `TOC.md` exclusivo, no qual é possível ordenar todas as páginas/tópicos, conforme necessário.
++ Cada guia do usuário tem um `TOC.md`, na qual é possível ordenar todas as páginas/tópicos, conforme necessário.
 
 
 ## Guia do usuário
 
-+ A introdução ao guia do usuário é chamada `overview.md`
++ A introdução ao guia do usuário é chamada de `overview.md`
 + Cada tópico no guia do usuário tem um diretório distinto.
-   + Se houver um tópico no guia chamado *Implementation*, o diretório correspondente será `/implementation`
+   + Se houver um tópico no guia chamado *Implementação*, o diretório correspondente é `/implementation`
 + Todos os ativos de imagem são armazenados em `/assets` na raiz do guia do usuário.
-   + Todas as imagens no diretório `/assets` serão localizadas.
-   + Nenhuma imagem no diretório `/no-localize` será localizada (há uma surpresa). Isso pode ser usado para garantir versões in loc que os ativos específicos não sejam reproduzidos desnecessariamente.
+   + Todas as imagens na `/assets` será localizado.
+   + Qualquer imagem na `/no-localize` diretório não será localizado (há uma surpresa!). Isso pode ser usado para garantir versões in loc que os ativos específicos não sejam reproduzidos desnecessariamente.
 
 ## Metadados do guia do usuário
 
@@ -52,7 +52,7 @@ Este é o repositório de documentação do Adobe Advertising Cloud, incluindo d
 
 Para obter mais instruções de publicação, guias de estilos, amostras e outros recursos, consulte:
 
-+ [Contribuição das diretrizes do autor  **especificamente para o Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Como contribuir com as diretrizes do autor **especificamente para o Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Criação colaborativa para todos os autores de Adobe](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Consulte também:
