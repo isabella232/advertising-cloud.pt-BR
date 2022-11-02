@@ -1,14 +1,14 @@
 ---
 title: Configurar testes A/B para anúncios Advertising Cloud DSP no Adobe Target
 description: Saiba como configurar um teste A/B no [!DNL Target] para seus anúncios DSP.
-source-git-commit: e4d0ae194da063f04fc153f0b55488bdd60f30db
+source-git-commit: 465f3c18a7d85d54bca5ff2f565694a9b211a7ed
 workflow-type: tm+mt
 source-wordcount: '1660'
 ht-degree: 0%
 
 ---
 
-# Configurar testes A/B para anúncios Advertising Cloud DSP no Adobe Target
+# Configurar testes A/B no Adobe Target para anúncios do Advertising Cloud DSP
 
 <!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
 

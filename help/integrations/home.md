@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 9d6177c90fb5507b4e1d281847e7ce3fe89ab9d3
+source-git-commit: 136933f5304edd8f16b8dcb649860f0fb07cf3fb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 1 de novembro de 2022 | Ajuda | Um novo documento explica como implementar o compartilhamento de sinal de click-through e view-through entre o Advertising Cloud DSP e o Adobe Target, configurar uma atividade de teste A/B no [!DNL Target] para seus anúncios DSP e como configurar o Adobe Analytics Analysis Workspace para exibir os dados de teste. | Consulte &quot;[Configurar testes A/B no Adobe Target para anúncios do Advertising Cloud DSP](/help/integrations/target/overview-ab-tests.md).&quot; |
 | 17 de agosto de 2022 | Ajuda | Um novo capítulo explica todas as maneiras pelas quais o Advertising Cloud é integrado ao Adobe Audience Manager. | Veja o capítulo sobre &quot;Integração com o Adobe Audience Manager&quot;, incluindo uma visão geral de &quot;[Integrações do Advertising Cloud com o Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27 de abril de 2021 | [!DNL Analytics for Advertising Cloud] | Saiba por que e como adicionar [!DNL Analytics for Advertising Cloud] macros para seu [!DNL Google Campaign Manager 360] tags de anúncio para enviar dados de clique ao Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19 de abril de 2021 | [!DNL Analytics for Advertising Cloud] | Saiba por que e como anexar macros ao seu [!DNL Flashtalking] tags de anúncio para enviar dados de clique ao Adobe Analytics. | Consulte &quot;[Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Flashtalking] Tags de anúncio](/help/integrations/analytics/macros-flashtalking.md).&quot; |
