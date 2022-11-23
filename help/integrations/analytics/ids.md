@@ -3,7 +3,7 @@ title: Advertising Cloud IDs usadas por [!DNL Analytics]
 description: Advertising Cloud IDs usadas por [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 525bc48104f928ccf9a3bb792b7e33c7e590cf4a
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -132,19 +132,19 @@ Exemplo de ID do AMO: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 IDs do AMO para [!DNL Search] siga um formato distinto para cada mecanismo de pesquisa. O formato de todos os mecanismos de pesquisa começa com o seguinte:
 
-```AL!{ef_userid}!{ef_sid}```
+```AL!{userid}!{sid}```
 
 em que:
 
 * `AL` é a ID do canal para o canal de pesquisa.
-* `{ef_userid}` é a ID de usuário numérica exclusiva que a Advertising Cloud atribui ao anunciante.
-* `{ef_sid}` é a ID numérica que o Advertising Cloud usa para o mecanismo de pesquisa especificado, como `3` para [!DNL Google Ads] ou `10` para [!DNL Microsoft Advertising].
+* `{userid}` é a ID de usuário numérica exclusiva que a Advertising Cloud atribui ao anunciante.
+* `{sid}` é a ID numérica que o Advertising Cloud usa para o mecanismo de pesquisa especificado, como `3` para [!DNL Google Ads] ou `10` para [!DNL Microsoft Advertising].
 
 Veja a seguir os formatos completos da ID do AMO para alguns mecanismos de pesquisa. Para formatos de ID do AMO para outros mecanismos de pesquisa, entre em contato com o [!DNL Adobe] equipe da conta.
 
 Formato de ID do AMO para [!DNL Google Ads]:
 
-```AL!{ef_userid}!{ef_sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
+```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
 em que:
 
@@ -156,7 +156,7 @@ em que:
 
 Formato de ID do AMO para [!DNL Microsoft Advertising]:
 
-```AL!{ef_userid}!{ef_sid}!{AdId}!{OrderItemId}```
+```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
 
 em que:
 
