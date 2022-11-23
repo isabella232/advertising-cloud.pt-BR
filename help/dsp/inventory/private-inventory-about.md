@@ -3,9 +3,9 @@ title: Sobre inventário privado
 description: Sobre inventário privado
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Todas as suas ofertas privadas com uma ID de negócios são financiadas e fatura
 
 Você pode usar IDs de negócios de uma das seguintes maneiras:
 
-* (Recurso opcional que requer ativação) da [!UICONTROL Deal ID Inbox], é possível revisar e aceitar rapidamente as ofertas de inventário privado acordadas, garantidas e não garantidas de editores nas seguintes plataformas do lado do suprimento (SSPs): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), e [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) do [!UICONTROL Deal ID inbox].
+* (Recurso opcional que requer ativação) da [!UICONTROL Deal ID Inbox], é possível revisar e aceitar rapidamente as ofertas de inventário privado garantidas e não garantidas de editores nas seguintes plataformas do lado do suprimento (SSPs): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), e [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) do [!UICONTROL Deal ID inbox].
 
    Para obter mais informações, consulte &quot;[Sobre o [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
@@ -36,7 +36,9 @@ Você pode usar cada negócio privado como meta de posicionamento para várias c
 
 No [!UICONTROL Inventory] > [!UICONTROL Deals] você pode criar configurações de negócios privados. Você também pode editar algumas configurações de negócios; listar os posicionamentos e anúncios e anexar outros posicionamentos e anúncios a um negócio privado; editar os anunciantes e as contas que podem acessar um negócio privado; visualizar um relatório de desempenho para um negócio; exibir insights de leilão de uma transação privada ou arquivar ou desarquivar uma transação.<!-- ; or edit the attribute tags for a deal -->
 
-Você pode personalizar ainda mais como os dados de negócios existentes são apresentados aplicando filtros, personalizando as colunas visíveis e salvando, opcionalmente, visualizações personalizadas, classificando as colunas e exibindo os dados como gráficos.
+A coluna &quot;Saúde do contrato&quot; indica o status de integridade de cada negócio privado: &quot;Sucesso&quot;, &quot;Aviso&quot;, &quot;Crítico&quot; ou &quot;Indisponível&quot;. Você pode clicar no status para ver mais detalhes, incluindo por que um negócio não está funcionando ou gastando como esperado e as etapas para solucionar possíveis problemas.
+
+Você pode personalizar como os dados de negócios existentes são apresentados aplicando filtros, personalizando as colunas visíveis e salvando, opcionalmente, visualizações personalizadas, classificando as colunas e exibindo os dados como gráficos.
 
 >[!MORELIKETHIS]
 >

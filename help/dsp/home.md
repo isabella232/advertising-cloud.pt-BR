@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 9e1def0c5998ac35dbb2b466ed6ebc31f83fd026
+source-git-commit: b96bb5be747e59beb7bb626152dbab7aa49cb88e
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 23 de novembro de 2022 | Contratos | A exibição Inventário > Vendas agora inclui uma coluna &quot;Integridade do negócio&quot;, que indica o status de integridade de cada negócio privado: &quot;Sucesso&quot;, &quot;Aviso&quot;, &quot;Crítico&quot; ou &quot;Indisponível&quot;. Você pode clicar no status para ver mais detalhes, incluindo por que um negócio não está funcionando ou gastando como esperado e as etapas para solucionar possíveis problemas. | — |
 | 27 de outubro de 2022 | Campanhas | Um log de alterações, que mostra as alterações feitas durante o intervalo de datas selecionado, agora está disponível para cada pacote e posicionamento. | Consulte &quot;[Exibir o log de alterações de um pacote](/help/dsp/campaign-management/packages/package-change-log.md)&quot; e &quot;[Exibir o log de alterações para uma disposição](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Agora você pode alterar o [!UICONTROL Intraday Pacing] configuração para várias disposições ao mesmo tempo. | Consulte &quot;[Editar uma disposição](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; e &quot;[Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 |  |  | Um &quot;[!UICONTROL Intraday Pacing]&quot; está disponível em planilhas de QA do Excel. | Consulte &quot;[Colunas em planilhas baixadas/carregadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |
