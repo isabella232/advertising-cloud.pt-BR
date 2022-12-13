@@ -3,9 +3,9 @@ title: Sobre o Gerenciamento de anúncios no Advertising Cloud DSP
 description: Saiba mais sobre o gerenciamento de anúncios.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,15 @@ Todos os tipos de anúncios a seguir estão disponíveis no Advertising Cloud DS
 
 * **Exibir anúncios (somente de terceiros)**: Anúncios de exibição são imagens animadas ou estáticas exibidas em navegadores da Web ou em aplicativos. Clicar na unidade de anúncio leva o usuário para um site ou microsite com marca. A exibição é mais bem usada para impulsionar CPMs eficientes, aumentar a associação de mensagens, adicionar pontos de contato adicionais de marca ou produto e empurrar os usuários para baixo no funil de compra. Inclusão dos principais indicadores de desempenho para exibição [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions]e [!UICONTROL Cost per Conversion]. DSP suporta uma grande variedade de tamanhos de anúncio de banner de exibição.
 
-* **Anúncios do Mobile (somente de terceiros)**: Os anúncios móveis podem estar em vídeo precedente (VAST, MRAID) ou em formato de exibição padrão. O vídeo antes da exibição do Mobile pode ser de reprodução automática ou de clique para reprodução e é melhor usado para alcançar os visualizadores em todas as telas. O monitor padrão Mobile é uma imagem estática exibida em navegadores da Web móveis ou em aplicativos e é melhor usado para complementar as compras de vídeo digital, a associação de mensagens de unidade e adicionar outras marcas ou pontos de contato do produto. Os anúncios móveis também podem funcionar como aquisições em tela inteira ou como intersticiais móveis, que são anúncios móveis de tela inteira e de alto impacto que são mais usados para desenvolver o conhecimento da marca para públicos móveis e gerar conversões.
+* **Anúncios móveis (somente de terceiros)**: Os anúncios móveis podem estar em vídeo precedente (VAST, MRAID) ou em formato de exibição padrão. O vídeo móvel antes da exibição pode ser reprodução automática ou clique para reproduzir e é melhor usado para alcançar os visualizadores em todas as telas. O monitor padrão móvel é uma imagem estática exibida em navegadores da Web móveis ou em aplicativos e é melhor usado para complementar as compras de vídeo digital, a associação de mensagens de unidade e adicionar outras marcas ou pontos de contato do produto. Os anúncios móveis também podem funcionar como aquisições em tela inteira ou como intersticiais móveis, que são anúncios móveis de tela inteira e de alto impacto que são mais usados para desenvolver o conhecimento da marca para públicos móveis e gerar conversões.
 
 * **Anúncios de exibição nativos (somente primários)**: Anúncios nativos são suportados no formato de exibição padrão. Os anúncios nativos incluem um título e/ou título, descrição, logotipo e imagem. Os elementos do anúncio são combinados e renderizados para corresponder ao estilo de página do editor, de modo que o anúncio seja combinado com o conteúdo orgânico do editor e gere maior engajamento. O nativo é melhor usado para conscientização da marca e para aumentar a visualização do público-alvo e as taxas de engajamento com a publicidade amigável para o visualizador. Os principais indicadores de desempenho incluem [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions]e [!UICONTROL Cost Per Conversion].
 
 * **Anúncios precedentes (somente de terceiros)**: Os anúncios precedentes (VAST e VPAID) são mostrados antes do conteúdo de vídeo premium e proporcionam uma experiência imersiva e envolvente do visualizador. O vídeo precedente pode ser interativo, conter recursos de mídia avançada e incluir sobreposições, sobreposições e chamadas de ação. Os principais indicadores de desempenho para anúncios de vídeo precedentes incluem [!UICONTROL Video Completion Rate] e [!UICONTROL Viewability Rate].
 
 * **Anúncios de TV conectados (somente de terceiros)**: Os anúncios de TV conectados são exibidos antes e durante o conteúdo de vídeo de TV premium. Todo o inventário da TV conectada é executado em dispositivos de TV, o que significa que o vídeo é reproduzido automaticamente em um ambiente de tela cheia e dormente que os visualizadores não podem ignorar. A TV conectada é o formato de vídeo digital mais próximo dos comerciais da TV. Inclusão dos principais indicadores de desempenho para TV conectada [!UICONTROL Completion Rate].
+
+* **Anúncios de vídeo universais (somente de terceiros)**: Anúncios de vídeo universais combinam todos os recursos de TV conectada, anúncios precedentes e anúncios precedentes móveis (VAST e VPAID) em um único e são mostrados antes e durante o conteúdo de vídeo. O anúncio de vídeo universal pode ser usado no direcionamento de inventário de vídeo de ambientes de desktop, móvel e de TV conectada, evitando a necessidade de criar vários anúncios de vídeo. Os principais indicadores de desempenho do vídeo universal incluem [!UICONTROL Completion Rate] e [!UICONTROL Viewability Rate].
 
 ## Aprovações de anúncio do Advertising Cloud DSP
 
