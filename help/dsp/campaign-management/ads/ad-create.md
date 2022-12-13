@@ -3,9 +3,9 @@ title: Criar um único anúncio
 description: Saiba como criar um único anúncio de terceiros.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: bf5cb724c51e4a91add7911157bd74c90314d07c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Para criar vários anúncios de terceiros de cada vez, consulte [Criar vários a
 
 1. Acima da tabela de dados, clique em **[!UICONTROL Create]**. No [!UICONTROL Ad Types] do menu, clique no botão [tipo de anúncio](ad-about.md#ad-types).
 
-1. Especifique as configurações de anúncio para [anúncios de áudio](ad-settings-audio.md), [TV conectada](ad-settings-connected-tv.md), [anúncios de exibição](ad-settings-display.md), [anúncios móveis](ad-settings-mobile.md), [anúncios nativos](ad-settings-native.md)ou [anúncios precedentes](ad-settings-pre-roll.md):
+1. Especifique as configurações de anúncio para [anúncios de áudio](ad-settings-audio.md), [TV conectada](ad-settings-connected-tv.md), [anúncios de exibição](ad-settings-display.md), [anúncios móveis](ad-settings-mobile.md), [anúncios nativos](ad-settings-native.md), [anúncios precedentes](ad-settings-pre-roll.md) ou [anúncios de vídeo universais](ad-settings-universal-video.md):
 
    1. No [!UICONTROL Insert Ad Tag] , insira as informações sobre o anúncio de um parceiro de veiculação de anúncios de terceiros certificado e clique em **[!UICONTROL Go]**.
 
