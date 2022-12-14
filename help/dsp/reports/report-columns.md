@@ -3,9 +3,9 @@ title: Colunas de Relatório Disponíveis
 description: Consulte descrições de colunas disponíveis em relatórios personalizados.
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 966b4b4ca42b66880e1b7cf29005eeb256887149
+source-git-commit: 01668542af9ad3dda8c8284845bb3ab4242c75f8
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: '1677'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,9 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Pixel] | [!UICONTROL Conversion Name] | (Obsoleto) O nome da conversão atribuído ao herdado [!DNL TubeMogul] eventos de conversão. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement ID] | O identificador exclusivo para a disposição no Advertising Cloud. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Name] | O nome da disposição, conforme atribuído pelo usuário. |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Budget] | O orçamento de colocação. |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Max Bid] | O lance máximo da disposição. |
+| [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Device Environment] | Os ambientes de dispositivo direcionados pela disposição: (*[!UICONTROL Desktop]*, *[!UICONTROL Mobile]* e/ou *[!UICONTROL Connected TV])*. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement End Date] | A data de término da disposição. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Start Date] | A data de início da disposição. |
 | [!UICONTROL Dimension] | [!UICONTROL Placement] | [!UICONTROL Placement Tags] | A tag de posicionamento usada como um identificador personalizado para a disposição. |

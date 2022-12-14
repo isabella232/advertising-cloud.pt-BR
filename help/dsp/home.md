@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: eb33bbadcae751e6bfc492b5ecddcd7569c7a336
+source-git-commit: 678125f88712043fc589aac752e1686be41f2f55
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '1060'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Os seguintes recursos são novos ou alterados recentemente.
 
 | Data | Recurso | Descrição | Para obter mais informações |
 | ---- | ------- | ----------- | -------------------- |
+| 14 de dezembro de 2022 | Disposições, Anúncios | Novo &quot;[!UICONTROL Universal Video]&quot;disposições e anúncios permitem direcionar vários ambientes de dispositivo para o inventário VPAID e VAST usando uma única disposição de vídeo.<br><br>As disposições de vídeo universal incluem uma configuração &quot;Ambiente do dispositivo&quot; ([!UICONTROL Desktop], [!UICONTROL Mobile]e [!UICONTROL Connected TV]). Anúncios de vídeo universais podem ser vinculados somente a posicionamentos de vídeo universais.<br><br>Os relatórios personalizados incluem a nova dimensão de nível de posicionamento &quot;Ambiente do dispositivo&quot;. | Consulte &quot;[Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md)&quot; e &quot;[Colunas de Relatório Disponíveis](/help/dsp/reports/report-columns.md).&quot;<br><br>Consulte também &quot;[Configurações universais de anúncio de vídeo](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; e &quot;[Criar uma publicidade](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23 de novembro de 2022 | Contratos | O [!UICONTROL Inventory] > [!UICONTROL Deals] agora inclui um &quot;[!UICONTROL Deal Health]&quot; coluna, que indica o status de integridade de cada negócio privado: &quot;[!UICONTROL Success],&quot;[!UICONTROL Warning],&quot;[!UICONTROL Critical],&quot; ou &quot;[!UICONTROL Unavailable].&quot; Você pode clicar no status para ver mais detalhes, incluindo por que um negócio não está funcionando ou gastando como esperado e as etapas para solucionar possíveis problemas. | — |
 | 27 de outubro de 2022 | [!UICONTROL Campaigns] | Um log de alterações, que mostra as alterações feitas durante o intervalo de datas selecionado, agora está disponível para cada pacote e posicionamento. | Consulte &quot;[Exibir o log de alterações de um pacote](/help/dsp/campaign-management/packages/package-change-log.md)&quot; e &quot;[Exibir o log de alterações para uma disposição](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | Agora você pode alterar o [!UICONTROL Intraday Pacing] configuração para várias disposições ao mesmo tempo. | Consulte &quot;[Editar uma disposição](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; e &quot;[Configurações de posicionamento](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
