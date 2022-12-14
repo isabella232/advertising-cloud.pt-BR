@@ -3,9 +3,9 @@ title: Criar uma disposição
 description: Saiba como criar uma disposição.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Clique em **[!UICONTROL Create a New Ad].**
 
-      1. Especifique as configurações de anúncio para [anúncios de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md), [TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [anúncios de exibição](/help/dsp/campaign-management/ads/ad-settings-display.md), [anúncios móveis](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [anúncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md)ou [anúncios precedentes](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md).
+      1. Especifique as configurações de anúncio para [anúncios de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md), [TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [anúncios de exibição](/help/dsp/campaign-management/ads/ad-settings-display.md), [anúncios móveis](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [anúncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md), [anúncios precedentes](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)ou [anúncios de vídeo universais](ad-settings-universal-video.md).
 
       1. Clique em **[!UICONTROL Save & Submit for Review]**.
 
@@ -87,16 +87,25 @@ ht-degree: 1%
    * Para anexar anúncios existentes na campanha:
 
       1. Clique em **[!UICONTROL Select an Ad]**.
+
       1. Siga um destes procedimentos:
+
          * Para adicionar uma publicidade de cada vez:
+
             1. Ao lado do nome da publicidade, clique em **[!UICONTROL Select].**
+
             1. (Opcional) Para cada publicidade adicional que deseja anexar, clique em **[!UICONTROL Attach Another Ad]** e repita o processo.
          * Para adicionar até 20 anúncios por vez:
+
             1. Marque a caixa de seleção acima da lista de anúncios.
+
             1. Marque a caixa de seleção ao lado de cada publicidade a ser adicionada.
+
             1. Clique em **[!UICONTROL Attach]**.
+
             1. Ao lado do nome da publicidade, clique em **[!UICONTROL Select]**.
       1. (Opcional) Para substituir o período de voo padrão e a rotação de anúncios para anúncios específicos na disposição:
+
          1. Clique em **[!UICONTROL Custom Schedule Ads]**.
 
          1. Siga um destes procedimentos:
@@ -113,6 +122,8 @@ ht-degree: 1%
          1. No canto superior direito, clique em **[!UICONTROL Continue]**.
 
          1. Revise os detalhes do voo e clique em **[!UICONTROL Save & Finish]**.
+
+
 
 
 
