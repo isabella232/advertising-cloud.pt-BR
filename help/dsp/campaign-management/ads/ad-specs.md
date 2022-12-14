@@ -3,16 +3,16 @@ title: Especificações do anúncio
 description: Consulte as especificações gerais e específicas do editor.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: b867ace878a0c1e6391476e267c9161e5ecea921
+source-git-commit: b25521d35134ca453c889fc1a71e4c81f982a77b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
 
 # Especificações para tipos de anúncios suportados
 
-## Anúncios de vídeo (pré-rolagem e CTV)
+## Anúncios de vídeo (antes da exibição, CTV e vídeo universal)
 
 ### Telas suportadas
 
