@@ -3,7 +3,7 @@ title: Criar uma disposição
 description: Saiba como criar uma disposição.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
+source-git-commit: 86f8df0c438a68dabba8f5b2abeb106d3320d7ef
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 1%
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Clique em **[!UICONTROL Create a New Ad].**
 
-      1. Especifique as configurações de anúncio para [anúncios de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md), [TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [anúncios de exibição](/help/dsp/campaign-management/ads/ad-settings-display.md), [anúncios móveis](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [anúncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md), [anúncios precedentes](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)ou [anúncios de vídeo universais](ad-settings-universal-video.md).
+      1. Especifique as configurações de anúncio para [anúncios de áudio](/help/dsp/campaign-management/ads/ad-settings-audio.md), [TV conectada](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [anúncios de exibição](/help/dsp/campaign-management/ads/ad-settings-display.md), [anúncios móveis](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [anúncios nativos](/help/dsp/campaign-management/ads/ad-settings-native.md), [anúncios precedentes](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)ou [anúncios de vídeo universais](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
       1. Clique em **[!UICONTROL Save & Submit for Review]**.
 
