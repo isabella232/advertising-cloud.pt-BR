@@ -4,22 +4,22 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Suporte da Adobe Advertising Cloud para privacidade do consumidor
-user-guide-description: Saiba mais sobre os controles de segurança e privacidade fornecidos pela Advertising Cloud para ajudar os clientes anunciantes a cumprir com as leis de privacidade do consumidor.
+user-guide-title: Suporte da Adobe Advertising para privacidade do consumidor
+user-guide-description: Saiba mais sobre os controles de segurança e privacidade fornecidos pela Adobe Advertising para ajudar os clientes anunciantes a cumprir as leis de privacidade do consumidor.
 breadcrumb-title: Suporte para a privacidade do consumidor
 index: true
-source-git-commit: 2866eb13b5ddcd485e6817fb2ebe6ea3cbb43b5c
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 56%
+source-wordcount: '64'
+ht-degree: 25%
 
 ---
 
 
-# Suporte da Advertising Cloud para privacidade do consumidor {#privacy}
+# Suporte da Adobe Advertising para privacidade do consumidor {#privacy}
 
-+ [Sobre o suporte da Advertising Cloud para a privacidade do consumidor](/help/privacy/home.md)
-+ [Suporte para o GDPR](/help/privacy/ad-cloud-gdpr.md)
++ [Sobre o suporte de publicidade do Adobe para a privacidade do consumidor](/help/privacy/home.md)
++ [Suporte para o GDPR](/help/privacy/advertising-gdpr.md)
 + Suporte para CCPA {#ccpa}
-   + [Suporte para CCPA: Acesso e exclusão de dados do consumidor](/help/privacy/ad-cloud-ccpa-access-delete.md)
-   + [(Somente DSP) Suporte para CCPA: Cancelamento de venda do consumidor](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
+   + [Suporte para CCPA: Acesso e exclusão de dados do consumidor](/help/privacy/ccpa-access-delete.md)
+   + [(Somente DSP) Suporte para CCPA: Cancelamento de venda do consumidor](/help/privacy/ccpa-opt-out-of-sale.md)

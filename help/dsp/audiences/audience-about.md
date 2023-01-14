@@ -1,18 +1,18 @@
 ---
-title: Sobre o Gerenciamento de público-alvo no Advertising Cloud DSP
+title: Sobre o Gerenciamento de público-alvo em DSP de publicidade
 description: Saiba mais sobre os recursos de gerenciamento de público-alvo.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
 
-# Sobre o Gerenciamento de público-alvo no Advertising Cloud DSP
+# Sobre o Gerenciamento de público-alvo em DSP de publicidade
 
-No Advertising Cloud DSP, é possível criar e gerenciar segmentos de público-alvo e conjuntos de públicos-alvo, que você pode usar como alvos para suas disposições:
+No DSP, é possível criar e gerenciar segmentos de público-alvo e conjuntos de públicos-alvo, que você pode usar como alvos para suas disposições:
 
 * Você pode coletar seus próprios dados de público-alvo primários criando e implementando segmentos. Posteriormente, é possível redirecionar os usuários no segmento com anúncios ou impedir que os usuários nele recebam anúncios. Você pode criar os seguintes tipos de segmentos:
 
@@ -20,7 +20,7 @@ No Advertising Cloud DSP, é possível criar e gerenciar segmentos de público-a
 
    * [Segmentos de cancelamento de venda do CCPA](/help/dsp/audiences/ccpa-opt-out-segment-create.md) para rastrear as IDs de usuários das solicitações de cancelamento da venda do consumidor no seu site, de acordo com a California Consumer Privacy Act (CCPA). É possível recuperar relatórios mensais das IDs de usuário a partir de solicitações de recusa de venda.
 
-      Para obter mais informações sobre o suporte do Advertising Cloud para solicitações de cancelamento de venda da CCPA, consulte [Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Para obter mais informações sobre o suporte de publicidade Adobe para solicitações de cancelamento de venda do CCPA, consulte [Suporte de publicidade Adobe para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](/help/privacy/ccpa-opt-out-of-sale.md).
 
 * Você pode criar uma biblioteca de público-alvo de [públicos-alvo reutilizáveis](/help/dsp/audiences/reusable-audience-create.md). Os públicos salvos são compostos de qualquer um dos segmentos de público-alvo disponíveis e de qualquer um dos outros públicos salvos. Todas as alterações feitas em um público-alvo salvo são aplicadas automaticamente a todas as disposições que direcionam ou excluem o público-alvo e a todos os outros públicos-alvo que incluem o público-alvo salvo.
 
@@ -60,7 +60,7 @@ Você pode direcionar suas disposições para todos os tipos de público-alvo a 
 
    Segmentos de terceiros incorrem em tarifas adicionais, que são indicadas ao lado de cada nome de segmento.
 
-* (Anunciantes com a Adobe Experience Platform e [!DNL Real-Time CDP], Adobe Audience Manager ou Adobe Analytics que usam somente as tags de conversão do JavaScript da Advertising Cloud) Todos os segmentos de público-alvo de primeiro, segundo ou terceiro disponíveis criados no [!DNL Real-Time CDP], criado no Audience Manager ou publicado no Adobe Experience Cloud a partir do Audience Manager ou [!DNL Analytics].
+* (Anunciantes com a Adobe Experience Platform e [!DNL Real-Time CDP], Adobe Audience Manager ou Adobe Analytics que usam somente as tags de conversão JavaScript de Adobe Advertising) Todos os segmentos de público-alvo de primeiro, segundo ou terceiro disponíveis criados no [!DNL Real-Time CDP], criado no Audience Manager ou publicado no Adobe Experience Cloud a partir do Audience Manager ou [!DNL Analytics].
 
    A precificação para o uso dos segmentos é pré-negociada e não é visível no DSP.
 

@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Manual da Advertising Cloud DSP
-user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising Cloud DSP.
+user-guide-title: Guia de DSP de publicidade
+user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: e902deb79c42e8fb13697439198259004a957525
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 6%
+source-wordcount: '948'
+ht-degree: 5%
 
 ---
 
 
-# Manual da Advertising Cloud DSP {#dsp}
+# Guia de DSP de publicidade {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -28,7 +28,7 @@ ht-degree: 6%
 
 + [Novidades](/help/dsp/home.md)
 + Introdução {#introduction}
-   + [Introdução ao Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
+   + [Introdução ao Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
    + Principais recursos {#features}
       + [Otimização](/help/dsp/introduction/features/optimization.md)
       + [Segurança da marca e qualidade da mídia](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -36,10 +36,10 @@ ht-degree: 6%
    + [Financiamento da Conta](/help/dsp/introduction/billing/account-funding.md)
    + [Moedas suportadas](/help/dsp/currency.md)
    + Suporte para a privacidade do consumidor {#privacy}
-      + [Suporte ao Regulamento Geral sobre a Proteção de Dados](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
+      + [Suporte ao Regulamento Geral sobre a Proteção de Dados](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Suporte para CCPA {#ccpa}
-         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
-         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
+         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Políticas e diretrizes {#policies}
       + [Política de requisitos de anúncios](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Diretrizes aceitáveis do segmento de integridade](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
@@ -117,7 +117,7 @@ ht-degree: 6%
       + [Baixar configurações de posicionamento para uma campanha](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Fazer upload de configurações de disposição para uma campanha](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Colunas em planilhas baixadas/carregadas](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
-   + [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+   + [Macros DSP](/help/dsp/campaign-management/macros.md)
    + [Atalhos de teclado](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Perguntas frequentes sobre o Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Otimização {#optimization}

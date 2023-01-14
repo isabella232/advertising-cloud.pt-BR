@@ -3,9 +3,9 @@ title: Recuperar relatórios de cancelamento da venda do consumidor
 description: Saiba como recuperar relatórios de IDs enviadas para solicitações de recusa de venda.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Você pode recuperar relatórios mensais de IDs que os clientes enviaram para so
 
 >[!NOTE]
 >
->Como opção, você pode recuperar relatórios de cancelamento da venda do consumidor usando o Advertising Cloud [!DNL Trafficking API]. Para obter instruções, consulte a documentação do [!DNL Trafficking API]. Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] equipe da conta.
+>Opcionalmente, é possível recuperar relatórios de cancelamento da venda do consumidor usando o DSP [!DNL Trafficking API]. Para obter instruções, consulte a documentação do [!DNL Trafficking API]. Se sua organização não usar a variável [!DNL Trafficking API] mas está interessado em mais informações, entre em contato com seu [!DNL Adobe] equipe da conta.
 
 1. No menu principal, clique em **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. Acima da lista de segmentos, clique em **[!UICONTROL Access CCPA Reports]**.
@@ -24,7 +24,7 @@ Você pode recuperar relatórios mensais de IDs que os clientes enviaram para so
 
 >[!MORELIKETHIS]
 >
->* [Suporte da Adobe Advertising Cloud para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [Suporte de publicidade Adobe para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
 >* [Sobre [!UICONTROL CCPA Opt-out-of-Sale] Segmentos e relatórios](ccpa-opt-out-about.md)
 >* [Criar e implementar um [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Sobre o Gerenciamento de público-alvo](audience-about.md)
