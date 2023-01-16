@@ -3,9 +3,9 @@ title: Configurações de anúncio de áudio
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios de áudio.
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Esse campo pode ou não ser exibido, dependendo das permissões da conta.
 
 **[!UICONTROL VAST Tag]:** (Anúncios usando somente tags VAST) Um URL para uma fonte de anúncios de terceiros. Certifique-se de que a tag VAST inclua apenas arquivos de mídia de áudio.
 
-**[!UICONTROL Final VAST Tag]:** (Anúncios usando somente tags VAST) O URL da fonte de anúncios de terceiros com o [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
+**[!UICONTROL Final VAST Tag]:** (Anúncios usando somente tags VAST) O URL da fonte de anúncios de terceiros com o [Macros de rastreamento de DSP de publicidade](/help/dsp/campaign-management/macros.md) , se aplicável.
 
 **[!UICONTROL Select Rate]:** (Usuários com permissão somente) Uma taxa pré-negociada cobrada por Adobe, ou uma das taxas negociadas e faturadas pelo fornecedor. Para adicionar uma taxa, entre em contato com seu [!DNL Adobe] equipe da conta.
 
@@ -68,5 +68,5 @@ As configurações a seguir se aplicam a cada pixel criado ou editado.
 >* [Criar um único anúncio](ad-create.md)
 >* [Listar as disposições associadas a um anúncio](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Especificações do anúncio](ad-specs.md)
->* [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [Macros DSP](/help/dsp/campaign-management/macros.md)
 

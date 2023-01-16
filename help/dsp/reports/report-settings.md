@@ -3,9 +3,9 @@ title: Configurações personalizadas de relatório
 description: Consulte descrições das configurações personalizadas do relatório.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Para aplicar um ou mais filtros, faça o seguinte:
 
 **[!UICONTROL Report Headers]:** Se *[!UICONTROL Include]* ou *[!UICONTROL Do Not Include]* cabeçalhos da coluna.
 
-**[!UICONTROL Attribution Rule Settings]:** (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]e [!UICONTROL Site] relatórios com [!UICONTROL Conversion Metrics] ou [!UICONTROL Custom Goals] colunas; publicitários com rastreamento de conversão do Advertising Cloud somente) No relatório, como atribuir dados de conversão em uma série de eventos que levam a uma conversão. Você pode escolher mais de uma regra se quiser comparar diferenças entre elas.
+**[!UICONTROL Attribution Rule Settings]:** (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]e [!UICONTROL Site] relatórios com [!UICONTROL Conversion Metrics] ou [!UICONTROL Custom Goals] colunas; publicitários com rastreamento de conversão de Adobe Advertising somente) No relatório, como atribuir dados de conversão em uma série de eventos que levam a uma conversão. Você pode escolher mais de uma regra se quiser comparar diferenças entre elas.
 
 >[!NOTE]
 >
->Os caminhos de conversão incluem impressões e cliques nas janelas de retrospectiva de impressão ou clique do anunciante, que são configuradas no Advertising Cloud Search. Os cliques recebem preferência por impressões durante a atribuição da conversão. Todos os cliques em um caminho de conversão recebem crédito total com base na regra de atribuição. As impressões recebem crédito somente quando nenhum clique é rastreado no caminho de conversão.
+>Os caminhos de conversão incluem impressões e cliques nas janelas de pesquisa de impressões ou cliques do anunciante, que estão configuradas em [!DNL Adobe Advertising Search]. Os cliques recebem preferência por impressões durante a atribuição da conversão. Todos os cliques em um caminho de conversão recebem crédito total com base na regra de atribuição. As impressões recebem crédito somente quando nenhum clique é rastreado no caminho de conversão.
 
 * *[!UICONTROL Last Event]:* Atribui conversões ao último clique ou impressão no caminho de conversão.
 
@@ -75,11 +75,11 @@ Para aplicar um ou mais filtros, faça o seguinte:
 
 * *[!UICONTROL U-shaped]:* Atribui a conversão a todos os eventos no caminho de conversão, mas atribui mais peso ao primeiro e ao último eventos, com sucessivamente menos peso aos eventos no meio do caminho de conversão.
 
-* *[!UICONTROL Display Only]:*  Atribui conversões ao último clique DSP ou impressão no caminho de conversão. Isso inclui vídeo e anúncios de TV conectados e exclui cliques em anúncios do Advertising Cloud Search.
+* *[!UICONTROL Display Only]:*  Atribui conversões ao último clique DSP ou impressão no caminho de conversão. Isso inclui vídeo e anúncios de TV conectados e exclui cliques em [!DNL Adobe Advertising Search] anúncios.
 
 * *[!UICONTROL Social Only]:* Obsoleto
 
-<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising Cloud](). -->
+<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
 **[!UICONTROL Paths as Columns]:**  (Todos [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment]e [!UICONTROL Site] relatórios com [!UICONTROL Conversion Metrics] ou [!UICONTROL Custom Goals] colunas) Quais tipos de conversões relatar quando eventos anteriores ocorreram no mesmo dispositivo. É possível incluir até três tipos. Para cada tipo selecionado, uma coluna separada é incluída para cada métrica de conversão e é anexada com o sufixo especificado ([!UICONTROL (tl)], [!UICONTROL (ct)]ou [!UICONTROL (vt)]):
 

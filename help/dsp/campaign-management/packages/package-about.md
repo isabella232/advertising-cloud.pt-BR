@@ -1,16 +1,16 @@
 ---
-title: Sobre o gerenciamento de pacotes no Advertising Cloud DSP
+title: Sobre o gerenciamento de pacotes no DSP de publicidade
 description: Saiba mais sobre o gerenciamento de pacotes.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Sobre o gerenciamento de pacotes no Advertising Cloud DSP
+# Sobre o gerenciamento de pacotes no DSP de publicidade
 
 Use pacotes para agrupar disposições para entrega em um orçamento definido, objetivo de desempenho e estratégia de ritmo personalizado. DSP otimiza pacotes ao transferir orçamentos para as disposições com melhor desempenho no pacote. Você pode organizar os pacotes por formato de disposição, tipo de inventário, provedor de dados, persona ou outras características distinguíveis. Os pacotes são opcionais.
 

@@ -3,9 +3,9 @@ title: Otimização
 description: Saiba mais sobre recursos de otimização.
 feature: DSP Introduction, DSP Optimization
 exl-id: 75c144d5-2790-415d-ade9-de2803ff9054
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Quando você configura uma campanha programática, um dos itens principais a serem considerados é a meta da campanha e como você a traduzirá em KPIs mensuráveis. Essa tradução definirá como você configura as metas de otimização da campanha.
 
-O Advertising Cloud DSP é otimizado para as métricas mais importantes em duas fases. Primeiro, ele muda o gasto para disposições ou táticas que estão tendo o melhor desempenho, de acordo com a meta de otimização do pacote. Segundo, ele ajusta as licitações de leilão em tempo real para refletir o valor econômico em tempo real que equilibra a) a necessidade de fornecer seu orçamento totalmente com b) os KPIs escolhidos. Juntas, essas fases de otimização garantem que seu orçamento seja gasto com eficiência para atingir suas metas de campanha.
+A DSP de publicidade é otimizada para as métricas mais importantes em duas fases. Primeiro, ele muda o gasto para disposições ou táticas que estão tendo o melhor desempenho, de acordo com a meta de otimização do pacote. Segundo, ele ajusta as licitações de leilão em tempo real para refletir o valor econômico em tempo real que equilibra a) a necessidade de fornecer seu orçamento totalmente com b) os KPIs escolhidos. Juntas, essas fases de otimização garantem que seu orçamento seja gasto com eficiência para atingir suas metas de campanha.
 
-Para cada uma das disposições e pacotes, você pode escolher uma meta de otimização. As metas de otimização disponíveis incluem opções predefinidas, como &quot;[!UICONTROL Lowest Cost per Click]&quot; e metas personalizadas que você configurou como objetivos no Advertising Cloud Search.
+Para cada uma das disposições e pacotes, você pode escolher uma meta de otimização. As metas de otimização disponíveis incluem opções predefinidas, como &quot;[!UICONTROL Lowest Cost per Click]&quot; e metas personalizadas que você configurou como objetivos em [!DNL Adobe Advertising Search].
 
 >[!MORELIKETHIS]
 >

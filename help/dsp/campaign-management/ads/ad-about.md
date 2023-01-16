@@ -1,20 +1,20 @@
 ---
-title: Sobre o Gerenciamento de anúncios no Advertising Cloud DSP
+title: Sobre o gerenciamento de anúncios no DSP de publicidade
 description: Saiba mais sobre o gerenciamento de anúncios.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
 
-# Sobre o Gerenciamento de anúncios no Advertising Cloud DSP
+# Sobre o gerenciamento de anúncios no DSP de publicidade
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-O Advertising Cloud DSP suporta a entrega de anúncios por meio de tags de veiculação de anúncios de terceiros (como Google, Flashtalk ou Sizmek) para vários tipos de anúncios e o upload direto de ativos para anúncios de exibição nativos. Você pode fazer upload de tags de terceiros individualmente ou em massa. Os uploads em massa usam folhas de tags de parceiros ou um modelo de tag em massa.
+DSP suporta a entrega de anúncios por meio de tags de veiculação de anúncios de terceiros (como Google, Flashtalk ou Sizmek) para vários tipos de anúncios e o upload direto de ativos para anúncios de exibição nativos. Você pode fazer upload de tags de terceiros individualmente ou em massa. Os uploads em massa usam folhas de tags de parceiros ou um modelo de tag em massa.
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -23,7 +23,7 @@ Depois que seus anúncios forem configurados, será necessário anexar cada anú
 
 ## Tipos de anúncio disponíveis {#ad-types}
 
-Todos os tipos de anúncios a seguir estão disponíveis no Advertising Cloud DSP. Para obter as especificações completas para cada tipo de anúncio, consulte o [Especificações do anúncio](ad-specs.md).
+Todos os tipos de anúncios a seguir estão disponíveis em DSP. Para obter as especificações completas para cada tipo de anúncio, consulte o [Especificações do anúncio](ad-specs.md).
 
 * **Anúncios de áudio (somente de terceiros)**: Os anúncios de áudio são reproduzidos entre conteúdo em sites de editores digitais e podem ser executados de forma independente como arquivos de áudio ou junto a banners associados. O áudio é o melhor uso para conscientizar a marca e se envolver com públicos móveis. Os principais indicadores de desempenho para áudio incluem [!UICONTROL Completion Rate] e [!UICONTROL Cost per Completion].
 
@@ -39,9 +39,9 @@ Todos os tipos de anúncios a seguir estão disponíveis no Advertising Cloud DS
 
 * **Anúncios de vídeo universais (somente de terceiros)**: Anúncios de vídeo universais combinam todos os recursos de TV conectada, anúncios precedentes e anúncios precedentes móveis (VAST e VPAID) em um único e são mostrados antes e durante o conteúdo de vídeo. O anúncio de vídeo universal pode ser usado no direcionamento de inventário de vídeo de ambientes de desktop, móvel e de TV conectada, evitando a necessidade de criar vários anúncios de vídeo. Os principais indicadores de desempenho do vídeo universal incluem [!UICONTROL Completion Rate] e [!UICONTROL Viewability Rate].
 
-## Aprovações de anúncio do Advertising Cloud DSP
+## Aprovações de anúncio de DSP
 
-Quando você cria uma publicidade, a Advertising Cloud DSP a analisa para categorias confidenciais, clica na funcionalidade do URL e visualiza a renderização.
+Ao criar uma publicidade, o DSP a analisa para categorias confidenciais, clique na funcionalidade do URL e visualize a renderização.
 
 Inicialmente, você verá um ponto vermelho no [!UICONTROL Status] coluna. O processo de revisão normalmente leva de 24 a 48 horas. Um anúncio quebrado, no entanto, pode ter um status pendente por mais de 48 horas, portanto, você tem tempo para corrigir erros antes que o anúncio seja rejeitado. Os anúncios rejeitados incluem um motivo para a rejeição.
 

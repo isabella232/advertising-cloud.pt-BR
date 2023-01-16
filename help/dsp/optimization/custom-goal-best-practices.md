@@ -3,7 +3,7 @@ title: Práticas recomendadas para criar uma meta personalizada
 description: Conheça as práticas recomendadas para criar metas personalizadas para definir seus eventos de sucesso.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Se a meta da campanha for receita ([!UICONTROL Highest ROAS - Custom Goal]), sua
 >
 > A [!UICONTROL Property Weight] de um equivale a um valor de um para cada $1 da receita rastreada.
 >
-> Por exemplo, uma conversão de $250 com um peso de um é relatada como $250. Se a métrica de conversão receber um peso de 0,5, a conversão de $250 será relatada como $125 no Advertising Cloud ($250 Conversion * 0,5) [!UICONTROL Property Weight] = US$125).
+> Por exemplo, uma conversão de $250 com um peso de um é relatada como $250. Se a métrica de conversão receber um peso de 0,5, a conversão de $250 será relatada como $125 em Adobe Advertising ($250 Conversion * 0,5) [!UICONTROL Property Weight] = US$125).
 
 ### Exemplo de uma campanha com o &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot; Objetivo de otimização
 
@@ -38,7 +38,7 @@ Se a meta da campanha for o menor custo por aquisição (CPA) e exigir apenas um
 >
 > A [!UICONTROL Property Weight] de um equivale a um valor de um para cada conversão rastreada.
 >
-> Por exemplo, se 10 conversões de Envio de aplicativo forem rastreadas, 10 conversões de Envio de aplicativo serão relatadas.  Se a métrica de conversão receber um peso de 0,5, então as 10 conversões serão relatadas como cinco (5) no Advertising Cloud (10 Conversões * 0,5 [!UICONTROL Property Weight] = 5).
+> Por exemplo, se 10 conversões de Envio de aplicativo forem rastreadas, 10 conversões de Envio de aplicativo serão relatadas.  Se a métrica de conversão receber um peso de 0,5, então as 10 conversões serão relatadas como cinco (5) em Adobe Advertising (10 Conversões * 0,5 [!UICONTROL Property Weight] = 5).
 
 ## Metas personalizadas com várias propriedades
 

@@ -3,20 +3,20 @@ title: Sobre o [!UICONTROL Deal ID Inbox]
 description: Saiba mais sobre o [!UICONTROL Deal ID inbox] , que permite aceitar ofertas privadas que você já negociou com editores no [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), and [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # Sobre o [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] O permite que você configure rapidamente ofertas que a Advertising Cloud DSP importou de editores por meio de plataformas do lado do suprimento (SSPs), de modo que não seja necessário configurar cada venda manualmente. Você pode aceitar as ofertas de inventário privado garantidas e não garantidas que já negociou com editores em [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), e [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) do [!UICONTROL Deal ID inbox].
+O DSP de publicidade [!UICONTROL Deal ID inbox] O permite que você configure rapidamente ofertas que DSP importou de editores por meio de plataformas do lado do suprimento (SSPs) para que você não precise configurar cada negócio manualmente. Você pode aceitar as ofertas de inventário privado garantidas e não garantidas que já negociou com editores em [!DNL FreeWheel], [!DNL Google Authorized Buyers] (anteriormente conhecido como [!DNL AdX]), e [!DNL Magnite DV+] (anteriormente [!DNL Rubicon]) do [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
->O Advertising Cloud DSP é o primeiro DSP a se integrar com o [!DNL FreeWheel] API.
+>A DSP de publicidade é a primeira DSP a ser integrada à [!DNL FreeWheel] API.
 
 No [!UICONTROL Deal ID inbox], você pode ver os detalhes da venda à medida que o editor os vê, acelerar a configuração da venda e evitar erros de entrada manual.
 

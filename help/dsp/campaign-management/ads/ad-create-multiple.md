@@ -3,7 +3,7 @@ title: Criar vários anúncios de terceiros
 description: Saiba como criar vários anúncios de terceiros de uma só vez.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -41,9 +41,13 @@ Você pode fazer upload de [!DNL DoubleClick] e [!DNL Flashtalking] folhas de ta
 1. Revise os detalhes e o status de cada anúncio:
 
    1. Revise o status de cada anúncio, que é baseado em verificações de validação na tag carregada.
+
    1. (Opcional) Siga um destes procedimentos para cada anúncio:
+
       * Para visualizar uma publicidade, clique em ![play](/help/dsp/assets/play.png) na linha publicidade.
+
       * Para editar os detalhes da publicidade, clique em ![editar](/help/dsp/assets/edit.png), edite os detalhes e clique em **Salvar**.
+
       * Para remover uma publicidade, clique em **[!UICONTROL X]** na linha publicidade.
 
 1. Clique em **[!UICONTROL Create *N *Anúncio(s)]**.
@@ -53,8 +57,11 @@ Você pode fazer upload de [!DNL DoubleClick] e [!DNL Flashtalking] folhas de ta
    * Clique em **[!UICONTROL Done]**.
 
    * (Se um anúncio for rejeitado; (opcional) Para editar o registro de anúncio e reenviar o anúncio para revisão:
+
       1. Clique no nome da publicidade.
+
       1. Edite as configurações do anúncio.
+
       1. Clique em **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

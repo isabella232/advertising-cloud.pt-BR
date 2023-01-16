@@ -1,18 +1,18 @@
 ---
-title: Visão geral do Campaign Management no Advertising Cloud DSP
+title: Visão geral do Campaign Management em DSP de publicidade
 description: Saiba mais sobre a hierarquia e os componentes do gerenciamento de campanha.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Visão geral do Campaign Management no Advertising Cloud DSP
+# Visão geral do Campaign Management em DSP de publicidade
 
-As campanhas do Advertising Cloud DSP têm a seguinte hierarquia:
+DSP campanhas têm a seguinte hierarquia:
 
 * Campanha
    * Pacote(s)
@@ -20,7 +20,7 @@ As campanhas do Advertising Cloud DSP têm a seguinte hierarquia:
          * Anúncio(s)
 
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
-In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
+In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
 
 ## [!UICONTROL Campaigns]
@@ -49,7 +49,7 @@ Todos os anúncios ativos e aprovados em um posicionamento ativo em uma campanha
 
 >[!MORELIKETHIS]
 >
->* [Sobre o Gerenciamento de campanhas](/help/dsp/campaign-management/campaigns/campaign-about.md)
+>* [Sobre o Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
 >* [Sobre o Gerenciamento de pacotes](/help/dsp/campaign-management/packages/package-about.md)
 >* [Sobre o gerenciamento de disposição](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Sobre o Gerenciamento de anúncios](/help/dsp/campaign-management/ads/ad-about.md)

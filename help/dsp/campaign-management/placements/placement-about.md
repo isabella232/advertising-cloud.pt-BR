@@ -1,16 +1,16 @@
 ---
-title: Sobre o gerenciamento de disposição na Advertising Cloud DSP
+title: Sobre o gerenciamento de disposição no DSP de publicidade
 description: Saiba mais sobre o gerenciamento de posicionamento.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
-# Sobre o gerenciamento de disposição na Advertising Cloud DSP
+# Sobre o gerenciamento de disposição no DSP de publicidade
 
 Uma disposição inclui parâmetros de definição de metas para um ou mais anúncios do mesmo tipo de anúncio. Você pode criar uma disposição para uma única campanha ou pacote e, em seguida, atribuir anúncios a ele. Cada campanha ou disposição pode incluir várias disposições, com uma rotação de publicidade específica. Por padrão, as publicidades são giradas uniformemente.
 

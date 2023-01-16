@@ -3,7 +3,7 @@ title: Duplicação de disposições
 description: Saiba como duplicar uma ou mais disposições.
 feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -24,16 +24,27 @@ Duplique uma ou mais disposições para criar disposições com configurações 
 Consulte &quot;[O que não é duplicado](#placement-not-duplicated)&quot; para obter uma lista de configurações de posicionamento que não estão duplicadas.
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
+
 1. Clique no nome da campanha.
+
 1. No submenu, clique em **[!UICONTROL Placements]**.
+
 1. Siga um destes procedimentos:
+
    * Para duplicar uma disposição, clique em  **[!UICONTROL ...]>[!UICONTROL Duplicate]** ao lado do nome do pacote.
+
    * Para duplicar várias disposições:
+
       1. Marque a caixa de seleção ao lado de cada disposição para duplicar.
+
       1. Na barra de ferramentas das ações em massa, clique em **[!UICONTROL Duplicate]**.
+
 1. Especifique as novas configurações de posicionamento:
+
    1. (Disposições únicas) Insira o novo nome da disposição.
+
    1. No **[!UICONTROL Choose Package (Required)]** selecione o pacote principal ou **[!UICONTROL No package]*.
+
    1. (Opcional) Altere as configurações padrão.
 
    As configurações se aplicam a todas as disposições selecionadas.

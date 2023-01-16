@@ -1,18 +1,18 @@
 ---
-title: Exportar dados de uma visualização de gerenciamento de campanha
+title: Exportar dados de uma exibição do Campaign Management
 description: Saiba como exportar os dados de qualquer tipo de visualização do gerenciamento de campanha para um arquivo de planilha.
 feature: DSP Campaign Data Views
 exl-id: 393b0726-d26c-4d0b-8926-98fc27259286
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Exportar dados de uma visualização de gerenciamento de campanha
+# Exportar dados de uma exibição do Campaign Management
 
-Você pode exportar um instantâneo da visualização de gerenciamento de campanha atual e filtrada para um arquivo no formato de planilha do Microsoft Excel (XLSX). É possível exportar dados para:
+Você pode exportar um instantâneo da visualização de gerenciamento de campanha atual e filtrada para um arquivo no formato Microsoft Excel planilha (XLSX). É possível exportar dados para:
 
 * Todas as campanhas
 * Uma campanha específica
@@ -23,8 +23,10 @@ Você pode exportar um instantâneo da visualização de gerenciamento de campan
 * Todos os anúncios
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]** e abra a exibição que deseja exportar.
-1. Na barra de ferramentas superior direita, clique em **[!UICONTROL ...]>[!UICONTROL Export]**.
-O arquivo é salvo na pasta Downloads padrão do navegador.
+
+1. Na barra de ferramentas superior direita, clique em  **[!UICONTROL ...]>[!UICONTROL Export]**.
+
+   O arquivo é salvo na pasta Downloads padrão do navegador.
 
 >[!MORELIKETHIS]
 >

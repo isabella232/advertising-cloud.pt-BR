@@ -1,18 +1,18 @@
 ---
-title: Visão geral dos recursos de inventário no Advertising Cloud DSP
+title: Visão geral dos recursos de inventário no DSP de publicidade
 description: Saiba mais sobre os recursos de inventário disponíveis.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Visão geral dos recursos de inventário no Advertising Cloud DSP
+# Visão geral dos recursos de inventário no DSP de publicidade
 
-A Advertising Cloud DSP pode atender às suas necessidades de inventário, seja para encontrar escalas com inventário público, encontrar escalas entre editores premium com [!DNL On Demand]ou configure um mercado privado (PMP) 1:1 para um editor ativar em relação a públicos ou sites específicos. As metas da campanha ajudam a determinar qual tipo de inventário é mais adequado às necessidades de desempenho da campanha. As integrações com as principais plataformas do lado do suprimento (SSPs) permitem a configuração e a ativação contínuas dos PMPs.
+DSP pode atender às suas necessidades de inventário, quer você queira encontrar a escala com o inventário público, encontrar a escala entre editores premium com [!DNL On Demand]ou configure um mercado privado (PMP) 1:1 para um editor ativar em relação a públicos ou sites específicos. As metas da campanha ajudam a determinar qual tipo de inventário é mais adequado às necessidades de desempenho da campanha. As integrações com as principais plataformas do lado do suprimento (SSPs) permitem a configuração e a ativação contínuas dos PMPs.
 
 Depois de acessar ou identificar as ofertas de inventário no DSP, você pode usá-las como metas de posicionamento para suas campanhas.
 

@@ -3,18 +3,18 @@ title: Códigos de erro para [!DNL FreeWheel] Envio de anúncios
 description: Referencie os códigos de erro que são retornados para envios de anúncios para [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '677'
 ht-degree: 2%
 
 ---
 
 # Códigos de erro para [!DNL FreeWheel] Envio de anúncios
 
-As mensagens de erro para envios de anúncios com falha podem vir do Advertising Cloud DSP ou de [!DNL FreeWheel]. As mensagens de erro são mostradas na variável [!UICONTROL API Response] na coluna [[!UICONTROL Freewheel Status] diálogo](freewheel-check-status.md).
+As mensagens de erro para envios de anúncios com falha podem vir de DSP de publicidade ou de [!DNL FreeWheel]. As mensagens de erro são mostradas na variável [!UICONTROL API Response] na coluna [[!UICONTROL Freewheel Status] diálogo](freewheel-check-status.md).
 
-## Erros internos do Advertising Cloud DSP
+## Erros internos DSP publicidade
 
 | Mensagem de erro | Descrição | Próximas etapas |
 |--- |--- |--- |
@@ -33,7 +33,7 @@ As mensagens de erro para envios de anúncios com falha podem vir do Advertising
 
 | Código | Significado | Descrição | Próximas etapas |
 |--- |--- |--- |--- |
-| 401° | Não autorizado | Credenciais de acesso incorretas, ausentes ou inválidas. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
+| 401 | Não autorizado | Credenciais de acesso incorretas, ausentes ou inválidas. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
 | 403 | Proibido | O servidor entendeu a solicitação, mas recusa autorizá-la. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
 | 404 | Não encontrado | O recurso solicitado não está disponível. Se a ID de criação não for encontrada na operação PUT, um 404 será retornado. | Entre em contato com seu [!DNL Adobe] equipe da conta. |
 | 405 | Método Não Permitido | Uma solicitação foi feita de um recurso usando um método de solicitação não suportado por esse recurso (por exemplo, usando o GET em um método que requer que os dados sejam enviados pelo POST ou usando o PUT em um recurso somente leitura). | Entre em contato com seu [!DNL Adobe] equipe da conta. |

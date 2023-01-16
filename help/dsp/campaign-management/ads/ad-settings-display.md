@@ -3,9 +3,9 @@ title: Exibir configurações do anúncio
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios de exibição.
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ As configurações a seguir são para anúncios de exibição padrão.
 
 **[!UICONTROL Display Code]:** (Somente anúncios de terceiros) O URL do ativo criativo de terceiros. Qualquer [timestamp] e [[timestamp]] parâmetros serão substituídos por valores reais.
 
-**[!UICONTROL Final Display Code]:** (Somente anúncios de terceiros) O URL do ativo criativo de terceiros, com o [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
+**[!UICONTROL Final Display Code]:** (Somente anúncios de terceiros) O URL do ativo criativo de terceiros, com o [Macros de rastreamento de DSP de publicidade](/help/dsp/campaign-management/macros.md) , se aplicável.
 
 **[!UICONTROL Ad Size]:** A largura e a altura do anúncio. Deve ser um [tamanho de anúncio de exibição padrão suportado](ad-specs.md). Você pode inserir manualmente o tamanho do anúncio antes de fazer upload do anúncio ou inserir um [!UICONTROL Display Code]. Se você não inserir o tamanho do anúncio, as dimensões da publicidade carregada ou da tag do anúncio serão inseridas automaticamente como somente leitura. Observe que a publicidade não será salva se as dimensões não estiverem em Telas padrão como tamanhos - por exemplo, 301x250 em vez de 300x250.
 
@@ -68,5 +68,5 @@ As configurações a seguir se aplicam a cada pixel criado ou editado.
 >* [Criar um único anúncio](ad-create.md)
 >* [Listar as disposições associadas a um anúncio](ad-list-placements.md)
 >* [Especificações do anúncio](ad-specs.md)
->* [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [Macros DSP](/help/dsp/campaign-management/macros.md)
 

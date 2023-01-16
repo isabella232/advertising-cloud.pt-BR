@@ -3,7 +3,7 @@ title: Configurações de público-alvo
 description: Consulte descrições das configurações disponíveis do público-alvo.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Segmentos de terceiros
 
-(Opcional) Qualquer segmento padrão que esteja disponível por meio da taxonomia de dados de terceiros da Advertising Cloud, para incluir na configuração do público-alvo.
+(Opcional) Qualquer segmento padrão que esteja disponível por meio da taxonomia de dados de terceiros da Adobe Advertising, para incluir na configuração do público-alvo.
 
 ## Segmentos próprios
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Segmentos personalizados
 
-(Opcional) Qualquer segmento criado pelo usuário, que é capturado usando pixels de segmento personalizados do Advertising Cloud, para incluir na configuração do público-alvo. Isso pode incluir segmentos personalizados padrão e segmentos de não participação na venda do CCPA.
+(Opcional) Qualquer segmento criado pelo usuário, que é capturado usando pixels de segmento DSP personalizados, para incluir na configuração do público-alvo. Isso pode incluir segmentos personalizados padrão e segmentos de não participação na venda do CCPA.
 
 ## Públicos-alvo salvos
 

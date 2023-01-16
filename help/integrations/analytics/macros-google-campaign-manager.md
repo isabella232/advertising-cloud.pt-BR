@@ -1,32 +1,32 @@
 ---
-title: Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
-description: Saiba por que e como adicionar [!DNL Analytics for Advertising Cloud] macros para seu [!DNL Google Campaign Manager 360] tags de publicidade
+title: Anexar [!DNL Analytics for Advertising] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
+description: Saiba por que e como adicionar [!DNL Analytics for Advertising] macros para seu [!DNL Google Campaign Manager 360] tags de publicidade
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 7c467f7a6eb2522fb998539ba01ceef8c89c3853
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
+# Anexar [!DNL Analytics for Advertising] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
 
-*Anunciantes somente com uma integração Advertising Cloud-Adobe Analytics*
+*Anunciantes apenas com uma integração Adobe Advertising-Adobe Analytics*
 
-*Aplicável somente ao Advertising Cloud DSP*
+*Aplicável somente a DSP de publicidade*
 
-Se você usar tags de publicidade do [!DNL Google Campaign Manager 360] para seus anúncios do Advertising Cloud DSP, anexe parâmetros do Analytics para Advertising Cloud aos URLs da sua página inicial usando o [`%p` macro](https://support.google.com/campaignmanager/table/6096962). O registro de parâmetros `s_kwcid` e `ef_id` parâmetros da string de consulta no URL da página inicial, permitindo que o Advertising Cloud envie dados de clique para os anúncios para o Adobe Analytics.
+Se você usar tags de publicidade do [!DNL Google Campaign Manager 360] para seus anúncios do Advertising DSP, anexe [!DNL Analytics for Advertising] parâmetros para os URLs da página inicial usando o [`%p` macro](https://support.google.com/campaignmanager/table/6096962). O registro de parâmetros `s_kwcid` e `ef_id` parâmetros da string de consulta no URL da página inicial, permitindo que a Adobe Advertising envie dados de clique para os anúncios para a Adobe Analytics.
 
-Usar macros para [!DNL Campaign Manager 360] anúncios de exibição e vídeo para os seguintes tipos de [!DNL Analytics for Advertising Cloud] implementações:
+Usar macros para [!DNL Campaign Manager 360] anúncios de exibição e vídeo para os seguintes tipos de [!DNL Analytics for Advertising] implementações:
 
-* **Os anunciantes com o [!DNL Adobe] [!DNL Analytics for Advertising Cloud] Código JavaScript implementado em seus sites**: O código JavaScript já registra a variável `s_kwcid` e `ef_id` parâmetros da string de consulta. No entanto, usar macros estende o rastreamento para incluir conversões baseadas em cliques quando cookies de terceiros não são compatíveis. A prática recomendada é adicionar as macros nas seções a seguir às tags de publicidade para capturar dados de click-through adicionais que não são capturados pelo código JavaScript.
+* **Os anunciantes com o [!DNL Adobe] [!DNL Analytics for Advertising] Código JavaScript implementado em seus sites**: O código JavaScript já registra a variável `s_kwcid` e `ef_id` parâmetros da string de consulta. No entanto, usar macros estende o rastreamento para incluir conversões baseadas em cliques quando cookies de terceiros não são compatíveis. A prática recomendada é adicionar as macros nas seções a seguir às tags de publicidade para capturar dados de click-through adicionais que não são capturados pelo código JavaScript.
 
 >[!NOTE]
 >
 >O código JavaScript é uma solução para rastreamento de cliques somente enquanto os cookies ainda estão disponíveis. Quando os cookies forem descontinuados, será necessário implementar as seguintes macros.
 
-* **Os anunciantes cujos sites não usam a variável [!DNL Analytics for Advertising Cloud] O código JavaScript e, em vez disso, depende do [!DNL Analytics] encaminhamento pelo lado do servidor somente para dados de click-through** (sem dados de view-through): As macros a seguir são necessárias para relatar a atividade de cliques no site orientada de anúncios que você comprar pelo Advertising Cloud.
+* **Os anunciantes cujos sites não usam a variável [!DNL Analytics for Advertising] O código JavaScript e, em vez disso, depende do [!DNL Analytics] encaminhamento pelo lado do servidor somente para dados de click-through** (sem dados de view-through): As macros a seguir são necessárias para relatar a atividade de cliques no site orientada de anúncios que você comprar pela Adobe Advertising.
 
 ## Anexe as macros ao seu [!DNL Google Campaign Manager 360] Anúncios
 
@@ -49,34 +49,22 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 
 ### Configurar o sufixo do URL da página inicial no nível do anunciante
 
-1. No menu principal, clique no botão [!UICONTROL Advertisers] guia .
-1. Clique no nome do anunciante.
+1. Consulte a [instruções para abrir as propriedades do anunciante](https://support.google.com/campaignmanager/answer/2829344).
 1. No [!UICONTROL Landing page URL suffix] configurações, incluir `%pamo!;` no [!UICONTROL URL suffix] campo.
-
-![configurações no nível do anunciante](/help/integrations/assets/macro-ggl360-advertiser.png)
 
 ### Configurar o sufixo do URL da página inicial no nível da campanha
 
-1. No menu principal, clique no botão [!UICONTROL Campaigns] guia .
-1. Clique no nome da campanha.
-1. Clique em [!UICONTROL Properties].
+1. Consulte a [instruções para abrir as propriedades da campanha](https://support.google.com/campaignmanager/answer/2838056#set).
 1. No [!UICONTROL Landing page URL suffix] configurações, incluir `%pamo!;` no [!UICONTROL URL suffix] campo.
-
-![configurações no nível da campanha](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### Configurar o sufixo do URL da página inicial no nível de criação
 
-1. No menu principal, clique no botão [!UICONTROL Campaigns] guia .
-1. Clique no nome da campanha.
-1. No [!UICONTROL Views] selecione [!UICONTROL Creatives].
-1. Clique no nome da criação.
+1. Abra as propriedades criativas.
 1. No [!UICONTROL Click tags] configuração, incluir `%pamo!;` no [!UICONTROL Landing page] para a tag click .
 
-![configurações de nível criativo](/help/integrations/assets/macro-ggl360-creative.png)
+## How [!DNL Analytics for Advertising] Macros são expandidas em DSP
 
-## How [!DNL Analytics for Advertising Cloud] Macros são expandidas em DSP
-
-No DSP, ao criar um anúncio que inclui a variável [!DNL Analytics for Advertising Cloud] parâmetro (`amo`), `ef_id` e `s_kwcid` as macros são anexadas automaticamente ao URL de clique. A prática recomendada é verificar a tag no DSP para garantir que a variável `ef_id` e `s_kwcid` as macros estão presentes.
+No DSP, ao criar um anúncio que inclui a variável [!DNL Analytics for Advertising] parâmetro (`amo`), `ef_id` e `s_kwcid` as macros são anexadas automaticamente ao URL de clique. A prática recomendada é verificar a tag no DSP para garantir que a variável `ef_id` e `s_kwcid` as macros estão presentes.
 
 Este é um exemplo de um [!DNL Google Campaign Manager 360] [tag ins](https://support.google.com/campaignmanager/answer/6080468) como aparece em DSP.
 
@@ -94,10 +82,9 @@ data-dcm-param-amo='ef_id=${TM_USER_ID}:${TM_DATETIME}:d&s_kwcid=AC!${TM_AD_ID}!
 
 Quando um usuário clica no anúncio, [!DNL Google Campaign Manager 360] see `%pamo` no sufixo do URL e insere dinamicamente o valor do `amo` no URL.
 
-
 >[!MORELIKETHIS]
 >
->* [Visão geral da [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Advertising Cloud IDs usadas por [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Anexar [!DNL Analytics for Advertising Cloud] Macros para [!DNL Flashtalking] Tags de anúncio](macros-flashtalking.md)
+>* [Visão geral da [!DNL Analytics for Advertising]](overview.md)
+>* [IDs de publicidade do Adobe usadas por [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Anexar [!DNL Analytics for Advertising] Macros para [!DNL Flashtalking] Tags de anúncio](macros-flashtalking.md)
 

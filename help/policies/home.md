@@ -1,19 +1,19 @@
 ---
-title: Políticas e diretrizes do Advertising Cloud
-description: Saiba mais sobre as políticas e diretrizes do Advertising Cloud DSP e Advertising Cloud Search.
+title: Políticas e diretrizes da Adobe Advertising
+description: Saiba mais sobre as políticas e diretrizes para DSP de publicidade e Pesquisa de publicidade.
 index: true
 cloud: Experience Cloud
 product: advertising cloud
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '43'
+ht-degree: 23%
 
 ---
 
-# Políticas e diretrizes do Advertising Cloud
+# Políticas e diretrizes da Adobe Advertising 
 
-Saiba mais sobre as políticas e diretrizes do Advertising Cloud DSP e Advertising Cloud Search:
+Saiba mais sobre as políticas e diretrizes para DSP de publicidade e Pesquisa de publicidade:
 
 * [Política de requisitos de anúncios](/help/policies/ad-requirements-policy.md)
 * [Diretrizes aceitáveis do segmento de integridade](/help/policies/health-segment-guidelines.md)

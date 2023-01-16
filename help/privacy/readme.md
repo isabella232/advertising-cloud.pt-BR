@@ -1,12 +1,12 @@
 ---
-source-git-commit: ee08ad4b0061d0a6e7459e92dc32f4f10d081451
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
-# Documentação de suporte de privacidade do consumidor para Advertising Cloud
+# Documentação de suporte de privacidade do consumidor para publicidade no Adobe Advertising
 
-Essa pasta é destinada ao suporte da Advertising Cloud para privacidade do consumidor.
+Esta pasta é destinada ao suporte à Adobe Advertising para a privacidade do consumidor.
 
 **Observação: Esta página não é publicada na documentação voltada para o cliente.**

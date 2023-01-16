@@ -3,16 +3,16 @@ title: Práticas recomendadas para configurar campanhas de desempenho
 description: Conheça as práticas recomendadas para configurar campanhas focadas no desempenho, que incluem disposições otimizadas para o CPA mais baixo ou para o ROAS mais alto.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---
 
 # Práticas recomendadas para configurar campanhas de desempenho
 
-A Advertising Cloud pode otimizar suas campanhas focadas no desempenho para disposições com o menor custo por aquisição (CPA) ou o maior retorno sobre o gasto com anúncios (ROAS).
+DSP pode otimizar suas campanhas focadas no desempenho para disposições com o menor custo por aquisição (CPA) ou o maior retorno sobre o gasto com anúncios (ROAS).
 
 Veja as seguintes práticas recomendadas para campanhas de desempenho:
 
@@ -55,7 +55,7 @@ Os pacotes de funil mais baixos incluem disposições que direcionam os usuário
 
 #### Estratégias de posicionamento recomendadas para redirecionamento
 
-* Se o anunciante for um cliente do Adobe Analytics ou Adobe Audience Manager, é possível criar segmentos primários (como visitantes de página inicial, páginas de produtos ou abandonadores de carrinho) e usá-los como alvos de posicionamento no Advertising Cloud.
+* Se o anunciante for um cliente do Adobe Analytics ou Adobe Audience Manager, é possível criar segmentos primários (como visitantes de página inicial, páginas de produtos ou abandonadores de carrinho) e usá-los como alvos de posicionamento no DSP.
 
 * Evite atribuir muito orçamento a uma disposição direcionada ao público-alvo. Como regra geral, orçar US$ 30 por 1.000 usuários por mês.
 

@@ -1,21 +1,22 @@
 ---
-title: Diretrizes de uso de dados do Adobe Advertising Cloud DSP
+title: Adobe Advertising DSP Diretrizes de uso de dados
 description: Consulte as diretrizes para uso de dados.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6b646988-4a53-4092-8bc6-bcd350ee4096
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# Diretrizes de uso de dados do Adobe Advertising Cloud DSP
+# Adobe Advertising DSP Diretrizes de uso de dados
 
 *Última atualização: 5 de setembro de 2019*
 
-*Para Adobe Advertising Cloud DSP*
+*Para Adobe Advertising DSP*
 
-Essas Diretrizes de uso de dados (&quot;Diretrizes de dados&quot;) estabelecem os requisitos para o uso de determinados dados acessados por meio dos serviços sob demanda do Adobe para a Advertising Cloud (&quot;Serviços&quot;). Essas diretrizes são incorporadas por referência ao Acordo entre o Adobe e o Cliente que usa os serviços sob demanda. Os termos capitalizados usados nas presentes orientações, mas não definidos no presente acordo, terão o significado que lhes é atribuído.
+Essas Diretrizes de uso de dados (&quot;Diretrizes de dados&quot;) estabelecem os requisitos para o uso de determinados dados acessados por meio dos serviços sob demanda do Adobe para DSP de publicidade (&quot;Serviços&quot;). Essas diretrizes são incorporadas por referência ao Acordo entre o Adobe e o Cliente que usa os serviços sob demanda. Os termos capitalizados usados nas presentes orientações, mas não definidos no presente acordo, terão o significado que lhes é atribuído.
 
 A Adobe reserva-se o direito de determinar, a seu exclusivo critério, se a utilização de dados pelo Cliente viola as presentes Diretrizes.
 

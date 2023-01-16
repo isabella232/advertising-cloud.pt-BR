@@ -1,18 +1,18 @@
 ---
-title: Macros Advertising Cloud DSP
+title: Publicidade DSP macros
 description: Consulte as macros disponíveis para rastreamento geral e rastrear cliques em anúncios de terceiros.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
 
-# Macros Advertising Cloud DSP
+# Publicidade DSP macros
 
-Uma macro é um comando curto ou abreviação de uma instrução e geralmente segue o formato `${MACRO_NAME}`. As macros incluídas no código criativo ou URLs de click-through são expandidas em uma sequência de código mais longa que o servidor de anúncios pode entender. O servidor de publicidade da Advertising Cloud DSP executa macros quando o anúncio é veiculado ou clicado.
+Uma macro é um comando curto ou abreviação de uma instrução e geralmente segue o formato `${MACRO_NAME}`. As macros incluídas no código criativo ou URLs de click-through são expandidas em uma sequência de código mais longa que o servidor de anúncios pode entender. O servidor de publicidade DSP executa macros quando o anúncio é veiculado ou clicado.
 
 As macros de servidor de anúncios são úteis para transmitir informações importantes para DSP ou servidores de anúncios de terceiros. As macros são usadas mais frequentemente durante o tráfico de código criativo ou metadados de terceiros e personalizados (como pixels de terceiros).
 
@@ -80,7 +80,7 @@ Para rastrear com precisão os cliques de anúncios usando tags de exibição de
 
 DSP insere automaticamente macros de clique de exibição em uma tag de exibição de terceiros quando você:
 
-* Exportar tags de publicidade de um parceiro de servidor e da Advertising Cloud <!-- [Needs PM confirmation.] -->
+* Exportar tags de publicidade de um parceiro de servidor de publicidade <!-- [Needs PM confirmation.] -->
 * Upload em massa [!DNL Flashtalking] ou [!DNL Google DoubleClick for Advertisers] tags de publicidade diretamente no DSP
 
 Se uma macro de clique estiver ausente durante a criação de um anúncio de exibição, o DSP exibe uma mensagem de aviso, que solicita a inserção manual da macro de clique de exibição apropriada na área correta da tag.

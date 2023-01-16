@@ -3,16 +3,16 @@ title: Verifique o status dos anúncios de um [!DNL [!DNL FreeWheel]] Contrato P
 description: Saiba como encontrar o status dos anúncios para [!DNL Freewheel] acordos programáticos garantidos.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Verifique o status dos anúncios em busca de [!DNL Freewheel] Contratos programáticos garantidos
 
-Veja se os anúncios enviam [!DNL Freewheel] foram bem-sucedidos. Você pode reenviar qualquer anúncio conforme necessário.
+Veja se seu anúncio envia para a [!DNL Freewheel] foram bem-sucedidos. Você pode reenviar qualquer anúncio conforme necessário.
 
 Para dúvidas ou problemas adicionais com a reapresentação, entre em contato com o [!DNL Adobe] equipe da conta.
 

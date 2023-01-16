@@ -3,16 +3,16 @@ title: Sobre contratos programáticos garantidos
 description: Saiba mais sobre ofertas programáticas garantidas (PG) e quais SSPs estão certificadas para fornecê-las.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Sobre contratos programáticos garantidos
 
-Um negócio programático garantido (PG) é uma compra garantida diretamente com um editor por meio de uma ID de negócios (em vez de tags de servidor de anúncios). O PG é mais flexível para você e seu editor gerenciarem, e oferece mais transparência do que as compras regulares de tags. Faturamento e relatórios são consolidados por meio do Advertising Cloud DSP, o que economiza tempo.
+Um negócio programático garantido (PG) é uma compra garantida diretamente com um editor por meio de uma ID de negócios (em vez de tags de servidor de anúncios). O PG é mais flexível para você e seu editor gerenciarem, e oferece mais transparência do que as compras regulares de tags. Faturamento e relatórios são consolidados por meio de DSP, o que economiza tempo.
 
 ## Recursos de um contrato PG
 

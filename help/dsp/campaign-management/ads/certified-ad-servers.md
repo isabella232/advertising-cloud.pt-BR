@@ -3,7 +3,7 @@ title: Parceiros de veiculação de anúncios certificados
 description: Veja todos os servidores de anúncios certificados e unidades de anúncios.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: ffd88b7f3274740db2d91697b0e208f61b2260d5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Teads] |  | X |  |  | A Advertising Cloud DSP não é compatível com VPAID no inventário externo. |
+| [!DNL Teads] |  | X |  |  | Não há suporte disponível para VPAID no inventário externo. |
 | [!DNL Trueffect] |  | X |  |  |  |
 | [!DNL Undertone] |  |  | X |  | Unidade de anúncio de Grabber de página personalizada carregada como 180x150 em DSP</br></br>Quando o Index Exchange passa em um leilão de 180x150 e DSP lances no leilão e dá uma impressão, o anúncio se expande para um anúncio de exibição de página inteira.</br></br>Originalmente certificado para Capturador de página, Adesão expansível e unidades de anúncio de Desvio de tela. Isso precisa ser recertificado, com etapas marcadas para processos. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] unidades de publicidade |

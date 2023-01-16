@@ -1,11 +1,11 @@
 ---
-title: '"Criar um [!UICONTROL Simple Ad Serving] Acordo"'
-description: '"Saiba como criar um pixel de rastreamento para um [!UICONTROL Simple Ad Serving] acordo."'
+title: "Criar um [!UICONTROL Simple Ad Serving] Acordo"
+description: "Saiba como criar um pixel de rastreamento para um [!UICONTROL Simple Ad Serving] acordo."
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
       1. Clique em **[!UICONTROL Next]**.
    1. Em Detalhes do feed, edite os detalhes do feed e clique em **[!UICONTROL Next]**.
 
-      A Advertising Cloud DSP gera automaticamente uma disposição, chamada &quot;Disposição SAS - &lt;*nome da transação*>,&quot; para o anúncio. No posicionamento, o negócio é automaticamente direcionado no [!UICONTROL Inventory Targets] seção. Todas as outras opções de direcionamento são inaplicáveis.
+      DSP gera automaticamente uma disposição, chamada &quot;Disposição SAS - &lt;*nome da transação*>,&quot; para o anúncio. No posicionamento, o negócio é automaticamente direcionado no [!UICONTROL Inventory Targets] seção. Todas as outras opções de direcionamento são inaplicáveis.
 
 
 

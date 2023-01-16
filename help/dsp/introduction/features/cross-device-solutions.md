@@ -3,16 +3,16 @@ title: Soluções entre dispositivos
 description: Saiba mais sobre recursos entre dispositivos.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
 
 # Soluções entre dispositivos
 
-A integração do Advertising Cloud DSP com o [!DNL LiveRamp] permite estender seu público-alvo para todos os dispositivos conhecidos de uma pessoa, não apenas os dispositivos que sua marca rastreou. A integração também fornece limite de frequência e medição de atribuição em todos os dispositivos.
+A integração da Advertising DSP com o [!DNL LiveRamp] permite estender seu público-alvo para todos os dispositivos conhecidos de uma pessoa, não apenas os dispositivos que sua marca rastreou. A integração também fornece limite de frequência e medição de atribuição em todos os dispositivos.
 
 Ao usar um gráfico de dispositivos com base em pessoas, é possível:
 
@@ -76,9 +76,9 @@ Você pode incluir as seguintes métricas em relatórios personalizados:
 
 ## Medição de atribuição baseada em pessoas
 
-*Anunciantes com rastreamento de conversão do Advertising Cloud somente*
+*Anunciantes com rastreamento de conversão de Adobe Advertising apenas*
 
-Com a atribuição baseada em pessoas, você pode atribuir conversões que ocorreram em um dispositivo diferente daquele no qual a exposição da mídia ocorreu. A medição de atribuição baseada em pessoas está disponível em DSP, Advertising Cloud Search e Advertising Cloud Creative para anunciantes que implementaram pixels de conversão do Advertising Cloud em seus sites.
+Com a atribuição baseada em pessoas, você pode atribuir conversões que ocorreram em um dispositivo diferente daquele no qual a exposição da mídia ocorreu. A medição de atribuição baseada em pessoas está disponível em todos os DSP, [!DNL Adobe Advertising Creative]e [!DNL Adobe Advertising Search] para anunciantes que implementaram pixels de conversão de Adobe Advertising em seus sites.
 
 ### Ativar a medição de atribuição baseada em pessoas
 

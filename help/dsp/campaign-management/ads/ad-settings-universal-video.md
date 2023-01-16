@@ -2,9 +2,10 @@
 title: Configurações universais de anúncio de vídeo
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios de vídeo universais.
 feature: DSP Ads
-source-git-commit: 2d344d2ae0438433eb679a5f31f471c2eac4fe26
+exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Anúncios que usam somente tags VAST; somente leitura) A tag VAST de terceiros inserida como fonte de anúncio.
 
-**[!UICONTROL Final VAST Tag]:** (Anúncios que usam somente tags VAST; somente leitura) A tag VAST de terceiros inserida como fonte de anúncio com o necessário [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
+**[!UICONTROL Final VAST Tag]:** (Anúncios que usam somente tags VAST; somente leitura) A tag VAST de terceiros inserida como fonte de anúncio com o necessário [Macros de rastreamento de DSP de publicidade](/help/dsp/campaign-management/macros.md) , se aplicável.
 
 **[!UICONTROL Wmode]:** O modo da janela: *[!UICONTROL window]*, *[!UICONTROL transparent]* ou *[!UICONTROL opaque]*. Se essa configuração não for aplicável, deixe-a em branco.
 
@@ -75,5 +76,5 @@ As configurações a seguir se aplicam a cada pixel criado ou editado.
 >* [Criar um único anúncio](ad-create.md)
 >* [Listar as disposições associadas a um anúncio](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Especificações do anúncio](ad-specs.md)
->* [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [Macros DSP](/help/dsp/campaign-management/macros.md)
 

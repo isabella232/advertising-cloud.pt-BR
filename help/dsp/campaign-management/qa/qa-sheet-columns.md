@@ -3,9 +3,9 @@ title: Colunas em planilhas baixadas/carregadas
 description: Faça referência às colunas em planilhas de controle de qualidade do Excel baixadas e carregadas.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 | [!UICONTROL Basic] | [!UICONTROL Package Name] | O nome do pacote pai, quando aplicável. | — |
 | [!UICONTROL Goals] | [!UICONTROL Start Date] | A data de início da disposição. | — |
 | [!UICONTROL Goals] | [!UICONTROL End Date] | A data de término da disposição. | — |
-| [!UICONTROL Goals] | [!UICONTROL Day parting] | Se a segmentação de dia é *[!UICONTROL ON]* ou *[!UICONTROL OFF]*.<br><b>Observação:</b> Para verificar a programação de dayparting real, abra as configurações de posicionamento em [!DNL DSP]. | — |
+| [!UICONTROL Goals] | [!UICONTROL Day parting] | Se a segmentação de dia é *[!UICONTROL ON]* ou *[!UICONTROL OFF]*.<br><b>Observação:</b> Para verificar a programação de dayparting real, abra as configurações de posicionamento no DSP. | — |
 | [!UICONTROL Goals] | [!UICONTROL Budget] | O orçamento de colocação, se houver. | Sim |
 | [!UICONTROL Goals] | [!UICONTROL Budget Interval] | O intervalo de orçamento: &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]* ou *[!UICONTROL All Time]*.[!UICONTROL >Daily] | Sim |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Goal] | O objetivo do pacote. | — |

@@ -1,12 +1,12 @@
 ---
-source-git-commit: 85965bcc54765c958b64b8af91052c51c89f76cf
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
-# Documentação das integrações do Advertising Cloud com o Adobe Experience Cloud
+# Documentação das integrações de publicidade do Adobe com o Adobe Experience Cloud
 
-Esta pasta é para documentos sobre integrações Advertising Cloud com outros produtos Adobe.
+Esta pasta é para documentos sobre integrações Adobe Advertising com outros produtos Adobe.
 
 **Observação: Esta página não é publicada na documentação voltada para o cliente.**

@@ -1,22 +1,22 @@
 ---
-title: Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising Cloud]
-description: Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising Cloud]
+title: Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising]
+description: Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '840'
 ht-degree: 0%
 
 ---
 
-# Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising Cloud]
+# Pré-requisitos e informações-chave para implementação [!DNL Analytics for Advertising]
 
-*Anunciantes com Advertising Cloud DSP e Advertising Cloud Search*
+*Anunciantes com DSP de publicidade e[!DNL Advertising Search]*
 
-Analise as informações a seguir antes de integrar o Advertising Cloud com o Adobe Analytics.
+Analise as informações a seguir antes de integrar a publicidade Adobe com o Adobe Analytics.
 
-## Requisitos para a criação de relatórios de dados do Advertising Cloud em [!DNL Analytics]
+## Requisitos para relatórios de dados de publicidade do Adobe em [!DNL Analytics]
 
 * Uma das seguintes opções:
    * Adobe Experience Platform Web SDK: `alloy.js`
@@ -28,42 +28,42 @@ Analise as informações a seguir antes de integrar o Advertising Cloud com o Ad
 >
 >Para melhorar a fidelidade dos dados, use a versão mais recente de cada biblioteca.
 
-## Requisitos para compartilhar segmentos do Analytics com a Advertising Cloud
+## Requisitos para compartilhar segmentos do Analytics com a publicidade do Adobe
 
 * Serviço de identidade do Experience Cloud: `visitorAPI.js` versão 2.1 ou superior
 * Adobe Analytics: `!DNL appMeasurement.js` versão 1.8 ou superior
 
-## Requisitos para a apresentação de relatórios [!DNL Analytics] Dados no Advertising Cloud
+## Requisitos para a apresentação de relatórios [!DNL Analytics] Dados na publicidade do Adobe
 
-Forneça à equipe de implementação da Advertising Cloud o seguinte:
+Forneça à equipe de implementação Adobe Advertising o seguinte:
 
-* O [!DNL Analytics] a ID do conjunto de relatórios que será usada para relatórios sobre a atividade de mídia paga e para alimentar a atividade do site para otimização e relatórios no Advertising Cloud
+* O [!DNL Analytics] a ID do conjunto de relatórios que será usada para relatórios sobre a atividade de mídia paga e para alimentar a atividade do site para otimização e relatórios na Adobe Advertising
 * A ID da organização da Experience Cloud (ID da organização) da empresa.
 
 Você pode encontrar ambas as IDs no [Guia Resumo do Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Tela Resumo do Experience Cloud Debugger](/help/integrations/assets/a4adc-debugger-summary.png)
 
-## [!DNL Analytics] Dados no Advertising Cloud {#lookback-a4adc}
+## [!DNL Analytics] Dados na publicidade do Adobe {#lookback-a4adc}
 
-Porque [!DNL Analytics] Os dados são enviados ao Advertising Cloud para relatórios e otimização, os dados estão sujeitos às regras de atribuição, incluindo as janelas de retrospectiva de impressão e clique, que são configuradas para o anunciante no Advertising Cloud.
+Porque [!DNL Analytics] Os dados são enviados ao Adobe Advertising para relatórios e otimização, eles estão sujeitos às regras de atribuição, incluindo as janelas de pesquisa de impressão e cliques, que são configuradas para o anunciante no Adobe Advertising.
 
-![configurações da janela de pesquisa no nível do anunciante no Advertising Cloud](/help/integrations/assets/a4adc-lookbacks.png)
+![configurações da janela de pesquisa no nível do anunciante no Adobe Advertising](/help/integrations/assets/a4adc-lookbacks.png)
 
-* Janela de retrospectiva de clique da atribuição do Advertising Cloud: O número de dias após o primeiro clique em que o clique pode ser atribuído a uma conversão. Por padrão, esse valor é de 60 dias; o máximo é 90 dias
-* Janela de retrospectiva de impressão de atribuição do Advertising Cloud: O número de dias após uma impressão de anúncio em que a impressão pode ser atribuída a uma conversão. Por padrão, esse valor é de 14 dias; o máximo é 30 dias
+* Janela de pesquisa de clique de atribuição de anúncio do Adobe: O número de dias após o primeiro clique em que o clique pode ser atribuído a uma conversão. Por padrão, esse valor é de 60 dias; o máximo é 90 dias
+* Janela de retrospectiva de impressão de atribuição de Adobe Advertising: O número de dias após uma impressão de anúncio em que a impressão pode ser atribuída a uma conversão. Por padrão, esse valor é de 14 dias; o máximo é 30 dias
 
    >[!NOTE]
    >
-   > A janela de retrospectiva de impressão é específica do Advertising Cloud, não [!DNL Analytics for Advertising Cloud], relatórios.
+   > A janela de retrospectiva de impressão é específica do Adobe Advertising, não [!DNL Analytics for Advertising], relatórios.
 
-O [!DNL Analytics for Advertising Cloud] O JavaScript usa essas configurações para determinar até que ponto uma entrada view-through ou uma entrada click-through para o site é válida. Para obter mais informações sobre como os view-throughs e click-throughs são determinados, consulte &quot;[Advertising Cloud IDs usadas pelo Analytics](ids.md).&quot;
+O [!DNL Analytics for Advertising] O JavaScript usa essas configurações para determinar até que ponto uma entrada view-through ou uma entrada click-through para o site é válida. Para obter mais informações sobre como os view-throughs e click-throughs são determinados, consulte &quot;[IDs de publicidade do Adobe usadas pelo Analytics](ids.md).&quot;
 
-## Dados do Advertising Cloud em [!DNL Analytics]
+## Dados de publicidade do Adobe em [!DNL Analytics]
 
-[!DNL Analytics] O define Advertising Cloud IDs (AMO IDs) na ocorrência do Analytics, sujeitas à configuração de persistência de eVar do anunciante, que se aplica a click-throughs e view-throughs. A configuração de persistência é configurada no back-end do Advertising Cloud e sua [!DNL Adobe] a equipe de conta pode alterá-la.
+[!DNL Analytics] define IDs de publicidade do Adobe (AMO IDs) na ocorrência do Analytics, sujeitas à configuração de persistência de eVar do anunciante, que se aplica a click-throughs e view-throughs. A configuração de persistência é configurada no back-end do Adobe Advertising e sua [!DNL Adobe] a equipe de conta pode alterá-la.
 
-* [!DNL Analytics for Advertising Cloud] Expiração do eVar: 60 dias por padrão para IDs do AMO
+* [!DNL Analytics for Advertising] Expiração do eVar: 60 dias por padrão para IDs do AMO
 
 >[!NOTE]
 >
@@ -81,17 +81,17 @@ Entre em contato com seu [!DNL Adobe] equipe da conta para obter os ambientes de
 
 ## O que você deve saber antes da implementação
 
-* A equipe de implementação do Advertising Cloud definirá a integração.
+* A equipe de implementação Adobe Advertising irá configurar a integração.
 
-* Nenhum custo adicional é cobrado por essa integração, nem chamadas de servidor resultam em outros [!DNL Analytics] ou taxas Advertising Cloud.
+* Nenhum custo adicional é cobrado por essa integração, nem chamadas de servidor resultam em outros [!DNL Analytics] ou Adobe Advertising.
 
-* [!DNL Analytics for Advertising Cloud] é independente do servidor de anúncios: um view-through ou click-through pode ocorrer de qualquer servidor de publicidade e as IDs adequadas são geradas na entrada do site.
+* [!DNL Analytics for Advertising] é independente do servidor de anúncios: um view-through ou click-through pode ocorrer de qualquer servidor de publicidade e as IDs adequadas são geradas na entrada do site.
 
-* A integração passa somente [!DNL Analytics] eventos padrão e personalizados para a Advertising Cloud para otimização de lances de mídia paga e esforços de publicidade subsequentes. Não passa [!DNL Analytics] segmentos, métricas calculadas e eVars para o Advertising Cloud para otimização de lances.
+* A integração passa somente [!DNL Analytics] eventos padrão e personalizados para Adobe Advertising para otimização de lances de mídia paga e esforços de publicidade subsequentes. Não passa [!DNL Analytics] segmentos, métricas calculadas e eVars para Adobe Advertising para otimização de lances.
 
-* O Advertising Cloud cria IDs persistentes no [!DNL Analytics] com base no último anúncio clicado ou visualizado antes do usuário entrar no site, com base no [janelas de pesquisa de cliques e view-through](#lookback-a4adc) configurado no Advertising Cloud. Se um visitante do site tiver ambos os tipos de interações de entrada do site em seu perfil e o clique estiver dentro do período de pesquisa, a ID de click-through do visitante substituirá a ID de view-through do relatório do site.
+* A publicidade Adobe cria IDs persistentes no [!DNL Analytics] com base no último anúncio clicado ou visualizado antes do usuário entrar no site, com base no [janelas de pesquisa de cliques e view-through](#lookback-a4adc) configurado em Adobe Advertising. Se um visitante do site tiver ambos os tipos de interações de entrada do site em seu perfil e o clique estiver dentro do período de pesquisa, a ID de click-through do visitante substituirá a ID de view-through do relatório do site.
 
-* [!DNL Analytics for Advertising Cloud] o rastreamento de conversão no Adobe Analytics usa uma janela de lookback de rastreamento configurável (60 dias por padrão). Os relatórios do Advertising Cloud refletem as conversões e o envolvimento do site até o final dessa janela de lookback de rastreamento.
+* [!DNL Analytics for Advertising] o rastreamento de conversão no Adobe Analytics usa uma janela de lookback de rastreamento configurável (60 dias por padrão). Os relatórios de Adobe Advertising refletem conversões de site e envolvimento ao final desta janela de lookback de rastreamento.
 
 * Todos os tipos de anúncios são suportados. No entanto, nem todos os ambientes de publicidade são compatíveis.
 
@@ -99,19 +99,19 @@ Entre em contato com seu [!DNL Adobe] equipe da conta para obter os ambientes de
 
 * [!DNL Analytics] no momento, as conversões são rastreadas e atribuídas somente a um visitante no mesmo dispositivo.
 
-* [!DNL Analytics for Advertising Cloud] não suporta conversões de view-through no aplicativo.
+* [!DNL Analytics for Advertising] não suporta conversões de view-through no aplicativo.
 
 * O rastreamento de view-through não é compatível com anunciantes que usam uma implementação de encaminhamento pelo lado do servidor de [!DNL Analytics].
 
 ### ID suplementar
 
-Depois que o serviço de identidade do Experience Cloud é implementado para um site, as ocorrências que contêm dados de [!DNL Analytics] ou Advertising Cloud contém uma ID complementar.
+Depois que o serviço de identidade do Experience Cloud é implementado para um site, as ocorrências que contêm dados de [!DNL Analytics] ou Adobe Advertising contém uma ID complementar.
 
 Exemplo: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
-Para obter uma integração precisa de dados, todas as chamadas do Advertising Cloud usadas por um [!DNL Analytics for Advertising Cloud] atividade para fornecer conteúdo ou registrar a métrica de meta deve ter uma [!DNL Analytics] ocorrência que compartilha a mesma ID complementar.
+Para obter uma integração precisa de dados, todas as chamadas de Adobe Advertising usadas por um [!DNL Analytics for Advertising] atividade para fornecer conteúdo ou registrar a métrica de meta deve ter uma [!DNL Analytics] ocorrência que compartilha a mesma ID complementar.
 
-Quando você estiver solucionando problemas no [!DNL Analytics]confirme se a ID adicional está presente para [!DNL Analytics] ocorrências. No [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), você pode ver essa ID na guia Advertising Cloud como a `sdid` parâmetro.
+Quando você estiver solucionando problemas no [!DNL Analytics]confirme se a ID adicional está presente para [!DNL Analytics] ocorrências. No [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), você pode ver essa ID na guia Adobe Advertising como a variável `sdid` parâmetro.
 
 >[!NOTE]
 >
@@ -119,6 +119,6 @@ Quando você estiver solucionando problemas no [!DNL Analytics]confirme se a ID 
 
 >[!MORELIKETHIS]
 >
->* [Visão geral da [!DNL Analytics for Advertising Cloud]](overview.md)
->* [Código JavaScript do Analytics para Advertising Cloud](/help/integrations/analytics/javascript.md)
+>* [Visão geral da [!DNL Analytics for Advertising]](overview.md)
+>* [Código JavaScript para Analytics para publicidade](/help/integrations/analytics/javascript.md)
 

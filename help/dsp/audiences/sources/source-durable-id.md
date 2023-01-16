@@ -1,10 +1,11 @@
 ---
-title: 'Ativar segmentos autenticados de parceiros de ID duráveis '
+title: Ativar segmentos autenticados de parceiros de ID duráveis
 description: Saiba mais sobre como ativar públicos autenticados por meio de uma solução de ID durável.
 feature: DSP Audiences
-source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
+exl-id: 44635b74-1874-4781-bd1a-a4dadae049e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Recurso beta*
 
-Para ativar públicos autenticados por meio de uma solução de ID duradoura no Advertising Cloud DSP, os segmentos devem ser traduzidos em [!DNL RampIDs], que são reconhecíveis em um ambiente de oferta. Você pode conseguir isso ao:
+Para ativar públicos autenticados por meio de uma solução de ID duradoura no Advertising DSP, os segmentos devem ser traduzidos em [!DNL RampIDs], que são reconhecíveis em um ambiente de oferta. Você pode conseguir isso ao:
 
 * Como aproveitar a integração do DSP com o [!DNL Adobe Real-Time Customer Data Profile (CDP)] e [!DNL Adobe-LiveRamp Retrieval API].
 
@@ -49,7 +50,7 @@ Para ativar públicos autenticados por meio de uma solução de ID duradoura no 
 
    * Direcione os segmentos compartilhados a partir de [!DNL LiveRamp] usando o processo de ativação de segmento padrão.
 
-   * Trabalhe com a equipe de suporte da Advertising Cloud para validar a distribuição de dados adequada.
+   * Trabalhe com a equipe de suporte da Adobe Advertising para validar a distribuição de dados adequada.
 
 Para saber mais sobre a integração do DSP com o [!DNL LiveRamp], contato `adcloud-support@adobe.com`.
 
@@ -58,6 +59,6 @@ Para saber mais sobre a integração do DSP com o [!DNL LiveRamp], contato `adcl
 >* [Sobre a ativação de segmentos autenticados de fontes de público-alvo](source-about.md)
 >* [Criar uma fonte de público-alvo para ativar públicos-alvo primários](source-create.md)
 >* [Configurações de origem do público-alvo](source-settings.md)
->* [Conexão Adobe Advertising Cloud DSP](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Conexão Adobe Advertising DSP](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Sobre o Gerenciamento de público-alvo](/help/dsp/audiences/audience-about.md)
 

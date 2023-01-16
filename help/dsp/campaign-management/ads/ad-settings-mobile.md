@@ -3,9 +3,9 @@ title: Configurações de anúncio móvel
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios móveis.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Ad Options]
 
-### [!UICONTROL Basic]: Anúncios de exibição do Mobile
+### [!UICONTROL Basic]: Anúncios de exibição em dispositivos móveis
 
 **[!UICONTROL Ad Type]:** (Somente leitura) O tipo de anúncio que você está criando, que corresponde ao tipo de posicionamento ao qual o anúncio pode ser anexado.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 **[!UICONTROL Display Code]:** O URL do ativo criativo de terceiros. Qualquer [timestamp] e [[timestamp]] parâmetros serão substituídos por valores reais.
 
-**[!UICONTROL Final Display Code]:** O URL do ativo criativo de terceiros, com o [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
+**[!UICONTROL Final Display Code]:** O URL do ativo criativo de terceiros, com o [Macros de rastreamento de DSP de publicidade](/help/dsp/campaign-management/macros.md) , se aplicável.
 
 ### [!UICONTROL Basic]: Anúncios de vídeo
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Anúncios que usam somente tags VAST; somente leitura) A tag VAST de terceiros inserida como ativo criativo.
 
-**[!UICONTROL Final VAST Tag]:** (Anúncios que usam somente tags VAST; somente leitura) A tag VAST de terceiros inserida como o ativo criativo com o necessário [Macros de rastreamento do Advertising Cloud DSP](/help/dsp/campaign-management/macros.md) , se aplicável.
+**[!UICONTROL Final VAST Tag]:** (Anúncios que usam somente tags VAST; somente leitura) A tag VAST de terceiros inserida como o ativo criativo com o necessário [Macros de rastreamento de DSP de publicidade](/help/dsp/campaign-management/macros.md) , se aplicável.
 
 **[!UICONTROL Wmode]:** (Alguns tipos de anúncios) O modo da janela: *[!UICONTROL window]*, *[!UICONTROL transparent]* ou *[!UICONTROL opaque]*.
 
@@ -106,5 +106,5 @@ Obsoleto
 >* [Criar um único anúncio](ad-create.md)
 >* [Listar as disposições associadas a um anúncio](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Especificações do anúncio](ad-specs.md)
->* [Macros Advertising Cloud DSP](/help/dsp/campaign-management/macros.md)
+>* [Macros DSP](/help/dsp/campaign-management/macros.md)
 

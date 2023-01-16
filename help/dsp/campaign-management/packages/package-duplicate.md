@@ -3,7 +3,7 @@ title: Duplicar um pacote
 description: Saiba como duplicar um pacote.
 feature: DSP Packages
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -22,18 +22,27 @@ Duplique um pacote para criar um pacote com configurações semelhantes. É poss
 Consulte &quot;[O que não é duplicado](#package-not-duplicated)&quot; para obter uma lista de configurações de posicionamento que não estão duplicadas.
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
+
 1. Clique no nome da campanha para abrir o [!UICONTROL Packages] exibir.
+
 1. Ao lado do nome do pacote, clique em  **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
+
 1. Especifique as novas configurações de pacote:
+
    1. Insira o novo nome do pacote.
+
    1. (Opcional) Altere as configurações padrão.
 
       Por padrão:
 
       * O novo pacote é atribuído ao anunciante e à campanha originais.
+
       * O novo pacote torna-se ativo no dia atual.<!-- and the flight continues for NN  days. -->
+
       * As disposições contidas na embalagem original são copiadas para a nova embalagem.
+
       * Os anúncios e os pixels de evento de nível de posicionamento não são copiados para o novo pacote.
+
 1. Clique em **[!UICONTROL Submit]**.
 
 ## O que não é duplicado {#package-not-duplicated}

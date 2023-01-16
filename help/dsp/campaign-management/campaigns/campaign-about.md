@@ -1,16 +1,16 @@
 ---
-title: Sobre o gerenciamento de campanhas no Advertising Cloud DSP
+title: Sobre o Campaign Management em DSP de publicidade
 description: Saiba mais sobre gestão de campanha.
 feature: DSP Campaigns
 exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Sobre o gerenciamento de campanhas no Advertising Cloud DSP
+# Sobre o Campaign Management em DSP de publicidade
 
 As campanhas são a estrutura abrangente das configurações de voo. Todas as configurações de nível de campanha se aplicam automaticamente a cada pacote e disposição dentro da campanha. Cada campanha está associada a um anunciante específico.
 

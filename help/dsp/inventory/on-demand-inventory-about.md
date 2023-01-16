@@ -3,9 +3,9 @@ title: Sobre [!DNL On Demand] Inventário Premium
 description: Saiba mais sobre as ofertas pré-negociadas DSP parceiros de editores premium.
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,24 @@ ht-degree: 0%
 
 *Não disponível para usuários com os tipos de conta [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension]e [!UICONTROL Other]; anunciantes com a categoria [!UICONTROL Other]; e revendedores*
 
-O [!DNL On Demand] A Gallery é uma ferramenta de descoberta de inventário premium para explorar ofertas pré-negociadas que a Advertising Cloud DSP tem preparado com parceiros de editores premium. Ele permite acessar o inventário não garantido dos editores de nível superior na região, sem a necessidade de negociações ou contratos do 1:1. Você pode solicitar ofertas individuais e assinar um editor para solicitar todas as ofertas do editor ao mesmo tempo.
+O [!DNL On Demand] A Gallery é uma ferramenta de descoberta de inventário premium para explorar ofertas pré-negociadas que DSP trabalhou com parceiros de editores premium. Ele permite acessar o inventário não garantido dos editores de nível superior na região, sem a necessidade de negociações ou contratos do 1:1. Você pode solicitar ofertas individuais e assinar um editor para solicitar todas as ofertas do editor ao mesmo tempo.
 
-O Advertising Cloud DSP premium marketplace permite:
+O DSP premium marketplace permite:
 
 * Ative o novo inventário de forma rápida e fácil para melhorar a escala e a eficiência
 
    Estudos mostraram que a ativação de ofertas de mercados privados no mercado [!DNL DSP] as plataformas economizam tempo e são mais eficientes.
 
 * Explorar novos editores e formatos
+
 * Descubra novos públicos-alvo e estratégias
+
 * Estender alcance único
+
 * Acessar automaticamente editores não disponíveis no mercado aberto
+
 * Acesse automaticamente eventos ao vivo (como eventos NBA, GNT e NHL)
+
 * Rastrear o desempenho com os relatórios consolidados
 
 Depois que uma oferta é aprovada, ela fica disponível como target para disposições existentes e é incluída automaticamente como target para novas disposições que direcionam tudo [!DNL On Demand] inventário. Se uma solicitação de negócio for negada, você poderá trabalhar com seu [!DNL Adobe] para resolver o problema e solicitar novamente o negócio.

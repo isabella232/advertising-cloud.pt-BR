@@ -3,24 +3,24 @@ title: Criar uma meta personalizada
 description: Criar uma meta personalizada
 feature: DSP Optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 8aea9eb1358e23a5b25e0353ced80c1550fa0057
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Criar uma meta personalizada
 
-Você pode criar metas personalizadas como *objetivos* no Advertising Cloud Search.
+Você pode criar metas personalizadas como *objetivos* within [!DNL Adobe Advertising Search].
 
-Para criar uma meta personalizada, a conta do Advertising Cloud DSP deve ser vinculada a um [!DNL Search] conta com a mesma ID da organização da Adobe Experience Cloud, no [!DNL Search] configurações do cliente. Se a conta DSP não estiver vinculada a um [!DNL Search] entre em contato com sua [!DNL Adobe] equipe da conta.
+Para criar uma meta personalizada, a conta do DSP deve estar vinculada a uma [!DNL Search] conta com a mesma ID da organização da Adobe Experience Cloud, no [!DNL Search] configurações do cliente. Se a conta DSP não estiver vinculada a um [!DNL Search] entre em contato com sua [!DNL Adobe] equipe da conta.
 
 >[!TIP]
 >
 >Consulte a [práticas recomendadas para a criação de metas personalizadas](custom-goal-best-practices.md) para obter dicas sobre como configurar suas metas personalizadas.
 
-1. Faça logon na Advertising Cloud Search em (empresas dos EUA) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) ou (empresas de todos os outros países) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Faça logon [!DNL Adobe Advertising Search] at (empresas dos EUA) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) ou (empresas de todos os outros países) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Certifique-se de que as métricas que deseja incluir na sua meta foram rastreadas, estão disponíveis no produto e incluem um nome de exibição:
    1. No menu principal, clique em **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
    1. Localize a métrica e verifique se **[!UICONTROL Show in UI and Reports]** está ativada para a métrica.
@@ -31,7 +31,7 @@ Para criar uma meta personalizada, a conta do Advertising Cloud DSP deve ser vin
    1. Insira as configurações do objetivo:
       1. No **[!UICONTROL Change Objective Name]** , insira o nome do objetivo.
 
-         O nome do objetivo será mostrado na variável [!UICONTROL Custom Goals] nas configurações do pacote Advertising Cloud DSP.
+         O nome do objetivo será mostrado na variável [!UICONTROL Custom Goals] nas configurações do pacote de DSP.
 
       1. Associe propriedades ao objetivo:
 
@@ -65,7 +65,7 @@ Para criar uma meta personalizada, a conta do Advertising Cloud DSP deve ser vin
       1. Na parte inferior das configurações, clique em **[!UICONTROL Save]**.
 
 
-Depois de criar um objetivo, você pode atribuí-lo a um pacote Advertising Cloud DSP como uma meta personalizada quando a meta de otimização for &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; ou &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+Depois de criar um objetivo, você pode atribuí-lo a um pacote de DSP como uma meta personalizada quando a meta de otimização for &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; ou &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
 
 >[!TIP]
 >

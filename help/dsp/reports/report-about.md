@@ -3,7 +3,7 @@ title: Sobre Relatórios Personalizados
 description: Saiba mais sobre as opções para criar relatórios personalizados manualmente ou usando modelos de relatório pré-configurados.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Você pode gerar relatórios uma vez ou agendá-los para serem gerados diariamen
       >
       >Este relatório inclui dados sobre o segmento de faturamento. Se um usuário ou dispositivo receber uma impressão que pertence a vários segmentos, somente um segmento faturável será creditado com a impressão.
 
-   * **[!UICONTROL Conversion]:** Use este relatório para entender o desempenho de suas campanhas com base nas métricas de conversão capturadas pelo rastreamento de conversão do Advertising Cloud. Este relatório inclui atribuição de multitoque.
+   * **[!UICONTROL Conversion]:** Use este relatório para entender o desempenho de suas campanhas com base nas métricas de conversão capturadas por meio do rastreamento de conversão do Adobe Advertising. Este relatório inclui atribuição de multitoque.
 
    * **[!UICONTROL Device]:** Use esse modelo preenchido previamente para ver as métricas principais por dimensões relacionadas ao dispositivo.
 
