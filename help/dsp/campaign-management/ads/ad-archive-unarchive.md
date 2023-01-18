@@ -2,8 +2,7 @@
 title: Arquivar ou desarquivar um anúncio
 description: Saiba como arquivar ou desarquivar um anúncio.
 feature: DSP Ads
-exl-id: f3dfc92c-e99b-4a72-9a91-65ae0d5f2419
-source-git-commit: b538a4a8792122f5640ae38279a3f243abade7a1
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

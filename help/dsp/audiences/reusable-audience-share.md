@@ -2,7 +2,7 @@
 title: Compartilhar um público-alvo reutilizável
 description: Saiba como compartilhar um público-alvo reutilizável com outros anunciantes disponíveis na sua conta.
 feature: DSP Audiences
-source-git-commit: b0166338edca9f8928aa72241c815f0149e78689
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

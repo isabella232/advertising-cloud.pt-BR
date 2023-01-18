@@ -1,9 +1,9 @@
 ---
 title: Convidar um novo usuário para sua conta da organização
 description: Saiba como convidar um novo usuário para entrar na conta.
-source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Se necessário, é possível desconvidar um usuário com um convite pendente.
 
 >[!MORELIKETHIS]
 >
->* [Reenviar um Convite de Usuário Pendente para Sua Conta da Organização](user-resend-invite.md)
+>* [Reenviar um Convite de Usuário Pendente](user-resend-invite.md)
 >* [Desconvidar um usuário pendente](user-uninvite.md)
 
 

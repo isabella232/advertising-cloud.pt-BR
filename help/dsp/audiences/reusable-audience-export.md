@@ -2,7 +2,7 @@
 title: Exportar detalhes sobre um público-alvo reutilizável
 description: Saiba como visualizar a configuração, o tamanho do público-alvo e as disposições direcionadas para um público-alvo reutilizável.
 feature: DSP Audiences
-source-git-commit: 0a437213957f914643b4eff63aba65cf582824c6
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

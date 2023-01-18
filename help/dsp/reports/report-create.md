@@ -2,8 +2,7 @@
 title: Criar um relatório personalizado
 description: Saiba como criar um relatório personalizado.
 feature: DSP Custom Reports
-exl-id: 07ab797f-4c9e-4241-a9a5-fd7d006b5e5a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 4%
@@ -14,7 +13,7 @@ ht-degree: 4%
 
 1. No menu principal, clique em **[!UICONTROL Reports]**.
 1. Clique em **[!UICONTROL New Custom Report]**.
-1. Especifique as [configurações do relatório](/help/dsp/reports/report-settings.md).
+1. Especifique a [configurações do relatório](/help/dsp/reports/report-settings.md).
 1. Clique em **[!UICONTROL Create Custom Report]**.
 
 >[!MORELIKETHIS]

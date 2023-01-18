@@ -1,16 +1,15 @@
 ---
-title: Perguntas frequentes sobre o gerenciamento de campanhas
+title: Perguntas frequentes sobre o Campaign Management
 description: Saiba mais sobre o gerenciamento de campanhas, incluindo o período de latência para alterações e o que acontece quando você faz alterações no orçamento durante um voo.
 feature: DSP Packages, DSP Placements
-exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Perguntas frequentes sobre o gerenciamento de campanhas
+# Perguntas frequentes sobre o Campaign Management
 
 <!-- Most of this information should be moved into the relevant topics (especially editing topics). -->
 
@@ -40,7 +39,7 @@ ht-degree: 0%
 
 * Como o ritmo do pacote muda no último dia de um voo?
 
-   No último dia de um voo, o dia é reduzido de 24 horas para 23 horas para que o orçamento do pacote não seja excedido. Além disso, a estratégia de preenchimento de ritmo do pacote muda automaticamente para &quot;[!UICONTROL Frontload]&quot;, mesmo que esteja definida como &quot;[!UICONTROL even]&quot;. Isso significa que 65% do orçamento diário deve ser entregue até às 11h30 EST.
+   No último dia de um voo, o dia é reduzido de 24 horas para 23 horas para que o orçamento do pacote não seja excedido. Além disso, a estratégia de preenchimento de ritmo do pacote muda automaticamente para &quot;[!UICONTROL Frontload],&quot; mesmo que esteja definido como &quot;[!UICONTROL even].&quot; Isso significa que 65% do orçamento diário deve ser entregue até às 11h30 EST.
 
 >[!MORELIKETHIS]
 >

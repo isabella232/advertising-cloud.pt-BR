@@ -2,7 +2,7 @@
 title: Excluir um público-alvo reutilizável
 description: Saiba como excluir um público-alvo reutilizável.
 feature: DSP Audiences
-source-git-commit: f6d3584a4ccfc547bb4fec8c73d491b58d94d279
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%

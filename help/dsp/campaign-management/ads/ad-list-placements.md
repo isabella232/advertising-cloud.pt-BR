@@ -2,8 +2,7 @@
 title: Listar as disposições associadas a um anúncio
 description: Saiba como visualizar as disposições associadas a um anúncio.
 feature: DSP Ads
-exl-id: 82c4f1b4-56fd-411f-a027-3f93ffb3867b
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -17,7 +16,7 @@ Exiba uma lista de disposições associadas a um anúncio para ver os dados de d
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
 1. Clique no nome da campanha.
 1. No submenu, clique em **[!UICONTROL Ads]**.
-1. Ao lado do nome da publicidade, clique em **.. >[!UICONTROL See placements]**.
+1. Ao lado do nome da publicidade, clique em  **... >[!UICONTROL See placements]**.
 
 >[!MORELIKETHIS]
 >

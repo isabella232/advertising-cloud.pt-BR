@@ -2,8 +2,7 @@
 title: Suporte de publicidade Adobe para o Regulamento Geral sobre a Proteção de Dados
 description: Saiba mais sobre os tipos de solicitação de dados suportados, a configuração necessária e os valores de campo, e exemplos de solicitações de acesso à API usando IDs de produto herdadas e campos de dados retornados
 feature: GDPR
-exl-id: 304d88d0-d63d-4b32-8d4d-c61ba2409adc
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1034'
 ht-degree: 0%

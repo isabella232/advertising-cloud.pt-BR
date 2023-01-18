@@ -1,9 +1,8 @@
 ---
-title: '''[!UICONTROL Simple Ad Serving] Configurações do contrato'''
+title: '[!UICONTROL Simple Ad Serving] Configurações do contrato'
 description: Saiba mais sobre as configurações disponíveis para [!UICONTROL Simple Ad Serving] ofertas.
 feature: DSP Simple Ad Serving
-exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
-source-git-commit: 17a73b5177b3dd79a32cd0b03bfa28d8ac8bf996
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%

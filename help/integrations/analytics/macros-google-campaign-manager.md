@@ -2,8 +2,7 @@
 title: Anexar [!DNL Analytics for Advertising] Macros para [!DNL Google Campaign Manager 360] Tags de anúncio
 description: Saiba por que e como adicionar [!DNL Analytics for Advertising] macros para seu [!DNL Google Campaign Manager 360] tags de publicidade
 feature: Integration with Adobe Analytics
-exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: 7c467f7a6eb2522fb998539ba01ceef8c89c3853
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

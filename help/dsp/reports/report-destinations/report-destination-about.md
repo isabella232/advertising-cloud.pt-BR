@@ -2,13 +2,12 @@
 title: Sobre [!UICONTROL Report Destinations]
 description: Saiba mais sobre como gerenciar locais de entrega para seus relatórios personalizados.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Sobre [!UICONTROL Report Destinations]
 
@@ -43,3 +42,4 @@ O [!UICONTROL Report Destinations] mostra todos os destinos existentes e o núme
 >* [[!UICONTROL Report Destination] Configurações](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Edite um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
 >* [Excluir um [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+

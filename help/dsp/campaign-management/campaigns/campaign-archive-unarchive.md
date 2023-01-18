@@ -2,10 +2,9 @@
 title: Arquivar ou desarquivar uma campanha
 description: Saiba como arquivar ou desarquivar uma campanha.
 feature: DSP Campaigns
-exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
-source-git-commit: 9c92b882fb35874bf7dc8747b121ea3650f8a82d
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -19,17 +18,17 @@ Você pode desarquivar uma campanha para restaurar seu status anterior a qualque
 ## Arquivar uma campanha
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
-1. Ao lado do nome da campanha, clique em **... >[!UICONTROL Archive]**.
+1. Ao lado do nome da campanha, clique em  **... >[!UICONTROL Archive]**.
 1. Na mensagem de confirmação, clique em **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Para visualizar campanhas arquivadas, filtre a visualização [!UICONTROL Campaigns]: clique em ![Botão Filtrar](/help/dsp/assets/filter.png), clique em **[!UICONTROL Campaign status]** e selecione **[!UICONTROL Archived]** e clique em **[!UICONTROL Apply].**
+>Para visualizar campanhas arquivadas, filtre as [!UICONTROL Campaigns] exibir: click ![Botão Filtrar](/help/dsp/assets/filter.png), clique em **[!UICONTROL Campaign status]** e selecione **[!UICONTROL Archived]** e, em seguida, clique em **[!UICONTROL Apply].**
 
 ## Desarquivar uma campanha
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
-1. Ao lado do nome da campanha, clique em **... >[!UICONTROL Unarchive]**.
+1. Ao lado do nome da campanha, clique em  **... >[!UICONTROL Unarchive]**.
 1. Na mensagem de confirmação, clique em **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

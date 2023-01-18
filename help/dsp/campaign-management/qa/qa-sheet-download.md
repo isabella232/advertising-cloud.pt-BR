@@ -2,8 +2,7 @@
 title: Baixar configurações de posicionamento para uma campanha
 description: Saiba como baixar as configurações de posicionamento de uma campanha usando planilhas de QA do Excel.
 feature: DSP Placements
-exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +13,7 @@ ht-degree: 0%
 
 Você pode baixar as configurações de posicionamento de uma campanha no formato XLSX (Excel planilha).
 
-Se necessário, você poderá editar [selecionar campos](qa-sheet-columns.md) no arquivo baixado e [fazer upload das alterações](qa-sheet-upload.md) para DSP.
+Se necessário, é possível editar posteriormente [selecionar campos](qa-sheet-columns.md) no arquivo baixado e [fazer upload das alterações](qa-sheet-upload.md) para DSP.
 
 1. No menu principal, clique em **[!UICONTROL Campaigns]**.
 
@@ -30,8 +29,8 @@ Se necessário, você poderá editar [selecionar campos](qa-sheet-columns.md) no
 
    * Na mensagem de notificação, clique em **[!UICONTROL Download].**
 
-   * À direita da barra de menu superior, clique em ![Jobs](/help/dsp/assets/downloads.png). Clique em **[!UICONTROL Download]** ao lado da tarefa.
-   O arquivo é salvo na pasta Download do navegador. Consulte &quot;[Colunas em Planilhas baixadas/carregadas](qa-sheet-columns.md)&quot; para obter uma lista das colunas incluídas.
+   * À direita da barra de menu superior, clique em ![Tarefas](/help/dsp/assets/downloads.png). Clique em **[!UICONTROL Download]** ao lado do trabalho.
+   O arquivo é salvo na pasta Download do navegador. Consulte &quot;[Colunas em planilhas baixadas/carregadas](qa-sheet-columns.md)&quot; para obter uma lista das colunas incluídas.
 
 >[!MORELIKETHIS]
 >

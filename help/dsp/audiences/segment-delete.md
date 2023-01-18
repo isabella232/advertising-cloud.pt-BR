@@ -2,7 +2,7 @@
 title: Excluir um segmento
 description: Saiba como excluir um segmento de recusa de venda personalizado ou da CCPA.
 feature: DSP Segments
-source-git-commit: 06f42a23c84b2dd02b7c37a660a1d31bdd92ae5c
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%

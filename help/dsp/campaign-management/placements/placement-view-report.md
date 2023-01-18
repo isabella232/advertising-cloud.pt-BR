@@ -2,8 +2,7 @@
 title: Exibir um relatório detalhado de uma disposição
 description: Saiba como abrir um relatório de nível de posicionamento com seções em [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications]e [!UICONTROL Ads] dados.
 feature: DSP Placements, DSP Campaign Data Views
-exl-id: 90cd8030-73a6-4224-9a04-dcee91ce7d78
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
