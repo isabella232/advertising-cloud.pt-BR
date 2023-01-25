@@ -8,9 +8,9 @@ user-guide-title: Guia de DSP de publicidade
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
+source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '930'
 ht-degree: 5%
 
 ---
@@ -36,10 +36,10 @@ ht-degree: 5%
    + [Financiamento da Conta](/help/dsp/introduction/billing/account-funding.md)
    + [Moedas suportadas](/help/dsp/currency.md)
    + Suporte para a privacidade do consumidor {#privacy}
-      + [Suporte ao Regulamento Geral sobre a Proteção de Dados](/help/privacy/gdpr.md)
+      + [Suporte ao Regulamento Geral sobre a Proteção de Dados](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
       + Suporte para CCPA {#ccpa}
-         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](/help/privacy/ccpa/ccpa-access-delete.md)
-         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
+         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
    + Políticas e diretrizes {#policies}
       + [Política de requisitos de anúncios](/help/policies/ad-requirements-policy.md)
       + [Diretrizes aceitáveis do segmento de integridade](/help/policies/health-segment-guidelines.md)
