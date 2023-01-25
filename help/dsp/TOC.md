@@ -8,9 +8,9 @@ user-guide-title: Guia de DSP de publicidade
 user-guide-description: Saiba mais sobre as principais funcionalidades, tarefas, configurações e outros recursos necessários para gerenciar, otimizar e relatar suas estratégias de anúncio de exibição usando a Advertising DSP.
 breadcrumb-title: Manual de DSP
 index: true
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '910'
 ht-degree: 5%
 
 ---
@@ -36,14 +36,14 @@ ht-degree: 5%
    + [Financiamento da Conta](/help/dsp/introduction/billing/account-funding.md)
    + [Moedas suportadas](/help/dsp/currency.md)
    + Suporte para a privacidade do consumidor {#privacy}
-      + [Suporte ao Regulamento Geral sobre a Proteção de Dados](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
+      + [Suporte ao Regulamento Geral sobre a Proteção de Dados](/help/privacy/advertising-gdpr.md)
       + Suporte para CCPA {#ccpa}
-         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
+         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Acesso e exclusão de dados do consumidor](/help/privacy/ccpa-access-delete.md)
+         + [Suporte para a Lei de Privacidade do Consumidor da Califórnia: Cancelamento de venda do consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
    + Políticas e diretrizes {#policies}
-      + [Política de requisitos de anúncios](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
-      + [Diretrizes aceitáveis do segmento de integridade](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
-      + [[!DNL DSP] Diretrizes de uso de dados](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
+      + [Política de requisitos de anúncios](/help/policies/ad-requirements-policy.md)
+      + [Diretrizes aceitáveis do segmento de integridade](/help/policies/health-segment-guidelines.md)
+      + [[!DNL DSP] Diretrizes de uso de dados](/help/policies/data-usage-guidelines.md)
    + [Soluções avançadas de medição](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Visão geral da estrutura do Campaign Management](/help/dsp/campaign-management/campaign-management-overview.md)
