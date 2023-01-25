@@ -2,9 +2,10 @@
 title: Criar manualmente detalhes da ID do contrato
 description: Saiba como inserir detalhes manualmente para uma ID de contrato.
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
+source-git-commit: 3f80cdd81b1ba28519d3075922f57a1155e55dbd
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 1. Insira o [configurações de negócios](deal-id-settings.md):
 
-   1. No [!UICONTROL Deal ID basics] especifique os detalhes do negócio e os anunciantes que podem acessá-lo. Para ofertas garantidas, você também deve especificar as datas de voo planejadas e o número estimado de impressões, somente para fins de rastreamento.
+   1. No [!UICONTROL Deal ID basics] especifique os detalhes do negócio e os anunciantes que podem acessá-lo. Para ofertas garantidas, você também deve especificar as datas de voo planejadas e o número estimado de impressões, somente para fins de rastreamento. Rastreie o ritmo de negócios garantido com a métrica de Pacote de impressão PG na página de Contratos.
 
    1. (Somente usuários administradores; opcional) na [!UICONTROL Technical] edite as configurações padrão conforme necessário.
 
