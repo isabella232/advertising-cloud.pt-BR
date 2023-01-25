@@ -2,7 +2,8 @@
 title: Sobre o Gerenciamento de público-alvo em DSP de publicidade
 description: Saiba mais sobre os recursos de gerenciamento de público-alvo.
 feature: DSP Audiences, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
@@ -19,7 +20,7 @@ No DSP, é possível criar e gerenciar segmentos de público-alvo e conjuntos de
 
    * [Segmentos de cancelamento de venda do CCPA](/help/dsp/audiences/ccpa-opt-out-segment-create.md) para rastrear as IDs de usuários das solicitações de cancelamento da venda do consumidor no seu site, de acordo com a California Consumer Privacy Act (CCPA). É possível recuperar relatórios mensais das IDs de usuário a partir de solicitações de recusa de venda.
 
-      Para obter mais informações sobre o suporte de publicidade Adobe para solicitações de cancelamento de venda do CCPA, consulte [Suporte de publicidade Adobe para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](/help/privacy/ccpa-opt-out-of-sale.md).
+      Para obter mais informações sobre o suporte de publicidade Adobe para solicitações de cancelamento de venda do CCPA, consulte [Suporte de publicidade Adobe para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
 * Você pode criar uma biblioteca de público-alvo de [públicos-alvo reutilizáveis](/help/dsp/audiences/reusable-audience-create.md). Os públicos salvos são compostos de qualquer um dos segmentos de público-alvo disponíveis e de qualquer um dos outros públicos salvos. Todas as alterações feitas em um público-alvo salvo são aplicadas automaticamente a todas as disposições que direcionam ou excluem o público-alvo e a todos os outros públicos-alvo que incluem o público-alvo salvo.
 

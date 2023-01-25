@@ -2,7 +2,8 @@
 title: Recuperar relatórios de cancelamento da venda do consumidor
 description: Saiba como recuperar relatórios de IDs enviadas para solicitações de recusa de venda.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 94133ce3-4e2c-4a24-90c9-61bf10731668
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -23,7 +24,7 @@ Você pode recuperar relatórios mensais de IDs que os clientes enviaram para so
 
 >[!MORELIKETHIS]
 >
->* [Suporte de publicidade Adobe para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Suporte de publicidade Adobe para a Lei de Privacidade do Consumidor da Califórnia: Suporte ao cancelamento da adesão do consumidor](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Sobre [!UICONTROL CCPA Opt-out-of-Sale] Segmentos e relatórios](ccpa-opt-out-about.md)
 >* [Criar e implementar um [!UICONTROL CCPA Opt-Out-of-Sale] Segmento](ccpa-opt-out-segment-create.md)
 >* [Sobre o Gerenciamento de público-alvo](audience-about.md)
