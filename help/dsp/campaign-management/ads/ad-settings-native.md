@@ -2,9 +2,10 @@
 title: Configurações nativas de anúncio de exibição
 description: Consulte descrições das configurações de anúncios disponíveis para anúncios nativos.
 feature: DSP Ads
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
+source-git-commit: ca4be4d13d5ce818aeb66c011f3af8c8fd87c2e4
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -45,7 +46,7 @@ Todos os pixels de rastreamento de evento existentes para a disposição são an
 
 As configurações a seguir se aplicam a cada pixel criado ou editado.
 
-**[!UICONTROL Integration Event]:** O evento que aciona o pixel para ser disparado. Para este tipo de anúncio, use pixels que são acionados no *[!UICONTROL Impression]* ou *[!UICONTROL Click-through]*.
+**[!UICONTROL Integration Event]:** O evento que aciona o pixel para ser disparado. Para esse tipo de anúncio, a única opção é *[!UICONTROL Impression]*.
 
 **[!UICONTROL Pixel Type]:** Se o pixel é um *[!UICONTROL IMG URL]* (arquivo de imagem de pixel 1x1), *[!UICONTROL HTML]* ou *[!UICONTROL JavaScript URL]*.
 
